@@ -32,4 +32,16 @@ Route::get('trabalenguas', function () {
 Route::get('refranes', function () {
     return view('Español/pantallaRefranes');
 });
-
+Route::get('/pantallaPrincipalDeLaClaseDeEspañol', function () {
+    return view('pantallaPrincipalDeLaClaseDeEspañol');
+});
+Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
+    return view('pantallaPrincipalDeLaClaseDeCienciasSociales');
+});
+Route::get('/pantallaDeLaClaseDeEspañolChistes', function () {
+    return view('pantallaDeLaClaseDeEspañolChistes');
+});
+/*pantallas de ciencias sociales*/
+Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
+    return view('pantallaPrincipalDeLaClaseDeCienciasSociales');
+});
