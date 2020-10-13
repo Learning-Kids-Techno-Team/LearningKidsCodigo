@@ -1,9 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPrincipalDeCienciasNaturales.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasAnimales.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasCortas.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasFrutas.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasNumeros.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasTransportes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,15 +164,15 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/Ciencias Sociales" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/Español" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\laragon\www\LearningKidsCodigo\resources\views\Ciencias Sociales" />
-      <recent name="C:\laragon\www\LearningKidsCodigo\resources\views\Español" />
+      <recent name="C:\wamp64\www\LearningKidsCodigo\resources\views\Español" />
       <recent name="C:\laragon\www\LearningKids-TechnoTeam\resources\views\Español" />
       <recent name="C:\laragon\www\LearningKids-TechnoTeam\resources\views" />
     </key>
@@ -158,7 +183,10 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="" />
@@ -167,7 +195,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602562269907</updated>
       <workItem from="1602562271229" duration="691000" />
-      <workItem from="1602620040831" duration="300000" />
+      <workItem from="1602621195159" duration="2656000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -180,7 +208,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -206,6 +234,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1602562282575" />
+    <state x="474" y="303" key="NewPhpFileDialog" timestamp="1602623197381">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="474" y="303" key="NewPhpFileDialog/0.0.1280.760@0.0.1280.760" timestamp="1602623197381" />
     <state x="184" y="29" key="SettingsEditor" timestamp="1602562325681">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
