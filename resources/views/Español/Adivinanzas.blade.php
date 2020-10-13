@@ -147,7 +147,7 @@
         <div class="card"  style="width: 18rem;" >
             <img src="https://i.ibb.co/j8qn5bF/bhg.jpg" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
-                <h5 class="card-title" align="center">Adivinanzas de<br> animales</h5>
+                <h5 class="card-title" align="center">Adivinanzas de<br>animales</h5>
                 <a href="#" class="btn">Leer</a>
             </div>
         </div>
