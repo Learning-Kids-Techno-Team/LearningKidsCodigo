@@ -16,3 +16,20 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+/*pantalla principal de pagina web*/
+Route::get('pantallaPrincipal', function () {
+    return view('pantallaPrincipal');
+});
+
+/*pantallas de español*/
+
+
+Route::get('trabalenguas', function () {
+    return view('Español/pantallaTrabalenguas');
+});
+
+Route::get('refranes', function () {
+    return view('Español/pantallaRefranes');
+});
+
