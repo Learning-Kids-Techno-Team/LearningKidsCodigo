@@ -153,6 +153,7 @@
         </div>
     </div>
 
+
     <!-- tarjeta2 -->
     <div class="col-md-4">
         <div class="card" style="width: 18rem;">
