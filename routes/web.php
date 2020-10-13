@@ -24,7 +24,27 @@ Route::get('pantallaPrincipal', function () {
 
 /*pantallas de español*/
 
+//Adivinanzas - ESPAÑOL
+Route::get('/Adivinanzas', function () {
+    return view('Español/Adivinanzas');
+});
+Route::get('/adivinanzasAnimales', function () {
+    return view('Español/adivinanzasAnimales');
+});
+Route::get('/adivinanzasCortas', function () {
+    return view('Español/adivinanzasCortas');
+});
+Route::get('/adivinanzasFrutas', function () {
+    return view('Español/adivinanzasFrutas');
+});
+Route::get('/adivinanzasNumeros', function () {
+    return view('Español/adivinanzasNumeros');
+});
+Route::get('/adivinanzasTransportes', function () {
+    return view('Español/adivinanzasTransportes');
+});
 
+/*pantallas de español*/
 Route::get('trabalenguas', function () {
     return view('Español/pantallaTrabalenguas');
 });
@@ -32,16 +52,10 @@ Route::get('trabalenguas', function () {
 Route::get('refranes', function () {
     return view('Español/pantallaRefranes');
 });
-Route::get('/pantallaPrincipalDeLaClaseDeEspañol', function () {
-    return view('pantallaPrincipalDeLaClaseDeEspañol');
+
+//pantallaPrincipalCienciasNaturales
+Route::get('/pantallaPrincipalDeCienciasNaturales', function () {
+    return view('CienciasNaturales/pantallaPrincipalDeCienciasNaturales');
 });
-Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
-    return view('pantallaPrincipalDeLaClaseDeCienciasSociales');
-});
-Route::get('/pantallaDeLaClaseDeEspañolChistes', function () {
-    return view('pantallaDeLaClaseDeEspañolChistes');
-});
-/*pantallas de ciencias sociales*/
-Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
-    return view('pantallaPrincipalDeLaClaseDeCienciasSociales');
-});
+
+
