@@ -57,5 +57,7 @@ Route::get('refranes', function () {
 Route::get('/pantallaPrincipalDeCienciasNaturales', function () {
     return view('CienciasNaturales/pantallaPrincipalDeCienciasNaturales');
 });
-
+Route::get('/cuento',function (){
+    return view('Español/cuento');
+});
 
