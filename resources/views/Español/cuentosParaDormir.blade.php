@@ -71,7 +71,7 @@
                 <!-- href me lleva a la pantalla principal -->
                 <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkids.test/pantallaPrincipal">Inicio</a></li>
                 <li class="nav-item"><a class="nav-link" href="">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Matematicas</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/pantallaClaseMat">Matematicas</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Ciencias Naturales</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Ciencias Sociales</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
