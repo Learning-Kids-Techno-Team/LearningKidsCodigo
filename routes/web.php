@@ -90,7 +90,7 @@ Route::get('/pantallaClaseMat',function (){
     return view('Matematicas/pantallaClaseMat');
 });
 
-Route::get('figuras',function (){
+Route::get('figura',function (){
     return view('Matematicas/pantallaFigurasGeometricas');
 });
 

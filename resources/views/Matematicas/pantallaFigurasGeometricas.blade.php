@@ -167,7 +167,7 @@
     </div>
 
 <!-- separador -->
-<div id="separadorInferior2">
+<div id="separadorInferior2 ">
     <div class="content">
 
     </div>

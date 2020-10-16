@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Primer Sprint Techno Team">
-      <change afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaFigurasGeometricas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaClaseMat.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaClaseMat.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaFigurasGeometricas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaFigurasGeometricas.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,7 +172,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602562269907</updated>
       <workItem from="1602562271229" duration="691000" />
-      <workItem from="1602797264623" duration="10382000" />
+      <workItem from="1602797264623" duration="10843000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -183,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602562454321</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Primer Sprint Techno Team">
+      <created>1602808925453</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602808925453</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,10 +199,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Primer Sprint Techno Team" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602808534841">
+    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602809029894">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602808534841" />
+    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602809029894" />
     <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1602562282575">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -210,9 +215,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602562325681" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1602562503548">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1602809097171">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602562503548" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602809097171" />
   </component>
 </project>
