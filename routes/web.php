@@ -81,7 +81,9 @@ Route::get('/cuentoAventuras',function (){
 Route::get('/cuentoDormir',function (){
     return view('Español/CuentosParaDormir');
 });
-
+Route::get('/Rondas',function (){
+    return view('Español/Rondas');
+});
 
 
 
@@ -106,6 +108,4 @@ Route::get('/pantallaDeLaClaseDeEspañolChistes', function () {
 Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
     return view('pantallaPrincipalDeLaClaseDeCienciasSociales');
 });
-Route::get('/Rondas',function (){
-    return view('Español/Rondas');
-});
+
