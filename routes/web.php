@@ -13,9 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
 /*pantalla principal de pagina web*/
 Route::get('pantallaPrincipal', function () {
@@ -84,8 +81,16 @@ Route::get('/cuentoAventuras',function (){
 Route::get('/cuentoDormir',function (){
     return view('Español/CuentosParaDormir');
 });
+
+
+
+
+/*pantalla de la clase de matematicas*/
 Route::get('/pantallaClaseMat',function (){
     return view('Matematicas/pantallaClaseMat');
 });
 
+Route::get('figuras',function (){
+    return view('Matematicas/pantallaFigurasGeometricas');
+});
 

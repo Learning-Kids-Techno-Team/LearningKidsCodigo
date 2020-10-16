@@ -164,7 +164,9 @@
     <div class="container-fluid" style="background: #FEB472">
         <div class="row  pb-5">
             <div class="col-md-12">
+                <a href="http://learningkidscodigo.test/figuras">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/s2k0frX/Iconos-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info color2" width="150"><h3>Figuras Geometrica</h3>
+                </a>
             </div>
         </div>
     </div>
