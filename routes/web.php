@@ -13,9 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
 /*pantalla principal de pagina web*/
 Route::get('pantallaPrincipal', function () {
@@ -84,6 +81,11 @@ Route::get('/cuentoAventuras',function (){
 Route::get('/cuentoDormir',function (){
     return view('Español/CuentosParaDormir');
 });
+
+
+
+
+/*pantalla de la clase de matematicas*/
 Route::get('/pantallaClaseMat',function (){
     return view('Matematicas/pantallaClaseMat');
 });
@@ -91,4 +93,18 @@ Route::get('/Rondas',function (){
     return view('Español/Rondas');
 });
 
-
+Route::get('figura',function (){
+    return view('Matematicas/pantallaFigurasGeometricas');
+});
+/*pantalla de la clase de español*/
+Route::get('/pantallaPrincipalDeLaClaseDeEspañol', function () {
+    return view('pantallaPrincipalDeLaClaseDeEspañol');
+});
+/*pantalla de la clase de chistes*/
+Route::get('/pantallaDeLaClaseDeEspañolChistes', function () {
+    return view('pantallaDeLaClaseDeEspañolChistes');
+});
+/*pantalla de la clase de ciencias sociales*/
+Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
+    return view('pantallaPrincipalDeLaClaseDeCienciasSociales');
+});
