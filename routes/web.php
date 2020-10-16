@@ -89,9 +89,7 @@ Route::get('/cuentoDormir',function (){
 Route::get('/pantallaClaseMat',function (){
     return view('Matematicas/pantallaClaseMat');
 });
-Route::get('/Rondas',function (){
-    return view('Español/Rondas');
-});
+
 
 Route::get('figura',function (){
     return view('Matematicas/pantallaFigurasGeometricas');
@@ -107,4 +105,7 @@ Route::get('/pantallaDeLaClaseDeEspañolChistes', function () {
 /*pantalla de la clase de ciencias sociales*/
 Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
     return view('pantallaPrincipalDeLaClaseDeCienciasSociales');
+});
+Route::get('/Rondas',function (){
+    return view('Español/Rondas');
 });

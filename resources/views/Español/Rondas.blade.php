@@ -32,7 +32,6 @@
         .card-body {
 
 
-
         }
        #pa{
            text-align: justify;
