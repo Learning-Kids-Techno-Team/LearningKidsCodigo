@@ -87,5 +87,8 @@ Route::get('/cuentoDormir',function (){
 Route::get('/pantallaClaseMat',function (){
     return view('Matematicas/pantallaClaseMat');
 });
+Route::get('/Rondas',function (){
+    return view('Español/Rondas');
+});
 
 
