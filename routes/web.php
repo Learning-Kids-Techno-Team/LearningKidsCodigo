@@ -86,7 +86,6 @@ Route::get('/Rondas',function (){
 });
 
 
-
 /*pantalla de la clase de matematicas*/
 Route::get('/pantallaClaseMat',function (){
     return view('Matematicas/pantallaClaseMat');
