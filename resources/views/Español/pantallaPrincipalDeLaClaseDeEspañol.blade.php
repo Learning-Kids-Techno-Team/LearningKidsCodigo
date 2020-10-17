@@ -165,7 +165,7 @@
 
             </div>
             <div class="col-md-4">
-                <img alt="Bootstrap Image Preview" src="https://i.ibb.co/z7NXMQX/31436891-Los-ni-os-tomados-de-la-mano-Foto-de-archivo-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150"/><h3>Rondas</h3>
+                <img alt="Bootstrap Image Preview" src="https://i.ibb.co/z7NXMQX/31436891-Los-ni-os-tomados-de-la-mano-Foto-de-archivo-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150" href="http://learningkidscodigo.test/Rondas"/><h3>Rondas</h3>
             </div>
         </div>
         <div class="row">

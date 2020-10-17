@@ -13,7 +13,7 @@
 
         body{
 
-            background: aliceblue;
+            background: #D8E2F3;
 
         }
 
@@ -63,6 +63,16 @@
 
 
         }
+        #separadorInferior2 .content{
+
+            width: 100%;
+            height: 100px;
+            border-top-left-radius:80%;
+            border-top-right-radius: 80%;
+            background: #3B5686;
+        }
+
+
 
     </style>
 </head>
@@ -80,10 +90,10 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <!-- href me lleva a la pantalla principal -->
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkids.test/pantallaPrincipal">Inicio</a></li>
+                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidsCodigo.test/pantallaPrincipal">Inicio</a></li>
                 <li class="nav-item"><a class="nav-link" href="">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Naturales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Ciencias Sociales</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
@@ -130,7 +140,7 @@
     <div class="row m-5" >
         <div class="col-md-6">
             <div class="card" style="width: 30rem;">
-                <iframe src="https://drive.google.com/file/d/1Xf37qI2YKLqfJe49CGc2UoVrxsua1M4a/preview" width="470" height="200"></iframe>
+                <iframe src="https://drive.google.com/file/d/162_b4Fg5s0PIRzxeO912wrZoautK4SrI/preview" width="470" height="200"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title">Tengo una muñeca </h5>
 
@@ -165,7 +175,7 @@
         </div>
         <div class="col-md-6">
             <div class="card" style="width: 30rem;">
-                <iframe src="https://drive.google.com/file/d/1Xf37qI2YKLqfJe49CGc2UoVrxsua1M4a/preview" width="470" height="200"></iframe>
+                <iframe src="https://drive.google.com/file/d/1CQiJogasr943FfPNng_M4zypIzay-o_I/preview" width="470" height="200"></iframe>
                 <div class="card-body">
                     <h5 class="card-title">Matarile-rile-ro</h5>
 
@@ -339,11 +349,11 @@
     <div class="row m-5" >
         <div class="col-md-6">
             <div class="card" style="width: 30rem;">
-                <iframe src="https://drive.google.com/file/d/1Xf37qI2YKLqfJe49CGc2UoVrxsua1M4a/preview" width="470" height="200"></iframe>
+                <iframe src="https://drive.google.com/file/d/1Cnq60GReXJFvxxRapX4WMolBonkwlHzY/preview" width="470" height="200"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title">La Pajara Pinta </h5>
 
-                    <p> Estaba la pájara pinta<br>
+                    <p><strong> Estaba la pájara pinta<br>
                         sentada en un verde limón.<br>
                         Con el pico cortaba la rama,<br>
                         con la rama cortaba la flor.<br>
@@ -366,18 +376,18 @@
                         porque te quiero a ti.
 
 
-                    </p>
+                        </strong></p>
 
                 </div>
             </div>
         </div>
         <div class="col-md-6">
             <div class="card" style="width: 30rem;">
-                <iframe src="https://drive.google.com/file/d/1Xf37qI2YKLqfJe49CGc2UoVrxsua1M4a/preview" width="470" height="200"></iframe>
+                <iframe src="https://drive.google.com/file/d/1P8lwPud4wSzs_pcnV-YjumSPWNA33OdG/preview" width="470" height="200"></iframe>
                 <div class="card-body">
                     <h5 class="card-title">Aserrín aserrán </h5>
 
-                    <p> Aserrín aserrán
+                    <p><strong> Aserrín aserrán
 
                         los <br>maderos de San Juan<br>
 
@@ -418,7 +428,7 @@
                         piden ají, y los botan así.<br>
 
 
-                    </p>
+                        </strong></p>
 
 
 
@@ -430,10 +440,93 @@
 
 </div>
 
+<div class="container-fluid  center-block pl-5" >
+    <div class="row m-5" >
+        <div class="col-md-6">
+            <div class="card" style="width: 30rem;">
+                <iframe src="https://drive.google.com/file/d/1iQAWepVvA9lZ-B4F8dXsgmnN8LuXj0Sc/preview" width="470" height="200"></iframe>
+                <div class="card-body" id="im">
+                    <h5 class="card-title">Naranja Dulce</h5>
+
+                    <p><strong>Naranja dulce<br>
+                        Limón partido<br>
+                        <br>Dame un abrazo<br>
+                        Que yo te pido<br><br>
+
+                        Si fuera falso<br>
+                        Mis juramentos<br>
+                       <br> En otros tiempos<br>
+                        Se olvidarán<br><br>
+
+                        Toca la marcha<br>
+                        Mi pecho llora<br>
+                      <br>  Adiós señora<br>
+                        <br>Yo ya me voy<br>
+                        A mi casita<br>
+                        De sololoy<br>
+                      <br>  A comer tacos<br>
+                        Y no le doy<br>
+                       <br>
+
+                        </strong> </p>
+
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card" style="width: 30rem;">
+                <iframe src="https://drive.google.com/file/d/1PlKx4qmqc2ZShLXb7pQEC-bV3wc_Ueoe/preview" width="470" height="200"></iframe>
+                <div class="card-body">
+                    <h5 class="card-title">Los pollos de mi cazuela </h5>
+
+                    <p><strong>Los pollos mi cazuela;<br>
+                        No sirven para comer,<br>
+                        Si no para la viudita.<br>
+                      <br>  Que no sabe comprender<br>
+                        Se le echa sal, cebolla<br>
+                        Hojitas de laurel;<br>
+                        Se le saca de la cazuela<br>
+                        <br>Para salir a bailar.<br>
+                        Componte niña, componte<br>
+                        Ya viene tu marinero,<br>
+                        Con ese bonito traje,<br>
+                        Que parece un carnicero.<br>
+                       <br> Anoche yo te vi,<br>
+                        Bailando el cha cha cha<br>
+                        Con las manos en la cintura<br>
+                        Para salir a bailar.<br>
+                       <br> Componte niña, componte<br>
+                        Ya viene tu marinero,<br>
+                        Con ese bonito traje,<br>
+                        Que parece un carnero.<br>
 
 
 
 
+
+
+
+
+                        </strong>  </p>
+
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</div>
+
+
+<div id="separadorInferior2">
+    <div class="content ">
+
+    </div>
+</div>
 
 
 
