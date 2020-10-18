@@ -91,10 +91,10 @@
             <ul class="navbar-nav ml-auto">
                 <!-- href me lleva a la pantalla principal -->
                 <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidsCodigo.test/pantallaPrincipal">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="">Español</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
                 <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
                 <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Sociales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
 
@@ -107,7 +107,7 @@
 <div class="container-fluid" id="h">
     <div class="row ">
         <div class="col-md-4 " >
-         <img src="https://lh3.googleusercontent.com/proxy/BdULRVvOHiViN_33zzWrcTABg7nJxVsbGQinjDJfRm-bXK5Fe0wvOUeT-3mNUs54V24ogSikYO5jUWvn9BeqPOnGNJVP2ws8lbgjiZg6IuLNyuwP2KPY2fc_EPUnON2JFVF-98Xk6B0rFzhHf52SgBZhBlNE3Z08DGxnEGsNzd0pR3IEkFOeCYsCA81DluQ1sf8gLpg75Q" height="300">
+         <img  src="https://i.ibb.co/jWxChRq/unnamed.gif"  height="300">
         </div>
         <div class="col-md-8 " >
             <h2 id="color">Rondas Infantiles</h2>

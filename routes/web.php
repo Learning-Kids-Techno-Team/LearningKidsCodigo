@@ -135,6 +135,9 @@ Route::get('/lineas',function (){
 Route::get('figura',function (){
     return view('Matematicas/pantallaFigurasGeometricas');
 });
+Route::get('/numerosNaturales',function (){
+    return view('Matematicas/numeroNaturales');
+});
 
 
 

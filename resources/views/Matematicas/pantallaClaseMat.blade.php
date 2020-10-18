@@ -72,11 +72,11 @@
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a></li>
 
-                <li class="nav-item"><a class="nav-link" href="">Español</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
                 <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
                 <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/cienciasSociales">Ciencias Sociales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
+                <li class="nav-item"><a class="nav-link" href="">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
 
             </ul>
@@ -173,7 +173,9 @@
     <div class="container-fluid" style="background: #FEB472">
         <div class="row pb-5">
             <div class="col-md-6">
+                <a href="http://learningkidscodigo.test/numerosNaturales">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/bdRWHpK/numero-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Numeros Naturales</h3>
+                </a>
             </div>
             <div class="col-md-6">
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/k59g6vt/grado-removebg-preview.png"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Numeros ordinales</h3>
