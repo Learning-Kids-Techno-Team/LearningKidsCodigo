@@ -91,6 +91,9 @@ Route::get('/pantallaClaseMat',function (){
     return view('Matematicas/pantallaClaseMat');
 });
 
+Route::get('/lineas',function (){
+    return view('Matematicas/pantallaLineas');
+});
 
 Route::get('figura',function (){
     return view('Matematicas/pantallaFigurasGeometricas');
