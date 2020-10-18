@@ -65,10 +65,10 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <!-- href me lleva a la pantalla principal -->
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkids.test/pantallaPrincipal">Inicio</a></li>
+                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a></li>
                 <li class="nav-item"><a class="nav-link" href="">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkids.test/pantallaClaseMat">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Naturales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Ciencias Sociales</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
