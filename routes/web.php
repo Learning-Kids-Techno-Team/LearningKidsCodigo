@@ -13,13 +13,20 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+                                                       /* SPRINT NUMERO 1*/
 
 /*pantalla principal de pagina web*/
+
 Route::get('pantallaPrincipal', function () {
     return view('pantallaPrincipal');
 });
 
 /*pantallas de español*/
+
+/*pantalla de la clase de español*/
+Route::get('/pantallaPrincipalDeLaClaseDeEspañol', function () {
+    return view('Español/pantallaPrincipalDeLaClaseDeEspañol');
+});
 
 //Adivinanzas - ESPAÑOL
 Route::get('/Adivinanzas', function () {
@@ -41,19 +48,18 @@ Route::get('/adivinanzasTransportes', function () {
     return view('Español/adivinanzasTransportes');
 });
 
-/*pantallas de español*/
+/*pantallas de español trabalengua*/
 Route::get('trabalenguas', function () {
     return view('Español/pantallaTrabalenguas');
 });
 
+/*pantallas de español refranes*/
 Route::get('refranes', function () {
     return view('Español/pantallaRefranes');
 });
 
-//pantallaPrincipalCienciasNaturales
-Route::get('/pantallaPrincipalDeCienciasNaturales', function () {
-    return view('CienciasNaturales/pantallaPrincipalDeCienciasNaturales');
-});
+/*pantalla de los cuentos*/
+
 Route::get('/cuento',function (){
     return view('Español/cuento');
 });
@@ -81,15 +87,46 @@ Route::get('/cuentoAventuras',function (){
 Route::get('/cuentoDormir',function (){
     return view('Español/CuentosParaDormir');
 });
-Route::get('/Rondas',function (){
-    return view('Español/Rondas');
-});
 
+/*pantalla de la clase de chistes*/
+Route::get('/pantallaDeLaClaseDeEspañolChistes', function () {
+    return view('Español/pantallaDeLaClaseDeEspañolChistes');
+});
 
 /*pantalla de la clase de matematicas*/
 Route::get('/pantallaClaseMat',function (){
     return view('Matematicas/pantallaClaseMat');
 });
+
+
+/*pantalla de la clase de ciencias sociales*/
+Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
+    return view('Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales');
+});
+
+//pantallaPrincipalCienciasNaturales
+Route::get('/pantallaPrincipalDeCienciasNaturales', function () {
+    return view('CienciasNaturales/pantallaPrincipalDeCienciasNaturales');
+});
+
+
+
+                                                          /*SPRINT NUMERO 2 */
+
+
+
+/*Rutas de español*/
+
+Route::get('/Rondas',function (){
+    return view('Español/Rondas');
+});
+
+
+
+
+
+
+/*Rutas de Matematicas*/
 
 Route::get('/lineas',function (){
     return view('Matematicas/pantallaLineas');
@@ -98,16 +135,16 @@ Route::get('/lineas',function (){
 Route::get('figura',function (){
     return view('Matematicas/pantallaFigurasGeometricas');
 });
-/*pantalla de la clase de español*/
-Route::get('/pantallaPrincipalDeLaClaseDeEspañol', function () {
-    return view('Español/pantallaPrincipalDeLaClaseDeEspañol');
-});
-/*pantalla de la clase de chistes*/
-Route::get('/pantallaDeLaClaseDeEspañolChistes', function () {
-    return view('Español/pantallaDeLaClaseDeEspañolChistes');
-});
-/*pantalla de la clase de ciencias sociales*/
-Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
-    return view('Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales');
-});
+
+
+
+
+/*rutas de ciencias Naturales*/
+
+
+
+
+/*rutas de ciencias Sociales*/
+
+
 
