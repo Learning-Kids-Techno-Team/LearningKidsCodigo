@@ -153,39 +153,54 @@
 
     <div class="container-fluid" style="background: #bce0ee">
         <div class="row mb-n5 ">
+
             <div class="col-md-12">
+                <a href="http://learningkidscodigo.test/cuento">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/tMXgL6r/Fondocampa-removebg-preview-1.png" class="rounded-circle mx-auto d-block bg-info" width="150"/><h3>Cuentos</h3>
+            </a>
             </div>
         </div>
         <div class="row pb-5">
             <div class="col-md-4">
+                <a href="http://learningkidscodigo.test/pantallaDeLaClaseDeEspa%C3%B1olChistes">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/hfNtqSh/pngtree-laughing-child-sitting-on-the-stone-bench-image-1374223-removebg-preview.png" class="rounded-circle mx-auto d-block  bg-info " width="150" /><h3>Chistes</h3>
+                </a>
             </div>
             <div class="col-md-4">
 
             </div>
             <div class="col-md-4">
+                <a href="http://learningkidscodigo.test/Rondas">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/z7NXMQX/31436891-Los-ni-os-tomados-de-la-mano-Foto-de-archivo-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150" href="http://learningkidscodigo.test/Rondas"/><h3>Rondas</h3>
+                </a>
             </div>
         </div>
         <div class="row">
             <div class="col-md-4">
+                <a href="http://learningkidscodigo.test/Adivinanzas">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/S09m0JM/10c5bb1e1c8a3da7ae25d3184fa841d7-removebg-preview.png" class="rounded-circle mx-auto d-block  bg-info" width="150" /><h3>Adivinanzas</h3>
+                </a>
             </div>
             <!-- imagen del centro de todos los botones-->
             <div class="col-4">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/k9FxZTk/ninos-dibujos-animados-leyendo-libro-29190-1823-removebg-preview.png " class=" mx-auto d-block" width="450" />
             </div>
             <div class="col-md-4">
+                <a>
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/px8MQB5/images-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150"/><h3>Bombas</h3>
+                </a>
             </div>
         </div>
         <div class="row">
             <div class="col-md-6">
+                <a href="http://learningkidscodigo.test/refranes">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/Pc35C0R/3ff9640b218444e507fefa887cc6843a-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info" width="150"/><h3>Refranes</h3>
+                </a>
             </div>
             <div class="col-md-6">
+                <a href="http://learningkidscodigo.test/trabalenguas">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/Fz74vcj/d27af2109d6725ca8b9a1417772b16aa-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150"><h3>Trabalenguas</h3>
+                </a>
             </div>
         </div>
     </div>

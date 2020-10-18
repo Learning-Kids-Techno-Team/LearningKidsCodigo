@@ -100,14 +100,14 @@ Route::get('figura',function (){
 });
 /*pantalla de la clase de español*/
 Route::get('/pantallaPrincipalDeLaClaseDeEspañol', function () {
-    return view('pantallaPrincipalDeLaClaseDeEspañol');
+    return view('Español/pantallaPrincipalDeLaClaseDeEspañol');
 });
 /*pantalla de la clase de chistes*/
 Route::get('/pantallaDeLaClaseDeEspañolChistes', function () {
-    return view('pantallaDeLaClaseDeEspañolChistes');
+    return view('Español/pantallaDeLaClaseDeEspañolChistes');
 });
 /*pantalla de la clase de ciencias sociales*/
 Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
-    return view('pantallaPrincipalDeLaClaseDeCienciasSociales');
+    return view('Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales');
 });
 
