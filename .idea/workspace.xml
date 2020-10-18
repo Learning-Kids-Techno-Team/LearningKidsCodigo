@@ -27,9 +27,9 @@
   <component name="ChangeListManager">
     <list default="true" id="038ca467-1ea0-457c-af9d-10c1d5afe111" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pantallaPrincipal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pantallaPrincipal.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuento.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuento.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaClaseMat.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaClaseMat.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602886825752</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Sprint 1">
+      <created>1602999841755</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602999841755</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,14 +294,15 @@
     <MESSAGE value="Sprint1 Sindy" />
     <MESSAGE value="Sprint1 Daniela" />
     <MESSAGE value="Sprint2 Daniela" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint2 Daniela" />
+    <MESSAGE value="Sprint 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602886928815">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602999839736">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602886928815" />
-    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602562451181" />
+    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602999839736" />
     <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1602562282575">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -307,12 +315,12 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602562325681" />
-    <state x="275" y="111" key="Vcs.Push.Dialog.v2" timestamp="1602887045525">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1602999851347">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="258" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1602624410267" />
     <state x="275" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602887045525" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602562503548" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602999851347" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602728908680">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

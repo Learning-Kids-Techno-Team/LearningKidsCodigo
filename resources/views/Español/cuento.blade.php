@@ -146,7 +146,7 @@
             <img   src="https://i.ibb.co/CmNZfRq/descarga.jpg"  class=" mx-auto d-block" alt="rondas"  height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Fantásticos</h5>
-                <a href="http://learningkids.test/cuentoFantastico#" class="btn btn-danger" >Leer</a>
+                <a href="http://learningkidscodigo.test/cuentoFantastico#" class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -156,7 +156,7 @@
             <img   src="https://i.ibb.co/xmC8SJL/maxresdefault.jpg"  class=" mx-auto d-block" alt="rondas"  height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Infantiles</h5>
-                <a href="http://learningkids.test/cuentoInfantiles" class="btn btn-danger" >Leer</a>
+                <a href="http://learningkidscodigo.test/cuentoInfantiles" class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -166,7 +166,7 @@
             <img   src="https://i.ibb.co/fDZPYF8/real.jpg"   class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Realistas</h5>
-                <a href= "http://learningkids.test/cuentoRealista"  class="btn btn-danger" >Leer</a>
+                <a href= "http://learningkidscodigo.test/cuentoRealista"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -176,7 +176,7 @@
             <img   src="https://i.ibb.co/GRwk26w/terror.jpg"   class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Terror</h5>
-                <a href= "http://learningkids.test/cuentoTerror"  class="btn btn-danger" >Leer</a>
+                <a href= "http://learningkidscodigo.test/cuentoTerror"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -186,7 +186,7 @@
             <img    src="https://i.ibb.co/BBcqQ4f/feliz-navidad.jpg"    class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Navidad</h5>
-                <a href= "http://learningkids.test/cuentoNavidad"  class="btn btn-danger" >Leer</a>
+                <a href= "http://learningkidscodigo.test/cuentoNavidad"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -196,7 +196,7 @@
             <img     src="https://i.ibb.co/nbCwrYv/aventura.jpg"    class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Aventuras</h5>
-                <a href= "http://learningkids.test/cuentoAventuras"  class="btn btn-danger" >Leer</a>
+                <a href= "http://learningkidscodigo.test/cuentoAventuras"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -206,7 +206,7 @@
             <img  src="https://i.ibb.co/qBGp3t3/policiales.jpg" class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Policiales</h5>
-                <a href= "http://learningkids.test/cuentoPoliciales"  class="btn btn-danger" >Leer</a>
+                <a href= "http://learningkidscodigo.test/cuentoPoliciales"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -216,7 +216,7 @@
             <img   src="https://i.ibb.co/421Xxcm/dormir.jpg"  class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Para Dormir</h5>
-                <a href= "http://learningkids.test/cuentoDormir"  class="btn btn-danger" >Leer</a>
+                <a href= "http://learningkidscodigo.test/cuentoDormir"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
