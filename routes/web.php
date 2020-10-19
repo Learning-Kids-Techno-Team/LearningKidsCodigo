@@ -138,6 +138,9 @@ Route::get('figura',function (){
 Route::get('/numerosNaturales',function (){
     return view('Matematicas/numeroNaturales');
 });
+Route::get('/relacionObjetos',function (){
+    return view('Matematicas/relacionObjetos');
+});
 
 
 

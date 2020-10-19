@@ -198,7 +198,9 @@
     <div class="container-fluid" style="background: #FEB472">
         <div class="row pb-5">
             <div class="col-md-3">
-                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/Gsn8yNC/relacion-removebg-preview.png"   class="rounded-circle  mx-auto d-block bg-info" width="150"><h3>Relacion Objetos</h3>
+                <a href="http://learningkidscodigo.test/relacionObjetos#">
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/Gsn8yNC/relacion-removebg-preview.png"   class="rounded-circle  mx-auto d-block bg-info" width="150"><h3>Relación Objetos</h3>
+                </a>
             </div>
             <div class="col-md-3">
 
