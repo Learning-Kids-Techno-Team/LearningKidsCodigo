@@ -89,7 +89,7 @@ Route::get('/cuentoDormir',function (){
 });
 
 /*pantalla de la clase de chistes*/
-Route::get('/pantallaDeLaClaseDeEspañolChistes', function () {
+Route::get('Español/pantallaDeLaClaseDeEspañolChistes', function () {
     return view('Español/pantallaDeLaClaseDeEspañolChistes');
 });
 
@@ -102,6 +102,10 @@ Route::get('/pantallaClaseMat',function (){
 /*pantalla de la clase de ciencias sociales*/
 Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
     return view('Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales');
+});
+/*pantalla de la clase de español bombas*/
+Route::get('Español/pantallaDeBombas', function () {
+    return view('Español/pantallaDeBombas');
 });
 
 //pantallaPrincipalCienciasNaturales
@@ -119,6 +123,10 @@ Route::get('/pantallaPrincipalDeCienciasNaturales', function () {
 
 Route::get('/Rondas',function (){
     return view('Español/Rondas');
+});
+/*pantalla de  bombas*/
+Route::get('Español/pantallaDeBombas', function () {
+    return view('Español/pantallaDeBombas');
 });
 
 
