@@ -186,7 +186,7 @@
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/k9FxZTk/ninos-dibujos-animados-leyendo-libro-29190-1823-removebg-preview.png " class=" mx-auto d-block" width="450" />
             </div>
             <div class="col-md-4">
-                <a>
+                 <a href="http://learningkidscodigo.test/Espa%C3%B1ol/pantallaDeBombas">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/px8MQB5/images-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150"/><h3>Bombas</h3>
                 </a>
             </div>
