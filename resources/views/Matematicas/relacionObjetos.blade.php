@@ -80,7 +80,7 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-12" style="background: blanchedalmond" id="fondo" >
-            <img  src="https://i.ibb.co/Vp0xxP6/children.jpg"   height="500" class=" mx-auto d-block"/>
+            <img  src="https://i.ibb.co/rHrb1mY/sort1-removebg-preview.png"   height="500" class=" mx-auto d-block"/>
 
         </div>
     </div>
