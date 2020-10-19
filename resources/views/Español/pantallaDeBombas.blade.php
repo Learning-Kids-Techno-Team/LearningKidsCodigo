@@ -127,7 +127,7 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1JBrUJyZGkR0KDilDiS349zjb_IhNP5_K/preview" width="280" height="100"></iframe>
+                
             </div>
         </div>
         <!-- tarjeta2 -->

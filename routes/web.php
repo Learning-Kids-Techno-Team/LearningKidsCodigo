@@ -131,9 +131,6 @@ Route::get('Español/pantallaDeBombas', function () {
 
 
 
-
-
-
 /*Rutas de Matematicas*/
 
 Route::get('/lineas',function (){
