@@ -143,6 +143,12 @@ Route::get('/lineas',function (){
 Route::get('figura',function (){
     return view('Matematicas/pantallaFigurasGeometricas');
 });
+Route::get('/numerosNaturales',function (){
+    return view('Matematicas/numeroNaturales');
+});
+Route::get('/relacionObjetos',function (){
+    return view('Matematicas/relacionObjetos');
+});
 
 
 
