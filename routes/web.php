@@ -136,6 +136,15 @@ Route::get('Español/pantallaDeBombas', function () {
 Route::get('/lineas',function (){
     return view('Matematicas/pantallaLineas');
 });
+Route::get('/rectas',function (){
+    return view('Matematicas/lineasRectas');
+});
+Route::get('/curvas',function (){
+    return view('Matematicas/lineasCurvas');
+});
+Route::get('/poligonales',function (){
+    return view('Matematicas/lineasPoligonales');
+});
 
 Route::get('figura',function (){
     return view('Matematicas/pantallaFigurasGeometricas');
@@ -146,7 +155,15 @@ Route::get('/numerosNaturales',function (){
 Route::get('/relacionObjetos',function (){
     return view('Matematicas/relacionObjetos');
 });
-
+Route::get('Matematicas/pantallaTipoDeCuadrilatero',function (){
+    return view('Matematicas/pantallaTipoDeCuadrilatero');
+});
+Route::get('Matematicas/pantallaTiposDeTriangulos',function (){
+    return view('Matematicas/pantallaTiposDeTriangulos');
+});
+Route::get('Matematicas/pantallaOtrasFiguras',function (){
+    return view('Matematicas/pantallaOtrasFiguras');
+});
 
 
 
