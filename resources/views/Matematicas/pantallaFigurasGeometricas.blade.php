@@ -137,7 +137,7 @@
                     <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/triangle-5258735_960_720.png" width="210" >
                     <div class="card-body">
                         <h5 class="card-title">Triangulo</h5>
-                        <a style=" background: #FF7800" href="#" class="btn btn-primary">Leer</a>
+                        <a style=" background: #FF7800" href="http://learningkidscodigo.test/Matematicas/pantallaTiposDeTriangulos" class="btn btn-primary">Leer</a>
                     </div>
                 </div>
             </div>
@@ -146,7 +146,7 @@
                     <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/square-5258734_960_720.png" width="300" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Cuadrado</h5>
-                        <a href="#" style=" background: #FF7800" class="btn btn-primary">Leer</a>
+                        <a href="http://learningkidscodigo.test/Matematicas/pantallaTipoDeCuadrilatero" style=" background: #FF7800" class="btn btn-primary">Leer</a>
                     </div>
                 </div>
             </div>
@@ -159,7 +159,7 @@
                         <br>
                         <h5 class="card-title">Otras Figuras</h5>
 
-                        <a href="#" style=" background: #FF7800" class="btn btn-primary">Leer</a>
+                        <a href="http://learningkidscodigo.test/Matematicas/pantallaOtrasFiguras" style=" background: #FF7800" class="btn btn-primary">Leer</a>
                     </div>
                 </div>
             </div>

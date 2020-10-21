@@ -137,7 +137,7 @@
                 <img src="https://i.ibb.co/v3XvfPM/chgvhg.jpg" width="283" >
                 <div class="card-body">
                     <h5 class="card-title">Lineas Rectas</h5>
-                    <a style=" background: #FF7800" href="#" class="btn btn-primary">Leer</a>
+                    <a style=" background: #FF7800" href="http://learningkidscodigo.test/rectas" class="btn btn-primary">Leer</a>
                 </div>
             </div>
         </div>
@@ -146,7 +146,7 @@
                 <img src="https://i.ibb.co/DCgjPkt/imagddde.jpg" width="280" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Lineas Curvas</h5>
-                    <a href="#" style=" background: #FF7800" class="btn btn-primary">Leer</a>
+                    <a href="http://learningkidscodigo.test/curvas" style=" background: #FF7800" class="btn btn-primary">Leer</a>
                 </div>
             </div>
         </div>
@@ -157,7 +157,7 @@
 
                     <h5 class="card-title">Lineas Poligonales</h5>
 
-                    <a href="#" style=" background: #FF7800" class="btn btn-primary">Leer</a>
+                    <a href="http://learningkidscodigo.test/poligonales" style=" background: #FF7800" class="btn btn-primary">Leer</a>
                 </div>
             </div>
         </div>
