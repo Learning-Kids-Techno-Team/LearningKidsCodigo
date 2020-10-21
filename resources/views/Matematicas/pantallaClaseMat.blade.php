@@ -185,7 +185,9 @@
     <div class="container-fluid"style="background: #FEB472">
         <div class="row">
             <div class="col-md-4 pb-5">
+                <a href="http://learningkidscodigo.test/restas">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/YbJVtYV/resta-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Restas</h3>
+                </a>
             </div>
             <div class="col-md-4">
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/F38tjLG/dibujos4-removebg-preview.png"   class="mx-auto d-block" width="450" >
