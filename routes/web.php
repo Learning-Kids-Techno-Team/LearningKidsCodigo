@@ -148,6 +148,14 @@ Route::get('/relacionObjetos',function (){
 });
 
 
+Route::get('/restas',function (){
+    return view('Matematicas/pantallaRestas');
+});
+
+
+
+
+
 
 
 /*rutas de ciencias Naturales*/
