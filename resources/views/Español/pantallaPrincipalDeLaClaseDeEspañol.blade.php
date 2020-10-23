@@ -162,7 +162,7 @@
         </div>
         <div class="row pb-5">
             <div class="col-md-4">
-                <a href="http://learningkidscodigo.test/pantallaDeLaClaseDeEspa%C3%B1olChistes">
+                <a href="http://learningkidscodigo.test/Espa%C3%B1ol/pantallaDeLaClaseDeEspa%C3%B1olChistes">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/hfNtqSh/pngtree-laughing-child-sitting-on-the-stone-bench-image-1374223-removebg-preview.png" class="rounded-circle mx-auto d-block  bg-info " width="150" /><h3>Chistes</h3>
                 </a>
             </div>

@@ -145,7 +145,7 @@
                 <img src="https://i.ibb.co/dLWLThm/ninos-felices-escuela-bloques-alfabeto-29190-5022-removebg-preview.png"  class="w-100 mx-auto d-block" >
             </div>
             <div class="col-sm p-3 text-white text-center">
-                <h4>Bienvenidos a <br>Learling Kids</h4>
+                <h4>Bienvenidos a <br>Learning Kids</h4>
             </div>
         </div>
     </div>
