@@ -10,23 +10,18 @@
 </head>
 <style>
 
-    .card{
+    .card {
         border-bottom-left-radius: 30%;
-        background: #FDFD96;
-
-
-    }
-    body{
-        background: #FF7800;
+        background: honeydew;
 
     }
-
     .navbar{
         background: #FF7800;
     }
     #separadorDePagina{
-        background: #dcfecb;
+
         border: orange 10px dashed;
+
 
     }
     p{
@@ -37,19 +32,27 @@
 
     }
     #fondo{
-       border-top-right-radius: 300px;
-        border-bottom-left-radius: 300px;
-
+        border-bottom-left-radius:300px;
+        border-top-right-radius: 300px;
 
     }
     h3 {
         text-align: center;
     }
+    #separadorInferior{
+
+        width: 100%;
+        height: 600%;
+        margin-left: 0px;
+        border-top-left-radius: 50%;
+        border-top-right-radius:50%;
+
+    }
 
 
 </style>
 
-<body>
+<body style="background: #FF7800">
 <!-- navbar -->
 <nav class="navbar navbar-expand-sm navbar-dark " >
     <div class="container-fluid">
@@ -79,8 +82,8 @@
 
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12" style="background: blanchedalmond" id="fondo" >
-            <img  src="https://i.ibb.co/rHrb1mY/sort1-removebg-preview.png"   height="500" class=" mx-auto d-block"/>
+        <div class="col-md-12" style="background:blanchedalmond"  id="fondo" >
+            <img src="https://i.ibb.co/QY8MWGQ/muchos-juguetes-libros-dormitorio-1308-9759-removebg-preview.png"    height="500" class=" mx-auto d-block"/>
 
         </div>
     </div>
@@ -88,9 +91,9 @@
 
 
 
-<div id="separadorDePagina" class="container-fluid" >
+<div id="separadorDePagina" class="container-fluid" style="background: #DCFECB">
     <div class="row">
-        <div class="col-md-4 mt-5">
+        <div class="col-md-4 ">
             <img   src="https://i.ibb.co/C1BndsH/vector-doll-and-ball-on-wooden-shelf-removebg-preview.png" width="300" class="mx-auto d-block "/>
         </div>
         <div class="col-md-8">
@@ -110,14 +113,14 @@
 </div>
 
 
-<div  style="background: blanchedalmond " >
+<div  class="container-fluid " style="background: blanchedalmond">
     <div class="row m-4 ">
         <div class="col-md-12 pb-4 ">
             <h3>Distingamos Objetos</h3>
         </div>
     </div>
 
-    <div class="container-fluid center-block pl-5" >
+    <div class="container-fluid center-block pl-5"   >
         <div class="row m-5" >
             <div class="col-md-4 pb-3">
             <div class="card" style="width: 18rem;">
@@ -199,15 +202,19 @@
 
 </div>
 
-<div class="container-fluid " id="banderin" >
-    <div class="row " >
-        <div class="col-md-12">
-            <img src=""  height="80" >
-        </div>
+
+
+</div>
+<div id="separadorInferior " style="background: #FDFD96">
+    <div class="content">
+        <img src="https://i.ibb.co/CMjstrv/Captura-de-pantalla-287-removebg-preview.png"   height="80" >
+        <img src="https://i.ibb.co/CMjstrv/Captura-de-pantalla-287-removebg-preview.png"   height="80" >
+        <img src="https://i.ibb.co/CMjstrv/Captura-de-pantalla-287-removebg-preview.png"   height="80" >
 
 
     </div>
-
+    </div>
+    </div>
 </div>
 
 
