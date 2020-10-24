@@ -1,0 +1,640 @@
+Index: routes/web.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?php\r\n\r\nuse Illuminate\\Support\\Facades\\Route;\r\n\r\n/*\r\n|--------------------------------------------------------------------------\r\n| Web Routes\r\n|--------------------------------------------------------------------------\r\n|\r\n| Here is where you can register web routes for your application. These\r\n| routes are loaded by the RouteServiceProvider within a group which\r\n| contains the \"web\" middleware group. Now create something great!\r\n|\r\n*/\r\n\r\n\r\n/*pantalla principal de pagina web*/\r\nRoute::get('pantallaPrincipal', function () {\r\n    return view('pantallaPrincipal');\r\n});\r\n\r\n/*pantallas de español*/\r\n\r\n//Adivinanzas - ESPAÑOL\r\nRoute::get('/Adivinanzas', function () {\r\n    return view('Español/Adivinanzas');\r\n});\r\nRoute::get('/adivinanzasAnimales', function () {\r\n    return view('Español/adivinanzasAnimales');\r\n});\r\nRoute::get('/adivinanzasCortas', function () {\r\n    return view('Español/adivinanzasCortas');\r\n});\r\nRoute::get('/adivinanzasFrutas', function () {\r\n    return view('Español/adivinanzasFrutas');\r\n});\r\nRoute::get('/adivinanzasNumeros', function () {\r\n    return view('Español/adivinanzasNumeros');\r\n});\r\nRoute::get('/adivinanzasTransportes', function () {\r\n    return view('Español/adivinanzasTransportes');\r\n});\r\n\r\n/*pantallas de español*/\r\nRoute::get('trabalenguas', function () {\r\n    return view('Español/pantallaTrabalenguas');\r\n});\r\n\r\nRoute::get('refranes', function () {\r\n    return view('Español/pantallaRefranes');\r\n});\r\n\r\n//pantallaPrincipalCienciasNaturales\r\nRoute::get('/pantallaPrincipalDeCienciasNaturales', function () {\r\n    return view('CienciasNaturales/pantallaPrincipalDeCienciasNaturales');\r\n});\r\nRoute::get('/cuento',function (){\r\n    return view('Español/cuento');\r\n});\r\nRoute::get('/cuentoFantastico',function (){\r\n    return view('Español/cuentosFantasticos');\r\n});\r\nRoute::get('/cuentoInfantiles',function (){\r\n    return view('Español/cuentosInfantiles');\r\n});\r\nRoute::get('/cuentoRealista',function (){\r\n    return view('Español/cuentosRealistas');\r\n});\r\nRoute::get('/cuentoTerror',function (){\r\n    return view('Español/cuentosTerror');\r\n});\r\nRoute::get('/cuentoNavidad',function (){\r\n    return view('Español/cuentoNavidad');\r\n});\r\nRoute::get('/cuentoPoliciales',function (){\r\n    return view('Español/cuentosPoliciales');\r\n});\r\nRoute::get('/cuentoAventuras',function (){\r\n    return view('Español/cuentosAventuras');\r\n});\r\nRoute::get('/cuentoDormir',function (){\r\n    return view('Español/CuentosParaDormir');\r\n});\r\nRoute::get('/Rondas',function (){\r\n    return view('Español/Rondas');\r\n});\r\n\r\n\r\n/*pantalla de la clase de matematicas*/\r\nRoute::get('/pantallaClaseMat',function (){\r\n    return view('Matematicas/pantallaClaseMat');\r\n});\r\n\r\n\r\nRoute::get('figura',function (){\r\n    return view('Matematicas/pantallaFigurasGeometricas');\r\n});\r\n/*pantalla de la clase de español*/\r\nRoute::get('/pantallaPrincipalDeLaClaseDeEspañol', function () {\r\n    return view('pantallaPrincipalDeLaClaseDeEspañol');\r\n});\r\n/*pantalla de la clase de chistes*/\r\nRoute::get('/pantallaDeLaClaseDeEspañolChistes', function () {\r\n    return view('pantallaDeLaClaseDeEspañolChistes');\r\n});\r\n/*pantalla de la clase de ciencias sociales*/\r\nRoute::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {\r\n    return view('pantallaPrincipalDeLaClaseDeCienciasSociales');\r\n});\r\n\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- routes/web.php	(revision 54cf403c7672356b95066d5a02f1f30bd19beab5)
++++ routes/web.php	(date 1602993398792)
+@@ -100,11 +100,15 @@
+     return view('pantallaPrincipalDeLaClaseDeEspañol');
+ });
+ /*pantalla de la clase de chistes*/
+-Route::get('/pantallaDeLaClaseDeEspañolChistes', function () {
++Route::get('Español/pantallaDeLaClaseDeEspañolChistes', function () {
+     return view('pantallaDeLaClaseDeEspañolChistes');
+ });
+ /*pantalla de la clase de ciencias sociales*/
+ Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
+     return view('pantallaPrincipalDeLaClaseDeCienciasSociales');
+ });
++/*pantalla de la clase de español bombas*/
++Route::get('Español/pantallaDeBombas', function () {
++    return view('Español/pantallaDeBombas');
++});
+ 
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"BranchesTreeState\">\r\n    <expand>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </expand>\r\n    <select>\r\n      <path>\r\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\r\n      </path>\r\n    </select>\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"d12242a2-e73d-4acb-8be6-1a43953a38f4\" name=\"Default Changelist\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/views/Español/Rondas.blade.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/views/Español/Rondas.blade.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/views/Español/cuento.blade.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/views/Español/cuento.blade.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/views/Español/cuentoNavidad.blade.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/views/Español/cuentoNavidad.blade.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/views/Español/cuentosAventuras.blade.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/views/Español/cuentosAventuras.blade.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/views/Español/cuentosFantasticos.blade.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/views/Español/cuentosFantasticos.blade.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/views/Español/cuentosInfantiles.blade.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/views/Español/cuentosInfantiles.blade.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/views/Español/cuentosParaDormir.blade.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/views/Español/cuentosParaDormir.blade.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/views/Español/cuentosPoliciales.blade.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/views/Español/cuentosPoliciales.blade.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/views/Español/cuentosRealistas.blade.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/views/Español/cuentosRealistas.blade.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/resources/views/Matematicas/pantallaClaseMat.blade.php\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/resources/views/Matematicas/pantallaClaseMat.blade.php\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ComposerSettings\" doNotAsk=\"true\" synchronizationState=\"SYNCHRONIZE\">\r\n    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>\r\n    <execution />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"composer.json\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"PhpWorkspaceProjectConfiguration\">\r\n    <include_path>\r\n      <path value=\"$PROJECT_DIR$/vendor/ramsey/collection\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/filp/whoops\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/ramsey/uuid\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/egulias/email-validator\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/asm89/stack-cors\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/guzzlehttp/promises\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/guzzlehttp/psr7\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/guzzlehttp/guzzle\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/psr/simple-cache\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/league/mime-type-detection\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/psr/http-message\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/league/commonmark\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/psr/container\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/league/flysystem\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/psr/event-dispatcher\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/psr/log\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/brick/math\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/opis/closure\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phpspec/prophecy\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/theseer/tokenizer\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/nikic/php-parser\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/voku/portable-ascii\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/mockery/mockery\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/facade/ignition\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/facade/ignition-contracts\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/facade/flare-client-php\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/inflector\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/instantiator\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/doctrine/lexer\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/laravel/framework\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/laravel/tinker\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/psy/psysh\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/fideloper/proxy\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/dragonmantank/cron-expression\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/myclabs/deep-copy\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/fruitcake/laravel-cors\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/nesbot/carbon\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/paragonie/random_compat\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phpdocumentor/type-resolver\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phpdocumentor/reflection-common\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phpoption/phpoption\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/nunomaduro/collision\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/ralouphie/getallheaders\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phar-io/version\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phar-io/manifest\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/sebastian/resource-operations\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/sebastian/recursion-context\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/sebastian/global-state\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/sebastian/diff\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/sebastian/exporter\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/sebastian/object-enumerator\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/sebastian/environment\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/sebastian/comparator\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/sebastian/object-reflector\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/sebastian/version\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/sebastian/type\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/scrivo/highlight.php\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phpunit/php-token-stream\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phpunit/php-text-template\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phpunit/php-timer\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phpunit/php-file-iterator\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phpunit/php-code-coverage\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/phpunit/phpunit\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/hamcrest/hamcrest-php\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/swiftmailer/swiftmailer\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-php80\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/error-handler\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/http-foundation\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/http-client-contracts\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/routing\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/event-dispatcher\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/css-selector\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/translation\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-mbstring\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-ctype\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/service-contracts\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/mime\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/finder\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/string\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/deprecation-contracts\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-php72\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/process\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/vlucas/phpdotenv\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-php70\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/http-kernel\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-php73\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/console\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/translation-contracts\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-iconv\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/var-dumper\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/monolog/monolog\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/webmozart/assert\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/fzaninotto/faker\" />\r\n      <path value=\"$PROJECT_DIR$/vendor/composer\" />\r\n    </include_path>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1io7p1JOdFbfV4bU58UqMpUGZPj\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/resources/views\" />\r\n    <property name=\"node.js.detected.package.eslint\" value=\"true\" />\r\n    <property name=\"node.js.detected.package.tslint\" value=\"true\" />\r\n    <property name=\"node.js.path.for.package.eslint\" value=\"project\" />\r\n    <property name=\"node.js.path.for.package.tslint\" value=\"project\" />\r\n    <property name=\"node.js.selected.package.eslint\" value=\"(autodetect)\" />\r\n    <property name=\"node.js.selected.package.tslint\" value=\"(autodetect)\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"org.jetbrains.plugins.github.ui.GithubSettingsConfigurable\" />\r\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\laragon\\www\\LearningKidsCodigo\\resources\\views\" />\r\n      <recent name=\"C:\\laragon\\www\\LearningKidsCodigo\\resources\\views\\Español\" />\r\n      <recent name=\"C:\\wamp64\\www\\LearningKidsCodigo\\resources\\views\\Español\" />\r\n      <recent name=\"C:\\laragon\\www\\LearningKids-TechnoTeam\\resources\\views\\Español\" />\r\n      <recent name=\"C:\\laragon\\www\\LearningKids-TechnoTeam\\resources\\views\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"phpunit.xml\" type=\"PHPUnitRunConfigurationType\" factoryName=\"PHPUnit\">\r\n      <TestRunner scope=\"XML\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"d12242a2-e73d-4acb-8be6-1a43953a38f4\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1602562269907</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1602562269907</updated>\r\n      <workItem from=\"1602562271229\" duration=\"691000\" />\r\n      <workItem from=\"1602621195159\" duration=\"3088000\" />\r\n      <workItem from=\"1602696106756\" duration=\"9213000\" />\r\n      <workItem from=\"1602789047371\" duration=\"1013000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Primer Sprint Techno Team\">\r\n      <created>1602562454321</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602562454321</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Sprint1 Sindy\">\r\n      <created>1602624294504</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602624294504</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Sprint1 Daniela\">\r\n      <created>1602697826940</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602697826940</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Sprint1 Daniela\">\r\n      <created>1602698456597</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602698456597</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Sprint1 Daniela\">\r\n      <created>1602701290739</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602701290739</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Sprint1 Daniela\">\r\n      <created>1602701914817</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602701914817</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Sprint1 Daniela\">\r\n      <created>1602702553739</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602702553739</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Sprint2 Daniela\">\r\n      <created>1602886825752</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602886825752</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Sprint2 Daniela\">\r\n      <created>1602887219100</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602887219100</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Sprint2 Daniela\">\r\n      <created>1602887274267</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1602887274267</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"11\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Primer Sprint Techno Team\" />\r\n    <MESSAGE value=\"Sprint1 Sindy\" />\r\n    <MESSAGE value=\"Sprint1 Daniela\" />\r\n    <MESSAGE value=\"Sprint2 Daniela\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Sprint2 Daniela\" />\r\n  </component>\r\n  <component name=\"WindowStateProjectService\">\r\n    <state x=\"300\" y=\"0\" key=\"CommitChangelistDialog2\" timestamp=\"1602887273500\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"300\" y=\"0\" key=\"CommitChangelistDialog2/0.0.1366.728@0.0.1366.728\" timestamp=\"1602887273500\" />\r\n    <state x=\"300\" y=\"0\" key=\"CommitChangelistDialog2/0.0.1366.768@0.0.1366.768\" timestamp=\"1602562451181\" />\r\n    <state x=\"463\" y=\"125\" key=\"FileChooserDialogImpl\" timestamp=\"1602562282575\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"768\" />\r\n    </state>\r\n    <state x=\"463\" y=\"125\" key=\"FileChooserDialogImpl/0.0.1366.768@0.0.1366.768\" timestamp=\"1602562282575\" />\r\n    <state x=\"474\" y=\"303\" key=\"NewPhpFileDialog\" timestamp=\"1602623197381\">\r\n      <screen x=\"0\" y=\"0\" width=\"1280\" height=\"760\" />\r\n    </state>\r\n    <state x=\"474\" y=\"303\" key=\"NewPhpFileDialog/0.0.1280.760@0.0.1280.760\" timestamp=\"1602623197381\" />\r\n    <state x=\"184\" y=\"29\" key=\"SettingsEditor\" timestamp=\"1602562325681\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"768\" />\r\n    </state>\r\n    <state x=\"184\" y=\"29\" key=\"SettingsEditor/0.0.1366.768@0.0.1366.768\" timestamp=\"1602562325681\" />\r\n    <state x=\"275\" y=\"111\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1602887282218\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"258\" y=\"116\" key=\"Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760\" timestamp=\"1602624410267\" />\r\n    <state x=\"275\" y=\"111\" key=\"Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728\" timestamp=\"1602887282218\" />\r\n    <state x=\"275\" y=\"117\" key=\"Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768\" timestamp=\"1602562503548\" />\r\n    <state x=\"500\" y=\"277\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1602901739079\">\r\n      <screen x=\"0\" y=\"0\" width=\"1366\" height=\"728\" />\r\n    </state>\r\n    <state x=\"500\" y=\"277\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728\" timestamp=\"1602901739079\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 54cf403c7672356b95066d5a02f1f30bd19beab5)
++++ .idea/workspace.xml	(date 1603002811683)
+@@ -16,29 +16,13 @@
+         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+       </path>
+     </expand>
+-    <select>
+-      <path>
+-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+-      </path>
+-    </select>
++    <select />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
++    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Primer Sprint Techno Team">
++      <change afterPath="$PROJECT_DIR$/resources/views/Español/pantallaDeBombas.blade.php" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resources/views/Español/Rondas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/Rondas.blade.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuento.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuento.blade.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentoNavidad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentoNavidad.blade.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosAventuras.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosAventuras.blade.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosFantasticos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosFantasticos.blade.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosInfantiles.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosInfantiles.blade.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosParaDormir.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosParaDormir.blade.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosPoliciales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosPoliciales.blade.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosRealistas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosRealistas.blade.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaClaseMat.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaClaseMat.blade.php" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -174,23 +158,15 @@
+   <component name="PropertiesComponent">
+     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="WebServerToolWindowFactoryState" value="false" />
+-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
+-    <property name="node.js.detected.package.eslint" value="true" />
+-    <property name="node.js.detected.package.tslint" value="true" />
+-    <property name="node.js.path.for.package.eslint" value="project" />
+-    <property name="node.js.path.for.package.tslint" value="project" />
+-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/Español" />
+     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+     <property name="vue.rearranger.settings.migration" value="true" />
+   </component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+-      <recent name="C:\laragon\www\LearningKidsCodigo\resources\views" />
+       <recent name="C:\laragon\www\LearningKidsCodigo\resources\views\Español" />
+-      <recent name="C:\wamp64\www\LearningKidsCodigo\resources\views\Español" />
++      <recent name="C:\laragon\www\LearningKidsCodigo\resources\views\Ciencias Sociales" />
+       <recent name="C:\laragon\www\LearningKids-TechnoTeam\resources\views\Español" />
+       <recent name="C:\laragon\www\LearningKids-TechnoTeam\resources\views" />
+     </key>
+@@ -202,9 +178,6 @@
+     </configuration>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-  <component name="SvnConfiguration">
+-    <configuration />
+-  </component>
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+       <changelist id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="" />
+@@ -213,9 +186,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1602562269907</updated>
+       <workItem from="1602562271229" duration="691000" />
+-      <workItem from="1602621195159" duration="3088000" />
+-      <workItem from="1602696106756" duration="9213000" />
+-      <workItem from="1602789047371" duration="1013000" />
++      <workItem from="1602620040831" duration="300000" />
+     </task>
+     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
+       <created>1602562454321</created>
+@@ -224,70 +195,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1602562454321</updated>
+     </task>
+-    <task id="LOCAL-00002" summary="Sprint1 Sindy">
+-      <created>1602624294504</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1602624294504</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="Sprint1 Daniela">
+-      <created>1602697826940</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1602697826940</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="Sprint1 Daniela">
+-      <created>1602698456597</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1602698456597</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="Sprint1 Daniela">
+-      <created>1602701290739</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1602701290739</updated>
+-    </task>
+-    <task id="LOCAL-00006" summary="Sprint1 Daniela">
+-      <created>1602701914817</created>
+-      <option name="number" value="00006" />
+-      <option name="presentableId" value="LOCAL-00006" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1602701914817</updated>
+-    </task>
+-    <task id="LOCAL-00007" summary="Sprint1 Daniela">
+-      <created>1602702553739</created>
+-      <option name="number" value="00007" />
+-      <option name="presentableId" value="LOCAL-00007" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1602702553739</updated>
+-    </task>
+-    <task id="LOCAL-00008" summary="Sprint2 Daniela">
+-      <created>1602886825752</created>
+-      <option name="number" value="00008" />
+-      <option name="presentableId" value="LOCAL-00008" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1602886825752</updated>
+-    </task>
+-    <task id="LOCAL-00009" summary="Sprint2 Daniela">
+-      <created>1602887219100</created>
+-      <option name="number" value="00009" />
+-      <option name="presentableId" value="LOCAL-00009" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1602887219100</updated>
+-    </task>
+-    <task id="LOCAL-00010" summary="Sprint2 Daniela">
+-      <created>1602887274267</created>
+-      <option name="number" value="00010" />
+-      <option name="presentableId" value="LOCAL-00010" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1602887274267</updated>
+-    </task>
+-    <option name="localTasksCounter" value="11" />
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -307,38 +215,28 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Primer Sprint Techno Team" />
+-    <MESSAGE value="Sprint1 Sindy" />
+-    <MESSAGE value="Sprint1 Daniela" />
+-    <MESSAGE value="Sprint2 Daniela" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Sprint2 Daniela" />
++    <option name="LAST_COMMIT_MESSAGE" value="Primer Sprint Techno Team" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602887273500">
+-      <screen x="0" y="0" width="1366" height="728" />
++    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1602562451181">
++      <screen x="0" y="0" width="1366" height="768" />
+     </state>
+-    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602887273500" />
+     <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602562451181" />
+     <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1602562282575">
+       <screen x="0" y="0" width="1366" height="768" />
+     </state>
+     <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1602562282575" />
+-    <state x="474" y="303" key="NewPhpFileDialog" timestamp="1602623197381">
+-      <screen x="0" y="0" width="1280" height="760" />
+-    </state>
+-    <state x="474" y="303" key="NewPhpFileDialog/0.0.1280.760@0.0.1280.760" timestamp="1602623197381" />
+     <state x="184" y="29" key="SettingsEditor" timestamp="1602562325681">
+       <screen x="0" y="0" width="1366" height="768" />
+     </state>
+     <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602562325681" />
+-    <state x="275" y="111" key="Vcs.Push.Dialog.v2" timestamp="1602887282218">
+-      <screen x="0" y="0" width="1366" height="728" />
++    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1602562503548">
++      <screen x="0" y="0" width="1366" height="768" />
+     </state>
+-    <state x="258" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1602624410267" />
+-    <state x="275" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602887282218" />
+     <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602562503548" />
+-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602901739079">
++    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603002737569">
+       <screen x="0" y="0" width="1366" height="728" />
+     </state>
+-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602901739079" />
++    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603002737569" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: resources/views/Español/pantallaDeBombas.blade.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- resources/views/Español/pantallaDeBombas.blade.php	(date 1602999143548)
++++ resources/views/Español/pantallaDeBombas.blade.php	(date 1602999143548)
+@@ -0,0 +1,397 @@
++<!DOCTYPE html>
++<html lang="en">
++<head>
++    <meta charset="utf-8">
++
++
++    <title>Bombas</title>
++    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
++    <style>
++        .navbar{
++            background:#3B5686;
++        }
++        #separadorInferior2 .content{
++
++            width: 100%;
++            height: 100px;
++            margin-left: 0px;
++            border-bottom-left-radius:80%;
++            border-top-right-radius: 80%;
++            background: #B8DA97;
++        }
++
++
++        .card{
++            background:aliceblue;
++            border: #16D3C8  5px  double;
++            border-bottom-left-radius: 10px;
++            border-bottom-right-radius: 10px;
++            border-top-left-radius: 10px;
++            border-top-right-radius: 10px;
++
++
++        }
++
++        p{
++            text-align: center;
++        }
++
++
++        #color{
++            color: blue;
++            text-align: center;
++        }
++        #fondo{
++            border-bottom-left-radius:50%;
++            border-top-right-radius: 50%;
++
++        }
++
++    </style>
++</head>
++<body style="background: #3B5686;">
++<nav class="navbar navbar-expand-sm navbar-dark " id="navbar">
++    <div class="container-fluid">
++        <a class="navbar-brand" href="#">
++            <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" alt="" width="100">
++        </a>
++
++        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
++            <span class="navbar-toggler-icon"></span>
++        </button>
++
++        <div class="collapse navbar-collapse" id="navbarSupportedContent">
++            <ul class="navbar-nav ml-auto">
++                <!-- href me lleva a la pantalla principal -->
++                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkids.test/pantallaPrincipal">Inicio</a></li>
++                <li class="nav-item"><a class="nav-link" href="#">Español</a></li>
++                <li class="nav-item"><a class="nav-link" href="#">Matematicas</a></li>
++                <li class="nav-item"><a class="nav-link" href="#">Ciencias Naturales</a></li>
++                <li class="nav-item"><a class="nav-link" href="#">Ciencias Sociales</a></li>
++                <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
++                <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
++
++            </ul>
++        </div>
++    </div>
++</nav>
++<!-- imagen -->
++<div class="container-fluid">
++    <div class="row" id="fondo">
++        <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
++            <img  src="https://i.ibb.co/Z6GGgFS/bombas-removebg-preview.png" alt="bombas-removebg-preview"    class=" mx-auto d-block"/>
++        </div>
++    </div>
++</div>
++<!-- separador -->
++<div class="container-fluid">
++    <div id="separadorInferior2">
++        <div class="content ">
++        </div>
++    </div>
++</div>
++<div class=" mx-auto d-block" style="background:#D8E2F3 ">
++    <img <img src="https://i.ibb.co/2trCm9k/img11-removebg-preview.png" alt="img11-removebg-preview" height="300" class="mx-auto d-block "/>
++    <h2 class="text-center" >
++       ¿Qué son las Bombas?
++    </h2>
++
++    <p class="">
++        <strong><em>
++                <br>Las bombas folkloricas son un tipo de lenguaje o coplas que se recitan durante celebraciones culturales o recreativas entre dos personas especialmente hombre y mujer frente a sus compañeros.
++                Generalmente, las bombas folkloricas son frases aprendidas y algunas veces improvisadas llenas de humor, coqueteria, picardia, insultos y algunas veces de romanticismo. La forma original de comenzar a «lanzar bombas» es parar las danzas o cancion folklorica que este sonando con el grito «Bomba».
++                La mujer comienza lanzando la bomba hacia su compañero y éste debera contestarle de la mejor manera posible para no quedar avergonzado frente a todos y asi continuan hasta que hayan participado los que deseen o hasta que les acabe el ingenio.
++            </em></strong> </p>
++</div>
++
++
++
++<!-- tarjetas tipos de cuentos -->
++<div class="container-fluid">
++    <div class="row"  style="background: #bce0ee" >
++        <!-- tarjeta1 -->
++        <div class="col-md-3 pb-3" >
++            <div class="card" style="width: 18rem;">
++                <img  src="https://i.ibb.co/0QCXMrg/img12.jpg" alt="img12"  class="card mx-auto d-block"   height="170" width="200">
++                <div class="card-body">
++                    <h5 class="card-title" align="center">
++                        – El: de un tronco nació una rosa
++                        y del agua un caracol
++                        de los ojos de esta joven
++                        nacen los rayos del sol.<br>
++
++                        <br>– Ella: del cielo cayo una rosa
++                        y del pueblo una pared
++                        que dicha fuera la mía
++                        si yo cayera en su red.
++                        <br>
++                    </h5>
++                </div>
++                <iframe src="https://drive.google.com/file/d/1JBrUJyZGkR0KDilDiS349zjb_IhNP5_K/preview" width="280" height="100"></iframe>
++            </div>
++        </div>
++        <!-- tarjeta2 -->
++        <div class="col-md-3">
++            <div class="card" style="width: 18rem;">
++                <img src="https://i.ibb.co/SP3PMHs/img11.jpg" alt="img11" class="card mx-auto d-block"   height="170" width="200">
++                <div class="card-body">
++                    <h5 class="card-title" align="center">– El: Desde lejos he venido
++                        rodando como tusa
++                        solo por venirte a ver
++                        niña ojitos de guatusa.<br>
++
++                        <br>– Ella: Si desde lejos as venido
++                        a mi no me digas eso
++                        mejor anda báñate
++                        y te quitas esas costras del pescueso.
++                    </h5>
++                </div>
++                <iframe src="https://drive.google.com/file/d/1etH_vVpoyCHxgoIkQrNAN0xEY2xY6DD7/preview" width="280" height="100"></iframe>
++            </div>
++        </div>
++        <!-- tarjeta3 -->
++        <div class="col-md-3">
++            <div class="card" style="width: 18rem;">
++                <img  src="https://i.ibb.co/vZMtf2v/img9.jpg" alt="img9"  class="card mx-auto d-block"   height="170" width="200">
++                <div class="card-body">
++                    <h5 class="card-title" align="center">– Ella: En la puerta de mi casa
++                        voy a sembrar un romero
++                        para los hombres sinvergüenzas
++                        que enamoran sin dinero.<br>
++
++                        <br>– El: Desde mi casa he venido
++                        atrrastrando este capote;
++                        Solo por venir a ver
++                        Canillas de zopilote.</h5>
++                </div>
++                <iframe src="https://drive.google.com/file/d/1isr8W1_x7oS6SCxx__WUQFlzMTyesEZ5/preview" width="280" height="100"></iframe>
++            </div>
++        </div>
++        <!-- tarjeta4 -->
++        <div class="col-md-3">
++            <div class="card" style="width: 18rem;">
++                <img  src="https://i.ibb.co/9yFDpGf/img10.jpg" alt="img10"   class="card mx-auto d-block"   height="170" width="200">
++                <div class="card-body">
++                    <h5 class="card-title" align="center">– El: aquí te traigo niñita
++                        una ramita de albahaca,
++                        no te la traje más grande
++                        porque se la comió la vaca.<br>
++                        – Ella: esta ramita de albahaca
++                        que usted me trae, buen mozo;
++                        no se la comió la vaca
++                        fue este burro e’ Sinforoso.</h5>
++                </div>
++                <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
++            </div>
++        </div>
++
++        <!-- tarjeta5 -->
++        <div class="container-fluid">
++            <div class="row" style="background: #bce0ee">
++                <div class="col-md-3 pb-3">
++                    <div class="card" style="width: 18rem;">
++                        <img  src="https://i.ibb.co/k4nc06d/img7.jpg" alt="img7"  class="card mx-auto d-block"  height="170" width="200">
++                        <div class="card-body">
++                            <h5 class="card-title" align="center">-El:
++
++                                Si regreso sano y salvo
++
++                                Dios me deje regresar;
++
++                                prepárate niña mía
++
++                                que nos vamos a casar.<br>
++                                -Ella:
++
++                                Si me matan en la guerra
++
++                                y termina mi ilusión,
++
++                                yo te pido aquí una lágrima
++
++                                un suspiro, una oración.</h5>
++                        </div>
++                        <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
++                    </div>
++                </div>
++                <!-- tarjeta6 -->
++                <div class="col-md-3">
++                    <div class="card" style="width: 18rem;">
++                        <img src="https://i.ibb.co/wSLRsk1/img6.jpg" alt="img6"  class="card mx-auto d-block"   height="170" width="200">
++                        <div class="card-body">
++                            <h5 class="card-title" align="center">– El: ayer me dijiste que hoy,
++                                hoy me decís que mañana,
++                                cuando me digas que sí
++                                ya no voy a tener ganas.<br>
++
++                                – Ella: yo no te he dicho que sí,
++                                indio curtido y mugroso;
++                                como bien lo ves a ti,
++                                no te quiero por piojoso.</h5>
++                        </div>
++                        <iframe src="https://drive.google.com/file/d/1EXe6yUZOzaNXyInqhM8h9k6foO32chj_/preview" width="280" height="100"></iframe>
++                    </div>
++                </div>
++                <!-- tarjeta7 -->
++                <div class="col-md-3">
++                    <div class="card" style="width: 18rem;">
++                        <img src="https://i.ibb.co/KwqKcVB/img5.jpg" alt="img5"  class="card mx-auto d-block"  height="170" width="200">
++                        <div class="card-body">
++                            <h5 class="card-title" align="center">– El: la mujer que ama a dos hombres
++                                no es tonta sino entendida
++                                si una vela se le apaga
++                                la otra ya está encendida.<br>
++
++                                – Ella: un hombre con dos mujeres
++                                de papo se pasa a veces
++                                no cumple con sus deberes
++                                y al final paga con creces.</h5>
++                        </div>
++                        <iframe src="https://drive.google.com/file/d/1ginIO8RyXkqU4LrlU2nCv91sFdlid4Vi/preview" width="280" height="100"></iframe>
++                    </div>
++                </div>
++                <!-- tarjeta8 -->
++                <div class="col-md-3">
++                    <div class="card " style="width: 18rem;">
++                        <img  src="https://i.ibb.co/72TKSbB/img4.jpg" alt="img4" class="card mx-auto d-block"  height="170" width="200">
++                        <div class="card-body">
++                            <h5 class="card-title" align="center"> -El:
++
++                                Como tengo una fortuna
++
++                                que la hice honradamente;
++
++                                busco una mujer de cuna
++
++                                muy honrada y bien decente.<br>
++
++
++
++                                -Ella:
++
++                                Ya calláte Cayetano
++
++                                y no hables que tenés pisto
++
++                                si venís a pedir mi mano
++
++                                mejor prefiero a Evaristo. </h5>
++                        </div>
++                        <iframe src="https://drive.google.com/file/d/1mxMn5XuboDessRU39nReOG-ro3mWnskC/preview" width="280" height="100"></iframe>
++                    </div>
++                </div>
++            </div>
++        </div>
++        <div class="container-fluid">
++            <!-- tarjeta9 -->
++            <div class="row" style="background: #bce0ee">
++                <div class="col-md-3 pb-3">
++                    <div class="card" style="width: 18rem;">
++                        <img  src="https://i.ibb.co/f1jph6x/img3.jpg" alt="img3" class="card mx-auto d-block"   height="170" width="200">
++                        <div class="card-body">
++                            <h5 class="card-title" align="center"> – El: viene la luna hermosa
++                                con su lucero en campaña
++                                qué triste se mira un hombre
++                                cuando su mujer lo engaña.<br>
++
++                                <br>– Ella: a los ángeles del cielo
++                                voy a mandarles a pedir
++                                una pluma de sus alas
++                                para poderte escribir.</h5>
++                        </div>
++                        <iframe src="https://drive.google.com/file/d/1Zk0a1p1Xwu94eKSfKF93R9dUi658W0A1/preview" width="280" height="100"></iframe>
++                    </div>
++                </div>
++                <!-- tarjeta10 -->
++                <div class="col-md-3 " >
++                    <div class="card" style="width: 18rem;">
++                        <img src="https://i.ibb.co/qMb0ksP/img2.jpg" alt="img2"  class="card mx-auto d-block"  height="170" width="200">
++                        <div class="card-body">
++                            <h5 class="card-title" align="center"> – El: la mujer con quien me case
++                                llenará esta condición
++                                será la flor que se deshace
++                                perfumando el corazón.<br>
++
++                                – Ella: el hombre que me aprisione
++                                llenará esta condición
++                                permitirme que lo ahogue
++                                el caudal de mi pasión.</h5>
++                        </div>
++                        <iframe src="https://drive.google.com/file/d/1d0j1c4gocviwV_AlJTKMW8VeLm5WNoGc/preview" width="280" height="100"></iframe>
++                    </div>
++                </div>
++                <!-- tarjeta11 -->
++                <div class="col-md-3 ">
++                    <div class="card" style="width: 18rem;">
++                        <img  src="https://i.ibb.co/dBQmq7L/img1.jpg" alt="img1"  class="card mx-auto d-block"   height="170" width="200">
++                        <div class="card-body">
++                            <h5 class="card-title" align="center">-El:
++                                Las mujeres de este tiempo
++
++                                son como el café molido,
++
++                                apenas tienen quince años
++
++                                ya quieren tener marido.<br>
++                                -Ella:
++                                Los muchachos de este tiempo
++
++                                son como el café tostado
++
++                                se  la tiran de jailosos
++
++                                y andan todos acabados.</h5>
++                        </div>
++                        <iframe src="https://drive.google.com/file/d/1MhPquPBAuESjWZ_5KR9EONp0ZmcmX1jA/preview" width="280" height="100"></iframe>
++                    </div>
++                </div>
++                <!-- tarjeta12 -->
++                <div class="col-md-3 ">
++                    <div class="card " style="width: 18rem;">
++                        <img  src="https://i.ibb.co/jv2B4kP/img8.jpg" alt="img8"class="card mx-auto d-block"  height="170" width="200">
++                        <div class="card-body">
++                            <h5 class="card-title" align="center"> -El:
++
++                                Las piñas en el piñal
++
++                                de maduras se pasan,
++
++                                así te pasará a vos
++
++                                si tu mama no te casa.<br>
++                                <br>-Ella:
++
++                                Si mi mama no me ha casao
++
++                                es porque no me ha convenido,
++
++                                si no me caso con vos
++
++                                no es de tu cuenta, metido.</h5>
++                        </div>
++                        <iframe src="https://drive.google.com/file/d/1Hz2SRP7Ee-xJhnXiWhYOenEeCWtRWmZ4/preview" width="280" height="100"></iframe>
++                    </div>
++                </div>
++            </div>
++        </div>
++    </div>
++
++
++    <!-- separador -->
++    <div id="separadorInferior2">
++        <div class="content ">
++
++        </div>
++    </div>
++
++
++
++
++
++</div>
++
++    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
++    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
++    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
++</body>
++</html>
