@@ -136,10 +136,29 @@ Route::get('Español/pantallaDeBombas', function () {
 Route::get('/lineas',function (){
     return view('Matematicas/pantallaLineas');
 });
+Route::get('/curvas',function (){
+    return view('Matematicas/lineasCurvas');
+});
+Route::get('/rectas',function (){
+    return view('Matematicas/lineasRectas');
+});
 
+Route::get('/poligonales',function (){
+    return view('Matematicas/lineasPoligonales');
+});
 Route::get('figura',function (){
     return view('Matematicas/pantallaFigurasGeometricas');
 });
+Route::get('Matematicas/pantallaTipoDeCuadrilatero',function (){
+    return view('Matematicas/pantallaTipoDeCuadrilatero');
+});
+Route::get('Matematicas/pantallaTiposDeTriangulos',function (){
+    return view('Matematicas/pantallaTiposDeTriangulos');
+});
+Route::get('Matematicas/pantallaOtrasFiguras',function (){
+    return view('Matematicas/pantallaOtrasFiguras');
+});
+
 Route::get('/numerosNaturales',function (){
     return view('Matematicas/numeroNaturales');
 });
@@ -169,6 +188,9 @@ Route::get('/tipoRelacionObjetTamaños',function (){
 });
 Route::get('/tipoRelacionObjetTiempo',function (){
     return view('Matematicas/tipoRelacionObjetTiempo');
+});
+Route::get('/sumas',function (){
+    return view('Matematicas/pantallaSumas');
 });
 
 

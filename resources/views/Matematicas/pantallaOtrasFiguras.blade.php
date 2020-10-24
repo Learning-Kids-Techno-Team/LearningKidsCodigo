@@ -71,12 +71,12 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <!-- href me lleva a la pantalla principal -->
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkids.test/pantallaPrincipal">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Sociales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
+                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
+                <li class="nav-item"><a class="nav-link" href="">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
 
             </ul>
@@ -104,7 +104,7 @@
 <div class="container-fluid">
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-md-3 pb-3" >
+        <div class="col-md-3 p-3" >
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/ys9pK7f/hexagono1-removebg-preview.png" alt="hexagono1-removebg-preview" class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -114,11 +114,11 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1JBrUJyZGkR0KDilDiS349zjb_IhNP5_K/preview" width="280" height="100"></iframe>
+                <iframe src="https://drive.google.com/file/d/12IgiEjUGVatSSBX-cQ-gtNClGDlWMHxg/preview" width="280" height="100"></iframe>
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-3">
+        <div class="col-md-3 p-3">
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/NmRf0TJ/1semic-rculo-removebg-preview.png" alt="1semic-rculo-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -127,29 +127,30 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1etH_vVpoyCHxgoIkQrNAN0xEY2xY6DD7/preview" width="280" height="100"></iframe>
+
+                <iframe src="https://drive.google.com/file/d/1CWpIJZqxQBYVrrKv2UhA8wNzj1atV6pw/preview"  width="280" height="100"></iframe>
             </div>
         </div>
         <!-- tarjeta3 -->
-        <div class="col-md-3">
+        <div class="col-md-3 p-3">
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/0By0pR0/octagono-removebg-preview.png" alt="octagono-removebg-preview"  class="card mx-auto d-block"   height="150" width="150">
                 <div class="card-body">
-                    <h1>Octagono: </h1>
+                    <h1>Octágono: </h1>
                     <h5 class="card-title" align="center">Es una figura geométrica compuesta por ocho lados y ocho ángulos.</h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1isr8W1_x7oS6SCxx__WUQFlzMTyesEZ5/preview" width="280" height="100"></iframe>
+                <iframe src="https://drive.google.com/file/d/1X9HQnnU3lX-8j-bOpA7mmi8LySCTSNHO/preview" width="280" height="100"></iframe>
             </div>
         </div>
         <!-- tarjeta4 -->
-        <div class="col-md-3">
+        <div class="col-md-3 p-3">
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/mcbkTbJ/circulo-removebg-preview.png" alt="circulo-removebg-preview"  class="card mx-auto d-block"   height="150" width="150">
                 <div class="card-body">
                     <h1>Círculo: </h1>
                     <h5 class="card-title" align="center">Figura geométrica delimitada por una circunferencia.</h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1isr8W1_x7oS6SCxx__WUQFlzMTyesEZ5/preview" width="280" height="100"></iframe>
+                <iframe src="https://drive.google.com/file/d/1HqVFOcKI_p4vA-I3iiIcP3XwfJbRJ71f/preview"  width="280" height="100"></iframe>
             </div>
         </div>
 
@@ -161,9 +162,9 @@
                         <img src="https://i.ibb.co/JQvrX1c/Estrella-removebg-preview.png" alt="Estrella-removebg-preview"   class="card mx-auto d-block"  height="150" width="180">
                         <div class="card-body">
                             <h1> Estrella: </h1>
-                            <h5 class="card-title" align="center"><br><br>es cualquier objeto con rayos <br>que parten de un centro común</h5>
+                            <h5 class="card-title" align="center"><br><br>Es cualquier objeto con rayos <br>que parten de un centro común.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1o15BCyxhiXV4sfJOXYm1dNd09trQDhoS/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta6 -->
@@ -174,7 +175,7 @@
                             <h1>Óvalo: </h1>
                             <h5 class="card-title" align="center">Figura geométrica,con dos ejes de simetría perpendiculares, compuesta de varios arcos de circunferencia tangentes entre sí.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1EXe6yUZOzaNXyInqhM8h9k6foO32chj_/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1tGDPn2U7nscsNahQPEbxrfDuuR-NcYnF/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta7 -->
@@ -186,7 +187,7 @@
                             <h5 class="card-title" align="center">  <br><br> Consiste en dos líneas o barras <br>que se cruzan en un ángulo recto.
                                 <br></h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1ginIO8RyXkqU4LrlU2nCv91sFdlid4Vi/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1wceWbzswd3NYuTQsWiCREpA1J32BUOl6/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta8 -->
@@ -198,7 +199,7 @@
                             <h5 class="card-title" align="center">  <br><br>Un Corazón tiene un total de <br>2 vértices, 2 ángulos y 2 lados.
                                 <br></h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1ginIO8RyXkqU4LrlU2nCv91sFdlid4Vi/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1ZFqMywtik4tjj6Dv0G2YJ8SAv5LpOyqU/preview"  width="280" height="100"></iframe>
                     </div>
                 </div>
 

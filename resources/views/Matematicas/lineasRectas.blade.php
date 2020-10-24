@@ -72,12 +72,12 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <!-- href me lleva a la pantalla principal -->
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkids.test/pantallaPrincipal">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Sociales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
+                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
+                <li class="nav-item"><a class="nav-link" href="">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
 
             </ul>
@@ -118,7 +118,7 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1JBrUJyZGkR0KDilDiS349zjb_IhNP5_K/preview" width="280" height="100"></iframe>
+                <iframe src="https://drive.google.com/file/d/1A_VFgN5JT986bmbT2c4YseteL2mVmDfT/preview"  width="280" height="100"></iframe>
             </div>
         </div>
         <!-- tarjeta2 -->
@@ -131,7 +131,7 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1etH_vVpoyCHxgoIkQrNAN0xEY2xY6DD7/preview" width="280" height="100"></iframe>
+                <iframe src="https://drive.google.com/file/d/1h6zgl6Y676ALRm1Rfptnmkjs4HKdjHv0/preview" width="280" height="100"></iframe>
             </div>
         </div>
 
@@ -149,7 +149,7 @@
                             <h2>Perpendicular:</h2>
                             <h5 class="card-title" align="center">Es cuando una línea corta a otra por la mitad formando un ángulo recto el cual mide 90°. </h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1u626hiA6zH0MT89eB8h3yUMs5bGmluly/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta4 -->
@@ -160,7 +160,7 @@
                             <h2>Perpendicular:</h2>
                             <h5 class="card-title" align="center">Es cuando una línea corta a otra por la mitad formando un ángulo recto el cual mide 90°.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1EXe6yUZOzaNXyInqhM8h9k6foO32chj_/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1u626hiA6zH0MT89eB8h3yUMs5bGmluly/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta5 -->
@@ -177,7 +177,7 @@
                                     <h1>Secante:</h1>
                                     <h5 class="card-title" align="center">Es aquella que corta otra recta o una curva. Puede decirse que dos rectas son secantes cuando disponen de un punto en común (aquel en el que se cruzan).  </h5>
                                 </div>
-                                <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
+                                <iframe src="https://drive.google.com/file/d/1Vx-qkfT0HBgFQJgM7YrU2WBou0r2cey8/preview" width="280" height="100"></iframe>
                             </div>
                         </div>
                         <!-- tarjeta6 -->
@@ -188,7 +188,7 @@
                                     <h1>Secante:</h1>
                                     <h5 class="card-title" align="center">Es aquella que corta otra recta o una curva. Puede decirse que dos rectas son secantes cuando disponen de un punto en común (aquel en el que se cruzan). </h5>
                                 </div>
-                                <iframe src="https://drive.google.com/file/d/1EXe6yUZOzaNXyInqhM8h9k6foO32chj_/preview" width="280" height="100"></iframe>
+                                <iframe src="https://drive.google.com/file/d/1Vx-qkfT0HBgFQJgM7YrU2WBou0r2cey8/preview"  width="280" height="100"></iframe>
                             </div>
                         </div>
                     </div>

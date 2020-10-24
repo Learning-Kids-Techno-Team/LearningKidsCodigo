@@ -71,14 +71,13 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <!-- href me lleva a la pantalla principal -->
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkids.test/pantallaPrincipal">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Sociales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
+                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
+                <li class="nav-item"><a class="nav-link" href="">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
-
             </ul>
         </div>
     </div>
@@ -118,7 +117,7 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1JBrUJyZGkR0KDilDiS349zjb_IhNP5_K/preview" width="280" height="100"></iframe>
+                <iframe src="https://drive.google.com/file/d/1UuvcBPHxH4aFVbc3gri24tyHEBdjEoGz/preview"  width="280" height="100"></iframe>
             </div>
         </div>
         <!-- tarjeta2 -->
@@ -132,7 +131,7 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1etH_vVpoyCHxgoIkQrNAN0xEY2xY6DD7/preview" width="280" height="100"></iframe>
+                <iframe src="https://drive.google.com/file/d/1RgvTEhlU1jW7tkv2LglQfvZgLxisBVZJ/preview" width="280" height="100"></iframe>
             </div>
         </div>
         <!-- tarjeta3 -->
@@ -144,7 +143,7 @@
                     <h5 class="card-title" align="center">Un triángulo isósceles tiene dos lados y dos ángulos iguales(de igual longitud) y otro no.
                         <br><br>La manera de calcular su perímetro <br>es: <br>P = 2 l + b.</h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1isr8W1_x7oS6SCxx__WUQFlzMTyesEZ5/preview" width="280" height="100"></iframe>
+                <iframe src="https://drive.google.com/file/d/17OJWl1w6E_Zx7jOMWwLIUs6ic_KvfEU0/preview" width="280" height="100"></iframe>
             </div>
         </div>
 
@@ -163,7 +162,7 @@
                             <h5 class="card-title" align="center">Se caracterizan por tener un ángulo interior recto, con un valor de 90º.
                                 Los catetos son los lados que conforman este ángulo, mientras que la hipotenusa corresponde al lado opuesto. </h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1K9Bi_1XB-fcU4pn7vlcvHVyLMBL69ei5/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta6 -->
@@ -175,7 +174,7 @@
                             <h5 class="card-title" align="center"><br>Este tipo de triángulo tiene un ángulo mayor a 90° pero menos de 180º que recibe el nombre “obtuso”,
                                 y dos ángulos agudos, los cuales son menores a 90°.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1EXe6yUZOzaNXyInqhM8h9k6foO32chj_/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1L3DjgkihS0EVF9Az0RWObqINC4rhAqU5/preview"  width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta7 -->
@@ -186,7 +185,7 @@
                             <h1> Triángulo Acutángulo:</h1>
                             <h5 class="card-title" align="center"> <br>Este tipo de triángulo <br>se caracteriza porque <br>tiene sus tres <br>ángulos que son <br>menores a 90°<br></h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1ginIO8RyXkqU4LrlU2nCv91sFdlid4Vi/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1hvIYsHbN59vfW7idrOsBlpe2gW8vIdrH/preview"  width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta8 -->
@@ -197,10 +196,10 @@
                             <h1>Triángulo equiángulo</h1>
                             <h5 class="card-title" align="center"> <br><br>Es el triángulo equilátero, puesto que sus ángulos internos <br>son iguales a 60°. </h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1mxMn5XuboDessRU39nReOG-ro3mWnskC/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1LEIdhTZTRnT_tl3M_2gYJvaTXTtE_3C8/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
-            </div>
+            </div>S
         </div>
     </div>
 

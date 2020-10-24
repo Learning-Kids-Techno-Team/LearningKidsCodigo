@@ -71,12 +71,12 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
                 <!-- href me lleva a la pantalla principal -->
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkids.test/pantallaPrincipal">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Ciencias Sociales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
+                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
+                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
+                <li class="nav-item"><a class="nav-link" href="">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
 
             </ul>
@@ -112,7 +112,7 @@
 <div class="container-fluid">
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-md-3 pb-3" >
+        <div class="col-md-3 p-3" >
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/vHq1X2C/cuadrado-removebg-preview.png" alt="cuadrado-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -121,11 +121,11 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1JBrUJyZGkR0KDilDiS349zjb_IhNP5_K/preview" width="280" height="100"></iframe>
+                <iframe src="https://drive.google.com/file/d/1dk2zFbduJza1JbVtZ9l4nLYZ43pne4yl/preview" width="280" height="100"></iframe>
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-3">
+        <div class="col-md-3 p-3">
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/ysH26t9/rectangulos.png" alt="rectangulos"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -134,29 +134,29 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1etH_vVpoyCHxgoIkQrNAN0xEY2xY6DD7/preview" width="280" height="100"></iframe>
+                <iframe src="https://drive.google.com/file/d/1AQtaS9tjUf9OcI_HJbeYeE5gB4jcTOhA/preview"  width="280" height="100"></iframe>
             </div>
         </div>
         <!-- tarjeta3 -->
-        <div class="col-md-3">
+        <div class="col-md-3 p-3">
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/fG59kgj/rombo3-removebg-preview.png" alt="rombo3-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>Rombo: </h1>
                     <h5 class="card-title" align="center">Todos los lados son iguales pero los ángulos son diferentes dos a dos, de manera que los ángulos adyacentes son diferentes y cada ángulo es igual al ángulo no adyacente.</h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1isr8W1_x7oS6SCxx__WUQFlzMTyesEZ5/preview" width="280" height="100"></iframe>
+                <iframe src="https://drive.google.com/file/d/17tFZqB1VZfuVtLL6cnBHGGKqbBgBLCrj/preview" width="280" height="100"></iframe>
             </div>
         </div>
         <!-- tarjeta4 -->
-        <div class="col-md-3">
+        <div class="col-md-3 p-3">
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/xM0PmKt/romboide2-removebg-preview.png" alt="romboide2-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>Romboide: </h1>
                     <h5 class="card-title" align="center"><br><br>Tiene sus lados y ángulos iguales dos a dos. <br><br>El romboide también es denominado paralelogramo no regular.</h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1isr8W1_x7oS6SCxx__WUQFlzMTyesEZ5/preview" width="280" height="100"></iframe>
+                <iframe src="https://drive.google.com/file/d/1dY5pv8vA0QUFAF2aBj0eJmYuXPuQyrCy/preview" width="280" height="100"></iframe>
             </div>
         </div>
 
@@ -178,7 +178,7 @@
                             <h1> Trapecio rectángulo: </h1>
                             <h5 class="card-title" align="center"><br>Se caracteriza por tener dos lados paralelos y dos ángulos consecutivos rectos (de 90º).</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/17gmAOp91uh0PhXr7mK_9JcG9j2W5IwDD/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta6 -->
@@ -189,7 +189,7 @@
                             <h1>Trapecio isósceles: </h1>
                             <h5 class="card-title" align="center">Los ángulos son iguales dos a dos. Tiene dos lados paralelos y dos oblicuos y de igual longitud.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1EXe6yUZOzaNXyInqhM8h9k6foO32chj_/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1hFi3hgSrPfxW89ZVX8uQkUyCh65ziOUy/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta7 -->
@@ -200,7 +200,7 @@
                             <h1> Trapecio escaleno: </h1>
                             <h5 class="card-title" align="center">  <br><br>Los cuatro ángulos interiores <br>son desiguales.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1ginIO8RyXkqU4LrlU2nCv91sFdlid4Vi/preview" width="280" height="100"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1GVFp6TY53MVWGU6tJSNEWc_cSTio5_Eb/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
             </div>
@@ -221,7 +221,7 @@
                                         <br>
                                     </h5>
                                 </div>
-                                <iframe src="https://drive.google.com/file/d/1JBrUJyZGkR0KDilDiS349zjb_IhNP5_K/preview" width="280" height="100"></iframe>
+                                <iframe src="https://drive.google.com/file/d/14Z7ERg0whhTm0gl1S5ZF1HGk59if7OIn/preview" width="280" height="100"></iframe>
                             </div>
                         </div>
                 </div>
