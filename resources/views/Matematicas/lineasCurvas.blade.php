@@ -110,7 +110,7 @@
 <div class="container-fluid">
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-md-3 pb-3" >
+        <div class="col-md-3 p-3" >
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/F3hhtQw/onduladas.jpg" alt="onduladas" class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -122,7 +122,7 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-3">
+        <div class="col-md-3 p-3">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/2ZnqxNh/quebrada.jpg" alt="quebrada"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -134,7 +134,7 @@
             </div>
         </div>
             <!-- tarjeta3-->
-            <div class="col-md-3">
+            <div class="col-md-3 p-3">
                 <div class="card mx-auto d-block" style="width: 18rem;">
                     <img src="https://i.ibb.co/bbBD7dv/espiral.jpg" alt="espiral" class="card mx-auto d-block"   height="150" width="200">
                     <div class="card-body">
@@ -146,7 +146,7 @@
                 </div>
             </div>
                 <!-- tarjeta4 -->
-                <div class="col-md-3">
+                <div class="col-md-3 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/wNP365M/curva.png" alt="curva"  class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">

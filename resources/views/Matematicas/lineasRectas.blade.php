@@ -109,7 +109,7 @@
 <div class="container-fluid">
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-md-6 pb-3" >
+        <div class="col-md-6 p-3" >
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/DL2c4D1/horizontal-line-removebg-preview.png" alt="horizontal-line-removebg-preview" class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -122,7 +122,7 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-6">
+        <div class="col-md-6 p-3">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/cQPRP8y/vertical-line-removebg-preview.png" alt="vertical-line-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">

@@ -107,7 +107,7 @@
 <div class="container-fluid">
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-md-3 pb-3" >
+        <div class="col-md-3 p-3" >
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/Pz6z2hW/images-removebg-preview.png" alt="images-removebg-preview" class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -118,7 +118,7 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-3">
+        <div class="col-md-3 p-3">
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/RDp6H0P/maties-4314-a-e335f-removebg-preview.png" alt="maties-4314-a-e335f-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -129,7 +129,7 @@
             </div>
         </div>
         <!-- tarjeta3 -->
-        <div class="col-md-3">
+        <div class="col-md-3 p-3">
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/f8J3FKJ/poligonals-removebg-preview.png" alt="poligonals-removebg-preview"   class="card mx-auto d-block"   height="150" width="150">
                 <div class="card-body">
@@ -139,7 +139,7 @@
             </div>
         </div>
         <!-- tarjeta4 -->
-        <div class="col-md-3">
+        <div class="col-md-3 p-3">
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/PxdWGWj/imagen-1-1462447250-removebg-preview.png" alt="imagen-1-1462447250-removebg-preview"  class="card mx-auto d-block"   height="150" width="150">
                 <div class="card-body">
