@@ -136,15 +136,6 @@ Route::get('Español/pantallaDeBombas', function () {
 Route::get('/lineas',function (){
     return view('Matematicas/pantallaLineas');
 });
-Route::get('/rectas',function (){
-    return view('Matematicas/lineasRectas');
-});
-Route::get('/curvas',function (){
-    return view('Matematicas/lineasCurvas');
-});
-Route::get('/poligonales',function (){
-    return view('Matematicas/lineasPoligonales');
-});
 
 Route::get('figura',function (){
     return view('Matematicas/pantallaFigurasGeometricas');
@@ -155,21 +146,30 @@ Route::get('/numerosNaturales',function (){
 Route::get('/relacionObjetos',function (){
     return view('Matematicas/relacionObjetos');
 });
-Route::get('Matematicas/pantallaTipoDeCuadrilatero',function (){
-    return view('Matematicas/pantallaTipoDeCuadrilatero');
-});
-Route::get('Matematicas/pantallaTiposDeTriangulos',function (){
-    return view('Matematicas/pantallaTiposDeTriangulos');
-});
-Route::get('Matematicas/pantallaOtrasFiguras',function (){
-    return view('Matematicas/pantallaOtrasFiguras');
-});
 
-Route::get('/restas',function (){
-    return view('Matematicas/pantallaRestas');
+//Numeros Ordinales/Matematicas
+Route::get('/NumerosOrdinales',function (){
+    return view('Matematicas/NumerosOrdinales');
 });
-
-
+//Rutas Tipo Relacion de Objetos/Matematicas
+Route::get('/tipoRelacionObjetColores',function (){
+    return view('Matematicas/tipoRelacionObjetColores');
+});
+Route::get('/tipoRelacionObjectDistancias',function (){
+    return view('Matematicas/tipoRelacionObjetDistancias');
+});
+Route::get('/tipoRelacionObjetEspesores',function (){
+    return view('Matematicas/tipoRelacionObjetEspesores');
+});
+Route::get('/tipoRelacionObjetPosiciones',function (){
+    return view('Matematicas/tipoRelacionObjetPosiciones');
+});
+Route::get('/tipoRelacionObjetTamaños',function (){
+    return view('Matematicas/tipoRelacionObjetTamaños');
+});
+Route::get('/tipoRelacionObjetTiempo',function (){
+    return view('Matematicas/tipoRelacionObjetTiempo');
+});
 
 
 
@@ -182,32 +182,6 @@ Route::get('/restas',function (){
 
 
 /*rutas de ciencias Sociales*/
-
-
-
-/*rutas de actividades*/
-
-
-Route::get('/pantallaA',function (){
-    return view('Actividades/pantallaActividades');
-});
-
-Route::get('/restaA',function (){
-    return view('Actividades/restaActividad');
-});
-
-
-Route::get('/sumaA',function (){
-    return view('Actividades/sumaActividad');
-});
-
-
-Route::get('/lineaA',function (){
-    return view('Actividades/lineaActividad');
-});
-
-
-
 
 
 
