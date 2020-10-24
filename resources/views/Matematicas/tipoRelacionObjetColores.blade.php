@@ -47,14 +47,6 @@
         }
 
 
-
-        .btn {
-
-            background: #FDFD96;
-            border: gold 1px solid;
-        }
-
-
         #color{
             color: darkgreen;
 
@@ -63,7 +55,7 @@
     </style>
 </head>
 <body>
-
+<!-- contenedor navbar-->
 <nav class="navbar navbar-expand-sm navbar-dark " id="navbar">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">
