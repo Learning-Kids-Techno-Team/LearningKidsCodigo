@@ -113,13 +113,12 @@
                 <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
                 <li class="nav-item"><a class="nav-link" href="">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
-
             </ul>
         </div>
     </div>
 </nav>
 
-<!-- contenedor del gif-->
+<!-- contenedor-->
 <div class="container-fluid" id="h">
     <div class="row ">
         <div class="col-md-4"><br>

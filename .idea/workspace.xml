@@ -25,8 +25,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint2 Sindy">
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sindy G. Sprint1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPrincipalDeCienciasNaturales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPrincipalDeCienciasNaturales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasAnimales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasAnimales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasCortas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasCortas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasFrutas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasFrutas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasNumeros.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasNumeros.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasTransportes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasTransportes.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603534953720</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Sindy G. Sprint1">
+      <created>1603535608588</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603535608588</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +330,8 @@
     <MESSAGE value="Sprint2 Daniela" />
     <MESSAGE value="Sindy Sprint2" />
     <MESSAGE value="Sprint2 Sindy" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint2 Sindy" />
+    <MESSAGE value="Sindy G. Sprint1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sindy G. Sprint1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1603053893294">
@@ -336,10 +351,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602562325681" />
-    <state x="258" y="116" key="Vcs.Push.Dialog.v2" timestamp="1603534996623">
+    <state x="258" y="116" key="Vcs.Push.Dialog.v2" timestamp="1603535831601">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="258" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1603534996623" />
+    <state x="258" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1603535831601" />
     <state x="275" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603053910396" />
     <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602562503548" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603077891936">
