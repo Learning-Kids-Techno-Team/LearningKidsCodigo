@@ -178,7 +178,7 @@ Route::get('/NumerosOrdinales',function (){
 Route::get('/tipoRelacionObjetColores',function (){
     return view('Matematicas/tipoRelacionObjetColores');
 });
-Route::get('/tipoRelacionObjectDistancias',function (){
+Route::get('/tipoRelacionObjetDistancias',function (){
     return view('Matematicas/tipoRelacionObjetDistancias');
 });
 Route::get('/tipoRelacionObjetEspesores',function (){

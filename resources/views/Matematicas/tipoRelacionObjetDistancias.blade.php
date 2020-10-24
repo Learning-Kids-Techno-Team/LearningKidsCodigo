@@ -13,7 +13,7 @@
 
         body{
 
-            background: #D8E2F3;
+            background: #FFEECC;
 
         }
 

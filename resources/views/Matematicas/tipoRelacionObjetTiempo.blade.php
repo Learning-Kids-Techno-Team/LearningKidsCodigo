@@ -87,7 +87,7 @@
     </div>
 </nav>
 
-<!-- contenedor del gif-->
+<!-- contenedor Concepto-->
 <div class="container-fluid" id="h">
     <div class="row ">
         <div class="col-md-4 ">
