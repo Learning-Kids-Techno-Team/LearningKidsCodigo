@@ -24,11 +24,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint2 Techno Team">
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/lineasCurvas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/lineasCurvas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/lineasPoligonales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/lineasPoligonales.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/lineasRectas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/lineasRectas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,9 +211,6 @@
       <workItem from="1603251992894" duration="4036000" />
       <workItem from="1603299496886" duration="4806000" />
       <workItem from="1603509721105" duration="9940000" />
-      <workItem from="1603556155911" duration="160000" />
-      <workItem from="1603557855475" duration="431000" />
-      <workItem from="1603558504669" duration="1206000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -301,14 +296,7 @@
       <option name="project" value="LOCAL" />
       <updated>1603519011759</updated>
     </task>
-    <task id="LOCAL-00013" summary="Sprint2 Techno Team">
-      <created>1603558745401</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1603558745401</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,16 +357,16 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="470" y="100" key="VCS.ChangeListViewerDialog/0.0.1366.768@0.0.1366.768" timestamp="1603321930134" />
-    <state x="275" y="111" key="Vcs.Push.Dialog.v2" timestamp="1603558752675">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1603519025368">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="258" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1602624410267" />
-    <state x="275" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603558752675" />
+    <state x="275" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602887282218" />
     <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1603519025368" />
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603558651747">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="500" y="292" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603321933360">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603558651747" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603078964863" />
     <state x="500" y="292" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1603321933360" />
   </component>
 </project>
