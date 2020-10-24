@@ -125,7 +125,7 @@
 
 
 <!-- tarjetas de tipos de figuras geometricas -->
-<div class="container-fluid" style="background: #f8cfc6 ">
+<div class="container-fluid pb-5" style="background: #f8cfc6 ">
     <div class="row ">
         <div class="col-md-12 pb-3 ">
             <h3>Las Lineas</h3>
@@ -164,12 +164,16 @@
     </div>
 </div>
 
-<!-- separador -->
-<div id="separadorInferior2 ">
-    <div class="content">
+
+
+
+<div  id="separadorInferior2">
+    <div class="content ">
 
     </div>
 </div>
+
+
 
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

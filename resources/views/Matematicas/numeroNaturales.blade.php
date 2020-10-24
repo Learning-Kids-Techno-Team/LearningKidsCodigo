@@ -108,7 +108,7 @@
 <div class="container-fluid" id="h">
     <div class="row ">
         <div class="col-md-4 " >
-        <img   src="https://i.ibb.co/BnBsrtz/arbol-removebg-preview.png"  height="300">
+            <img   src="https://i.ibb.co/BnBsrtz/arbol-removebg-preview.png" height="300">
         </div>
 
         <div class="col-md-8 " >

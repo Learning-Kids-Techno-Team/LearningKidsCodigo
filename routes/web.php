@@ -175,12 +175,39 @@ Route::get('/restas',function (){
 
 
 
+
 /*rutas de ciencias Naturales*/
 
 
 
 
 /*rutas de ciencias Sociales*/
+
+
+
+/*rutas de actividades*/
+
+
+Route::get('/pantallaA',function (){
+    return view('Actividades/pantallaActividades');
+});
+
+Route::get('/restaA',function (){
+    return view('Actividades/restaActividad');
+});
+
+
+Route::get('/sumaA',function (){
+    return view('Actividades/sumaActividad');
+});
+
+
+Route::get('/lineaA',function (){
+    return view('Actividades/lineaActividad');
+});
+
+
+
 
 
 

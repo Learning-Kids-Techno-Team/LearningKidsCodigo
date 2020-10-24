@@ -125,14 +125,14 @@
 
 
 <!-- tarjetas de tipos de figuras geometricas -->
-    <div class="container-fluid " style="background: #f8cfc6 ">
+    <div class="container-fluid pb-5 " style="background: #f8cfc6 ">
         <div class="row">
-            <div class="col-md-12 pb-3 ">
+            <div class="col-md-12 pb-3">
                 <h3>Figuras Geometricas</h3>
             </div>
         </div>
         <div class="row mx-auto">
-            <div class="col-md-4">
+            <div class="col-md-4 d-flex justify-content-center">
                 <div class="card" style="width: 18rem;">
                     <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/triangle-5258735_960_720.png" width="210" >
                     <div class="card-body">
@@ -141,7 +141,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 d-flex justify-content-center">
                 <div class="card" style="width: 18rem;">
                     <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/square-5258734_960_720.png" width="300" alt="...">
                     <div class="card-body">
@@ -150,7 +150,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4">
+            <div class="col-md-4 d-flex justify-content-center">
                 <div class="card" style="width: 18rem;">
                     <img src="https://i.ibb.co/4YyK2hd/conjunto-formas-geometria-matematica-1639-6401-removebg-preview.png"   class="card-img-top" alt="...">
                     <div class="card-body">
@@ -166,12 +166,14 @@
         </div>
     </div>
 
-<!-- separador -->
-<div id="separadorInferior2 ">
-    <div class="content">
+
+
+<div  id="separadorInferior2">
+    <div class="content ">
 
     </div>
 </div>
+
 
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>

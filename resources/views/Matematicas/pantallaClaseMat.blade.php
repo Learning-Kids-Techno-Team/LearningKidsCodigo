@@ -223,21 +223,46 @@
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/zG6gz8B/sfn-removebg-preview.png"   class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Menor que <br>y <br> mayor que </h3>
             </div>
             <div class="col-md-4 pb-5">
-
             </div>
             <div class="col-md-4" align="right">
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/MngXsLY/coins-removebg-preview.png"     class="rounded-circle mx-auto d-block bg-info"width="150"><h3>La moneda</h3>
             </div>
         </div>
-        <div class="container-fluid" style="background: #FEB472">
-            <div class="row  pb-5">
-                <div class="col-md-12">
+
+
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-3">
+
+                </div>
+                <div class="col-md-3">
                     <img alt="Vista previa de la imagen de Bootstrap"   src="https://i.ibb.co/8KYJhD6/metro-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Longitud</h3>
+                </div>
+                <div class="col-md-3">
+                    <a href="http://learningkidscodigo.test/pantallaA">
+                    <img alt="Vista previa de la imagen de Bootstrap"   src="https://i.ibb.co/KymRv4b/80386333-ilustraci-n-vectorial-de-ni-o-de-la-escuela-con-un-libro-con-l-piz-gigante-removebg-preview.png"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Actividades</h3>
+                    </a>
+                </div>
+                <div class="col-md-3">
+
                 </div>
             </div>
         </div>
 
-    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
