@@ -228,8 +228,15 @@ Route::get('/sumaA',function (){
 Route::get('/lineaA',function (){
     return view('Actividades/lineaActividad');
 });
-
-
+Route::get('/figuraA',function (){
+    return view('Actividades/figuraActividad');
+});
+Route::get('/ordinales',function (){
+    return view('Actividades/numerosOrdinalesActividad');
+});
+Route::get('/relacion',function (){
+    return view('Actividades/relacionActividad');
+});
 
 
 
