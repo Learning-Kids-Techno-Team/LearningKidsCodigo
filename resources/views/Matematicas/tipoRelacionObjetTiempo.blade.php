@@ -60,7 +60,7 @@
     </style>
 </head>
 <body>
-
+<!-- contenedor navbar-->
 <nav class="navbar navbar-expand-sm navbar-dark " id="navbar">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">
@@ -87,7 +87,7 @@
     </div>
 </nav>
 
-<!-- contenedor del gif-->
+<!-- contenedor Concepto-->
 <div class="container-fluid" id="h">
     <div class="row ">
         <div class="col-md-4 ">

@@ -13,7 +13,7 @@
 
         body{
 
-            background: #dcfecb;
+            background: #FFEECC;
 
         }
 
@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-
+<!-- contenedor navbar-->
 <nav class="navbar navbar-expand-sm navbar-dark " id="navbar">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">

@@ -133,6 +133,10 @@ Route::get('Español/pantallaDeBombas', function () {
 
 /*Rutas de Matematicas*/
 
+Route::get('/restas',function (){
+    return view('Matematicas/pantallaRestas');
+});
+
 Route::get('/lineas',function (){
     return view('Matematicas/pantallaLineas');
 });
@@ -174,7 +178,7 @@ Route::get('/NumerosOrdinales',function (){
 Route::get('/tipoRelacionObjetColores',function (){
     return view('Matematicas/tipoRelacionObjetColores');
 });
-Route::get('/tipoRelacionObjectDistancias',function (){
+Route::get('/tipoRelacionObjetDistancias', function (){
     return view('Matematicas/tipoRelacionObjetDistancias');
 });
 Route::get('/tipoRelacionObjetEspesores',function (){
@@ -204,6 +208,28 @@ Route::get('/sumas',function (){
 
 
 /*rutas de ciencias Sociales*/
+
+
+/*rutas actividades*/
+
+Route::get('/pantallaA',function (){
+    return view('Actividades/pantallaActividades');
+});
+
+
+Route::get('/restaA',function (){
+    return view('Actividades/restaActividad');
+});
+
+Route::get('/sumaA',function (){
+    return view('Actividades/sumaActividad');
+});
+
+Route::get('/lineaA',function (){
+    return view('Actividades/lineaActividad');
+});
+
+
 
 
 
