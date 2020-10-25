@@ -83,7 +83,7 @@
         </div>
     </div>
 </nav>
-<!-- iamgen -->
+<!-- imagen -->
 <div class="container-fluid">
     <div class="row" id="fondo">
         <div class="col-md-12" style="background: #D8E2F3" id="fondo" >

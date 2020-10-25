@@ -103,7 +103,7 @@
     <h1>Lineas poligonales</h1>
 </div>
 
-<!-- tarjetas tipos de triangulo-->
+<!-- tarjetas tipos de lineas-->
 <div class="container-fluid">
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->

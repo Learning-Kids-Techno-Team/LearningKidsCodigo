@@ -98,7 +98,7 @@
         </div>
     </div>
 </div>
-<!-- titulo de las categorias-->
+<!-- titulo de las triangulo-->
 <div style="color: #D8E2F3;">
     <h1>Tipos de Triángulo según sus lados </h1>
 </div>

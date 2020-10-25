@@ -105,7 +105,7 @@
     <h1>Lineas rectas  paralelas</h1>
 </div>
 
-<!-- tarjetas-->
+<!-- tarjetas lineas-->
 <div class="container-fluid">
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->

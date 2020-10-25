@@ -100,7 +100,7 @@
         </div>
     </div>
 </div>
-<!-- titulo de las categorias-->
+<!-- titulo de las curvas-->
 <div style="color: #D8E2F3;">
     <h1>Lineas curvas abiertas</h1>
     <p><strong>Las curvas abiertas son las que siguiendo esa sucesión de puntos con un lápiz y sin levantarlo del papel, nunca llegamos al punto desde el que comenzamos.</strong> </p>
