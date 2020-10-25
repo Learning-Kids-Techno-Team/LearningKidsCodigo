@@ -259,13 +259,13 @@
 
 <div class="container-fluid  center-block pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-md-6 pt-3">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/j3LqGWj/suma8.png" alt="suma8"     height="400" >
 
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 pt-3">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/HNMfnnn/suma9.png" alt="suma9"    height="400">
             </div>
@@ -278,13 +278,13 @@
 
 <div class="container-fluid  center-block pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-md-6 pt-3">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/SnDV1MY/suma10.png" alt="suma10"   height="400" >
 
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 pt-3">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/98PKt6G/suma11.png" alt="suma11"    height="400">
             </div>
@@ -297,13 +297,13 @@
 
 <div class="container-fluid  center-block pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-md-6 pt-3">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/51q7frF/suma12.png" alt="suma12"   height="400" >
 
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 pt-3">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/v3znyG5/tortugas2.png" alt="tortugas2"     height="400">
             </div>
@@ -325,7 +325,7 @@
 
 <div class="container-fluid  center-block pl-5" >
     <div  class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-md-4 pt-3">
 
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
@@ -337,7 +337,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-md-4 pt-3">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/gSm7CT4/sm.png" class="card-img-top" alt="...">
                 <div class="card-body">
@@ -349,7 +349,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-md-4 pt-3">
             <div id="tar3" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/zNTqSMk/3.png"  class="card-img-top" alt="...">
                 <div class="card-body">
@@ -367,7 +367,7 @@
 
 <div class="container-fluid  center-block pl-5" >
     <div  class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-md-4 pt-3">
 
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
@@ -381,7 +381,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-md-4 pt-3">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/wQcvwLN/5.png"   class="card-img-top" alt="...">
                 <div class="card-body">
@@ -393,9 +393,9 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-md-4 pt-3">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/W6799N4/s1.png"  class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/Y3yFBfz/ya.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo6"></h6>
                     <button class="btn btn-danger" onclick="resu6()">Resultado</button>

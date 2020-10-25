@@ -110,7 +110,7 @@
 <div class="container-fluid">
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-md-3 p-3" >
+        <div class="col-md-3 p-4" >
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/F3hhtQw/onduladas.jpg" alt="onduladas" class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -122,7 +122,7 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-3 p-3">
+        <div class="col-md-3 p-4">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/2ZnqxNh/quebrada.jpg" alt="quebrada"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -134,7 +134,7 @@
             </div>
         </div>
             <!-- tarjeta3-->
-            <div class="col-md-3 p-3">
+            <div class="col-md-3 p-4">
                 <div class="card mx-auto d-block" style="width: 18rem;">
                     <img src="https://i.ibb.co/bbBD7dv/espiral.jpg" alt="espiral" class="card mx-auto d-block"   height="150" width="200">
                     <div class="card-body">
@@ -146,7 +146,7 @@
                 </div>
             </div>
                 <!-- tarjeta4 -->
-                <div class="col-md-3 p-3">
+                <div class="col-md-3 p-4">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/wNP365M/curva.png" alt="curva"  class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">
@@ -159,11 +159,14 @@
                 </div>
 
                <!-- tarjeta5 -->
-              <div class="container-fluid">
-             <!-- titulo de las categorias-->
-             <div style="color: #FF7800;">
-                 <h1>Líneas curva cerrada </h1>
-               </div>
+        <div  class="container-fluid">
+            <div class="row">
+                <div class="col-md-12 bg-info mb-5">
+                    <h1 style="text-align: center">Líneas curva cerrada</h1>
+                </div>
+            </div>
+        </div>
+        <div  class="container-fluid">
              <div class="row" style="background: #FFCDA0">
                 <div class="col-md-3 pb-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
@@ -175,7 +178,7 @@
                     </div>
                 </div>
                 <!-- tarjeta4 -->
-                <div class="col-md-3">
+                <div class="col-md-3 pb-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/mcbkTbJ/circulo-removebg-preview.png" alt="circulo-removebg-preview"   class="card mx-auto d-block"   height="150" width="180">
                         <div class="card-body">
@@ -184,7 +187,7 @@
                         </div>
                     </div>
                 </div>
-                 <div class="col-md-3">
+                 <div class="col-md-3 pb-3">
                      <div class="card mx-auto d-block" style="width: 18rem;">
                          <img src="https://i.ibb.co/KmNZmPJ/corazon-removebg-preview.png" alt="corazon-removebg-preview"  class="card mx-auto d-block"   height="150" width="180">
                          <div class="card-body">
@@ -193,7 +196,7 @@
                          </div>
                      </div>
                  </div>
-                 <div class="col-md-3">
+                 <div class="col-md-3 pb-3">
                      <div class="card mx-auto d-block" style="width: 18rem;">
                          <img src="https://i.ibb.co/XbYKsXr/luna-removebg-preview.png" alt="luna-removebg-preview" class="card mx-auto d-block"   height="150" width="210">
                          <div class="card-body">
