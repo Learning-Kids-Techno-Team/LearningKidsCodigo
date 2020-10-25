@@ -152,7 +152,7 @@
     <!-- botones-->
 
     <div class="container-fluid" style="background: #bce0ee">
-        <div class="row mb-n5 ">
+        <div class="row pb-5">
 
             <div class="col-md-12">
                 <a href="http://learningkidscodigo.test/cuento">

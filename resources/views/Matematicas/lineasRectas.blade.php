@@ -105,7 +105,7 @@
     <h1>Lineas rectas  paralelas</h1>
 </div>
 
-<!-- tarjetas-->
+<!-- tarjetas lineas-->
 <div class="container-fluid">
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
@@ -136,11 +136,14 @@
         </div>
 
         <!-- tarjeta3 -->
-        <div class="container-fluid">
-            <!-- titulo de las categorias-->
-            <div style="color: #FF7800;">
-                <h1>Líneas rectas Perpendiculares: </h1>
+        <div  class="container-fluid">
+            <div class="row">
+                <div class="col-md-12 bg-info mb-5">
+                    <h1 style="text-align: center">Líneas rectas Perpendiculares: </h1>
+                </div>
             </div>
+        </div>
+        <div class="container-fluid">
             <div class="row" style="background: #FFCDA0">
                 <div class="col-md-6 pb-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
@@ -153,7 +156,7 @@
                     </div>
                 </div>
                 <!-- tarjeta4 -->
-                <div class="col-md-6">
+                <div class="col-md-6 pb-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/6m0Q24B/Perpendiculares-removebg-preview.png" alt="Perpendiculares-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">
@@ -164,11 +167,14 @@
                     </div>
                 </div>
                 <!-- tarjeta5 -->
-                <div class="container-fluid">
-                    <!-- titulo de las categorias-->
-                    <div style="color: #FF7800;">
-                        <h1> Líneas rectas Secantes: </h1>
+                <div  class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-12 bg-info mb-5">
+                            <h1 style="text-align: center">Líneas rectas Secantes: </h1>
+                        </div>
                     </div>
+                </div>
+                <div  class="container-fluid">
                     <div class="row" style="background: #FFCDA0">
                         <div class="col-md-6 pb-3">
                             <div class="card mx-auto d-block" style="width: 18rem;">
@@ -181,7 +187,7 @@
                             </div>
                         </div>
                         <!-- tarjeta6 -->
-                        <div class="col-md-6">
+                        <div class="col-md-6 pb-3">
                             <div class="card mx-auto d-block" style="width: 18rem;">
                                 <img src="https://i.ibb.co/DrLnSs3/secante1-removebg-preview.png" alt="secante1-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                                 <div class="card-body">

@@ -98,17 +98,17 @@
         </div>
     </div>
 </div>
-<!-- titulo de las categorias-->
+<!-- titulo de las triangulo-->
 <div style="color: #D8E2F3;">
     <h1>Tipos de Triángulo según sus lados </h1>
 </div>
 
 <!-- tarjetas tipos de triangulo-->
 <div class="container-fluid">
-    <div class="row"  style="background: #FFCDA0" >
+    <div class="row pt-5"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-md-4 pb-3" >
-            <div class="card" style="width: 18rem;">
+        <div class="col-md-4 p-4" >
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/M6jKgcd/equilatero-2-removebg-preview.png" alt="equilatero-2-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>Equiláteros:</h1>
@@ -121,8 +121,8 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-md-4 p-4">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/RHhXPWv/Tri-ngulo-escaleno-removebg-preview.png" alt="Tri-ngulo-escaleno-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>  Escaleno:</h1>
@@ -135,8 +135,8 @@
             </div>
         </div>
         <!-- tarjeta3 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-md-4 p-4">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/5RgsJ2z/isoceles3-removebg-preview.png" alt="isoceles3-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>Isósceles:</h1>
@@ -148,14 +148,17 @@
         </div>
 
         <!-- tarjeta5 -->
-        <div class="container-fluid">
-            <!-- titulo de las categorias-->
-            <div style="color: #FF7800;">
-                <h1>Tipos de Triángulo según sus angulos: </h1>
+        <div  class="container-fluid">
+            <div class="row ">
+                <div class="col-md-12 bg-danger ">
+                    <h1 style="text-align: center">Tipos de Triángulo según sus angulos: </h1>
+                </div>
             </div>
+        </div>
+
             <div class="row" style="background: #FFCDA0">
-                <div class="col-md-3 pb-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-3 p-4">
+                    <div class="card mx-auto d-block " style="width: 18rem;">
                         <img  src="https://i.ibb.co/6cSzjkS/Escaleno2-removebg-preview.png" alt="Escaleno2-removebg-preview" class="card mx-auto d-block"  height="150" width="200">
                         <div class="card-body">
                             <h1> Rectángulo:</h1>
@@ -166,31 +169,31 @@
                     </div>
                 </div>
                 <!-- tarjeta6 -->
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-3 p-4">
+                    <div class="card mx-auto d-block " style="width: 18rem;">
                         <img src="https://i.ibb.co/k8fQdW8/triangulo-obtusangulo-removebg-preview.png" alt="triangulo-obtusangulo-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">
                             <h1>Obtusángulo</h1>
-                            <h5 class="card-title" align="center"><br>Este tipo de triángulo tiene un ángulo mayor a 90° pero menos de 180º que recibe el nombre “obtuso”,
-                                y dos ángulos agudos, los cuales son menores a 90°.</h5>
+                            <h5 class="card-title" align="center"><br>Este tipo de triángulo tiene un ángulo mayor a 90° pero menos de 180º <br>que recibe el nombre “obtuso”,
+                                y dos ángulos agudos,los cuales son menores a 90°.<br></h5>
                         </div>
                         <iframe src="https://drive.google.com/file/d/1L3DjgkihS0EVF9Az0RWObqINC4rhAqU5/preview"  width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta7 -->
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-3 p-4">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/52Q6sxX/Tri-ngulo-acut-ngulo-removebg-preview.png" alt="Tri-ngulo-acut-ngulo-removebg-preview" class="card mx-auto d-block"  height="150" width="200">
                         <div class="card-body">
                             <h1> Triángulo Acutángulo:</h1>
-                            <h5 class="card-title" align="center"> <br>Este tipo de triángulo <br>se caracteriza porque <br>tiene sus tres <br>ángulos que son <br>menores a 90°<br></h5>
+                            <h5 class="card-title" align="center"> <br>Este tipo de triángulo se caracteriza porque <br>tiene sus tres <br>ángulos que son <br>menores a 90°<br></h5>
                         </div>
                         <iframe src="https://drive.google.com/file/d/1hvIYsHbN59vfW7idrOsBlpe2gW8vIdrH/preview"  width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta8 -->
-                <div class="col-md-3">
-                    <div class="card " style="width: 18rem;">
+                <div class="col-md-3 p-4">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/ph13d1k/equilatero-1-removebg-preview.png"  class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">
                             <h1>Triángulo equiángulo</h1>
@@ -199,7 +202,7 @@
                         <iframe src="https://drive.google.com/file/d/1LEIdhTZTRnT_tl3M_2gYJvaTXTtE_3C8/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
-            </div>S
+            </div>
         </div>
     </div>
 

@@ -130,8 +130,9 @@ s
 <div class="container-fluid">
     <div class="row" id="color">
         <div class="col-md-4">
-            <img class="mx-auto d-block" src="https://i.ibb.co/SVS9x8g/csociales-removebg-preview.png" width="400">
+            <img class="mx-auto d-block" src="https://i.ibb.co/Bg6VSv2/csociales-removebg-preview.png" width="400">
         </div>
+    </div>
         <div class="col-md-8" >
             <h3><br>Ciencias Sociales</h3>
             <p>
