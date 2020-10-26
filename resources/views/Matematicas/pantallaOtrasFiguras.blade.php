@@ -83,7 +83,7 @@
         </div>
     </div>
 </nav>
-<!-- iamgen -->
+<!-- imagen -->
 <div class="container-fluid">
     <div class="row" id="fondo">
         <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
@@ -102,10 +102,10 @@
 
 <!-- tarjetas tipos de triangulo-->
 <div class="container-fluid">
-    <div class="row"  style="background: #FFCDA0" >
+    <div class="row pt-5"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-md-3 p-3" >
-            <div class="card" style="width: 18rem;">
+        <div class="col-md-3 p-3 " >
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/ys9pK7f/hexagono1-removebg-preview.png" alt="hexagono1-removebg-preview" class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>Hexágono:</h1>
@@ -119,7 +119,7 @@
         </div>
         <!-- tarjeta2 -->
         <div class="col-md-3 p-3">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/NmRf0TJ/1semic-rculo-removebg-preview.png" alt="1semic-rculo-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>  Semicírculo:</h1>
@@ -133,7 +133,7 @@
         </div>
         <!-- tarjeta3 -->
         <div class="col-md-3 p-3">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/0By0pR0/octagono-removebg-preview.png" alt="octagono-removebg-preview"  class="card mx-auto d-block"   height="150" width="150">
                 <div class="card-body">
                     <h1>Octágono: </h1>
@@ -144,7 +144,7 @@
         </div>
         <!-- tarjeta4 -->
         <div class="col-md-3 p-3">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/mcbkTbJ/circulo-removebg-preview.png" alt="circulo-removebg-preview"  class="card mx-auto d-block"   height="150" width="150">
                 <div class="card-body">
                     <h1>Círculo: </h1>
@@ -156,9 +156,9 @@
 
         <!-- tarjeta5 -->
         <div class="container-fluid">
-            <div class="row" style="background: #FFCDA0">
-                <div class="col-md-3 pb-3">
-                    <div class="card" style="width: 18rem;">
+            <div class="row pt-5" style="background: #FFCDA0">
+                <div class="col-md-3 p-3">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/JQvrX1c/Estrella-removebg-preview.png" alt="Estrella-removebg-preview"   class="card mx-auto d-block"  height="150" width="180">
                         <div class="card-body">
                             <h1> Estrella: </h1>
@@ -168,8 +168,8 @@
                     </div>
                 </div>
                 <!-- tarjeta6 -->
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-3 p-3">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/JzpVF8T/ovalo-removebg-preview.png" alt="ovalo-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">
                             <h1>Óvalo: </h1>
@@ -179,8 +179,8 @@
                     </div>
                 </div>
                 <!-- tarjeta7 -->
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-3 p-3">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/YcC6gqm/cruz-removebg-preview.png" alt="cruz-removebg-preview" class="card mx-auto d-block"  height="150" width="180">
                         <div class="card-body">
                             <h1> Cruz: </h1>
@@ -191,8 +191,8 @@
                     </div>
                 </div>
                 <!-- tarjeta8 -->
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-3 p-3">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/KmNZmPJ/corazon-removebg-preview.png" alt="corazon-removebg-preview" class="card mx-auto d-block"  height="150" width="180">
                         <div class="card-body">
                             <h1> Corazón:</h1>

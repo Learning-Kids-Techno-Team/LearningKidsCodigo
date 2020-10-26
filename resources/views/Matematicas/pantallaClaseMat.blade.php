@@ -70,14 +70,17 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a></li>
-
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
-                <li class="nav-item"><a class="nav-link" href="">Registrarse</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
+                <a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a>
+                <a class="nav-link"
+                   href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a>
+                <a class="nav-link"
+                   href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a>
+                <a class="nav-link"
+                   href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a>
+                <a class="nav-link"
+                   href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a>
+                <a class="nav-link" href="">Registrarse</a>
+                <a class="nav-link" href="#">Inicio de sesion</a>
 
             </ul>
         </div>
@@ -174,11 +177,13 @@
         <div class="row pb-5">
             <div class="col-md-6">
                 <a href="http://learningkidscodigo.test/numerosNaturales">
-                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/bdRWHpK/numero-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Numeros Naturales</h3>
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/bdRWHpK/numero-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Números Naturales</h3>
                 </a>
             </div>
             <div class="col-md-6">
-                <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/k59g6vt/grado-removebg-preview.png"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Numeros ordinales</h3>
+                <a href="http://learningkidscodigo.test/NumerosOrdinales">
+                <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/k59g6vt/grado-removebg-preview.png"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Números Ordinales</h3>
+                </a>
             </div>
         </div>
     </div>
@@ -193,8 +198,9 @@
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/F38tjLG/dibujos4-removebg-preview.png"   class="mx-auto d-block" width="450" >
             </div>
             <div class="col-md-4">
-                <img alt="Vista previa de la imagen de Bootstrap" src="https://arbolabc.nyc3.cdn.digitaloceanspaces.com/New-Math-Area-Icons/Juegos_de_sumas.jpg"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Sumas</h3>
-            </div>
+                <a href="http://learningkidscodigo.test/sumas">
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://arbolabc.nyc3.cdn.digitaloceanspaces.com/New-Math-Area-Icons/Juegos_de_sumas.jpg"  class="rounded-circle mx-auto d-block bg-info"width="150"> <h3>Sumas</h3>
+                </a>
         </div>
     </div>
     <div class="container-fluid" style="background: #FEB472">
@@ -252,24 +258,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
     <br>
     <br>
@@ -279,8 +267,6 @@
             <div class="col-md-12">
 
             </div>
-
-
         </div>
 
     </div>
@@ -292,12 +278,12 @@
 </div>
 
 
-
+</div>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-
+    </div>
 </body>
 </html>
 

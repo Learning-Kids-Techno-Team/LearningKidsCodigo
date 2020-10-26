@@ -204,7 +204,7 @@
                     </div>
                 </div>
             </div>
-                <!-- titulo de las categorias-->
+                <!-- titulo de las tipos-->
                 <div style="color: #FF7800; background: #D8E2F3">
                     <h1>Trapezoides:</h1>
                 </div>
