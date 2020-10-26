@@ -155,9 +155,9 @@
                 <div class="col-md-4 pb-5 d-flex justify-content-center" >
                     <div class="card"  style="width: 18rem;" >
 
-                        <img src="https://i.pinimg.com/736x/97/f1/27/97f127dd93502ff7dc23c88abfe9ff88.jpg" class="card mx-auto d-block" height="150" width="220">
+                        <img  src="https://i.ibb.co/K5z45Vs/juguetes.jpg"  class="card mx-auto d-block" height="150" width="220">
                         <div class="card-body">
-                            <h5 class="card-title" align="center">Actividad Relacion Objetos</h5>
+                            <h5 class="card-title" align="center">Actividad Relación de  Objetos</h5>
                             <a href="http://learningkidscodigo.test/relacion" class="btn btn-danger" >ver</a>
                         </div>
                     </div>
@@ -167,7 +167,7 @@
                 <!-- tarjeta2 -->
                 <div class="col-md-4 pb-5 d-flex justify-content-center">
                     <div class="card" style="width: 18rem;">
-                        <img src="https://static.vecteezy.com/system/resources/previews/000/298/916/non_2x/young-children-playing-with-an-abacus-vector.jpg" class="card mx-auto d-block" height="150" width="220">
+                        <img src="https://i.ibb.co/q9C0DFT/figura.jpg" class="card mx-auto d-block" height="150" width="220">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Figuras Geometricas</h5>
                             <a href="http://learningkidscodigo.test/figuraA" class="btn btn-danger" >ver</a>
@@ -177,17 +177,36 @@
                 <!-- tarjeta3 -->
                 <div class="col-md-4 pb-5 d-flex justify-content-center">
                     <div class="card" style="width: 18rem;">
-                        <img src="https://image.freepik.com/vector-gratis/ninos-aprendiendo-matematicas-abaco_1639-6893.jpg" class="card mx-auto d-block" height="160" width="220">
+                        <img  src="https://i.ibb.co/Qkc6Q54/Numeros-Ordinales.png" class="card mx-auto d-block" height="160" width="220">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad numeros Ordinales</h5>
                             <a href="http://learningkidscodigo.test/ordinales" class="btn btn-danger" >ver</a>
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+
+                <div class="container-fluid">
+                    <div class="row pt-5  "  style="background: #FEB472">
+                        <!-- tarjeta 1 -->
+                        <div class="col-md-4 pb-5 d-flex justify-content-center" >
+                            <div class="card"  style="width: 18rem;" >
+
+                                <img  src="https://i.ibb.co/XxtgFXt/natural.jpg"  class="card mx-auto d-block" height="150" width="220">
+                                <div class="card-body">
+                                    <h5 class="card-title" align="center">Actividad De números naturales</h5>
+                                    <a href="http://learningkidscodigo.test/natural" class="btn btn-danger" >ver</a>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
 
 
 
-                <div  id="separadorInferior2">
+                        <div  id="separadorInferior2">
                     <div class="content ">
 
                     </div>

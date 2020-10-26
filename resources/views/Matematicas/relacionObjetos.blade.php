@@ -66,13 +66,18 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
+           <a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a>
+                <a class="nav-link"
+                                    href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a>
+                <a class="nav-link"
+                                    href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a>
+                <a class="nav-link"
+                                    href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a>
+              <a class="nav-link"
+                                    href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a>
+                <a class="nav-link" href="">Registrarse</a>
+               <a class="nav-link" href="#">Inicio de sesion</a>
+
 
             </ul>
         </div>
@@ -127,7 +132,7 @@
                 <img src="https://i.ibb.co/tDcKNs9/dibujos-animados-madre-bebe-elefante-29190-5257.jpg"  class=" mx-auto d-block" width="285" height="180" >
                 <div class="card-body">
                     <h5 class="card-title">Distingo Tamaños</h5>
-                    <a style=" background: darkorange" href="#" class="btn btn-danger">Leer</a>
+                    <a style=" background: darkorange" href="http://learningkidscodigo.test/tipoRelacionObjetTama%C3%B1os" class="btn btn-danger">Leer</a>
                 </div>
             </div>
         </div>
@@ -138,7 +143,7 @@
                 <img  src="https://i.ibb.co/MGZrQ3J/46648063-cartoon-mujer-en-vestido-negro-flaco-y-con-sobrepeso-la-p-rdida-de-peso-antes-y-despu-s-de.jpg" width="285" height="180">
                 <div class="card-body">
                     <h5 class="card-title">Distingo Espesores</h5>
-                    <a href="#" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                    <a href="http://learningkidscodigo.test/tipoRelacionObjetEspesores" style=" background: darkorange" class="btn btn-danger">Leer</a>
                 </div>
             </div>
         </div>
@@ -151,7 +156,7 @@
 
                     <h5 class="card-title">Distingo Colores</h5>
 
-                    <a href="#" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                    <a href="http://learningkidscodigo.test/tipoRelacionObjetColores" style=" background: darkorange" class="btn btn-danger">Leer</a>
                 </div>
             </div>
         </div>
@@ -169,7 +174,7 @@
                     <img  src="https://i.ibb.co/zJhVMdy/unnamed.jpg"   width="285" height="180" >
                     <div class="card-body">
                         <h5 class="card-title">Distingo Distancias</h5>
-                        <a style=" background: darkorange" href="#" class="btn btn-danger">Leer</a>
+                        <a style=" background: darkorange" href="http://learningkidscodigo.test/tipoRelacionObjetDistancias" class="btn btn-danger">Leer</a>
                     </div>
                 </div>
             </div>
@@ -179,7 +184,7 @@
                     <img  src="https://i.ibb.co/zNCt4Sd/dentro.jpg"  width="285" height="180">
                     <div class="card-body">
                         <h5 class="card-title">Reconozco Posiciones</h5>
-                        <a href="#" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                        <a href="http://learningkidscodigo.test/tipoRelacionObjetPosiciones" style=" background: darkorange" class="btn btn-danger">Leer</a>
                     </div>
                 </div>
             </div>
@@ -192,7 +197,7 @@
 
                         <h5 class="card-title">Reconozco el tiempo</h5>
 
-                        <a href="#" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                        <a href="http://learningkidscodigo.test/tipoRelacionObjetTiempo" style=" background: darkorange" class="btn btn-danger">Leer</a>
                     </div>
                 </div>
             </div>

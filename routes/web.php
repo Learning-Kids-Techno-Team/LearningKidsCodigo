@@ -237,6 +237,8 @@ Route::get('/ordinales',function (){
 Route::get('/relacion',function (){
     return view('Actividades/relacionActividad');
 });
-
+Route::get('/natural',function (){
+    return view('Actividades/natural');
+});
 
 
