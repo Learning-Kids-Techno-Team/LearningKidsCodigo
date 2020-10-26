@@ -177,11 +177,13 @@
         <div class="row pb-5">
             <div class="col-md-6">
                 <a href="http://learningkidscodigo.test/numerosNaturales">
-                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/bdRWHpK/numero-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Numeros Naturales</h3>
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/bdRWHpK/numero-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Números Naturales</h3>
                 </a>
             </div>
             <div class="col-md-6">
-                <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/k59g6vt/grado-removebg-preview.png"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Numeros ordinales</h3>
+                <a href="http://learningkidscodigo.test/NumerosOrdinales">
+                <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/k59g6vt/grado-removebg-preview.png"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Números Ordinales</h3>
+                </a>
             </div>
         </div>
     </div>
@@ -253,27 +255,6 @@
             </div>
         </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <br>
     <br>
     <br>
@@ -283,8 +264,6 @@
             <div class="col-md-12">
 
             </div>
-
-
         </div>
 
     </div>
