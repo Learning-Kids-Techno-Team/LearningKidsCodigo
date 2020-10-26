@@ -103,6 +103,18 @@
                 La mujer comienza lanzando la bomba hacia su compañero y éste debera contestarle de la mejor manera posible para no quedar avergonzado frente a todos y asi continuan hasta que hayan participado los que deseen o hasta que les acabe el ingenio.
             </em></strong> </p>
 </div>
+<div class="container-fluid d-flex justify-content-center p-5" >
+    <div class="row " >
+        <div class="col-md-12 ">
+            <div class="card" style="width: 40rem;">
+                <iframe src="https://drive.google.com/file/d/1IZVKVeQxQT399Yre9qVskcjCta2v5bqL/preview" width="630" height="300"></iframe>
+                <div class="card-body" id="im">
+                    <h5 class="card-title">Explicación de las bombas y ejemplo de su declamación</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -110,8 +122,8 @@
 <div class="container-fluid">
     <div class="row"  style="background: #bce0ee" >
         <!-- tarjeta1 -->
-        <div class="col-md-3 pb-3" >
-            <div class="card" style="width: 18rem;">
+        <div class="col-md-3 p-5" >
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/0QCXMrg/img12.jpg" alt="img12"  class="card mx-auto d-block"   height="170" width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">
@@ -131,8 +143,8 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-3">
-            <div class="card" style="width: 18rem;">
+        <div class="col-md-3 p-5">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/SP3PMHs/img11.jpg" alt="img11" class="card mx-auto d-block"   height="170" width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">– El: Desde lejos he venido
@@ -146,12 +158,11 @@
                         y te quitas esas costras del pescueso.
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1etH_vVpoyCHxgoIkQrNAN0xEY2xY6DD7/preview" width="280" height="100"></iframe>
             </div>
         </div>
         <!-- tarjeta3 -->
-        <div class="col-md-3">
-            <div class="card" style="width: 18rem;">
+        <div class="col-md-3 p-5">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/vZMtf2v/img9.jpg" alt="img9"  class="card mx-auto d-block"   height="170" width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">– Ella: En la puerta de mi casa
@@ -164,12 +175,11 @@
                         Solo por venir a ver
                         Canillas de zopilote.</h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1isr8W1_x7oS6SCxx__WUQFlzMTyesEZ5/preview" width="280" height="100"></iframe>
             </div>
         </div>
         <!-- tarjeta4 -->
-        <div class="col-md-3">
-            <div class="card" style="width: 18rem;">
+        <div class="col-md-3 p-5">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/9yFDpGf/img10.jpg" alt="img10"   class="card mx-auto d-block"   height="170" width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">– El: aquí te traigo niñita
@@ -181,15 +191,14 @@
                         no se la comió la vaca
                         fue este burro e’ Sinforoso.</h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
             </div>
         </div>
 
         <!-- tarjeta5 -->
         <div class="container-fluid">
             <div class="row" style="background: #bce0ee">
-                <div class="col-md-3 pb-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-3 p-5">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img  src="https://i.ibb.co/k4nc06d/img7.jpg" alt="img7"  class="card mx-auto d-block"  height="170" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">-El:
@@ -211,12 +220,11 @@
 
                                 un suspiro, una oración.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta6 -->
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-3 p-5">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/wSLRsk1/img6.jpg" alt="img6"  class="card mx-auto d-block"   height="170" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">– El: ayer me dijiste que hoy,
@@ -229,12 +237,11 @@
                                 como bien lo ves a ti,
                                 no te quiero por piojoso.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1EXe6yUZOzaNXyInqhM8h9k6foO32chj_/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta7 -->
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-3 p-5">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/KwqKcVB/img5.jpg" alt="img5"  class="card mx-auto d-block"  height="170" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">– El: la mujer que ama a dos hombres
@@ -247,12 +254,11 @@
                                 no cumple con sus deberes
                                 y al final paga con creces.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1ginIO8RyXkqU4LrlU2nCv91sFdlid4Vi/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta8 -->
-                <div class="col-md-3">
-                    <div class="card " style="width: 18rem;">
+                <div class="col-md-3 p-5">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img  src="https://i.ibb.co/72TKSbB/img4.jpg" alt="img4" class="card mx-auto d-block"  height="170" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center"> -El:
@@ -277,7 +283,6 @@
 
                                 mejor prefiero a Evaristo. </h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1mxMn5XuboDessRU39nReOG-ro3mWnskC/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
             </div>
@@ -285,8 +290,8 @@
         <div class="container-fluid">
             <!-- tarjeta9 -->
             <div class="row" style="background: #bce0ee">
-                <div class="col-md-3 pb-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-3 p-5">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img  src="https://i.ibb.co/f1jph6x/img3.jpg" alt="img3" class="card mx-auto d-block"   height="170" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center"> – El: viene la luna hermosa
@@ -299,12 +304,11 @@
                                 una pluma de sus alas
                                 para poderte escribir.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1Zk0a1p1Xwu94eKSfKF93R9dUi658W0A1/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta10 -->
-                <div class="col-md-3 " >
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-3 p-5" >
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/qMb0ksP/img2.jpg" alt="img2"  class="card mx-auto d-block"  height="170" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center"> – El: la mujer con quien me case
@@ -317,12 +321,11 @@
                                 permitirme que lo ahogue
                                 el caudal de mi pasión.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1d0j1c4gocviwV_AlJTKMW8VeLm5WNoGc/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta11 -->
-                <div class="col-md-3 ">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-3 p-5">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img  src="https://i.ibb.co/dBQmq7L/img1.jpg" alt="img1"  class="card mx-auto d-block"   height="170" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">-El:
@@ -342,12 +345,11 @@
 
                                 y andan todos acabados.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1MhPquPBAuESjWZ_5KR9EONp0ZmcmX1jA/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
                 <!-- tarjeta12 -->
-                <div class="col-md-3 ">
-                    <div class="card " style="width: 18rem;">
+                <div class="col-md-3 p-5">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img  src="https://i.ibb.co/jv2B4kP/img8.jpg" alt="img8"class="card mx-auto d-block"  height="170" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center"> -El:
@@ -369,7 +371,6 @@
 
                                 no es de tu cuenta, metido.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1Hz2SRP7Ee-xJhnXiWhYOenEeCWtRWmZ4/preview" width="280" height="100"></iframe>
                     </div>
                 </div>
             </div>
