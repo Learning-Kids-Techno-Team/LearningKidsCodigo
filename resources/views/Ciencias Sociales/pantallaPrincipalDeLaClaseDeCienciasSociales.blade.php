@@ -62,7 +62,6 @@
                 <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
                 <li class="nav-item"><a class="nav-link" href="">Registrarse</a></li>
                 <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
-s
             </ul>
         </div>
     </div>
@@ -130,7 +129,7 @@ s
 <div class="container-fluid">
     <div class="row" id="color">
         <div class="col-md-4">
-            <img class="mx-auto d-block" src="https://i.ibb.co/SVS9x8g/csociales-removebg-preview.png" width="400">
+            <img class="mx-auto d-block"  src="https://i.ibb.co/HgY9BDX/sociales1-removebg-preview.png"  width="400">
         </div>
         <div class="col-md-8" >
             <h3><br>Ciencias Sociales</h3>
