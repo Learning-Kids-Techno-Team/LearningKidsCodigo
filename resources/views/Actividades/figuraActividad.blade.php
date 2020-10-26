@@ -127,7 +127,7 @@
             </div>
 
             <div>
-                <iframe src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Juegos/Juegos_matematicaDaniela/Ruleta%20Matematica%20(Published)/" width="1347" height="800"></iframe>
+                <iframe src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Juegos/Aprendamos%20Figuras%20(Published)/" width="1347" height="800"></iframe>
             </div>
 
         </div>
