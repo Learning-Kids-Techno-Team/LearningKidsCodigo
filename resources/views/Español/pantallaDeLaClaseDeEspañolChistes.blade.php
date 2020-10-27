@@ -83,7 +83,7 @@
         </div>
     </div>
 </div>
-<!-- separador -->
+<!-- separador  de pagina -->
 <div class="container-fluid">
 <div id="separadorInferior2">
     <div class="content ">
