@@ -224,7 +224,9 @@
     <div class="container-fluid" style="background: #FEB472">
         <div class="row ">
             <div class="col-md-4  ">
+                <a href="http://learningkidscodigo.test/simbolos">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/zG6gz8B/sfn-removebg-preview.png"   class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Menor que <br>y <br> mayor que </h3>
+                </a>
             </div>
             <div class="col-md-4 pb-5">
             </div>
