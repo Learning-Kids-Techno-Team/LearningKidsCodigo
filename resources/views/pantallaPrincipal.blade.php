@@ -208,7 +208,7 @@
         </div>
         <div class="row">
             <div class="col-md-6">
-                <a href= href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">
+                <a href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/JtktKHb/ciencias-naturales-removebg-preview.png" class=" img-fluid  img-thumbnail  mx-auto d-block bg-success rounded-circle" width="150" />
                 <h3>Ciencias Naturales</h3>
                 </a>
