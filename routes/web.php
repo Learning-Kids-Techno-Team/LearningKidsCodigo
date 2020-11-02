@@ -199,17 +199,6 @@ Route::get('/sumas',function (){
 
 
 
-
-
-
-/*rutas de ciencias Naturales*/
-
-
-
-
-/*rutas de ciencias Sociales*/
-
-
 /*rutas actividades*/
 
 Route::get('/pantallaA',function (){
@@ -240,5 +229,32 @@ Route::get('/relacion',function (){
 Route::get('/natural',function (){
     return view('Actividades/natural');
 });
+
+
+                                                           /*TERCER SPRINT */
+/*rutas matematica */
+
+Route::get('/monedas',function (){
+    return view('Matematicas/pantallaMonedas');
+});
+
+Route::get('/billetes',function (){
+    return view('Matematicas/pantallaBilletes');
+});
+
+
+
+
+/*rutas ciencias naturales*/
+
+
+
+
+/*rutas ciencias sociales*/
+
+
+
+
+/*rutas actividades*/
 
 
