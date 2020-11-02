@@ -245,6 +245,7 @@ Route::get('/billetes',function (){
 Route::get('/simbolos',function (){
     return view('Matematicas/simbolos');
 });
+
 Route::get('/longitud',function (){
     return view('Matematicas/pantallaLongitud');
 });

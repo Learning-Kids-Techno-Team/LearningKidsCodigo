@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
 
+
 </head>
 <style>
 
@@ -135,7 +136,7 @@
             <div class="card mx-auto d-block" style="width: 18rem; background: #d5f5fa">
                 <img src="https://i.ibb.co/dkV8L43/largo-corto.jpg"  width="285" style="border-bottom-left-radius: 30% ">
                 <div class="card-body">
-                    <h5 class="card-title" style="text-align: center">Largo y<br> corto</h5>
+                    <h5 class="card-title" style="text-align: center">Largo y<br>   corto</h5>
                     <a style=" background: #FF7800" href="" class="btn btn-primary">Leer</a>
                 </div>
             </div>

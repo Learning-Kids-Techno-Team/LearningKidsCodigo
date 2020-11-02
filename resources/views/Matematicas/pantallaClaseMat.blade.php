@@ -10,6 +10,7 @@
   body{
    background: #FFC897;
 
+
   }
 
         h3{
@@ -244,8 +245,9 @@
 
                 </div>
                 <div class="col-md-3">
-                    <a href="http://learningkidscodigo.test/longitud">
+                    <a  href="http://learningkidscodigo.test/longitud">
                     <img alt="Vista previa de la imagen de Bootstrap"   src="https://i.ibb.co/8KYJhD6/metro-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Longitud</h3>
+                    </a>
                 </div>
                 <div class="col-md-3">
                     <a href="http://learningkidscodigo.test/pantallaA">
