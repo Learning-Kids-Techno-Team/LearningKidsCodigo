@@ -86,6 +86,13 @@
             color: red;
         }
 
+        #bor{
+            border: oldlace 5px dashed;
+            border-bottom-right-radius: 50px;
+            border-top-left-radius: 50px;
+            border-bottom-left-radius: 50px;
+            border-top-right-radius: 50px;
+        }
 
     </style>
     <script>
@@ -275,7 +282,7 @@
 </div>
 <div class="container-fluid d-flex justify-content-center  " >
     <div class="row p-5 ">
-        <div class="col-md-12 ">
+        <div class="col-md-12 bg-warning " id="bor">
 
             <h3>La niña tiene 10 pastelitos y el niño 5.<br>
                 La niña tiene más pastelitos que el niño porque 10 es mayor que 5.<br>
