@@ -198,7 +198,8 @@ Route::get('/sumas',function (){
 });
 
 
-
+//sprint 3
+//Matematicas
 /*rutas actividades*/
 
 Route::get('/pantallaA',function (){
@@ -246,8 +247,13 @@ Route::get('/simbolos',function (){
     return view('Matematicas/simbolos');
 });
 
+Route::get('/longitud',function (){
+    return view('Matematicas/pantallaLongitud');
+});
 
-
+Route::get('/monedas',function (){
+    return view('Matematicas/monedas');
+});
 
 /*rutas ciencias naturales*/
 
