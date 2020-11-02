@@ -253,6 +253,11 @@ Route::get('/simbolos',function (){
 
 
 
+Route::get('/animalesvertebrados',function (){
+    return view('CienciasNaturales/pantallaAnimalesVertebrados');
+});
+
+
 
 /*rutas ciencias sociales*/
 

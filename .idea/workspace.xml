@@ -25,6 +25,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaAnimalesVertebrados.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -214,6 +216,7 @@
       <workItem from="1603557855475" duration="431000" />
       <workItem from="1603558504669" duration="1574000" />
       <workItem from="1603596792413" duration="8224000" />
+      <workItem from="1604355915519" duration="2799000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -334,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603678657009</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Sprint3 techno team">
+      <created>1604281572031</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604281572031</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,14 +370,15 @@
     <MESSAGE value="Sprint2 Techno Team" />
     <MESSAGE value="Sprint2 techno team" />
     <MESSAGE value="Sprint1 techno team" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint1 techno team" />
+    <MESSAGE value="Sprint3 techno team" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint3 techno team" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1603519009928">
+    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1604281570696">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602887273500" />
-    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1603519009928" />
+    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1604281570696" />
     <state x="100" y="100" width="1166" height="568" key="DiffContextDialog" timestamp="1603322395502">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -385,11 +396,11 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="321" y="145" key="MultipleFileMergeDialog/0.0.1366.768@0.0.1366.768" timestamp="1603321954669" />
-    <state x="506" y="306" key="NewPhpFileDialog" timestamp="1603512321220">
+    <state x="506" y="306" key="NewPhpFileDialog" timestamp="1604357165237">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="474" y="303" key="NewPhpFileDialog/0.0.1280.760@0.0.1280.760" timestamp="1602623197381" />
-    <state x="506" y="306" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1603512321220" />
+    <state x="506" y="306" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1604357165237" />
     <state x="184" y="29" key="SettingsEditor" timestamp="1602562325681">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -398,16 +409,20 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="470" y="100" key="VCS.ChangeListViewerDialog/0.0.1366.768@0.0.1366.768" timestamp="1603321930134" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1604281389312">
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1604281575594">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="258" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1602624410267" />
     <state x="275" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603678734946" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604281389312" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604281575594" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603679257983">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603679257983" />
     <state x="500" y="292" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1603321933360" />
+    <state x="339" y="174" key="run.anything.popup" timestamp="1604357007328">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="174" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1604357007328" />
   </component>
 </project>
