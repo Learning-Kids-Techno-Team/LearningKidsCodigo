@@ -1,4 +1,4 @@
-</html><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -7,6 +7,10 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
 <style>
+
+    body{
+        background: #D8E2F3;
+    }
 
     .card{
         background: #CCEECC;
@@ -68,11 +72,18 @@
     #fondo{
         border-bottom-left-radius:50%;
         border-top-right-radius: 50%;
+        background: #D8E2F3;
 
     }
+
+    #dif {
+        background: #3B5686;
+    }
+
 </style>
 </head>
-<body style="background: #3B5686;">
+
+<body>
 <!-- navbar -->
 <nav class="navbar navbar-expand-sm navbar-dark " >
     <div class="container-fluid">
@@ -98,10 +109,10 @@
     </div>
 </nav>
 
-<!-- iamgen -->
-<div class="container-fluid">
+<!-- imagen -->
+<div class="container-fluid" id="dif">
     <div class="row">
-        <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
+        <div class="col-md-12" id="fondo" >
             <img src="https://i.ibb.co/PDx7Lhq/unnamed-removebg-preview.png" width="500" class=" mx-auto d-block"/>
         </div>
     </div>
@@ -115,7 +126,7 @@
             <img src="https://i.ibb.co/D7KgKLp/hinj-removebg-preview.png" width="340" height="250" class="mx-auto d-block"/>
             <h2 class="text-center"><em>
                 ¿Que son las adivinanzas?
-            </h2></em>
+                </em></h2>
 
             <p class="">
                 <strong><em>
@@ -134,13 +145,12 @@
         </h3>
     </div>
 </div>
-</div>
-</div>
+
 
 
 <!-- tarjetas tipos de adivinanzas -->
 <div class="container-fluid">
-<div class="row"  style="background: #D8E2F3 ">
+<div class="row" >
     <!-- tarjeta 1 -->
     <div class="col-md-4 pb-5" >
         <div class="card"  style="width: 18rem;" >
@@ -174,11 +184,12 @@
             </div>
         </div>
     </div>
-
+</div>
+</div>
 
     <!-- Contenedor2 y tarjeta4 -->
     <div class="container-fluid">
-        <div class="row" style="background: #D8E2F3">
+        <div class="row">
             <div  class="col-md-6 d-flex justify-content-center">
         <div class="card" style="width: 18rem;">
             <img src="https://i.ibb.co/hdgRwK2/icon.webp" class="card mx-auto d-block" height="150" width="220">
@@ -190,7 +201,7 @@
 </div>
 <!-- tarjeta5 -->
 
-    <div class="col-md-6">
+            <div class="col-md-6">
         <div class="card" style="width: 18rem;">
             <img src="https://i.ibb.co/Hpb4517/jghi.jpg" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
@@ -200,8 +211,10 @@
         </div>
     </div>
 
+        </div>
     </div>
-</div>
+
+
 
 
 <!-- separador -->
@@ -213,5 +226,6 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
 </body>
 </html>
