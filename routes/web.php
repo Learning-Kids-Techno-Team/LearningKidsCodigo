@@ -230,6 +230,11 @@ Route::get('/natural',function (){
     return view('Actividades/natural');
 });
 
+// Tercer Sprint
+// Matemáticas
+Route::get('/simbolos',function (){
+    return view('Matematicas/simbolos');
+});
 
                                                            /*TERCER SPRINT */
 /*rutas matematica */
