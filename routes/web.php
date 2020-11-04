@@ -251,7 +251,7 @@ Route::get('/longitud',function (){
     return view('Matematicas/pantallaLongitud');
 });
 
-Route::get('/monedas',function (){
+Route::get('/moneda',function (){
     return view('Matematicas/monedas');
 });
 
@@ -261,6 +261,12 @@ Route::get('/monedas',function (){
 
 Route::get('/animalesvertebrados',function (){
     return view('CienciasNaturales/pantallaAnimalesVertebrados');
+});
+
+
+
+Route::get('/animalesinvertebrados',function (){
+    return view('CienciasNaturales/pantallaAnimalesInvertebrados');
 });
 
 
