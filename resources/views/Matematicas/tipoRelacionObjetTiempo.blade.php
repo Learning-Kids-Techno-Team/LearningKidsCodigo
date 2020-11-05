@@ -150,7 +150,7 @@
     </div>
 </div>
 
-<!-- contenedor de rojo-->
+<!-- contenedor-->
 <div class="container-fluid  center-block pl-5" id="color"><h2><em><br>¡Actividades del día!</em></h2>
     <div  class="card">
         <div class="row m-5" >
@@ -167,7 +167,7 @@
                 <h5 class="card-title" align="center">Comemos</h5>
             </div>
             <div class="col-md-3">
-            <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/R0pffSX/sdl.jpg" width="275" />
+            <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/pwT4Tkp/po.jpg" width="275" height="250" />
             <h5 class="card-title" align="center">Jugamos</h5>
         </div>
         </div>
