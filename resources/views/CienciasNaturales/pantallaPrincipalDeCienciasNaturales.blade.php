@@ -135,11 +135,10 @@
     </div>
     <!-- titulo de las categorias-->
     <div>
-        <h1><em>Categorias de la clase de ciencias naturales</em></h1>
+        <h1><em>¡Categorías de la clase: Ciencias Naturales!</em></h1>
     </div>
 
     <!-- botones-->
-
     <div class="container-fluid">
         <div class="row mb-n5">
             <div class="col-md-12">
@@ -161,18 +160,21 @@
             <div class="col-md-4">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/xSgSCvL/descarga-removebg-preview.png" class="rounded-circle mx-auto d-block  bg-info" width="150" height="150"/><h3><em>Los seres vivos<br>y no vivos</em></h3>
             </div>
-
             <!-- imagen del centro de todos los botones-->
             <div class="col-4">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/3NBd0DK/together-removebg-preview.png" class=" mx-auto d-block" width="400" />
             </div>
             <div  class="col-md-4">
+                <a href="http://learningkidscodigo.test/LaSalud">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/6YQrwZK/hhjojih-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150" height="150"/><h3><em>La salud</em></h3>
+                </a>
             </div>
         </div>
         <div class="row">
             <div class="col-md-6">
+                <a href="http://learningkidscodigo.test/LosAnimales">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/261nY4f/Animales-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info" width="150"/><h3><em>Los animales</em> </h3>
+                </a>
             </div>
             <div class="col-md-6">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/wBgnRwC/ilus-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150"><h3><em>El clima</em></h3>
