@@ -256,7 +256,12 @@ Route::get('/moneda',function (){
 });
 
 /*rutas ciencias naturales*/
-
+Route::get('/LosAnimales',function (){
+    return view('CienciasNaturales/LosAnimales');
+});
+Route::get('/LaSalud',function (){
+    return view('CienciasNaturales/LaSalud');
+});
 
 
 Route::get('/animalesvertebrados',function (){
@@ -273,7 +278,12 @@ Route::get('/animalesinvertebrados',function (){
 
 /*rutas ciencias sociales*/
 
-
+Route::get('/ambienteContaminado',function (){
+    return view('CienciasSociales/ambienteContaminado');
+});
+Route::get('/ambienteNoContaminado',function (){
+    return view('CienciasSociales/ambienteNoContaminado');
+});
 
 
 /*rutas actividades*/

@@ -234,7 +234,9 @@
             <div class="col-md-4 pb-5">
             </div>
             <div class="col-md-4" align="right">
+                <a href="http://learningkidscodigo.test/moneda">
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/MngXsLY/coins-removebg-preview.png"     class="rounded-circle mx-auto d-block bg-info"width="150"><h3>La moneda</h3>
+                </a>
             </div>
         </div>
 
