@@ -271,6 +271,19 @@ Route::get('/animalesinvertebrados',function (){
 
 
 
+Route::get('/respiratorias',function (){
+    return view('CienciasNaturales/pantallaEnfermedadesRespiratorias');
+});
+
+
+
+
+Route::get('/intestinales',function (){
+    return view('CienciasNaturales/pantallaEnfermedadesIntestinales');
+});
+
+
+
 /*rutas ciencias sociales*/
 
 
