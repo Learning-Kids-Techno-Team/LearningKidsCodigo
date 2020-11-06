@@ -108,7 +108,7 @@
             <p>
                 <strong><em>
                        Es la representación y significado de un objeto.
-                        En la vida cotidian los niños al relacionar los objetos que lo rodea y establecer experencias
+                        En la vida cotidiana los niños al relacionar los objetos que lo rodea y establecer experencias
                         pre-numéricas, como: comparar, clasificar, identificar,
                         reunir, establecer relaciones uno a uno.<br>
                     </em></strong></p>

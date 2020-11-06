@@ -136,8 +136,8 @@
             <div class="card mx-auto d-block" style="width: 18rem; background: #d5f5fa">
                 <img src="https://i.ibb.co/dkV8L43/largo-corto.jpg"  width="285" style="border-bottom-left-radius: 30% ">
                 <div class="card-body">
-                    <h5 class="card-title" style="text-align: center">Largo y<br>   corto</h5>
-                    <a style=" background: #FF7800" href="" class="btn btn-primary">Leer</a>
+                    <h5 class="card-title" style="text-align: center">Unidades de Longitud</h5>
+                    <a href="http://learningkidscodigo.test/unidadLongitud" style=" background: #FF7800" href="" class="btn btn-primary">Leer</a>
                 </div>
             </div>
         </div>
@@ -146,7 +146,7 @@
                 <img src="https://i.ibb.co/g6JY8p6/medidas.jpg"  width="285"  alt="..." style="border-bottom-left-radius: 5% ">
                 <div class="card-body">
                     <h5 class="card-title" style="text-align: center">Medir con las partes del cuerpo</h5>
-                    <a href="http://learningkidscodigo.test/Matematicas/pantallaTipoDeCuadrilatero" style=" background: #FF7800" class="btn btn-primary">Leer</a>
+                    <a href="http://learningkidscodigo.test/unidadCorporal#" style=" background: #FF7800" class="btn btn-primary">Leer</a>
                 </div>
             </div>
         </div>
