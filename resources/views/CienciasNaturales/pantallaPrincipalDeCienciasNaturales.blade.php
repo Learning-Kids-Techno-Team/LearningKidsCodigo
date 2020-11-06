@@ -155,7 +155,9 @@
 
             </div>
             <div class="col-md-4">
+                <a href="http://learningkidscodigo.test/planta">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/HqPhHxk/planta-119-removebg-preview-1.png"  class="rounded-circle mx-auto d-block bg-info " width="150" height="150"/><h3><em>Partes de las plantas</em></h3>
+                </a>
             </div>
         </div>
         <div  class="row">

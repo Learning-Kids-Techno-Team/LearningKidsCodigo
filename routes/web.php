@@ -300,6 +300,9 @@ Route::get('/cuerpo',function (){
     return view('CienciasNaturales/pantallaPartesDelCuerpo');
 });
 
+Route::get('/planta',function (){
+    return view('CienciasNaturales/partesDelaPlanta');
+});
 
 
 /*rutas ciencias sociales*/
