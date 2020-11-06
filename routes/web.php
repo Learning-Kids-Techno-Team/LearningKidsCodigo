@@ -275,16 +275,16 @@ Route::get('/animalesinvertebrados',function (){
 });
 
 
-
 Route::get('/respiratorias',function (){
     return view('CienciasNaturales/pantallaEnfermedadesRespiratorias');
 });
 
-
-
-
 Route::get('/intestinales',function (){
     return view('CienciasNaturales/pantallaEnfermedadesIntestinales');
+});
+
+Route::get('/normas',function (){
+    return view('CienciasNaturales/pantallaNormas');
 });
 
 

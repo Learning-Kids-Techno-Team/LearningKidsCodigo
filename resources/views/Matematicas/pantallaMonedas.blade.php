@@ -198,7 +198,7 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
         <div class="col-md-6">
             <div class="card" style="width: 30rem;">
@@ -219,7 +219,7 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
         <div class="col-md-6">
             <div class="card" style="width: 30rem;">
@@ -252,7 +252,7 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
         <div class="col-md-6">
             <div class="card" style="width: 30rem;">
@@ -270,7 +270,7 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
         <div class="col-md-6">
             <div class="card" style="width: 30rem;">
@@ -290,7 +290,7 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
         <div class="col-md-6">
             <div class="card" style="width: 30rem;">
@@ -322,7 +322,7 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid   d-flex justify-content-center pl-5" >
     <div  class="row m-5" >
         <div class="col-md-4">
 
@@ -368,7 +368,7 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid   d-flex justify-content-center pl-5" >
     <div  class="row m-5" >
         <div class="col-md-4">
 
