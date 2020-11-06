@@ -296,6 +296,11 @@ Route::get('/normas',function (){
 });
 
 
+Route::get('/cuerpo',function (){
+    return view('CienciasNaturales/pantallaPartesDelCuerpo');
+});
+
+
 
 /*rutas ciencias sociales*/
 

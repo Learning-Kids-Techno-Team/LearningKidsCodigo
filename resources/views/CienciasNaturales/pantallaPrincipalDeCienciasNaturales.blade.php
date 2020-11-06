@@ -142,7 +142,9 @@
     <div class="container-fluid">
         <div class="row mb-n5">
             <div class="col-md-12">
-                <img alt="Bootstrap Image Preview" src="https://i.ibb.co/myQDSJG/dibujos-anima-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info" width="150"/><h3><em>Partes del cuerpo</em></h3>
+                <a href="http://learningkidscodigo.test/cuerpo">
+                <img alt="Bootstrap Image Preview" src="https://i.ibb.co/myQDSJG/dibujos-anima-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info" width="150"/><h3><em>Cuerpo humano</em></h3>
+                </a>
             </div>
         </div>
         <div  class="row pb-5">
