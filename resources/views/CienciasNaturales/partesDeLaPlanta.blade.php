@@ -174,12 +174,20 @@
 
     </div>
 </div>
+<div  class="container-fluid mt-5">
+    <div class="row">
+        <div class="col-md-12">
+            <img class=" mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/93dtH1w/Captura-de-pantalla-345-removebg-preview-1.png"    width="400" />
+        </div>
+
+    </div>
+</div>
 
 
 
-<div class="container-fluid center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6 pb-3">
+<div class="container-fluid  justify-content-center  pl-5 " >
+    <div class="row m-5 pl-5" >
+        <div class="col-md-6 pb-3 pl-5">
             <div class="card" style="width: 25rem;">
                 <img   src="https://i.ibb.co/DDLjysP/flores.jpg" width="385" height="300">
                 <div class="card-body">
@@ -190,7 +198,7 @@
         </div>
 
 
-        <div class="col-md-4">
+        <div class="col-md-4 justify-content-center pl-5">
             <div class="card" style="width: 25rem;">
                 <img  src="https://i.ibb.co/10Tg7Y2/un.jpg"  width="385" height="300">
                 <div class="card-body">
@@ -205,9 +213,9 @@
 
     </div>
 </div>
-<div class="container-fluid center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6 pb-3">
+<div class="container-fluid justify-content-center  pl-5" >
+    <div class="row m-5 pl-5"  >
+        <div class="col-md-6 pb-3 pl-5" >
             <div class="card" style="width: 25rem;">
                 <img src="https://i.ibb.co/gTkcg5m/bon.jpg"    class=" mx-auto d-block" width="385" height="300" >
                 <div class="card-body">
@@ -218,13 +226,13 @@
         </div>
 
 
-        <div class="col-md-4">
+        <div class="col-md-4 justify-content-center pl-5">
             <div class="card" style="width: 25rem;">
                 <img src="https://i.ibb.co/RpdwNY6/cone.jpg"   width="385" height="300">
                 <div class="card-body">
                     <h5 class="card-title">Tallo</h5>
 
-                    <p><strong> El tallo lleva el agua hasta las hojas y sostiene la planta.</strong></p>
+                    <p><strong> <br>El tallo lleva el agua hasta las hojas y sostiene la planta.</strong></p>
                 </div>
             </div>
         </div>
