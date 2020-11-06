@@ -251,9 +251,17 @@ Route::get('/longitud',function (){
     return view('Matematicas/pantallaLongitud');
 });
 
+Route::get('/unidadLongitud',function (){
+    return view('Matematicas/unidadesLongitud');
+});
+Route::get('/unidadCorporal',function (){
+    return view('Matematicas/unidadesCorporales');
+});
+
 Route::get('/moneda',function (){
     return view('Matematicas/monedas');
 });
+
 
 /*rutas ciencias naturales*/
 Route::get('/LosAnimales',function (){
