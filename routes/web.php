@@ -303,6 +303,12 @@ Route::get('/cuerpo',function (){
 Route::get('/planta',function (){
     return view('CienciasNaturales/partesDelaPlanta');
 });
+Route::get('/seresVivos',function (){
+    return view('CienciasNaturales/seresVivos');
+});
+Route::get('/seresNoVivos',function (){
+    return view('CienciasNaturales/seresNoVivos');
+});
 
 
 /*rutas ciencias sociales*/
