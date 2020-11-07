@@ -161,7 +161,9 @@
     <div class="container-fluid" style="background: #B8DA97">
         <div class="row pb-5">
             <div class="col-md-6">
+                <a href="http://learningkidscodigo.test/ambiente">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/1b1cyDg/Vector-set-with-nature-and-animals-in-the-children-s-cartoon-style-Lovely-crawfish-and-fish-on-water.jpg"   class="rounded-circle mx-auto d-block bg-info"width="150"><h3>El Ambiente</h3>
+                </a>
             </div>
             <div class="col-md-6">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/Wz8YVPr/3d92321c07f6ea6ad4bc750525fdb56b-removebg-preview-1.png"   class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Ciclo Del Agua</h3>

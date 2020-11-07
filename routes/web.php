@@ -319,6 +319,9 @@ Route::get('/ambienteContaminado',function (){
 Route::get('/ambienteNoContaminado',function (){
     return view('Ciencias Sociales/ambienteNoContaminado');
 });
+Route::get('/ambiente',function (){
+    return view('Ciencias Sociales/ambiente');
+});
 
 
 /*rutas actividades*/
