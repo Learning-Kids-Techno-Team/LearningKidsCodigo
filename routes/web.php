@@ -308,10 +308,10 @@ Route::get('/planta',function (){
 /*rutas ciencias sociales*/
 
 Route::get('/ambienteContaminado',function (){
-    return view('CienciasSociales/ambienteContaminado');
+    return view('Ciencias Sociales/ambienteContaminado');
 });
 Route::get('/ambienteNoContaminado',function (){
-    return view('CienciasSociales/ambienteNoContaminado');
+    return view('Ciencias Sociales/ambienteNoContaminado');
 });
 
 
