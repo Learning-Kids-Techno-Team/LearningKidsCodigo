@@ -149,7 +149,9 @@
         </div>
         <div  class="row pb-5">
             <div class="col-md-4">
+                <a href="http://learningkidscodigo.test/sentidos">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/Rjxb9LB/senyi.jpg" class="rounded-circle mx-auto d-block  bg-info " width="160" height="150"/><h3><em>Los sentidos</em></h3>
+                </a>
             </div>
             <div class="col-md-4">
 

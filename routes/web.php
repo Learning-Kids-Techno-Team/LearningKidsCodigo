@@ -275,7 +275,9 @@ Route::get('/LaSalud',function (){
 Route::get('/animalesvertebrados',function (){
     return view('CienciasNaturales/pantallaAnimalesVertebrados');
 });
-
+Route::get('/sentidos',function (){
+    return view('CienciasNaturales/pantallaSentidos');
+});
 
 
 Route::get('/animalesinvertebrados',function (){
