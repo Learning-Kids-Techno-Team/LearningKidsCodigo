@@ -312,6 +312,9 @@ Route::get('/seresNoVivos',function (){
     return view('CienciasNaturales/seresNoVivos');
 });
 
+Route::get('/ElClima',function (){
+    return view('CienciasNaturales/ElClima');
+});
 
 /*rutas ciencias sociales*/
 
