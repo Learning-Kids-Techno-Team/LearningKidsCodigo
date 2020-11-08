@@ -185,7 +185,9 @@
                 </a>
             </div>
             <div class="col-md-6">
+                <a href="http://learningkidscodigo.test/ElClima">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/wBgnRwC/ilus-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150"><h3><em>El clima</em></h3>
+                </a>
             </div>
         </div>
     </div>

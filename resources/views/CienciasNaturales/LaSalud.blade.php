@@ -66,7 +66,6 @@
         }
 
 
-
         .btn {
 
             background: #FDFD96;
