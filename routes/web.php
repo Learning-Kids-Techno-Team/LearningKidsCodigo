@@ -305,6 +305,9 @@ Route::get('/cuerpo',function (){
 Route::get('/planta',function (){
     return view('CienciasNaturales/partesDelaPlanta');
 });
+Route::get('/PseresVivos',function (){
+    return view('CienciasNaturales/pantallaSeresVivos');
+});
 Route::get('/seresVivos',function (){
     return view('CienciasNaturales/seresVivos');
 });

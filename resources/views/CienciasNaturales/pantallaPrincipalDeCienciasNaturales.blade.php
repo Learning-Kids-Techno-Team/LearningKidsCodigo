@@ -164,7 +164,9 @@
         </div>
         <div  class="row">
             <div class="col-md-4">
+                <a href="http://learningkidscodigo.test/PseresVivos">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/xSgSCvL/descarga-removebg-preview.png" class="rounded-circle mx-auto d-block  bg-info" width="150" height="150"/><h3><em>Los seres vivos<br>y no vivos</em></h3>
+                </a>
             </div>
             <!-- imagen del centro de todos los botones-->
             <div class="col-4">
