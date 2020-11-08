@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint3  Daniela" />
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/unidadesCorporales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/unidadesCorporales.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,7 +209,7 @@
       <workItem from="1603077727601" duration="536000" />
       <workItem from="1603573642869" duration="645000" />
       <workItem from="1604284211289" duration="683000" />
-      <workItem from="1604783330852" duration="8420000" />
+      <workItem from="1604783330852" duration="8816000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -320,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604793126751</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Sprint3  Daniela">
+      <created>1604793386947</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604793386947</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,11 +361,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="Sprint3  Daniela" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1604720971081">
+    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1604793385889">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604720971081" />
+    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604793385889" />
     <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602562451181" />
+    <state x="129" y="69" key="DiffContextDialog" timestamp="1604793319161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="69" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1604793319161" />
     <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1602562282575">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -369,11 +383,11 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602562325681" />
-    <state x="275" y="111" key="Vcs.Push.Dialog.v2" timestamp="1604720977737">
+    <state x="275" y="111" key="Vcs.Push.Dialog.v2" timestamp="1604793401236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="258" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1603574017610" />
-    <state x="275" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604720977737" />
+    <state x="275" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604793401236" />
     <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602562503548" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603077891936">
       <screen x="0" y="0" width="1366" height="728" />

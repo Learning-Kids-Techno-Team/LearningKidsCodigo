@@ -171,9 +171,9 @@
 
 
 
-<div class="container-fluid center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6 pb-3">
+<div class="container-fluid justify-content-center  pl-5" >
+    <div class="row m-5 pl-5" >
+        <div class="col-md-6 pb-3 pl-5">
             <div class="card" style="width: 25rem;">
                 <img   src="https://i.ibb.co/RyGGXQQ/pn1.jpg"   class=" mx-auto d-block" width="385" height="300" >
                 <div class="card-body">
@@ -185,7 +185,7 @@
         </div>
 
 
-        <div class="col-md-4">
+        <div class="col-md-4 justify-content-center pl-5">
             <div class="card" style="width: 25rem;">
                 <img  src="https://i.ibb.co/6mDHNDf/pulgada.jpg"  width="385" height="300">
                 <div class="card-body">
@@ -202,9 +202,9 @@
     </div>
 </div>
 
-<div class="container-fluid center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6 pb-3">
+<div class="container-fluid justify-content-center  pl-5" >
+    <div class="row m-5 pl-5" >
+        <div class="col-md-6 pb-3 pl-5">
             <div class="card" style="width: 25rem;">
                 <img src="https://i.ibb.co/8s6qGYz/64.png"  class=" mx-auto d-block" width="380" height="300" >
                 <div class="card-body">
@@ -217,7 +217,7 @@
         </div>
 
 
-        <div class="col-md-4">
+        <div class="col-md-4 justify-content-center pl-5">
             <div class="card" style="width: 25rem;">
                 <img  src="https://i.ibb.co/fqGpHkG/mano.jpg"   width="384" height="300">
                 <div class="card-body">
@@ -232,9 +232,9 @@
 
     </div>
 </div>
-<div class="container-fluid center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6 pb-3">
+<div class="container-fluid justify-content-center  pl-5" >
+    <div class="row m-5 pl-5" >
+        <div class="col-md-6 pb-3 pl-5">
             <div class="card" style="width: 25rem;">
                 <img src="https://i.ibb.co/k8pfpcg/86.png"   class=" mx-auto d-block" width="380" height="300" >
                 <div class="card-body">
@@ -245,7 +245,7 @@
         </div>
 
 
-        <div class="col-md-4">
+        <div class="col-md-4 justify-content-center  pl-5">
             <div class="card" style="width: 25rem;">
                 <img src="https://i.ibb.co/WgZ9H7Y/v4.jpg"   width="385" height="300">
                 <div class="card-body">
@@ -263,9 +263,9 @@
 </div>
 
 
-<div class="container-fluid center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6 pb-3">
+<div class="container-fluid justify-content-center  pl-5" >
+    <div class="row m-5 pl-5" >
+        <div class="col-md-6 pb-3 pl-5">
             <div class="card" style="width: 25rem;">
                 <img src="https://i.ibb.co/m52wBF2/cd.png"   class=" mx-auto d-block" width="380" height="300" >
                 <div class="card-body">
@@ -277,7 +277,7 @@
         </div>
 
 
-        <div class="col-md-4">
+        <div class="col-md-4 justify-content-center  pl-5">
             <div class="card" style="width: 25rem;">
                 <img src="https://i.ibb.co/K7hkw9S/co.jpg"  width="385" height="300">
                 <div class="card-body">
