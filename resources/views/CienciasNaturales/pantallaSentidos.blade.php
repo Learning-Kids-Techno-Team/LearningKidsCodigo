@@ -124,7 +124,7 @@
         <div class="col-md-12 bg-info ">
             <div class="row ml-5 mr-5 ">
                 <div class="col-md-7  mt-5 mx-auto d-block" style="background: #FDFD96;">
-                    <img src="https://i.ibb.co/gv5GxKb/sen-removebg-preview-1-removebg-preview-2.png" height="500" width="600" class="mx-auto d-block" >
+                    <img src="https://i.ibb.co/gv5GxKb/sen-removebg-preview-1-removebg-preview-2.png"  height="500" width="600" class="mx-auto d-block" >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: #D8E2F3;"  >
                     <h4>Ciencias Naturales</h4>
