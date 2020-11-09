@@ -67,11 +67,11 @@
             height: 100px;
             border-bottom-left-radius: 80%;
             border-top-right-radius: 50%;
-            background: crimson;
+            background: #FF7800;
         }
         #titulo{
             text-align: center;
-            color: red;
+            color: #FF7800;
         }
         h1{
             font-family: Brush Script MT;
@@ -121,10 +121,10 @@
 <!-- contenedor-->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-info">
+        <div class="col-md-12 bg-info ">
             <div class="row ml-5 mr-5 ">
-                <div class="col-md-7 bg-danger mt-5 mx-auto d-block">
-                    <img src="https://i.ibb.co/hV5KkXr/cinco-sentidos.jpg" height="500" width="600">
+                <div class="col-md-7  mt-5 mx-auto d-block" style="background: #FDFD96;">
+                    <img src="https://i.ibb.co/gv5GxKb/sen-removebg-preview-1-removebg-preview-2.png" height="500" width="600" class="mx-auto d-block" >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: #D8E2F3;"  >
                     <h4>Ciencias Naturales</h4>
@@ -157,7 +157,7 @@
 
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-danger mb-5">
+        <div class="col-md-12 mb-5" style="background: #F79458;">
             <h1 style="text-align: center">¿Cuáles son los 5 sentidos?</h1>
         </div>
     </div>
@@ -220,7 +220,7 @@
                 </div>
                 <div  class="container-fluid">
                     <div class="row">
-                        <div class="col-md-12 bg-danger mb-5">
+                        <div class="col-md-12  mb-5" style="background: #F79458;">
                             <h1 style="text-align: center">Desarrollando el sentido del Oído</h1>
                         </div>
                     </div>
@@ -238,7 +238,7 @@
                     </div>
                     <div  class="container-fluid">
                         <div class="row">
-                            <div class="col-md-12 bg-danger mb-5">
+                            <div class="col-md-12  mb-5" style="background: #F79458";>
                                 <h1 style="text-align: center">Desarrollando el sentido de la vista</h1>
                             </div>
                         </div>
@@ -256,7 +256,7 @@
                         </div>
                         <div  class="container-fluid">
                             <div class="row">
-                                <div class="col-md-12 bg-danger mb-5">
+                                <div class="col-md-12  mb-5" style="background: #F79458";>
                                     <h1 style="text-align: center">Desarrollando el sentido del Tacto</h1>
                                 </div>
                             </div>
@@ -274,7 +274,7 @@
                             </div>
                             <div  class="container-fluid">
                                 <div class="row">
-                                    <div class="col-md-12 bg-danger mb-5">
+                                    <div class="col-md-12 mb-5" style="background: #F79458";>
                                         <h1 style="text-align: center">Desarrollando el sentido del Gusto</h1>
                                     </div>
                                 </div>
@@ -345,7 +345,7 @@
                                             </div>
                                             <div  class="container-fluid">
                                                 <div class="row">
-                                                    <div class="col-md-12 bg-danger mb-5">
+                                                    <div class="col-md-12  mb-5" style="background: #F79458";>
                                                         <h1 style="text-align: center">Desarrollando el sentido del Olfato</h1>
                                                     </div>
                                                 </div>
