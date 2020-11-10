@@ -122,7 +122,7 @@
                 <img src="https://i.ibb.co/80WJS4q/original-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">Actividad Animales</h5>
-                    <a href="http://learningkidscodigo.test/lineaA" class="btn btn-danger" >ver</a>
+                    <a href="http://learningkidscodigo.test/animalesT" class="btn btn-danger" >ver</a>
                 </div>
             </div>
         </div>
@@ -144,7 +144,7 @@
                 <img src="https://i.ibb.co/9hn9ZkJ/parts.jpg" alt="parts" class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">Actividad Partes del cuerpo</h5>
-                    <a href="http://learningkidscodigo.test/sumaA" class="btn btn-danger" >ver</a>
+                    <a href="http://learningkidscodigo.test/partesC" class="btn btn-danger" >ver</a>
                 </div>
             </div>
         </div>
@@ -161,7 +161,7 @@
                         <img src="https://i.ibb.co/W2dWX00/higiene.jpg"   class="card mx-auto d-block" height="180" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Normas de higiene</h5>
-                            <a href="http://learningkidscodigo.test/relacion" class="btn btn-danger" >ver</a>
+                            <a href="http://learningkidscodigo.test/normasH" class="btn btn-danger" >ver</a>
                         </div>
                     </div>
                 </div>

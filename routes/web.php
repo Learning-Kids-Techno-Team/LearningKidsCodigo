@@ -198,7 +198,7 @@ Route::get('/sumas',function (){
 });
 
 
-//sprint 3
+//sprint 2
 //Matematicas
 /*rutas actividades*/
 
@@ -230,6 +230,7 @@ Route::get('/relacion',function (){
 Route::get('/natural',function (){
     return view('Actividades/natural');
 });
+
 
 
                                                            /*TERCER SPRINT */
@@ -336,5 +337,24 @@ Route::get('/ambiente',function (){
 Route::get('/actividadesC',function (){
     return view('ActividadesCienciasNaturales/pantActividadesCCNN');
 });
+
+
+Route::get('/partesC',function (){
+    return view('ActividadesCienciasNaturales/actividadPartesDelCuerpo');
+});
+
+
+
+Route::get('/animalesT',function (){
+    return view('ActividadesCienciasNaturales/actividadAnimales');
+});
+
+
+
+Route::get('/normasH',function (){
+    return view('ActividadesCienciasNaturales/actividadNormasDeHigiene');
+});
+
+
 
 
