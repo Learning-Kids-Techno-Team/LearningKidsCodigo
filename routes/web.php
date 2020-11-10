@@ -358,6 +358,16 @@ Route::get('/normasH',function (){
     return view('ActividadesCienciasNaturales/actividadNormasDeHigiene');
 });
 
+Route::get('/simbolosActividad',function (){
+    return view('Actividades/simbolosActividad');
+});
+Route::get('/longitudActividad',function (){
+    return view('Actividades/longitudActividad');
+});
+Route::get('/plantaActividad',function (){
+    return view('ActividadesCienciasNaturales/plantaActividad');
+});
 
-
-
+Route::get('/seresActividad',function (){
+    return view('ActividadesCienciasNaturales/seres');
+});

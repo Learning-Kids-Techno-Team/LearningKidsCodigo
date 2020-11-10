@@ -150,7 +150,7 @@
 
 
         <div class="container-fluid">
-            <div class="row pt-5  "  style="background: #FEB472">
+            <div class="row pb-5  "  style="background: #FEB472">
                 <!-- tarjeta 1 -->
                 <div class="col-md-4 pb-5 d-flex justify-content-center" >
                     <div class="card"  style="width: 18rem;" >
@@ -187,26 +187,53 @@
             </div>
         </div>
 
-                <div class="container-fluid">
-                    <div class="row pt-5  "  style="background: #FEB472">
-                        <!-- tarjeta 1 -->
-                        <div class="col-md-4 pb-5 d-flex justify-content-center" >
-                            <div class="card"  style="width: 18rem;" >
 
-                                <img  src="https://i.ibb.co/XxtgFXt/natural.jpg"  class="card mx-auto d-block" height="150" width="220">
-                                <div class="card-body">
-                                    <h5 class="card-title" align="center">Actividad De números naturales</h5>
-                                    <a href="http://learningkidscodigo.test/natural" class="btn btn-danger" >ver</a>
-                                </div>
-                            </div>
+        <div class="container-fluid">
+            <div class="row pb-5  "  style="background: #FEB472">
+                <!-- tarjeta 1 -->
+                <div class="col-md-4 pb-5 d-flex justify-content-center" >
+                    <div class="card"  style="width: 18rem;" >
+
+
+                        <img  src="https://i.ibb.co/XxtgFXt/natural.jpg"  class="card mx-auto d-block" height="150" width="220">
+                        <div class="card-body">
+                            <h5 class="card-title" align="center">Actividad De números naturales</h5>
+                            <a href="http://learningkidscodigo.test/natural" class="btn btn-danger" >ver</a>
                         </div>
-
                     </div>
                 </div>
 
 
+                <!-- tarjeta2 -->
+                <div class="col-md-4 pb-5 d-flex justify-content-center">
+                    <div class="card" style="width: 18rem;">
+                        <img src="https://i.ibb.co/SKmNjxQ/1594a.jpg"  class="card mx-auto d-block" height="150" width="220">
+                        <div class="card-body">
+                            <h5 class="card-title" align="center">Actividad Símbolos de igualdad</h5>
+                            <a href="http://learningkidscodigo.test/simbolosActividad" class="btn btn-danger" >ver</a>
+                        </div>
+                    </div>
+                </div>
+                <!-- tarjeta3 -->
+                <div class="col-md-4 pb-5 d-flex justify-content-center">
+                    <div class="card" style="width: 18rem;">
+                        <img  src="https://i.ibb.co/DpVby1r/mmm.png"  class="card mx-auto d-block" height="160" width="220">
+                        <div class="card-body">
+                            <h5 class="card-title" align="center">Actividad Longitud</h5>
+                            <a href="http://learningkidscodigo.test/longitudActividad" class="btn btn-danger" >ver</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
-                        <div  id="separadorInferior2">
+
+
+
+
+
+
+        <div  id="separadorInferior2">
                     <div class="content ">
 
                     </div>
