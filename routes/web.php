@@ -337,6 +337,7 @@ Route::get('/ambiente',function (){
 Route::get('/actividadesC',function (){
     return view('ActividadesCienciasNaturales/pantActividadesCCNN');
 });
+
 Route::get('/lsentido',function (){
     return view('ActividadesCienciasNaturales/actividadSentidos');
 });
