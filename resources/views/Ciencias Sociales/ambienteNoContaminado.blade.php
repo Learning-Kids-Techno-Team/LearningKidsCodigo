@@ -172,7 +172,7 @@
         <div class="col-md-4">
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/vhGWS2p/fgo.jpg"  width="300" height="240">
-                <h5 class="card-title" align="center">Mantengo mi ambiente limpio, depósito la basura en su lugar</h5>
+                <h5 class="card-title" align="center">Mantengo mi ambiente limpio, deposito la basura en su lugar</h5>
             </div>
         </div>
         <div class="col-md-4">

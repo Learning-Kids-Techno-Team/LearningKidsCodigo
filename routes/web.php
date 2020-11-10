@@ -338,6 +338,9 @@ Route::get('/actividadesC',function (){
     return view('ActividadesCienciasNaturales/pantActividadesCCNN');
 });
 
+Route::get('/lsentido',function (){
+    return view('ActividadesCienciasNaturales/actividadSentidos');
+});
 
 Route::get('/partesC',function (){
     return view('ActividadesCienciasNaturales/actividadPartesDelCuerpo');

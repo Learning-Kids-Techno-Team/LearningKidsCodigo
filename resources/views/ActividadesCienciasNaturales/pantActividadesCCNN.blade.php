@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Actividades Español</title>
+    <title>Actividades Ciencias Naturales</title>
     <meta name="description" content="Source code generated using layoutit.com">
     <meta name="author" content="LayoutIt!">
 
@@ -133,8 +133,8 @@
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/r7fbT3P/cinco-sentidos-oir-tocar-sabor-vista-olfato-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
-                    <h5 class="card-title" align="center">Actividad Sentidos</h5>
-                    <a href="http://learningkidscodigo.test/restaA" class="btn btn-danger" >ver</a>
+                    <h5 class="card-title"  align="center">Actividad Sentidos</h5>
+                    <a href="http://learningkidscodigo.test/lsentido" class="btn btn-danger" >ver</a>
                 </div>
             </div>
         </div>

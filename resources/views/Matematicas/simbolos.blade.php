@@ -85,6 +85,14 @@
             text-align: center;
             color: red;
         }
+        #bor{
+            border: oldlace 5px dashed;
+            border-bottom-right-radius: 50px;
+            border-top-left-radius: 50px;
+            border-bottom-left-radius: 50px;
+            border-top-right-radius: 50px;
+        }
+
 
         #bor{
             border: oldlace 5px dashed;
