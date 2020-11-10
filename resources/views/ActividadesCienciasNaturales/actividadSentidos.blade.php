@@ -127,7 +127,7 @@
             </div>
 
             <div>
-                <iframe src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Juegos/actividades%20ciencias%20naturales/juego%20de%20tipos%20de%20animales%20(Published)/" width="1347" height="800"></iframe>
+                <iframe src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Juegos/actividades%20ciencias%20naturales/ActividadSentidos(Publicado)/" width="1347" height="800"></iframe>
             </div>
 
         </div>
