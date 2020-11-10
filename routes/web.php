@@ -333,5 +333,8 @@ Route::get('/ambiente',function (){
 
 
 /*rutas actividades*/
+Route::get('/actividadesC',function (){
+    return view('ActividadesCienciasNaturales/pantActividadesCCNN');
+});
 
 

@@ -25,9 +25,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint3 Techno Team">
+      <change afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/pantActividadesCCNN.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaSentidos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaSentidos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/pantallaActividades.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/pantallaActividades.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPrincipalDeCienciasNaturales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPrincipalDeCienciasNaturales.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/simbolos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/simbolos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pantallaPrincipal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pantallaPrincipal.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +214,10 @@
       <workItem from="1603573642869" duration="645000" />
       <workItem from="1604284211289" duration="683000" />
       <workItem from="1604810198984" duration="620000" />
-      <workItem from="1604881782257" duration="4616000" />
+      <workItem from="1604881782257" duration="5216000" />
+      <workItem from="1604889483338" duration="1225000" />
+      <workItem from="1604973350081" duration="968000" />
+      <workItem from="1604975500301" duration="3674000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -324,7 +331,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604798475733</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Sprint3 Techno Team">
+      <created>1604887128020</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604887128020</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Sprint3 Techno Team">
+      <created>1604887341059</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604887341059</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -372,24 +393,24 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="313" y="117" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1604810317004" />
-    <state x="506" y="290" key="NewPhpFileDialog" timestamp="1603669562412">
+    <state x="506" y="290" key="NewPhpFileDialog" timestamp="1604976859945">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="474" y="303" key="NewPhpFileDialog/0.0.1280.760@0.0.1280.760" timestamp="1602623197381" />
-    <state x="506" y="290" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1603669562412" />
+    <state x="506" y="290" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1604976859945" />
     <state x="184" y="29" key="SettingsEditor" timestamp="1602562325681">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602562325681" />
-    <state x="275" y="111" key="Vcs.Push.Dialog.v2" timestamp="1604795399628">
+    <state x="275" y="111" key="Vcs.Push.Dialog.v2" timestamp="1604887348453">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="258" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1603574017610" />
-    <state x="275" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604795399628" />
+    <state x="275" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604887348453" />
     <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602562503548" />
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604810285140">
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604976442242">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1604810285140" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1604976442242" />
   </component>
 </project>
