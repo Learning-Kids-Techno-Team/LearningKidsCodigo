@@ -25,8 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaAnimalesInvertebrados.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaAnimalesInvertebrados.blade.php" afterDir="false" />
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint3 Sindy G.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambienteContaminado.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambienteContaminado.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambienteNoContaminado.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambienteNoContaminado.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +210,6 @@
       <workItem from="1603077727601" duration="536000" />
       <workItem from="1603573642869" duration="645000" />
       <workItem from="1604284211289" duration="683000" />
-      <workItem from="1604981600268" duration="1676000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -308,14 +309,7 @@
       <option name="project" value="LOCAL" />
       <updated>1603573936512</updated>
     </task>
-    <task id="LOCAL-00015" summary="Sprint Techno Team">
-      <created>1604982966578</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1604982966578</updated>
-    </task>
-    <option name="localTasksCounter" value="16" />
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,35 +336,33 @@
     <MESSAGE value="Sprint2 Sindy" />
     <MESSAGE value="Sindy G. Sprint1" />
     <MESSAGE value="Sprint2 Sindy G." />
-    <MESSAGE value="Sprint Techno Team" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint Techno Team" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint2 Sindy G." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1604982964580">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1603053893294">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603053893294" />
-    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1604982964580" />
+    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1602562451181" />
     <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1602562282575">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1602562282575" />
-    <state x="506" y="306" key="NewPhpFileDialog" timestamp="1604982339185">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="506" y="290" key="NewPhpFileDialog" timestamp="1603669562412">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="474" y="303" key="NewPhpFileDialog/0.0.1280.760@0.0.1280.760" timestamp="1602623197381" />
     <state x="506" y="290" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1603669562412" />
-    <state x="506" y="306" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1604982339185" />
     <state x="184" y="29" key="SettingsEditor" timestamp="1602562325681">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602562325681" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1604982979066">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="275" y="111" key="Vcs.Push.Dialog.v2" timestamp="1603610862627">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="258" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1603574017610" />
     <state x="275" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1603610862627" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604982979066" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1602562503548" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603077891936">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

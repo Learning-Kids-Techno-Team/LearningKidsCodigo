@@ -134,7 +134,7 @@
     </div>
 </div>
 
-<!-- contenedores de -->
+<!-- contenedores-->
 <div class="container-fluid" id="color"><h2><em><br>¿Qué encontramos en un ambiente contaminado?</em></h2>
     <div class="row">
         <div class="col-md-4"><br>
@@ -211,7 +211,7 @@
 </div>
 
 <!-- contenedor suge-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>El ambiente tambien se contamina y se destruye cuando:</em></h2>
+<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>El ambiente también se contamina y se destruye cuando:</em></h2>
     <div class="row m-5" >
         <div class="col-md-4">
             <div class="card" style="width: 20rem;">
@@ -222,7 +222,7 @@
         <div class="col-md-4">
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/vJv2tk2/petro.jpg" width="310" height="240">
-                <h5 class="card-title" align="center">Hay derrame de petroleo</h5>
+                <h5 class="card-title" align="center">Hay derrame de petróleo</h5>
             </div>
         </div>
         <div class="col-md-4">
