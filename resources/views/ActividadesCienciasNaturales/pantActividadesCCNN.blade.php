@@ -180,7 +180,7 @@
                 <!-- tarjeta3 -->
                 <div class="col-md-4 pb-5 d-flex justify-content-center">
                     <div class="card" style="width: 18rem;">
-                        <img  src="https://i.ibb.co/7zPfY8X/orr.jpg"  class="card mx-auto d-block" height="180" width="200">
+                        <img   src="https://i.ibb.co/kccVkhm/SER.jpg"   class="card mx-auto d-block" height="180" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Seres vivos y no vivos</h5>
                             <a href="http://learningkidscodigo.test/seresActividad" class="btn btn-danger" >ver</a>
