@@ -123,7 +123,7 @@
     <div class="row">
         <div class="col-m-12" style="background: yellow;">
             <div >
-                <h1 style="text-align: center">Actividad Los sentidos </h1>
+                <h1 style="text-align: center">  Actividad Los sentidos </h1>
             </div>
 
             <div>
