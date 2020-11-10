@@ -166,7 +166,7 @@
         <div class="col-md-12" style="background: yellow">
             <div class="row ml-5 mr-5">
                 <div class="col-md-7  mt-5" style="background: #CCDDCC">
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/9Zktq0T/9717594-colecci-n-de-insectos-vectores-bugs-e-invertebrados-removebg-preview.png"   width="500"  >
+                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/QFzthKr/05aa418c4249670739ebf93cb0608c4a-removebg-preview.png"    width="500"  >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                     <h4 style="color: #3B5686">Ciencias Naturales</h4>
