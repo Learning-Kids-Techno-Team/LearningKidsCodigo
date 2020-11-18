@@ -356,5 +356,21 @@ Route::get('/normasH',function (){
 });
 
 
+                                  /* sprint 3 */
 
+
+
+Route::get('/ocupaciones',function (){
+    return view('Ciencias Sociales/pantallaOcupaciones');
+});
+
+
+Route::get('/familia',function (){
+    return view('Ciencias Sociales/familia');
+});
+
+
+Route::get('/mediosT',function (){
+    return view('Ciencias Sociales/pantallaMediosDeTransporte');
+});
 
