@@ -154,7 +154,9 @@
     <div class="container-fluid" style="background: #B8DA97">
         <div class="row  pb-5">
             <div class="col-md-12">
+                <a href="http://learningkidscodigo.test/familia">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/bmXKXbm/familia-removebg-preview-1.png" class="rounded-circle mx-auto d-block bg-info" width="150"><h3>La Familia</h3>
+                </a>
             </div>
         </div>
     </div>
@@ -195,14 +197,18 @@
 
             </div>
             <div class="col-md-3">
+                <a href="http://learningkidscodigo.test/ocupaciones">
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/tCBq5X3/doc-removebg-preview.png"  class="rounded-circle  mx-auto d-block  bg-info" width="150"><h3>Ocupaciones</h3>
+                </a>
             </div>
         </div>
     </div>
     <div class="container-fluid" style="background: #B8DA97">
         <div class="row ">
             <div class="col-md-4 ">
+                <a href="http://learningkidscodigo.test/mediosT">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/3RqB5sL/diseno-medios-transporte-1196-141.jpg"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Medios de Transpote</h3>
+                </a>
             </div>
             <div class="col-md-4 pb-5">
 
