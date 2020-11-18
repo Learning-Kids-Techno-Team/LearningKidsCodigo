@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Actividades Español</title>
+    <title>Actividades Ciencias Naturales</title>
     <meta name="description" content="Source code generated using layoutit.com">
     <meta name="author" content="LayoutIt!">
 
@@ -133,8 +133,8 @@
             <div class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/r7fbT3P/cinco-sentidos-oir-tocar-sabor-vista-olfato-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
-                    <h5 class="card-title" align="center">Actividad Sentidos</h5>
-                    <a href="http://learningkidscodigo.test/restaA" class="btn btn-danger" >ver</a>
+                    <h5 class="card-title"  align="center">Actividad Sentidos</h5>
+                    <a href="http://learningkidscodigo.test/lsentido" class="btn btn-danger" >ver</a>
                 </div>
             </div>
         </div>
@@ -170,44 +170,27 @@
                 <!-- tarjeta2 -->
                 <div class="col-md-4 pb-5 d-flex justify-content-center">
                     <div class="card" style="width: 18rem;">
-                        <img src="https://i.ibb.co/q9C0DFT/figura.jpg" class="card mx-auto d-block" height="150" width="220">
+                        <img  src="https://i.ibb.co/dJvh0xN/iii.jpg"  class="card mx-auto d-block" height="180" width="200">
                         <div class="card-body">
-                            <h5 class="card-title" align="center">Actividad Figuras Geometricas</h5>
-                            <a href="http://learningkidscodigo.test/figuraA" class="btn btn-danger" >ver</a>
+                            <h5 class="card-title" align="center">Actividad Partes de la planta</h5>
+                            <a href="http://learningkidscodigo.test/plantaActividad" class="btn btn-danger" >ver</a>
                         </div>
                     </div>
                 </div>
                 <!-- tarjeta3 -->
                 <div class="col-md-4 pb-5 d-flex justify-content-center">
                     <div class="card" style="width: 18rem;">
-                        <img  src="https://i.ibb.co/Qkc6Q54/Numeros-Ordinales.png" class="card mx-auto d-block" height="160" width="220">
+                        <img   src="https://i.ibb.co/kccVkhm/SER.jpg"   class="card mx-auto d-block" height="180" width="200">
                         <div class="card-body">
-                            <h5 class="card-title" align="center">Actividad numeros Ordinales</h5>
-                            <a href="http://learningkidscodigo.test/ordinales" class="btn btn-danger" >ver</a>
+                            <h5 class="card-title" align="center">Actividad Seres vivos y no vivos</h5>
+                            <a href="http://learningkidscodigo.test/seresActividad" class="btn btn-danger" >ver</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="container-fluid">
-            <div class="row pt-5  "  style="background: #F8FEBE">
-                <!-- tarjeta 1 -->
-                <div class="col-md-4 pb-5 d-flex justify-content-center" >
-                    <div class="card"  style="width: 18rem;" >
 
-                        <img  src="https://i.ibb.co/XxtgFXt/natural.jpg"  class="card mx-auto d-block" height="150" width="220">
-                        <div class="card-body">
-                            <h5 class="card-title" align="center">Actividad De números naturales</h5>
-                            <a href="http://learningkidscodigo.test/natural" class="btn btn-danger" >ver</a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-
-    </div>
 
         <div  id="separadorInferior2">
             <div class="content ">

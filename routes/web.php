@@ -356,24 +356,5 @@ Route::get('/normasH',function (){
 });
 
 
-                                                              /*Sprint 4*/
 
-/*rutas de la clase de ciencias sociales*/
-
-
-
-Route::get('/familia',function (){
-    return view('Ciencias Sociales/familia');
-});
-
-
-Route::get('/ocupaciones',function (){
-    return view('Ciencias Sociales/pantallaOcupaciones');
-});
-
-
-
-Route::get('/mediosT',function (){
-    return view('Ciencias Sociales/pantallaMediosDeTransporte');
-});
 
