@@ -155,7 +155,7 @@
                 <img id="im" src="https://i.ibb.co/yXnXTMJ/vector-a-group-of-people-of-different-professions-removebg-preview.png"  width="300" height="230" class="mx-auto d-block" >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Ocupaciones!</h5>
-                    <a href="http://learningkidscodigo.test/normas" class="btn">Leer</a>
+                    <a href="http://learningkidscodigo.test/oficios" class="btn">Leer</a>
                 </div>
             </div>
         </div>
@@ -165,12 +165,12 @@
                 <img id="im"class="mx-auto d-block" src="https://i.ibb.co/bBY120Z/a-group-of-people-in-different-professions-removebg-preview.png"  width="300" height="230"  >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Profesiones!</h5>
-                    <a href="http://learningkidscodigo.test/respiratorias" class="btn">Leer</a>
+                    <a href="http://learningkidscodigo.test/profesiones" class="btn">Leer</a>
 
         </div>
     </div>
 </div>
-
+    </div>
 
 <!-- separador -->
 <div id="separadorInferior">

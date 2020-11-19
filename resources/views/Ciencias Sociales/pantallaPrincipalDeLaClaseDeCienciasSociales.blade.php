@@ -175,7 +175,9 @@
     <div class="container-fluid"style="background: #B8DA97">
         <div class="row">
             <div class="col-md-4 pb-5">
+                <a href="http://learningkidscodigo.test/sentimientos">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/VDkYKBP/los-sentiminetos-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Los Sentimientos</h3>
+                </a>
             </div>
             <div class="col-md-4">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/tcpvYgs/ciencias-sociales-removebg-preview.png"  class="mx-auto d-block" width="450" >

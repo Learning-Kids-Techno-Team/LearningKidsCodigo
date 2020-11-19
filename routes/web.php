@@ -356,7 +356,7 @@ Route::get('/normasH',function (){
 });
 
 
-                                  /* sprint 3 */
+                                  /* sprint 4 */
 
 
 
@@ -372,5 +372,23 @@ Route::get('/familia',function (){
 
 Route::get('/mediosT',function (){
     return view('Ciencias Sociales/pantallaMediosDeTransporte');
+});
+Route::get('/sentimientos',function (){
+    return view('Ciencias Sociales/sentimientos');
+});
+Route::get('/profesiones',function (){
+    return view('Ciencias Sociales/profesiones');
+});
+Route::get('/oficios',function (){
+    return view('Ciencias Sociales/oficios');
+});
+Route::get('/aereos',function (){
+    return view('Ciencias Sociales/aereos');
+});
+Route::get('/terrestres',function (){
+    return view('Ciencias Sociales/terrestres');
+});
+Route::get('/maritimos',function (){
+    return view('Ciencias Sociales/maritimos');
 });
 

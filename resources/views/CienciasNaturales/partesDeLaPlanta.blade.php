@@ -191,9 +191,11 @@
             <div class="card" style="width: 25rem;">
                 <img   src="https://i.ibb.co/DDLjysP/flores.jpg" width="385" height="300">
                 <div class="card-body">
+                    <div class="card-body">
                     <h5 class="card-title">La Flor</h5>
                     <p><strong><br>Parte de la planta que se convierte en fruto.</strong></p>
                 </div>
+
             </div>
         </div>
 
