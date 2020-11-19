@@ -183,26 +183,22 @@
     </div>
 </div>
 
-
-
-<div class="container-fluid  justify-content-center  pl-5 " >
-    <div class="row m-5 pl-5" >
-        <div class="col-md-6 pb-3 pl-5">
+<div class="container-fluid justify-content-center  pl-5" >
+    <div class="row m-5 pl-5"  >
+        <div class="col-md-6 pb-3 pl-5" >
             <div class="card" style="width: 25rem;">
                 <img   src="https://i.ibb.co/DDLjysP/flores.jpg" width="385" height="300">
                 <div class="card-body">
-                    <div class="card-body">
                     <h5 class="card-title">La Flor</h5>
                     <p><strong><br>Parte de la planta que se convierte en fruto.</strong></p>
                 </div>
-
             </div>
         </div>
 
 
         <div class="col-md-4 justify-content-center pl-5">
             <div class="card" style="width: 25rem;">
-                <img  src="https://i.ibb.co/10Tg7Y2/un.jpg"  width="385" height="300">
+                <img  src="https://i.ibb.co/10Tg7Y2/un.jpg"   width="385" height="300">
                 <div class="card-body">
                     <h5 class="card-title">Fruto</h5>
 
@@ -211,10 +207,9 @@
             </div>
         </div>
 
-
-
     </div>
 </div>
+
 <div class="container-fluid justify-content-center  pl-5" >
     <div class="row m-5 pl-5"  >
         <div class="col-md-6 pb-3 pl-5" >
@@ -277,7 +272,7 @@
 
     </div>
 </div>
-
+</div>
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
