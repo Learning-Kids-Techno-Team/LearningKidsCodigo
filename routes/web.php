@@ -399,6 +399,7 @@ Route::get('/maritimos',function (){
     return view('Ciencias Sociales/maritimos');
 });
 
+
 Route::get('/derechosYDeberes',function (){
     return view('Ciencias Sociales/derechosYDeberes');
 });
