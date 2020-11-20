@@ -180,10 +180,12 @@
                 </a>
             </div>
             <div class="col-md-4">
-                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/tcpvYgs/ciencias-sociales-removebg-preview.png"  class="mx-auto d-block" width="450" >
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/tcpvYgs/ciencias-sociales-removebg-preview.png" class="mx-auto d-block" width="450" >
             </div>
             <div class="col-md-4">
-                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/h8Q1q6D/doc5.jpg"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Los Derechos y deberes de los niños</h3>
+                <a href="http://learningkidscodigo.test/derechosYDeberes">
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/h8Q1q6D/doc5.jpg" class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Los Derechos y deberes<br> de los niños y niñas</h3>
+                </a>
             </div>
         </div>
     </div>
@@ -200,7 +202,7 @@
             </div>
             <div class="col-md-3">
                 <a href="http://learningkidscodigo.test/ocupaciones">
-                <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/tCBq5X3/doc-removebg-preview.png"  class="rounded-circle  mx-auto d-block  bg-info" width="150"><h3>Ocupaciones</h3>
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/tCBq5X3/doc-removebg-preview.png" class="rounded-circle  mx-auto d-block  bg-info" width="150"><h3>Ocupaciones</h3>
                 </a>
             </div>
         </div>
@@ -209,19 +211,21 @@
         <div class="row ">
             <div class="col-md-4 ">
                 <a href="http://learningkidscodigo.test/mediosT">
-                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/3RqB5sL/diseno-medios-transporte-1196-141.jpg"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Medios de Transpote</h3>
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/3RqB5sL/diseno-medios-transporte-1196-141.jpg" class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Medios de Transpote</h3>
                 </a>
             </div>
             <div class="col-md-4 pb-5">
 
             </div>
             <div class="col-md-4" align="right">
-                <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/SsD9Rmq/estaciones-removebg-preview.png"   class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Estaciones del año</h3>
+                <a href="http://learningkidscodigo.test/estaciones">
+                <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/SsD9Rmq/estaciones-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Estaciones del año</h3>
+                </a>
             </div>
         </div><div class="container-fluid" style="background: #B8DA97">
             <div class="row  pb-5">
                 <div class="col-md-12">
-                    <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/s35TyZD/comuni.jpg"  class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Medios de comunicación</h3>
+                    <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/s35TyZD/comuni.jpg" class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Medios de comunicación</h3>
                 </div>
             </div>
         </div>
