@@ -365,7 +365,12 @@ Route::get('/normasH',function (){
 Route::get('/ocupaciones',function (){
     return view('Ciencias Sociales/pantallaOcupaciones');
 });
-
+Route::get('/cicloAgua',function (){
+    return view('Ciencias Sociales/cicloAgua');
+});
+Route::get('/comunicacion',function (){
+    return view('Ciencias Sociales/mediosComunicacion');
+});
 
 Route::get('/familia',function (){
     return view('Ciencias Sociales/familia');

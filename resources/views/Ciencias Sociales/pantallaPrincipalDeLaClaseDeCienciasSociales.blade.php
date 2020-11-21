@@ -168,7 +168,9 @@
                 </a>
             </div>
             <div class="col-md-6">
+                <a href="http://learningkidscodigo.test/cicloAgua">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/Wz8YVPr/3d92321c07f6ea6ad4bc750525fdb56b-removebg-preview-1.png"   class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Ciclo Del Agua</h3>
+                </a>
             </div>
         </div>
     </div>
@@ -225,7 +227,9 @@
         </div><div class="container-fluid" style="background: #B8DA97">
             <div class="row  pb-5">
                 <div class="col-md-12">
+                    <a href="http://learningkidscodigo.test/comunicacion">
                     <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/s35TyZD/comuni.jpg" class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Medios de comunicación</h3>
+                    </a>
                 </div>
             </div>
         </div>
