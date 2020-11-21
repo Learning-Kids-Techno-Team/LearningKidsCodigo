@@ -349,7 +349,9 @@ Route::get('/animalesT',function (){
     return view('ActividadesCienciasNaturales/actividadAnimales');
 });
 
-
+Route::get('/lsentidos',function (){
+    return view('ActividadesCienciasNaturales/actividadSentidos');
+});
 
 Route::get('/normasH',function (){
     return view('ActividadesCienciasNaturales/actividadNormasDeHigiene');
