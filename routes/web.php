@@ -371,6 +371,9 @@ Route::get('/cicloAgua',function (){
 Route::get('/comunicacion',function (){
     return view('Ciencias Sociales/mediosComunicacion');
 });
+Route::get('/cardinales',function (){
+    return view('Ciencias Sociales/puntosCardinales');
+});
 
 Route::get('/familia',function (){
     return view('Ciencias Sociales/familia');

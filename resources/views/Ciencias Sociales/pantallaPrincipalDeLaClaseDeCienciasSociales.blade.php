@@ -194,7 +194,9 @@
     <div class="container-fluid" style="background: #B8DA97">
         <div class="row pb-5">
             <div class="col-md-3">
+                <a href="http://learningkidscodigo.test/cardinales">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/Yhps9yZ/ninos-dibujos-animados-traje-explorador-acampando-naturaleza-43633-7348.jpg"   class="rounded-circle  mx-auto d-block bg-info" width="150"><h3>Puntos Cardinales</h3>
+                </a>
             </div>
             <div class="col-md-3">
 
