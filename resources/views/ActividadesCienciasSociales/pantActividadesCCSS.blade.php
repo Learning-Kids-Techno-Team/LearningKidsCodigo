@@ -14,16 +14,18 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
 
-</head>
+
 <style>
+
     .navbar{
-        background: #dcfecb;
+        background: #60A71B;
     }
+
     .card{
 
         border-bottom-left-radius: 50%;
-        border-color: #FF7800;
-        border: double #FF7800;
+        border-color: #60A71B;
+        border: double #60A71B;
     }
 
 
@@ -34,13 +36,14 @@
         border-top-left-radius: 50%;
         border-top-right-radius:50%;
     }
+
     #separadorInferior2 .content{
         width: 100%;
         height: 100px;
         margin-left: 0px;
         border-bottom-left-radius:80%;
         border-top-right-radius: 80%;
-        background: #60A71B;
+        background:  #dcfecb;
     }
 
 
@@ -52,25 +55,32 @@
 
     }
     body{
-        background: #dcfecb;
+        background:#60A71B ;
     }
-    #fondo{
-        border-bottom-left-radius:50%;
-        border-top-right-radius: 50%;
 
-    }
+
     h1 {
         font-family: Brush Script MT;
         size: 80px;
     }
 
+    #fondo {
+        border-bottom-left-radius: 50%;
+        border-top-right-radius: 50%;
+    }
 
+    .btn {
+
+        background: #C5FFA0;
+        border: #60A71B 2px solid;
+    }
 
 </style>
+</head>
 
 <body>
 <!-- navbar -->
-<nav class="navbar navbar-expand-sm" >
+<nav class="navbar navbar-expand-sm navbar-dark" >
     <div class="container-fluid">
         <a class="navbar-brand" href="#">
             <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" alt="" width="100">
@@ -97,16 +107,16 @@
 <!-- iamgen -->
 <div class="container-fluid">
     <div class="row pb-5">
-        <div class="col-md-12" style="background: #60A71B" id="fondo" >
-            <img src="https://i.ibb.co/5Rn4hjN/pasted-image-0-removebg-preview.png"  width="600" class=" mx-auto d-block"/>
+        <div class="col-md-12" style="background:  #dcfecb" id="fondo" >
+            <img src="https://i.ibb.co/yF8rLXw/prof-removebg-preview.png"  width="600" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
 
 
 <div  class="container-fluid ">
-    <div class="row " style="background: #FEB472">
-        <div class="col-md-12 bg-warning mb-5 ">
+    <div class="row " style="background: #60A71B" >
+        <div class="col-md-12  mb-5" style="background:  #dcfecb">
             <h1 style="text-align: center">Actividades</h1>
         </div>
     </div>
@@ -114,15 +124,15 @@
 
 
 <div class="container-fluid">
-    <div class="row pt-5  "  style="background: #F8FEBE">
+    <div class="row pt-5  "  style="background: #dcfecb">
         <!-- tarjeta 1 -->
         <div class="col-md-4 pb-5 d-flex justify-content-center" >
             <div class="card"  style="width: 18rem;" >
 
-                <img src="https://i.ibb.co/80WJS4q/original-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
+                <img src="https://i.ibb.co/jWfDcJy/jjj-removebg-preview-1.png" class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">Actividad El Ambiente</h5>
-                    <a href="http://learningkidscodigo.test/animalesT" class="btn btn-danger" >ver</a>
+                    <a href="http://learningkidscodigo.test/actividadAmbiente" class="btn">Ver</a>
                 </div>
             </div>
         </div>
@@ -131,20 +141,20 @@
         <!-- tarjeta2 -->
         <div class="col-md-4 pb-5 d-flex justify-content-center">
             <div class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/r7fbT3P/cinco-sentidos-oir-tocar-sabor-vista-olfato-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
+                <img src="https://i.ibb.co/brvg05d/m1-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
-                    <h5 class="card-title"  align="center">Actividad La Familia</h5>
-                    <a href="http://learningkidscodigo.test/lsentidos" class="btn btn-danger" >ver</a>
+                    <h5 class="card-title"  align="center">Actividad<br> Medios de transporte</h5>
+                    <a href="http://learningkidscodigo.test/lsentidos" class="btn">Ver</a>
                 </div>
             </div>
         </div>
         <!-- tarjeta3 -->
         <div class="col-md-4 pb-5 d-flex justify-content-center">
             <div class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/9hn9ZkJ/parts.jpg" alt="parts" class="card mx-auto d-block" height="180" width="200">
+                <img src="https://i.ibb.co/VDkYKBP/los-sentiminetos-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
-                    <h5 class="card-title" align="center">Actividad Los Sentimientos</h5>
-                    <a href="http://learningkidscodigo.test/partesC" class="btn btn-danger" >ver</a>
+                    <h5 class="card-title" align="center">Actividad<br> Los Sentimientos</h5>
+                    <a href="http://learningkidscodigo.test/partesC" class="btn">Ver</a>
                 </div>
             </div>
         </div>
@@ -153,37 +163,36 @@
 
 
         <div class="container-fluid">
-            <div class="row pt-5  "  style="background: #F8FEBE">
+            <div class="row pt-5  "  style="background: #dcfecb ">
                 <!-- tarjeta 1 -->
                 <div class="col-md-4 pb-5 d-flex justify-content-center" >
                     <div class="card"  style="width: 18rem;" >
 
-                        <img src="https://i.ibb.co/W2dWX00/higiene.jpg"   class="card mx-auto d-block" height="180" width="200">
+                        <img src="https://i.ibb.co/3sgdbRQ/original-removebg-preview.png" class="card mx-auto d-block" height="180" width="220">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Derechos y deberes<br> de los niños y las niñas</h5>
-                            <a href="http://learningkidscodigo.test/normasH" class="btn btn-danger" >ver</a>
+                            <a href="http://learningkidscodigo.test/DerechosY" class="btn">Ver</a>
                         </div>
                     </div>
                 </div>
 
-
                 <!-- tarjeta2 -->
                 <div class="col-md-4 pb-5 d-flex justify-content-center">
                     <div class="card" style="width: 18rem;">
-                        <img  src="https://i.ibb.co/dJvh0xN/iii.jpg"  class="card mx-auto d-block" height="180" width="200">
+                        <img src="https://i.ibb.co/mN4BBzq/ocupaciones-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Ocupaciones</h5>
-                            <a href="http://learningkidscodigo.test/plantaActividad" class="btn btn-danger" >ver</a>
+                            <a href="http://learningkidscodigo.test/plantaActividad" class="btn">Ver</a>
                         </div>
                     </div>
                 </div>
                 <!-- tarjeta3 -->
                 <div class="col-md-4 pb-5 d-flex justify-content-center">
                     <div class="card" style="width: 18rem;">
-                        <img   src="https://i.ibb.co/kccVkhm/SER.jpg"   class="card mx-auto d-block" height="180" width="200">
+                        <img src="https://i.ibb.co/YkJqSNj/guja-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                         <div class="card-body">
-                            <h5 class="card-title" align="center">Actividad Estaciones del año</h5>
-                            <a href="http://learningkidscodigo.test/seresActividad" class="btn btn-danger" >ver</a>
+                            <h5 class="card-title" align="center">Actividad<br> Estaciones del año</h5>
+                            <a href="http://learningkidscodigo.test/actividadEstaciones" class="btn">Ver</a>
                         </div>
                     </div>
                 </div>

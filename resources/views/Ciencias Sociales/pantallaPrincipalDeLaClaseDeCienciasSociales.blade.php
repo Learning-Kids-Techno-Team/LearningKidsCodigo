@@ -226,17 +226,23 @@
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/SsD9Rmq/estaciones-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Estaciones del año</h3>
                 </a>
             </div>
-        </div><div class="container-fluid" style="background: #B8DA97">
+        </div>
+        <div class="container-fluid" style="background: #B8DA97">
             <div class="row  pb-5">
-                <div class="col-md-12">
+                <div class="col-md-6">
                     <a href="http://learningkidscodigo.test/comunicacion">
                     <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/s35TyZD/comuni.jpg" class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Medios de comunicación</h3>
                     </a>
                 </div>
+                <div class="col-md-6">
+                    <a href="http://learningkidscodigo.test/actividadesCCSS">
+                        <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/pxh9kWw/gr89.jpg" class="rounded-circle mx-auto d-block bg-info" width="150" height="150"><h3>Actividades</h3>
+                    </a>
+                </div>
             </div>
-        </div>
+                </div>
+            </div>
 
-    </div>
     <!-- separador -->
     <div id="separadorInferior2">
         <div class="content ">

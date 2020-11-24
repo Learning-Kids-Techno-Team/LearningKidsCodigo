@@ -190,10 +190,9 @@
                 </a>
             </div>
         </div>
-        <div class="container-fluid">
             <div class="col-md-12">
                 <a href="http://learningkidscodigo.test/actividadesC">
-                    <img alt="Vista previa de la imagen de Bootstrap"   src="https://i.ibb.co/7YkMQwS/observacion.jpg"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Actividades</h3>
+                    <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/7YkMQwS/observacion.jpg"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Actividades</h3>
                 </a>
             </div>
     </div>
