@@ -418,3 +418,22 @@ Route::get('/estaciones',function (){
 });
 
 
+/*rutas actividades CCSS*/
+
+Route::get('/actividadesCCSS',function (){
+    return view('ActividadesCienciasSociales/pantActividadesCCSS');
+});
+
+
+Route::get('/actividadAmbiente',function (){
+    return view('ActividadesCienciasSociales/actividadAmbiente');
+});
+
+Route::get('/actividadEstaciones',function (){
+    return view('ActividadesCienciasSociales/actividadEstaciones');
+});
+
+Route::get('/DerechosY',function (){
+    return view('ActividadesCienciasSociales/actividadDerechosYDeberes');
+});
+
