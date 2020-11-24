@@ -356,7 +356,13 @@ Route::get('/lsentidos',function (){
 Route::get('/normasH',function (){
     return view('ActividadesCienciasNaturales/actividadNormasDeHigiene');
 });
+Route::get('/plantaActividad',function (){
+    return view('ActividadesCienciasNaturales/plantaActividad');
+});
 
+Route::get('/seresActividad',function (){
+    return view('ActividadesCienciasNaturales/seres');
+});
 
                                   /* sprint 4*/
 
@@ -437,3 +443,12 @@ Route::get('/DerechosY',function (){
     return view('ActividadesCienciasSociales/actividadDerechosYDeberes');
 });
 
+Route::get('/sentimientoActividad',function (){
+    return view('ActividadesCienciasSociales/sentimientoActividad');
+});
+Route::get('/ocupacionesActividad',function (){
+    return view('ActividadesCienciasSociales/ocupacionesActividad');
+});
+Route::get('/transporteActividad',function (){
+    return view('ActividadesCienciasSociales/transporteActividad');
+});

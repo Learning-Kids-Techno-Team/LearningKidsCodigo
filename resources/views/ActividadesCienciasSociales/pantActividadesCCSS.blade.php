@@ -144,7 +144,7 @@
                 <img src="https://i.ibb.co/brvg05d/m1-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
                     <h5 class="card-title"  align="center">Actividad<br> Medios de transporte</h5>
-                    <a href="http://learningkidscodigo.test/lsentidos" class="btn">Ver</a>
+                    <a href="http://learningkidscodigo.test/transporteActividad" class="btn">Ver</a>
                 </div>
             </div>
         </div>
@@ -154,7 +154,7 @@
                 <img src="https://i.ibb.co/VDkYKBP/los-sentiminetos-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">Actividad<br> Los Sentimientos</h5>
-                    <a href="http://learningkidscodigo.test/partesC" class="btn">Ver</a>
+                    <a href="http://learningkidscodigo.test/sentimientoActividad" class="btn">Ver</a>
                 </div>
             </div>
         </div>
@@ -182,7 +182,7 @@
                         <img src="https://i.ibb.co/mN4BBzq/ocupaciones-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Ocupaciones</h5>
-                            <a href="http://learningkidscodigo.test/plantaActividad" class="btn">Ver</a>
+                            <a href="http://learningkidscodigo.test/ocupacionesActividad" class="btn">Ver</a>
                         </div>
                     </div>
                 </div>
