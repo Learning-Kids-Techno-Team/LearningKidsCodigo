@@ -196,6 +196,30 @@
                         </div>
                     </div>
                 </div>
+                <div class="container-fluid">
+                    <div class="row pt-5  "  style="background: #dcfecb ">
+                        <!-- tarjeta 1 -->
+                        <div class="col-md-6 pb-5 d-flex justify-content-center" >
+                            <div class="card"  style="width: 18rem;" >
+
+                                <img src="https://i.ibb.co/zFBJr4s/comuni-removebg-preview.png"  class="card mx-auto d-block" height="180" width="220">
+                                <div class="card-body">
+                                    <h5 class="card-title" align="center">Actividad medios de comunicación</h5>
+                                    <a href="http://learningkidscodigo.test/actividadComunicacion" class="btn">Ver</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- tarjeta2 -->
+                        <div class="col-md-6 pb-5 d-flex justify-content-center">
+                            <div class="card" style="width: 18rem;">
+                                <img src="https://i.ibb.co/9cmWkfD/3d92321c07f6ea6ad4bc750525fdb56b.jpg"  class="card mx-auto d-block" height="180" width="200">
+                                <div class="card-body">
+                                    <h5 class="card-title" align="center">Actividad ciclo del agua</h5>
+                                    <a href="http://learningkidscodigo.test/actividadCiclo" class="btn">Ver</a>
+                                </div>
+                            </div>
+                        </div>
             </div>
         </div>
 
