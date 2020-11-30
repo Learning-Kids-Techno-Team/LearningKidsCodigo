@@ -434,6 +434,12 @@ Route::get('/actividadesCCSS',function (){
 Route::get('/actividadAmbiente',function (){
     return view('ActividadesCienciasSociales/actividadAmbiente');
 });
+Route::get('/actividadComunicacion',function (){
+    return view('ActividadesCienciasSociales/actividadComunicacion');
+});
+Route::get('/actividadCiclo',function (){
+    return view('ActividadesCienciasSociales/actividadCiclo');
+});
 
 Route::get('/actividadEstaciones',function (){
     return view('ActividadesCienciasSociales/actividadEstaciones');
