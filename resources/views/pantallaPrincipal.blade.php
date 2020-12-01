@@ -160,15 +160,15 @@
         <div class="col-md-4">
 
             <p>
-                Es una forma divertida y gratuita para que tus hijos aprenden,
-                refuercen y/o desarrollen habilidades sobrecuatro materias básicas
+                Es una forma divertida y gratuita para que tus hijos aprendan,
+                refuercen y/o desarrollen hábilidades sobrecuatro materias básicas
                 (matemáticas, español,ciencias naturales y ciencias sociales). Todo
-                el contenido acercade educación básica preescolar recopilado en una
-                sola plataformacon el objetivo de lograr una mayor facilitación de
-                enseñanza y aprendizaje para sus niños. Este espacioes una herramienta
+                el contenido acerca de educación básica preescolar recopilado en una
+                sola plataforma con el objetivo de lograr una mayor facilitación de
+                enseñanza y aprendizaje para sus niños. Este espacio es una herramienta
                 útil para reforzar el conocimiento no solo de nuestros niños sino también
-                permite una mayor didáctica si eres educador o maestro es por ello que
-                la información deesta pagina web esta abierta para todo tipo de usuario
+                permite una mayor didáctica si eres educador o maestro; es por ello que
+                la información de esta pagina web esta abierta para todo tipo de usuario.
             </p>
 
         </div>
@@ -196,7 +196,7 @@
             <div class="col-md-6">
                 <a href="http://learningkidscodigo.test/pantallaClaseMat">
                 <img id="image" alt="Bootstrap Image Preview" src="https://i.ibb.co/BKDtyyD/png-transparent-abacus-mathematics-computer-icons-tutor-mathematics-orange-abaco-mathematics-thumbna.png"  class=" img-fluid  img-thumbnail  mx-auto d-block bg-danger rounded-circle" width="150"  />
-                <h3>Matematicas</h3>
+                <h3>Matemáticas</h3>
                     </a>
             </div>
         </div>
@@ -230,11 +230,6 @@
 
             </div>
         </div>
-
-
-
-
-
 
 
 

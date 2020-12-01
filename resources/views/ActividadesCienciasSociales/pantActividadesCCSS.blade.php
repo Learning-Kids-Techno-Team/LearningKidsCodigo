@@ -160,8 +160,6 @@
         </div>
 
 
-
-
         <div class="container-fluid">
             <div class="row pt-5  "  style="background: #dcfecb ">
                 <!-- tarjeta 1 -->
@@ -196,6 +194,9 @@
                         </div>
                     </div>
                 </div>
+
+            </div>
+        </div>
                 <div class="container-fluid">
                     <div class="row pt-5  "  style="background: #dcfecb ">
                         <!-- tarjeta 1 -->
@@ -220,8 +221,8 @@
                                 </div>
                             </div>
                         </div>
-            </div>
-        </div>
+                 </div>
+             </div>
 
 
 
