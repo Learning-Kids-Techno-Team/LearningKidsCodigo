@@ -25,11 +25,19 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint4 Sindy G.">
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/inicio.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LearningKids-TechnoTeam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearningKids-TechnoTeam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/pantActividadesCCNN.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/pantActividadesCCNN.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/pantActividadesCCSS.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/pantActividadesCCSS.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pantallaPrincipal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pantallaPrincipal.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,6 +162,7 @@
       <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
       <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
       <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="ProjectId" id="1io7p1JOdFbfV4bU58UqMpUGZPj" />
@@ -167,7 +176,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/Matematicas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LearningKids" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -212,9 +221,7 @@
       <workItem from="1603573642869" duration="645000" />
       <workItem from="1604284211289" duration="683000" />
       <workItem from="1604981600268" duration="1676000" />
-      <workItem from="1605733720523" duration="29463000" />
-      <workItem from="1605805161217" duration="2835000" />
-      <workItem from="1605813380406" duration="1745000" />
+      <workItem from="1607555949098" duration="966000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -321,21 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604982966578</updated>
     </task>
-    <task id="LOCAL-00016" summary="Sprint 4 Daniela">
-      <created>1605807755604</created>
+    <task id="LOCAL-00016" summary="Sprint4 Sindy G.">
+      <created>1605845522357</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1605807755604</updated>
+      <updated>1605845522357</updated>
     </task>
-    <task id="LOCAL-00017" summary="Sprint3 Techno Team">
-      <created>1605924764410</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1605924764410</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,40 +363,7 @@
     <MESSAGE value="Sindy G. Sprint1" />
     <MESSAGE value="Sprint2 Sindy G." />
     <MESSAGE value="Sprint Techno Team" />
-    <MESSAGE value="Sprint 4 Daniela" />
-    <MESSAGE value="Sprint3 Techno Team" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint3 Techno Team" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="300" y="0" key="CommitChangelistDialog2" timestamp="1605807751729">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605807751729" />
-    <state x="300" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1604982964580" />
-    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1602562282575">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1602562282575" />
-    <state x="474" y="303" key="NewPhpFileDialog" timestamp="1606191187267">
-      <screen x="0" y="0" width="1280" height="760" />
-    </state>
-    <state x="474" y="303" key="NewPhpFileDialog/0.0.1280.760@0.0.1280.760" timestamp="1606191187267" />
-    <state x="506" y="290" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1605932384223" />
-    <state x="506" y="306" key="NewPhpFileDialog/0.0.1366.768@0.0.1366.768" timestamp="1604982339185" />
-    <state x="184" y="29" key="SettingsEditor" timestamp="1602562325681">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="184" y="29" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1602562325681" />
-    <state x="275" y="111" key="Vcs.Push.Dialog.v2" timestamp="1605924782474">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="258" y="116" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1603574017610" />
-    <state x="275" y="111" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605924782474" />
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1605663541054" />
-    <state x="500" y="292" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605663557159">
-      <screen x="0" y="0" width="1366" height="768" />
-    </state>
-    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1603077891936" />
-    <state x="500" y="292" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1605663557159" />
+    <MESSAGE value="Sprint4 Sindy G." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint4 Sindy G." />
   </component>
 </project>
