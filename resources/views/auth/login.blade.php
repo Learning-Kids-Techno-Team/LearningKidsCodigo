@@ -1,5 +1,17 @@
 @extends('layouts.inicio', ['class' => 'off-canvas-sidebar', 'activePage' => 'login', 'title' => __('Learning Kids')])
 
+
+<!-- Seguimiento -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JWFFJETEMQ"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-JWFFJETEMQ');
+</script>
+
+
 @section('content')
     <div class="container" style="height: auto;">
         <div class="row align-items-center">

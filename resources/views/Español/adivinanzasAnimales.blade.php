@@ -4,7 +4,20 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Tipo de Adivinanza</title>
+    <title>Adivinanzas Animales</title>
+
+
+
+
+    <!-- Seguimiento -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JWFFJETEMQ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JWFFJETEMQ');
+    </script>
 
 
 
