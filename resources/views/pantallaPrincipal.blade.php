@@ -153,25 +153,21 @@
 </div>
 </div>
 
-
 <!-- GAMES-->
 <div id="banderin">
-
-
-
     <div class="container-l">
         <div class="row">
             <div class="col-md-6">
-                 <a href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">
-                <img  id="image" alt="Bootstrap Image Preview"  src="https://i.ibb.co/JBBRmNQ/414-4146851-marco-legal-en-los-modelos-pedaggicos-by-tatiana-removebg-preview-1.png"  class=" img-fluid  img-thumbnail  mx-auto d-block bg-info rounded-circle" width="150"/>
-                <h3>Español</h3>
-                 </a>
+                <a href="{{ url('/pantallaPrincipalDeLaClaseDeEspañol') }}">
+                    <img  id="image" alt="Bootstrap Image Preview"  src="https://i.ibb.co/JBBRmNQ/414-4146851-marco-legal-en-los-modelos-pedaggicos-by-tatiana-removebg-preview-1.png"  class=" img-fluid  img-thumbnail  mx-auto d-block bg-info rounded-circle" width="150"/>
+                    <h3>Español</h3>
+                </a>
             </div>
             <div class="col-md-6">
-                <a href="http://learningkidscodigo.test/pantallaClaseMat">
-                <img id="image" alt="Bootstrap Image Preview" src="https://i.ibb.co/BKDtyyD/png-transparent-abacus-mathematics-computer-icons-tutor-mathematics-orange-abaco-mathematics-thumbna.png"  class=" img-fluid  img-thumbnail  mx-auto d-block bg-danger rounded-circle" width="150"  />
-                <h3>Matemáticas</h3>
-                    </a>
+                <a href="{{ url('/pantallaClaseMat') }}">
+                    <img id="image" alt="Bootstrap Image Preview" src="https://i.ibb.co/BKDtyyD/png-transparent-abacus-mathematics-computer-icons-tutor-mathematics-orange-abaco-mathematics-thumbna.png"  class=" img-fluid  img-thumbnail  mx-auto d-block bg-danger rounded-circle" width="150"  />
+                    <h3>Matemáticas</h3>
+                </a>
             </div>
         </div>
         <div class="row">
@@ -182,18 +178,22 @@
         </div>
         <div class="row">
             <div class="col-md-6">
-                <a href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">
-                <img alt="Bootstrap Image Preview" src="https://i.ibb.co/JtktKHb/ciencias-naturales-removebg-preview.png" class=" img-fluid  img-thumbnail  mx-auto d-block bg-success rounded-circle" width="150" />
-                <h3>Ciencias Naturales</h3>
+                <a href="{{ url('/pantallaPrincipalDeCienciasNaturales') }}">
+                    <img alt="Bootstrap Image Preview" src="https://i.ibb.co/JtktKHb/ciencias-naturales-removebg-preview.png" class=" img-fluid  img-thumbnail  mx-auto d-block bg-success rounded-circle" width="150" />
+                    <h3>Ciencias Naturales</h3>
                 </a>
             </div>
             <div class="col-md-6">
-                <a  href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">
-                <img src="https://i.ibb.co/3Cvms5x/kisspng-social-studies-clip-art-classroom-clipart-5b5696970d53c2-5022800115324013030546-removebg-pre.png"  class=" img-fluid  img-thumbnail  mx-auto d-block bg-warning rounded-circle" width="150"/>
-                <h3>Ciencias Sociales</h3>
-                    </a>
+                <a  href="{{ url('/pantallaPrincipalDeLaClaseDeCienciasSociales') }}">
+                    <img src="https://i.ibb.co/3Cvms5x/kisspng-social-studies-clip-art-classroom-clipart-5b5696970d53c2-5022800115324013030546-removebg-pre.png"  class=" img-fluid  img-thumbnail  mx-auto d-block bg-warning rounded-circle" width="150"/>
+                    <h3>Ciencias Sociales</h3>
+                </a>
             </div>
         </div>
+
+
+
+
 
         <!-- SEPARADOR AMIIBOS-->
 
