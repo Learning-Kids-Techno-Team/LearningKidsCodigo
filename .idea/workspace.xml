@@ -25,11 +25,98 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint5 Sindy G.">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/aereos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/aereos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambiente.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambiente.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambienteContaminado.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambienteContaminado.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambienteNoContaminado.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambienteNoContaminado.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/cicloAgua.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/cicloAgua.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/derechosYDeberes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/derechosYDeberes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/estaciones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/estaciones.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/familia.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/familia.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/maritimos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/maritimos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/mediosComunicacion.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/mediosComunicacion.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/oficios.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/oficios.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaMediosDeTransporte.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaMediosDeTransporte.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaOcupaciones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaOcupaciones.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/profesiones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/profesiones.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/puntosCardinales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/puntosCardinales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/sentimientos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/sentimientos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/terrestres.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/terrestres.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/ElClima.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/ElClima.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/LaSalud.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/LaSalud.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/LosAnimales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/LosAnimales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaAnimalesInvertebrados.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaAnimalesInvertebrados.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaAnimalesVertebrados.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaAnimalesVertebrados.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaEnfermedadesIntestinales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaEnfermedadesIntestinales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaEnfermedadesRespiratorias.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaEnfermedadesRespiratorias.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaNormas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaNormas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPartesDelCuerpo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPartesDelCuerpo.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPrincipalDeCienciasNaturales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPrincipalDeCienciasNaturales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaSentidos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaSentidos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaSeresVivos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaSeresVivos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/partesDeLaPlanta.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/partesDeLaPlanta.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/seresNoVivos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/seresNoVivos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/seresVivos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/seresVivos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/Rondas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/Rondas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasAnimales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasAnimales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasCortas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasCortas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasFrutas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasFrutas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasNumeros.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasNumeros.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasTransportes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasTransportes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuento.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuento.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentoNavidad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentoNavidad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosAventuras.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosAventuras.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosFantasticos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosFantasticos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosInfantiles.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosInfantiles.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosParaDormir.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosParaDormir.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosPoliciales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosPoliciales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosRealistas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosRealistas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaDeBombas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaDeBombas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaDeLaClaseDeEspañolChistes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaDeLaClaseDeEspañolChistes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaRefranes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaRefranes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaTrabalenguas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaTrabalenguas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/NumerosOrdinales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/NumerosOrdinales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/lineasCurvas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/lineasCurvas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/lineasPoligonales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/lineasPoligonales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/lineasRectas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/lineasRectas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/monedas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/monedas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/numeroNaturales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/numeroNaturales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaBilletes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaBilletes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaClaseMat.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaClaseMat.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaFigurasGeometricas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaFigurasGeometricas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaLineas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaLineas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaLongitud.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaLongitud.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaMonedas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaMonedas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaOtrasFiguras.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaOtrasFiguras.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaRestas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaRestas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaSumas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaSumas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaTipoDeCuadrilatero.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaTipoDeCuadrilatero.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaTiposDeTriangulos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaTiposDeTriangulos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/relacionObjetos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/relacionObjetos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/simbolos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/simbolos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetColores.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetColores.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetDistancias.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetDistancias.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetEspesores.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetEspesores.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetPosiciones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetPosiciones.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetTamaños.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetTamaños.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetTiempo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetTiempo.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/unidadesCorporales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/unidadesCorporales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/unidadesLongitud.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/unidadesLongitud.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/inicio.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/inicio.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/pantallaPrincipal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pantallaPrincipal.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,13 +255,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LearningKids" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mercaGeova" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -213,7 +301,9 @@
       <workItem from="1603573642869" duration="645000" />
       <workItem from="1604284211289" duration="683000" />
       <workItem from="1604981600268" duration="1676000" />
-      <workItem from="1607555949098" duration="4136000" />
+      <workItem from="1607555949098" duration="966000" />
+      <workItem from="1607639531246" duration="19803000" />
+      <workItem from="1607666411729" duration="11177000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -327,14 +417,7 @@
       <option name="project" value="LOCAL" />
       <updated>1605845522357</updated>
     </task>
-    <task id="LOCAL-00017" summary="Sprint 5 Hector.">
-      <created>1607557332463</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1607557332463</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -363,7 +446,6 @@
     <MESSAGE value="Sprint2 Sindy G." />
     <MESSAGE value="Sprint Techno Team" />
     <MESSAGE value="Sprint4 Sindy G." />
-    <MESSAGE value="Sprint 5 Hector." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 5 Hector." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint4 Sindy G." />
   </component>
 </project>
