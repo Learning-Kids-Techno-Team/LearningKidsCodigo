@@ -1,3 +1,5 @@
+@extends('layouts.app')
+
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
@@ -18,14 +20,10 @@
         }
 
 
-
-
         #pa{
             text-align: justify;
 
-
         }
-
 
 
         p{
@@ -43,6 +41,7 @@
             border-top-right-radius: 50%;
             background: #B4F97B
         }
+
         #titulo{
             text-align: center;
             color: red;
@@ -93,34 +92,10 @@
 
 </head>
 <body >
-<nav class="navbar navbar-expand-sm navbar-dark " id="navbar">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-            <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" alt="" width="100">
-        </a>
+<!-- navbar-->
+@section('content')
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
-                <li class="nav-item"><a class="nav-link" href="">Registrarse</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
-
-            </ul>
-        </div>
-    </div>
-</nav>
-
-
-
-<!-- contenedor del gif-->
+<!-- contenedor-->
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-12" style="background: #B4F97B">
@@ -149,8 +124,6 @@
 
 
 
-
-
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-6 mt-5">
@@ -162,9 +135,6 @@
 
                 <br>Se dice que la familia es la  base de toda sociedad, ya que dentro de ella los adultos educan y transmiten valores a los niños y niñas que la conforman. El entorno familiar influye notablemente en el desarrollo emocional y social de las personas, y puede motivar o condicionar a los miembros.
 
-
-
-
             </p>
 
         </div>
@@ -175,9 +145,6 @@
             </div>
         </div>
     </div>
-
-
-
 
 
     <div  class="container-fluid">
@@ -200,8 +167,6 @@
                     Conformadas por uno o más hijos y la madre o el padre. Este tipo de familia puede darse a raíz de una separación, de la decisión de ser padre o madre soltero/a o de haber enviudado. Por lo general, con el tiempo estas familias dan lugar a la nueva unión de los padres, formando así las familias ensambladas.
 
 
-
-
                 </p>
             </div>
             <div class="col-md-6">
@@ -209,8 +174,6 @@
             </div>
         </div>
     </div>
-
-
 
 
 
@@ -234,7 +197,6 @@
     </div>
 
 
-
     <div class="container-fluid mb-5">
         <div class="row">
             <div class="col-md-6">
@@ -253,9 +215,6 @@
             </div>
         </div>
     </div>
-
-
-
 
 
     <div class="container-fluid mb-5">
@@ -278,26 +237,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     <div id="separadorInferior2">
         <div class="content ">
 
@@ -311,3 +250,4 @@
 </body>
 </html>
 
+@endsection
