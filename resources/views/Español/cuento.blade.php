@@ -1,3 +1,4 @@
+@extends('layouts.app')
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +15,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
 
-</head>
+
 <style>
 
     .card{
@@ -62,37 +63,12 @@
 
 
 </style>
-
+</head>
 <body style="background: #3B5686;">
-<!-- navbar -->
-<nav class="navbar navbar-expand-sm navbar-dark " >
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-            <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" alt="" width="100">
-        </a>
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+<!-- navbar-->
+@section('content')
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
-                <a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a>
-                <a class="nav-link"
-                   href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a>
-                <a class="nav-link"
-                   href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a>
-                <a class="nav-link"
-                   href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a>
-                <a class="nav-link"
-                   href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a>
-                <a class="nav-link" href="">Registrarse</a>
-                <a class="nav-link" href="#">Inicio de sesion</a>
-
-            </ul>
-        </div>
-    </div>
-</nav>
 
 <!-- iamgen -->
 <div class="container-fluid">
@@ -242,3 +218,4 @@
 </body>
 </html>
 
+@endsection

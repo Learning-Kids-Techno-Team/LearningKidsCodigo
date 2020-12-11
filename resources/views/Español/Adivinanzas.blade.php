@@ -1,3 +1,5 @@
+@extends('layouts.app')
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,7 +22,6 @@
 
     }
 
-
     .content{
 
         width: 100%;
@@ -42,8 +43,6 @@
         background: #3B5686;
     }
 
-
-
     .navbar{
         background: #3B5686;
     }
@@ -60,8 +59,6 @@
         font-style: italic;
 
     }
-
-
 
     .btn {
 
@@ -82,32 +79,10 @@
 
 </style>
 </head>
-
 <body>
-<!-- navbar -->
-<nav class="navbar navbar-expand-sm navbar-dark " >
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-            <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" width="100">
-        </a>
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
-                <li class="nav-item"><a class="nav-link" href="">Registrarse</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
-            </ul>
-        </div>
-    </div>
-</nav>
+<!-- navbar-->
+@section('content')
 
 <!-- imagen -->
 <div class="container-fluid" id="dif">
@@ -125,7 +100,7 @@
         <div class="mx-auto d-block">
             <img src="https://i.ibb.co/D7KgKLp/hinj-removebg-preview.png" width="340" height="250" class="mx-auto d-block"/>
             <h2 class="text-center"><em>
-                ¿Que son las adivinanzas?
+                ¿Qué son las adivinanzas?
                 </em></h2>
 
             <p class="">
@@ -179,7 +154,7 @@
         <div class="card" style="width: 18rem;">
             <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card mx-auto d-block" height="160" width="220">
             <div class="card-body">
-                <h5 class="card-title" align="center">Adivinanzas de<br> numeros</h5>
+                <h5 class="card-title" align="center">Adivinanzas de<br> números</h5>
                 <a href="http://learningkidscodigo.test/adivinanzasNumeros" class="btn">Leer</a>
             </div>
         </div>
@@ -215,8 +190,6 @@
     </div>
 
 
-
-
 <!-- separador -->
     <div id="separadorInferior">
     <div class="content">
@@ -229,3 +202,4 @@
 
 </body>
 </html>
+@endsection

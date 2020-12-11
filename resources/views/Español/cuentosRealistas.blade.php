@@ -1,3 +1,4 @@
+@extends('layouts.app')
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -60,35 +61,8 @@
     </style>
 </head>
 <body >
-<nav class="navbar navbar-expand-sm navbar-dark " id="navbar">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-            <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" alt="" width="100">
-        </a>
-
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
-                <!-- href me lleva a la pantalla principal -->
-                <a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a>
-                <a class="nav-link"
-                   href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a>
-                <a class="nav-link"
-                   href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a>
-                <a class="nav-link"
-                   href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a>
-                <a class="nav-link"
-                   href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a>
-                <a class="nav-link" href="">Registrarse</a>
-                <a class="nav-link" href="#">Inicio de sesion</a>
-
-            </ul>
-        </div>
-    </div>
-</nav>
+<!-- navbar-->
+@section('content')
 
 <!-- contenedor del gif-->
 <div class="container-fluid" id="h">
@@ -325,3 +299,4 @@
 </body>
 </html>
 
+@endsection
