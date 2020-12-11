@@ -1,3 +1,5 @@
+@extends('layouts.app')
+
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
@@ -7,9 +9,6 @@
     <title>Animales Invertebrados</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <style>
-        .navbar{
-            background: #FF7800;
-        }
 
         body{
 
@@ -101,6 +100,7 @@
             border-top-right-radius: 50px;
             background:lightgray;
         }
+
         .navbar{
             background: #FDFD96;
         }
@@ -118,8 +118,6 @@
             background:#FEB472;
         }
 
-
-
     </style>
 
 
@@ -127,40 +125,9 @@
 <body >
 
 <!-- NAVRBAR-->
-<nav class="navbar navbar-expand-sm navbar " id="navbar">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-            <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" alt="" width="100">
-        </a>
+@section('content')
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
-
-            </ul>
-        </div>
-    </div>
-</nav>
-
-
-
-
-
-
-
-
-
-<!-- contenedor del gif-->
+<!-- contenedor-->
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-12" style="background: yellow">
@@ -177,8 +144,6 @@
                             Los animales invertebrados son ovíparos (se reproducen mediante huevos)</em>
                         <br>
                         <em>
-
-
 
                            <br><strong>Los invertebrados se clasifican en varios grupos:</strong><br>
 
@@ -215,9 +180,6 @@
     </div>
 </div>
 </div>
-
-
-
 
 
 <div  class="container-fluid">
@@ -262,8 +224,6 @@
 </div>
 </div>
     <!-- tarjetas de los animales -->
-
-
 
 <div class="container-fluid  d-flex justify-content-center pl-5" >
     <div  class="row m-5" >
@@ -330,9 +290,6 @@
 
     </div>
 </div>
-
-
-
 
     <!--Aracnidos -->
 
@@ -405,11 +362,7 @@
         </div>
 
             <!-- tarjetas de los animales -->
-
-
-
-
-                <div class="container-fluid d-flex justify-content-center pl-5 pt-5 ">
+        <div class="container-fluid d-flex justify-content-center pl-5 pt-5 ">
                     <div class="row">
                         <div class="col-md-6">
                             <div id="tar1" class="card" style="width: 18rem;">
@@ -428,15 +381,8 @@
                     </div>
                 </div>
 
-
-
-
 <!-- Los crustáceos -->
-
-
-
-
-                <div class="container-fluid mt-5">
+        <div class="container-fluid mt-5">
                     <div class="row">
                         <div class="col-md-12" id="bord">
                             <h3>
@@ -485,14 +431,7 @@
 
                         </div>
                     </div>
-
-
-
-
-
-
-
-                        <!-- Moluscos -->
+            <!-- Moluscos -->
 
                     <div class="container-fluid">
                         <div class="row">
@@ -539,10 +478,6 @@
                         </div>
                     </div>
 
-
-
-
-
                     <div class="container-fluid  d-flex justify-content-center  pl-5" >
                         <div  class="row m-5" >
                             <div class="col-md-4">
@@ -574,11 +509,7 @@
                         </div>
                     </div>
 
-
-
-
-
-                    <div class="container-fluid">
+            <div class="container-fluid">
                         <div class="row">
                             <div class="col-md-12" id="bor">
                                 <h3>
@@ -592,11 +523,6 @@
 
                         </div>
                     </div>
-
-
-
-
-
 
                         <div class="container-fluid  d-flex justify-content-center pb-5 pt-5">
                             <div class="row">
@@ -618,10 +544,7 @@
                             </div>
                         </div>
 
-
-
-
-                        <div  class="container-fluid">
+            <div  class="container-fluid">
                             <div class="row">
                                 <div class="col-md-12  mb-5" style="background: #FDFD96">
                                     <h1 style="text-align: center">Los invertebrados CON protección corporal </h1>
@@ -631,10 +554,8 @@
                         </div>
 
 
-
 <!-- Gusanos -->
-
-                        <div class="container-fluid mt-5">
+            <div class="container-fluid mt-5">
                             <div class="row">
                                 <div class="col-md-12" id="bord">
                                     <h3>
@@ -648,9 +569,7 @@
                         </div>
 
 
-
-
-                        <div class="container-fluid  d-flex justify-content-center pl-5" >
+            <div class="container-fluid  d-flex justify-content-center pl-5" >
                             <div  class="row m-5" >
                                 <div class="col-md-4">
 
@@ -681,14 +600,7 @@
                             </div>
                         </div>
 
-
-
-
-
-
-
-
-                        <!-- Celentéreos -->
+            <!-- Celentéreos -->
 
                         <div class="container-fluid mt-5">
                             <div class="row">
@@ -737,10 +649,7 @@
                             </div>
                         </div>
 
-
-
-
-                        <!-- Poríferos / Esponjas -->
+            <!-- Poríferos / Esponjas -->
 
                         <div class="container-fluid mt-5">
                             <div class="row">
@@ -773,16 +682,16 @@
                         </div>
 
 
-
-                        <div id="separadorInferior2">
-    <div class="content ">
+            <div id="separadorInferior2">
+            <div class="content ">
 
     </div>
 </div>
 
-
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
 </body>
 </html>
+@endsection
