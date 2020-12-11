@@ -12,7 +12,7 @@
 
                     <div class="card card-login card-hidden mb-3">
                         <div class="card-header card-header-info text-center">
-                            <h4 class="card-title"><strong>{{ __('Incio de sesión') }}</strong></h4>
+                            <h4 class="card-title"><strong>{{ __('Inicio de sesión') }}</strong></h4>
                             <img  src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" width="100">
                         </div>
                         <div class="card-body">
