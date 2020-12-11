@@ -1,100 +1,84 @@
-<!DOCTYPE html>
-<html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
 
-        <!-- Fonts -->
-        <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
+@extends('layouts.inicio', ['class' => 'off-canvas-sidebar', 'activePage' => 'login', 'title' => __()])
+    <!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="utf-8">
 
-        <!-- Styles -->
-        <style>
-            html, body {
-                background-color: #fff;
-                color: #636b6f;
-                font-family: 'Nunito', sans-serif;
-                font-weight: 200;
-                height: 100vh;
-                margin: 0;
-            }
 
-            .full-height {
-                height: 100vh;
-            }
+    <title>Bienvenido</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
-            .flex-center {
-                align-items: center;
-                display: flex;
-                justify-content: center;
-            }
+    <style>
 
-            .position-ref {
-                position: relative;
-            }
 
-            .top-right {
-                position: absolute;
-                right: 10px;
-                top: 18px;
-            }
+     p{
+         text-align: justify;
 
-            .content {
-                text-align: center;
-            }
+     }
+     h1{
+         background: #0a6ebd;
+     }
+     img{
+         background: #0a6ebd;
+     }
+    </style>
 
-            .title {
-                font-size: 84px;
-            }
 
-            .links > a {
-                color: #636b6f;
-                padding: 0 25px;
-                font-size: 13px;
-                font-weight: 600;
-                letter-spacing: .1rem;
-                text-decoration: none;
-                text-transform: uppercase;
-            }
+</head>
+<body >
 
-            .m-b-md {
-                margin-bottom: 30px;
-            }
-        </style>
-    </head>
-    <body>
-        <div class="flex-center position-ref full-height">
-            @if (Route::has('login'))
-                <div class="top-right links">
-                    @auth
-                        <a href="{{ url('/home') }}">Home</a>
-                    @else
-                        <a href="{{ route('login') }}">Login</a>
+@section('content')
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 mb-5">
+                <img class="mx-auto d-block" src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png">
 
-                        @if (Route::has('register'))
-                            <a href="{{ route('register') }}">Register</a>
-                        @endif
-                    @endauth
-                </div>
-            @endif
+                <h1 class="mb-5" style="text-align: center">
+                    <br>
+                    <br>
+                    <br>
+                    BIENVENIDO(A) A LEARNING KIDS
+                    <br>
+                    <br>
+                    <br>
 
-            <div class="content">
-                <div class="title m-b-md">
-                    Laravel
-                </div>
+                </h1>
 
-                <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
-                </div>
             </div>
         </div>
-    </body>
-</html>
+        <div class="row">
+            <div class="col-md-12">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+
+
+                <h2 style="text-align: center">
+                    Acerca de la pagina
+                </h2>
+                <p style="text-align: justify" class="mr-5 ml-5">
+                    Es una forma divertida y gratuita para que tus hijos aprendan,
+                    refuercen y/o desarrollen hábilidades sobrecuatro materias básicas
+                    (matemáticas, español,ciencias naturales y ciencias sociales). Todo
+                     el contenido acerca de educación básica preescolar recopilado en una
+                     sola plataforma con el objetivo de lograr una mayor facilitación de
+                     enseñanza y aprendizaje para sus niños. Este espacio es una herramienta
+                     útil para reforzar el conocimiento no solo de nuestros niños sino también
+                     permite una mayor didáctica si eres educador o maestro; es por ello que la
+                    información de esta pagina web esta abierta para todo tipo de usuario.
+                </p>
+                <br>
+                <br>
+                <br>
+            </div>
+        </div>
+    </div>
+@endsection
