@@ -1,15 +1,12 @@
+@extends('layouts.app')
+
 <!DOCTYPE html>
 <html>
 <head>
 
-
-
     <title>El cuerpo humano</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <style>
-        .navbar{
-            background: #FF7800;
-        }
 
         body{
 
@@ -24,7 +21,6 @@
             border-bottom-right-radius: 10px;
             border-top-left-radius: 10px;
             border-top-right-radius: 10px;
-
 
 
         }
@@ -100,6 +96,7 @@
             border-top-right-radius: 50px;
             background:lightgray;
         }
+
         .navbar{
             background: #FDFD96;
         }
@@ -118,35 +115,11 @@
 
 
 </head>
-<body >
-<nav class="navbar navbar-expand-sm navbar " id="navbar">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-            <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" alt="" width="100">
-        </a>
+<body>
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+@section('content')
 
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/pantallaPrincipal">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
-                <li class="nav-item"><a class="nav-link" href="">Registrarse</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
-
-            </ul>
-        </div>
-    </div>
-</nav>
-
-
-
-<!-- contenedor del gif-->
+<!-- contenedor-->
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-12" style="background: yellow">
@@ -181,9 +154,6 @@
 </div>
 
 
-
-
-
 <div class="container-fluid mt-5 ">
     <div class="row">
         <div class="col-md-6 ">
@@ -196,9 +166,6 @@
                 <br>Las extremidades inferiores son las piernas
                 <br> En la cabeza están el cráneo y la cara.
                 <br> En el tronco están el cuello, la espalda, el pecho, la cintura y el abdomen.<br>
-
-
-
 
         </div>
 
@@ -216,12 +183,6 @@
         </div>
     </div>
 
-
-
-
-
-
-
     <div class="container-fluid mb-5 mt-5">
         <div class="row">
             <div style="text-align: center" class="col-md-12">
@@ -237,7 +198,6 @@
 
         </div>
     </div>
-
 
         <div class="container-fluid mb-5">
             <div class="row">
@@ -255,11 +215,6 @@
                 </div>
             </div>
         </div>
-
-
-
-
-
 
         <div class="container-fluid mb-5 mt-5">
             <div class="row">
@@ -288,12 +243,6 @@
 
             </div>
         </div>
-
-
-
-
-
-
 
     <div class="container-fluid mb-5">
         <div class="row">
@@ -326,7 +275,8 @@
             </div>
         </div>
     </div>
-
+    </div>
+</div>
 
     <div id="separadorInferior">
         <div class="content ">
@@ -341,3 +291,4 @@
 
 </body>
 </html>
+@endsection

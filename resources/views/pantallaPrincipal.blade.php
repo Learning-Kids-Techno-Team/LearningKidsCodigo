@@ -1,3 +1,5 @@
+@extends('layouts.app')
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -23,6 +25,10 @@
             margin-top: -40px;
 
 
+        }
+
+        .navbar{
+            background: #6cb2eb;
         }
 
         #bienvenida{
@@ -79,44 +85,15 @@
         }
 
 
-
-
     </style>
 
 </head>
 <body>
 
-
 <!-- NAVRBAR-->
-<nav class="navbar navbar-expand-sm navbar-dark bg-info" id="navbar">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-            <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" alt="" width="100">
-        </a>
-
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav ml-auto">
-                <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspa%C3%B1ol">Español</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matematicas</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
-                <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Registrarse</a></li>
-                <li class="nav-item"><a class="nav-link" href="#">Inicio de sesion</a></li>
-
-            </ul>
-        </div>
-    </div>
-</nav>
-
-
+@section('content')
 
 <!-- CARROUSEL-->
-
 <div class="carousel slide" id="mainSlider" data-ride="carousel">
     <div class="carousel-inner">
         <div class="carousel-item active">
@@ -133,9 +110,6 @@
         </div>
     </div>
 </div>
-
-
-
 
 <!-- RIBBON -->
 <div id="ribbon" class="container-fluid">
@@ -239,3 +213,5 @@
 
 </body>
 </html>
+
+@endsection
