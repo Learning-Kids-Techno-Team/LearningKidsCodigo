@@ -45,45 +45,43 @@
 <body >
 
 @section('content')
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-12 mb-5">
-                <img class="mx-auto d-block" src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png">
-
-                <h1 class="mb-5" style="text-align: center">
-                    <br>
-                    <br>
-                    ¡GRACIAS POR VISITAR LEARNING KIDS!<br>¡VUELVE PRONTO!
-                    <br>
-                    <br>
-                </h1>
+    <div class="container" style="height: auto;">
+        <div class="row align-items-center">
+            <div class="col-md-9 ml-auto mr-auto mb-3 text-center">
 
             </div>
-        </div>
-        <div class="row">
-            <div class="col-md-12">
+            <div class="col-lg-4 col-md-6 col-sm-8 ml-auto mr-auto">
+
+                @csrf
+
+                <div class="card card-login card-hidden mb-3">
+                    <div class="card-header card-header-info text-center">
+
+                        <img  src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" width="100">
+                    </div>
+                    <div class="card-body">
+
+                        <div class="bmd-form-group{{ $errors->has('email') ? ' has-danger' : '' }}">
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                </div>
+                                <h3>Gracias por visitarnos</h3>
+                                <img src="https://i.ibb.co/FXH5tWL/vid.png" ">
+                            </div>
+                            @if ($errors->has('email'))
+                                <div id="email-error" class="error text-danger pl-3" for="email" style="display: block;">
+                                    <strong>{{ $errors->first('email') }}</strong>
+                                </div>
+                            @endif
+                        </div>
+
+                    </div>
+
+
+
+                </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-12">
-                <h2 style="text-align: center">
-                    Acerca de la página
-                </h2>
-                <p style="text-align: justify" class="mr-5 ml-5">
-                    Es una forma divertida y gratuita para que tus hijos aprendan,
-                    refuercen y/o desarrollen hábilidades sobrecuatro materias básicas
-                    (matemáticas, español,ciencias naturales y ciencias sociales). Todo
-                     el contenido acerca de educación básica preescolar recopilado en una
-                     sola plataforma con el objetivo de lograr una mayor facilitación de
-                     enseñanza y aprendizaje para sus niños. Este espacio es una herramienta
-                     útil para reforzar el conocimiento no solo de nuestros niños sino también
-                     permite una mayor didáctica si eres educador o maestro; es por ello que la
-                    información de esta pagina web esta abierta para todo tipo de usuario.
-                </p>
-                <br>
-                <br>
-                <br>
-            </div>
-        </div>
-    </div>
 @endsection
+
+
