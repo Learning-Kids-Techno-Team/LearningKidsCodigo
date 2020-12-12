@@ -1,13 +1,15 @@
 
 
-@extends('layouts.inicio', ['class' => 'off-canvas-sidebar', 'activePage' => 'login', 'title' => __()])
-    <!DOCTYPE html>
+@extends('layouts.inicio', ['class' => 'off-canvas-sidebar',
+'activePage' => 'login', 'title' => __()])
+
+<!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="utf-8">
 
 
-    <title>Bienvenido</title>
+    <title>Cerrar Sesion</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
 
@@ -33,10 +35,10 @@
 
      }
      h1{
-         background: #0a6ebd;
+         text-decoration-color: #9368e9;
      }
      img{
-         background: #0a6ebd;
+        color: #9368e9;
      }
     </style>
 
@@ -53,12 +55,9 @@
                 <h1 class="mb-5" style="text-align: center">
                     <br>
                     <br>
-                    <br>
-                    BIENVENIDO(A) A LEARNING KIDS
-                    <br>
+                    ¡GRACIAS POR VISITAR LEARNING KIDS!<br>¡VUELVE PRONTO!
                     <br>
                     <br>
-
                 </h1>
 
             </div>
@@ -69,15 +68,8 @@
         </div>
         <div class="row">
             <div class="col-md-12">
-                <br>
-                <br>
-                <br>
-                <br>
-                <br>
-
-
                 <h2 style="text-align: center">
-                    Acerca de la pagina
+                    Acerca de la página
                 </h2>
                 <p style="text-align: justify" class="mr-5 ml-5">
                     Es una forma divertida y gratuita para que tus hijos aprendan,
