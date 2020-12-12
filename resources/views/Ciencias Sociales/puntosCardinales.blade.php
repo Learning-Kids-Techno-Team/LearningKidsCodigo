@@ -107,28 +107,28 @@
 <!-- contenedor suge-->
 <div class="container-fluid  center-block pl-3" id="color"><h2><em><br>Observo y aprendo:</em></h2>
     <div class="row">
-        <div class="col-md-3 p-2">
+        <div class="col-md-3 p-2 d-flex justify-content-center">
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/qNWmGp0/norte.png"  width="260" height="240">
                 <h5 class="card-title" align="center">¡Norte!</h5>
                 <p>Es el punto cardinal que indica, sobre un meridiano, la dirección al polo norte geográfico. En el hemisferio norte, se corresponde con el punto del horizonte cuya perpendicular pasa por la estrella polar. <br>A la ubicación o a la dirección norte se les llama septentrional o boreal.</p>
             </div>
         </div>
-        <div class="col-md-3 p-2">
+        <div class="col-md-3 p-2 d-flex justify-content-center">
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/5YwR3cx/sur.png"  width="260" height="240">
                 <h5 class="card-title" align="center">¡Sur!</h5>
                 <p><br>Es el punto cardinal que indica, sobre un meridiano, la dirección al Polo Sur geográfico.<br> <br><br>Es uno de los cuatro puntos cardinales, situado diametralmente opuesto al norte. </p>
             </div>
         </div>
-        <div class="col-md-3 p-2">
+        <div class="col-md-3 p-2 d-flex justify-content-center">
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/y0kyxnn/este.png"  width="260" height="240">
                 <h5 class="card-title" align="center">¡Este!</h5>
                 <p>Es uno de los cuatro puntos cardinales.La perpendicular a la meridiana corta al horizonte en los puntos este y oeste.<br>También recibe el nombre de oriente o levante. Se corresponde aunque no exactamente con el punto del horizonte por donde sale el Sol, de ahí el nombre de levante (zona donde el Sol se levanta).</p>
             </div>
         </div>
-        <div class="col-md-3 p-2">
+        <div class="col-md-3 p-2 d-flex justify-content-center">
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/wpSLm4z/oeste.png"  width="260" height="240">
                 <h5 class="card-title" align="center">¡Oeste!</h5>

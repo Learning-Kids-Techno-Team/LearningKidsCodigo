@@ -150,7 +150,7 @@
 
             <p>
                 Es una forma divertida y gratuita para que tus hijos aprendan,
-                refuercen y/o desarrollen hábilidades sobrecuatro materias básicas
+                refuercen y/o desarrollen hábilidades sobre cuatro materias básicas
                 (matemáticas, español,ciencias naturales y ciencias sociales). Todo
                 el contenido acerca de educación básica preescolar recopilado en una
                 sola plataforma con el objetivo de lograr una mayor facilitación de
