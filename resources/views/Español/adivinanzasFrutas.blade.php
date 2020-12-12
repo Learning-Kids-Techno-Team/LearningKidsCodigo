@@ -24,9 +24,6 @@
 
 
 
-
-
-
     <style>
         .navbar{
             background:#3B5686;
