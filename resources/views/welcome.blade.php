@@ -65,8 +65,8 @@
                             <div class="input-group">
                                 <div class="input-group-prepend">
                                 </div>
-                                <h3>Gracias por visitarnos</h3>
-                                <img src="https://i.ibb.co/FXH5tWL/vid.png" ">
+                                <h3 class=" center-block pl-5">Gracias por visitarnos</h3>
+                                <img  height="250" class="mx-auto d-block " src="https://i.ibb.co/FXH5tWL/vid.png"  >
                             </div>
                             @if ($errors->has('email'))
                                 <div id="email-error" class="error text-danger pl-3" for="email" style="display: block;">
