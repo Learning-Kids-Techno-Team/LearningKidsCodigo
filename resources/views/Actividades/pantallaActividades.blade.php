@@ -187,7 +187,7 @@
                         <img src="https://i.ibb.co/SKmNjxQ/1594a.jpg"  class="card mx-auto d-block" height="150" width="220">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Símbolos de igualdad</h5>
-                            <a href="http://learningkidscodigo.test/simbolosActividad" class="btn btn-danger" >ver</a>
+                            <a href="http://learningkidscodigo.test/simbolos2" class="btn btn-danger" >ver</a>
                         </div>
                     </div>
                 </div>
@@ -197,7 +197,7 @@
                         <img  src="https://i.ibb.co/DpVby1r/mmm.png"  class="card mx-auto d-block" height="160" width="220">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Longitud</h5>
-                            <a href="http://learningkidscodigo.test/longitudActividad" class="btn btn-danger" >ver</a>
+                            <a href="http://learningkidscodigo.test/longitud2" class="btn btn-danger" >ver</a>
                         </div>
                     </div>
                 </div>

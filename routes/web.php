@@ -231,6 +231,15 @@ Route::get('/natural',function (){
     return view('Actividades/natural');
 });
 
+Route::get('/simbolos2',function (){
+    return view('Actividades/simbolosActividad');
+});
+
+
+Route::get('/longitud2',function (){
+    return view('Actividades/longitudActividad');
+});
+
 
 
                                                            /*TERCER SPRINT */
