@@ -1,5 +1,4 @@
 
-
 @extends('layouts.inicio', ['class' => 'off-canvas-sidebar',
 'activePage' => 'login', 'title' => __()])
 

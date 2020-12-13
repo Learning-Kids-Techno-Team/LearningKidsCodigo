@@ -477,3 +477,7 @@ Route::get('/',function (){
     return view('welcome');
 });
 
+Route::get('/presentacion',function (){
+    return view('presentacion');
+});
+
