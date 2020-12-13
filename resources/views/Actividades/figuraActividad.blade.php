@@ -4,6 +4,15 @@
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="utf-8">
+    <!-- Seguimiento -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-JWFFJETEMQ"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-JWFFJETEMQ');
+    </script>
 
 
     <title>Actividad de figuras geometricas</title>
