@@ -25,10 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint 5 Hector">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/puntosCardinales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/puntosCardinales.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pantallaPrincipal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pantallaPrincipal.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,13 +166,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LearningKids" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../probarplantilla" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -214,6 +214,8 @@
       <workItem from="1604981600268" duration="1676000" />
       <workItem from="1607555949098" duration="4136000" />
       <workItem from="1607714576214" duration="7357000" />
+      <workItem from="1607798277799" duration="1197000" />
+      <workItem from="1607836030936" duration="1251000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -383,7 +385,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607758018781</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Sprint 5 Hector">
+      <created>1607758731012</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1607758731012</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

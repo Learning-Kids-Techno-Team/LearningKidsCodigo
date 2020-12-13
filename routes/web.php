@@ -433,7 +433,7 @@ Route::get('/estaciones',function (){
 });
 
 
-/*rutas actividades CCSS*/
+                                                /*rutas actividades de ciencias sociales sprint 4*/
 
 Route::get('/actividadesCCSS',function (){
     return view('ActividadesCienciasSociales/pantActividadesCCSS');
