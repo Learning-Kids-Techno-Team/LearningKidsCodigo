@@ -26,9 +26,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/puntosCardinales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/puntosCardinales.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pantallaPrincipal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pantallaPrincipal.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/figuraActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/figuraActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/lineaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/lineaActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/longitudActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/longitudActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/natural.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/natural.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/numerosOrdinalesActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/numerosOrdinalesActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/pantallaActividades.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/pantallaActividades.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/relacionActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/relacionActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/restaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/restaActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/simbolosActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/simbolosActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/sumaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/sumaActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadAnimales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadAnimales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadCiclo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadCiclo.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadNormasDeHigiene.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadNormasDeHigiene.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadPartesDelCuerpo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadPartesDelCuerpo.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadSentidos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadSentidos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/pantActividadesCCNN.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/pantActividadesCCNN.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/plantaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/plantaActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/seres.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/seres.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadAmbiente.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadAmbiente.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadCiclo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadCiclo.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadComunicacion.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadComunicacion.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadDerechosYDeberes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadDerechosYDeberes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadEstaciones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadEstaciones.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/ocupacionesActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/ocupacionesActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/pantActividadesCCSS.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/pantActividadesCCSS.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/sentimientoActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/sentimientoActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/transporteActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/transporteActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,13 +194,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LearningKids" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -214,6 +242,8 @@
       <workItem from="1604981600268" duration="1676000" />
       <workItem from="1607555949098" duration="4136000" />
       <workItem from="1607714576214" duration="7357000" />
+      <workItem from="1607809456402" duration="1979000" />
+      <workItem from="1607830153554" duration="2590000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -416,5 +446,11 @@
     <MESSAGE value="Sprint 5 Daniela" />
     <MESSAGE value="Sprint 5 Hector" />
     <option name="LAST_COMMIT_MESSAGE" value="Sprint 5 Hector" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607811787000">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1607811787000" />
   </component>
 </project>
