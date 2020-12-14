@@ -149,7 +149,7 @@
     <div class="container-fluid" style="background: #FEB472">
         <div class="row  pb-5">
             <div class="col-md-12">
-                <a href="http://learningkidscodigo.test/figura">
+                <a href=" {{ url('/figura') }}">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/s2k0frX/Iconos-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info color2" width="150"><h3>Figuras Geometrica</h3>
                 </a>
             </div>
@@ -158,12 +158,12 @@
     <div class="container-fluid" style="background: #FEB472">
         <div class="row pb-5">
             <div class="col-md-6">
-                <a href="http://learningkidscodigo.test/numerosNaturales">
+                <a href=" {{ url('/numerosNaturales') }}">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/bdRWHpK/numero-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Números Naturales</h3>
                 </a>
             </div>
             <div class="col-md-6">
-                <a href="http://learningkidscodigo.test/NumerosOrdinales">
+                <a href=" {{ url('/NumerosOrdinales') }}">
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/k59g6vt/grado-removebg-preview.png"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Números Ordinales</h3>
                 </a>
             </div>
@@ -172,7 +172,7 @@
     <div class="container-fluid"style="background: #FEB472">
         <div class="row">
             <div class="col-md-4 pb-5">
-                <a href="http://learningkidscodigo.test/restas">
+                <a href=" {{ url('/restas') }}">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/YbJVtYV/resta-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Restas</h3>
                 </a>
             </div>
@@ -180,7 +180,7 @@
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/F38tjLG/dibujos4-removebg-preview.png"   class="mx-auto d-block" width="450" >
             </div>
             <div class="col-md-4">
-                <a href="http://learningkidscodigo.test/sumas">
+                <a href=" {{ url('/sumas') }}">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://arbolabc.nyc3.cdn.digitaloceanspaces.com/New-Math-Area-Icons/Juegos_de_sumas.jpg"  class="rounded-circle mx-auto d-block bg-info"width="150"> <h3>Sumas</h3>
                 </a>
         </div>
@@ -188,7 +188,7 @@
     <div class="container-fluid" style="background: #FEB472">
         <div class="row pb-5">
             <div class="col-md-3">
-                <a href="http://learningkidscodigo.test/relacionObjetos#">
+                <a href=" {{ url('/relacionObjetos') }}">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/Gsn8yNC/relacion-removebg-preview.png"   class="rounded-circle  mx-auto d-block bg-info" width="150"><h3>Relación Objetos</h3>
                 </a>
             </div>
@@ -199,7 +199,7 @@
 
             </div>
             <div class="col-md-3">
-                <a href="http://learningkidscodigo.test/lineas">
+                <a href=" {{ url('/lineas') }}">
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/0BkzSGt/coleccion-removebg-preview.png"  class="rounded-circle  mx-auto d-block  bg-info" width="150"><h3>Las lineas</h3>
                 </a>
             </div>
@@ -208,14 +208,14 @@
     <div class="container-fluid" style="background: #FEB472">
         <div class="row ">
             <div class="col-md-4  ">
-                <a href="http://learningkidscodigo.test/simbolos">
+                <a href=" {{ url('/simbolos') }}">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/zG6gz8B/sfn-removebg-preview.png"   class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Menor que <br>y <br> mayor que </h3>
                 </a>
             </div>
             <div class="col-md-4 pb-5">
             </div>
             <div class="col-md-4" align="right">
-                <a href="http://learningkidscodigo.test/moneda">
+                <a href=" {{ url('/moneda') }}">
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/MngXsLY/coins-removebg-preview.png"     class="rounded-circle mx-auto d-block bg-info"width="150"><h3>La moneda</h3>
                 </a>
             </div>
@@ -228,12 +228,12 @@
 
                 </div>
                 <div class="col-md-3">
-                    <a  href="http://learningkidscodigo.test/longitud">
+                    <a  href=" {{ url('/longitud') }}">
                     <img alt="Vista previa de la imagen de Bootstrap"   src="https://i.ibb.co/8KYJhD6/metro-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Longitud</h3>
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href="http://learningkidscodigo.test/pantallaA">
+                    <a href=" {{ url('/pantallaA') }}">
                     <img alt="Vista previa de la imagen de Bootstrap"   src="https://i.ibb.co/KymRv4b/80386333-ilustraci-n-vectorial-de-ni-o-de-la-escuela-con-un-libro-con-l-piz-gigante-removebg-preview.png"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Actividades</h3>
                     </a>
                 </div>

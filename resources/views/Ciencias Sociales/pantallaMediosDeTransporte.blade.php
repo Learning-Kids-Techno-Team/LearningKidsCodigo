@@ -143,7 +143,7 @@
                 <img id="im" src="https://i.ibb.co/bLdqt0n/conjunto-transporte-aereo-74855-420-removebg-preview.png"  width="300" height="230" class="mx-auto d-block" >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Aereos!</h5>
-                    <a href="http://learningkidscodigo.test/aereos" class="btn">Leer</a>
+                    <a href=" {{ url('/aereos') }}" class="btn">Leer</a>
                 </div>
             </div>
         </div>
@@ -153,7 +153,7 @@
                 <img id="im"class="mx-auto d-block"  src="https://i.ibb.co/Ry7Q40L/embarcaciones-mar-embarcaciones-transporte-maritimo-87946-105-removebg-preview.png"  width="300" height="230"  >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Maritimos!</h5>
-                    <a href="http://learningkidscodigo.test/maritimos" class="btn">Leer</a>
+                    <a href=" {{ url('/maritimos') }}" class="btn">Leer</a>
 
                 </div>
             </div>
@@ -165,7 +165,7 @@
                 <img id="im"class="mx-auto d-block" src="https://i.ibb.co/brvg05d/m1-removebg-preview.png"  width="300" height="230"  >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Terrestres!</h5>
-                    <a href="http://learningkidscodigo.test/terrestres" class="btn">Leer</a>
+                    <a href=" {{ url('/terrestres') }}" class="btn">Leer</a>
 
                 </div>
             </div>

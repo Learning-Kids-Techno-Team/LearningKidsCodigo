@@ -111,11 +111,6 @@
 
 
 
-
-
-
-
-
 <!-- tarjetas de tipos de figuras geometricas -->
 <div class="container-fluid pb-5 " style="background: #f8cfc6 ">
     <div class="row">
@@ -129,7 +124,7 @@
                 <img src="https://i.ibb.co/dkV8L43/largo-corto.jpg"  width="285" style="border-bottom-left-radius: 30% ">
                 <div class="card-body">
                     <h5 class="card-title" style="text-align: center">Unidades de Longitud</h5>
-                    <a href="http://learningkidscodigo.test/unidadLongitud" style=" background: #FF7800" href="" class="btn btn-primary">Leer</a>
+                    <a href=" {{ url('/unidadLongitud') }}" style=" background: #FF7800" href="" class="btn btn-primary">Leer</a>
                 </div>
             </div>
         </div>
@@ -138,7 +133,7 @@
                 <img src="https://i.ibb.co/g6JY8p6/medidas.jpg"  width="285"  alt="..." style="border-bottom-left-radius: 5% ">
                 <div class="card-body">
                     <h5 class="card-title" style="text-align: center">Medir con las partes del cuerpo</h5>
-                    <a href="http://learningkidscodigo.test/unidadCorporal#" style=" background: #FF7800" class="btn btn-primary">Leer</a>
+                    <a href=" {{ url('/unidadCorporal') }}" style=" background: #FF7800" class="btn btn-primary">Leer</a>
                 </div>
             </div>
         </div>
