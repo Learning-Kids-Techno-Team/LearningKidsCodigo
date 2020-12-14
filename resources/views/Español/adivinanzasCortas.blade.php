@@ -82,18 +82,12 @@
 
         }
 
-
-
-
-        #banderin{
-
-            background: url("https://i.ibb.co/jfW9Wfr/estrella-removebg-preview.png");
-            margin-top: auto;
-
-
-            height: 300px;
+        #im {
+            border: gold 6px dashed;
 
         }
+
+
         #color{
             color: navy;
 
@@ -150,7 +144,7 @@
         <div class="col-md-4">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Es pequeña como una pera, pero alumbra la casa entera. ¿Qué es?</p>
@@ -164,7 +158,7 @@
         <!-- tarjeta 2 -->
         <div class="col-md-4 ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- La han sacado del mar, es blanca y también salada. La encuentras en la ensalada. ¿Qué es?</p>
@@ -177,7 +171,7 @@
         <!-- tarjetas3 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Tiene dientes, pero no puede comer. ¿Qué es?</p>
@@ -197,7 +191,7 @@
         <div class="col-md-4">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Bonita flor que gira buscando el sol. ¿Qué es?</p>
@@ -209,7 +203,7 @@
         <!-- tarjeta 2 -->
         <div class="col-md-4  ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Una letra alta y delgada es. La luna y el sol la llevan, pero en el aire no la ves. ¿Qué es?</p>
@@ -221,7 +215,7 @@
         <!-- tarjetas3 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- Es puma y no es animal; vuela y flota. ¿Qué será?</p>
@@ -240,7 +234,7 @@
         <div class="col-md-4">
             <!-- tarjeta 7 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Tiene cuello, pero no cabeza. ¿Sabes qué es?</p>
@@ -252,7 +246,7 @@
         <!-- tarjeta 8 -->
         <div class="col-md-4 ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Tiene patas y bigotes. Caza ratones y araña, pero no es araña. ¿Quién es?</p>
@@ -264,7 +258,7 @@
         <!-- tarjetas9 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- Sube llena y baja vacía. Si no se da prisa, la sopa se enfría. ¿Qué es?</p>

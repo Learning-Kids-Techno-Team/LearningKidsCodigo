@@ -68,6 +68,12 @@
 
         }
 
+        #im {
+            border: gold 5px dashed;
+
+        }
+
+
         #separadorInferior .content{
 
             width: 110%;
@@ -111,7 +117,7 @@
 @section('content')
 
 <!-- contenedor-->
-<div class="container-fluid" id="h">
+<div class="container-fluid" >
     <div class="row ">
         <div class="col-md-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/s5yCnjB/99528630-removebg-preview-1.png" width="250" />
@@ -135,7 +141,7 @@
 
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Canto en la orilla, vivo en el agua, no soy pescado ni cigarra. ¿Quién soy?<BR><BR></p>
@@ -147,7 +153,7 @@
         <!-- tarjeta 2 -->
         <div class="col-md-4 ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- El roer es mi trabajo, el queso mi aperitivo y el gato siempre será mi más temido enemigo. ¿Quién soy?</p>
@@ -159,7 +165,7 @@
         <!-- tarjetas3 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Soy un trocito de luz en la noche. De día me escondo en la hierba. Parezco una esmeralda que el viento se lleva. ¿Quién soy?</p>
@@ -178,7 +184,7 @@
         <div class="col-md-4">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Dos pinzas tengo y hacia atrás camino, de mar o de río en el agua vivo. ¿Quién soy?</p>
@@ -190,7 +196,7 @@
         <!-- tarjeta 2 -->
         <div class="col-md-4  ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Madre me labró una casa sin puertas y sin ventanas, y cuando quiero salir rompo antes la muralla. ¿Quién soy?</p>
@@ -202,7 +208,7 @@
         <!-- tarjetas3 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- No es cama ni es león, y desaparece en cualquier rincón. ¿Quién es?</p>
@@ -221,7 +227,7 @@
         <div class="col-md-4">
             <!-- tarjeta 7 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Vuelo entre las flores, vivo en una colmena, fabrico miel y también cera. ¿Quién soy?</p>
@@ -233,7 +239,7 @@
         <!-- tarjeta 8 -->
         <div class="col-md-4 ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Soy un insecto que vuela entre las flores, tengo dos alitas de muchos colores. ¿Quién soy?</p>
@@ -245,7 +251,7 @@
         <!-- tarjetas9 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- Viste de chaleco blanco y negro tiene su pecho. Es un ave que no vuela, pero sabe nadar derecho. ¿Quién soy?</p>
