@@ -62,7 +62,7 @@
 
 
 </head>
-<body >
+<body>
 
 <!-- contenedor-->
 <div class="container-fluid" id="color">
