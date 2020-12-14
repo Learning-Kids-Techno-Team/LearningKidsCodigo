@@ -120,7 +120,7 @@
                 <img src="https://i.ibb.co/tDcKNs9/dibujos-animados-madre-bebe-elefante-29190-5257.jpg"  class=" mx-auto d-block" width="285" height="180" >
                 <div class="card-body">
                     <h5 class="card-title">Distingo Tamaños</h5>
-                    <a style=" background: darkorange" href="http://learningkidscodigo.test/tipoRelacionObjetTama%C3%B1os" class="btn btn-danger">Leer</a>
+                    <a style=" background: darkorange" href=" {{ url('/RelacionObjetTamaños') }}" class="btn btn-danger">Leer</a>
                 </div>
             </div>
         </div>
@@ -131,7 +131,7 @@
                 <img  src="https://i.ibb.co/MGZrQ3J/46648063-cartoon-mujer-en-vestido-negro-flaco-y-con-sobrepeso-la-p-rdida-de-peso-antes-y-despu-s-de.jpg" width="285" height="180">
                 <div class="card-body">
                     <h5 class="card-title">Distingo Espesores</h5>
-                    <a href="http://learningkidscodigo.test/tipoRelacionObjetEspesores" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                    <a href=" {{ url('/RelacionObjetEspesores') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
                 </div>
             </div>
         </div>
@@ -144,7 +144,7 @@
 
                     <h5 class="card-title">Distingo Colores</h5>
 
-                    <a href="http://learningkidscodigo.test/tipoRelacionObjetColores" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                    <a href=" {{ url('/RelacionObjetColores') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
                 </div>
             </div>
         </div>
@@ -162,7 +162,7 @@
                     <img  src="https://i.ibb.co/zJhVMdy/unnamed.jpg"   width="285" height="180" >
                     <div class="card-body">
                         <h5 class="card-title">Distingo Distancias</h5>
-                        <a style=" background: darkorange" href="http://learningkidscodigo.test/tipoRelacionObjetDistancias" class="btn btn-danger">Leer</a>
+                        <a style=" background: darkorange" href=" {{ url('/RelacionObjetDistancias') }}" class="btn btn-danger">Leer</a>
                     </div>
                 </div>
             </div>
@@ -172,7 +172,7 @@
                     <img  src="https://i.ibb.co/zNCt4Sd/dentro.jpg"  width="285" height="180">
                     <div class="card-body">
                         <h5 class="card-title">Reconozco Posiciones</h5>
-                        <a href="http://learningkidscodigo.test/tipoRelacionObjetPosiciones" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                        <a href=" {{ url('/RelacionObjetPosiciones') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
                     </div>
                 </div>
             </div>
@@ -185,7 +185,7 @@
 
                         <h5 class="card-title">Reconozco el tiempo</h5>
 
-                        <a href="http://learningkidscodigo.test/tipoRelacionObjetTiempo" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                        <a href=" {{ url('/RelacionObjetTiempo') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
                     </div>
                 </div>
             </div>

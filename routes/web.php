@@ -49,12 +49,12 @@ Route::get('/adivinanzasTransportes', function () {
 });
 
 /*pantallas de español trabalengua*/
-Route::get('trabalenguas', function () {
+Route::get('/trabalenguas', function () {
     return view('Español/pantallaTrabalenguas');
 });
 
 /*pantallas de español refranes*/
-Route::get('refranes', function () {
+Route::get('/refranes', function () {
     return view('Español/pantallaRefranes');
 });
 
@@ -89,7 +89,7 @@ Route::get('/cuentoDormir',function (){
 });
 
 /*pantalla de la clase de chistes*/
-Route::get('Español/pantallaDeLaClaseDeEspañolChistes', function () {
+Route::get('/Chistes', function () {
     return view('Español/pantallaDeLaClaseDeEspañolChistes');
 });
 
@@ -104,7 +104,7 @@ Route::get('/pantallaPrincipalDeLaClaseDeCienciasSociales', function () {
     return view('Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales');
 });
 /*pantalla de la clase de español bombas*/
-Route::get('Español/pantallaDeBombas', function () {
+Route::get('/Bombas', function () {
     return view('Español/pantallaDeBombas');
 });
 
@@ -124,10 +124,7 @@ Route::get('/pantallaPrincipalDeCienciasNaturales', function () {
 Route::get('/Rondas',function (){
     return view('Español/Rondas');
 });
-/*pantalla de  bombas*/
-Route::get('Español/pantallaDeBombas', function () {
-    return view('Español/pantallaDeBombas');
-});
+
 
 
 
@@ -153,13 +150,13 @@ Route::get('/poligonales',function (){
 Route::get('figura',function (){
     return view('Matematicas/pantallaFigurasGeometricas');
 });
-Route::get('Matematicas/pantallaTipoDeCuadrilatero',function (){
+Route::get('/TipoDeCuadrilatero',function (){
     return view('Matematicas/pantallaTipoDeCuadrilatero');
 });
-Route::get('Matematicas/pantallaTiposDeTriangulos',function (){
+Route::get('/TiposDeTriangulos',function (){
     return view('Matematicas/pantallaTiposDeTriangulos');
 });
-Route::get('Matematicas/pantallaOtrasFiguras',function (){
+Route::get('/OtrasFiguras',function (){
     return view('Matematicas/pantallaOtrasFiguras');
 });
 
@@ -175,22 +172,22 @@ Route::get('/NumerosOrdinales',function (){
     return view('Matematicas/NumerosOrdinales');
 });
 //Rutas Tipo Relacion de Objetos/Matematicas
-Route::get('/tipoRelacionObjetColores',function (){
+Route::get('/RelacionObjetColores',function (){
     return view('Matematicas/tipoRelacionObjetColores');
 });
-Route::get('/tipoRelacionObjetDistancias', function (){
+Route::get('/RelacionObjetDistancias', function (){
     return view('Matematicas/tipoRelacionObjetDistancias');
 });
-Route::get('/tipoRelacionObjetEspesores',function (){
+Route::get('/RelacionObjetEspesores',function (){
     return view('Matematicas/tipoRelacionObjetEspesores');
 });
-Route::get('/tipoRelacionObjetPosiciones',function (){
+Route::get('/RelacionObjetPosiciones',function (){
     return view('Matematicas/tipoRelacionObjetPosiciones');
 });
-Route::get('/tipoRelacionObjetTamaños',function (){
+Route::get('/RelacionObjetTamaños',function (){
     return view('Matematicas/tipoRelacionObjetTamaños');
 });
-Route::get('/tipoRelacionObjetTiempo',function (){
+Route::get('/RelacionObjetTiempo',function (){
     return view('Matematicas/tipoRelacionObjetTiempo');
 });
 Route::get('/sumas',function (){
@@ -438,7 +435,6 @@ Route::get('/estaciones',function (){
 Route::get('/actividadesCCSS',function (){
     return view('ActividadesCienciasSociales/pantActividadesCCSS');
 });
-
 
 Route::get('/actividadAmbiente',function (){
     return view('ActividadesCienciasSociales/actividadAmbiente');

@@ -265,7 +265,7 @@
             <div  style="width: 30rem;">
                  <img src="https://i.ibb.co/NnK9dQn/Captura-de-pantalla-322-removebg-preview-1.png"  width="468" height="250">
 
-                <div  >
+                <div>
 
 
                 </div>
