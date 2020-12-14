@@ -23,12 +23,11 @@
     <style>
 
         body{
-            background-image:url("https://i.ibb.co/KVPtLfc/font2.jpg");
-            background-color: #9368e9;
-        }
-
-        .navbar {
-            background-color: transparent;
+            background: rgb(255,255,255);
+            background: url("https://i.ibb.co/xm0J45z/banderin-guirnalda28-1024x250-removebg-preview.png"), linear-gradient(0deg, rgba(255,255,255,1)0%,rgba(99,196,255,1)57%);
+            background-repeat: repeat-x;
+            background-size:50%;
+            margin-top: -20px;
 
         }
 
@@ -67,9 +66,18 @@
 <div class="container-fluid" id="color">
     <div class="row">
         <div class="col-md-12"><br><br><br>
-            <img class="mx-auto d-block" src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" width="300"><br><br><br><br><br><br><br><br><br>
+            <img class="mx-auto d-block" src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" width="200">
         </div>
 
+    </div>
+</div>
+
+<!-- contenedor-->
+<div class="container-fluid" id="color">
+    <div class="row">
+        <div class="col-md-12">
+            <img class="mx-auto d-block" src="https://i.ibb.co/wN6FfnK/f65aec7c21fee225623fcbf8194a0508-removebg-preview.png"  ><br><br><br><br><br><br>
+        </div>
     </div>
 </div>
 
@@ -101,13 +109,13 @@
     <div class="row" >
         <div class="col-md-12">
             <h2 class="text-center"><em><br><br><br><br><br><br>¡Acerca de la página!</em></h2><br>
-            <h4 class="text-center"><em><strong>Es una forma divertida y gratuita para que los niños aprendan, refuercen y/o desarrollen hábilidades
+            <p class="justify-content-center"><em><strong>Es una forma divertida y gratuita para que los niños aprendan, refuercen y/o desarrollen hábilidades
                         sobre cuatro materias básicas (español, matemática, ciencias naturales y ciencias sociales). Todo el contenido
                         acerca de educación básica preescolar recopilado en una sola plataforma con el objetivo de lograr una mayor facilitación
                         de enseñanza y aprendizaje para los niños. Este espacio es una herramienta útil para reforzar el conocimiento
                         no solo de nuestros pequeños sino tambien permite una mayor didáctica si eres educador o maestro; por ello que la
                         información de esta página web está abierta para todo tipo de usuario.
-                    </strong></em></h4><br><br><br>
+                    </strong></em></p><br><br><br>
         </div>
     </div>
 </div>
