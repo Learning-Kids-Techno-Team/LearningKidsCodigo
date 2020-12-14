@@ -155,7 +155,7 @@
                 <img id="im" src="https://i.ibb.co/RBx52LQ/hb1-removebg-preview-1.png" width="300" height="230" class="mx-auto d-block" >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Normas de Higiéne!</h5>
-                    <a href="http://learningkidscodigo.test/normas" class="btn">Leer</a>
+                    <a href=" {{ url('/normas') }}" class="btn">Leer</a>
                 </div>
             </div>
         </div>
@@ -165,7 +165,7 @@
                 <img id="im" src="https://i.ibb.co/rwCtZPy/resp-removebg-preview-1.png" width="300" height="230" class="mx-auto d-block" >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Enfermedades Respiratorias!</h5>
-                    <a href="http://learningkidscodigo.test/respiratorias" class="btn">Leer</a>
+                    <a href=" {{ url('/respiratorias') }}" class="btn">Leer</a>
                 </div>
             </div>
         </div>
@@ -175,7 +175,7 @@
                 <img id="im" src="https://i.ibb.co/dWw7M81/intes-removebg-preview-1.png" width="300" height="230" class="mx-auto d-block" >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Enfermedades Intestinales!</h5>
-                    <a href="http://learningkidscodigo.test/intestinales" class="btn">Leer</a>
+                    <a href=" {{ url('/intestinales') }}" class="btn">Leer</a>
                 </div>
             </div>
         </div>

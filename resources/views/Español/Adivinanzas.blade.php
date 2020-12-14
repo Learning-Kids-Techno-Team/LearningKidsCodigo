@@ -151,7 +151,7 @@
             <img src="https://i.ibb.co/j8qn5bF/bhg.jpg" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas de<br>animales</h5>
-                <a href="http://learningkidscodigo.test/adivinanzasAnimales" class="btn">Leer</a>
+                <a href=" {{ url('/adivinanzasAnimales') }}" class="btn">Leer</a>
             </div>
         </div>
     </div>
@@ -163,7 +163,7 @@
             <img src="https://i.ibb.co/dKXqK3Z/maxresdefault-1.jpg" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas de<br>frutas</h5>
-                <a href="http://learningkidscodigo.test/adivinanzasFrutas" class="btn">Leer</a>
+                <a href=" {{ url('/adivinanzasFrutas') }}" class="btn">Leer</a>
             </div>
         </div>
     </div>
@@ -173,7 +173,7 @@
             <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card mx-auto d-block" height="160" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas de<br> números</h5>
-                <a href="http://learningkidscodigo.test/adivinanzasNumeros" class="btn">Leer</a>
+                <a href=" {{ url('/adivinanzasNumeros') }}" class="btn">Leer</a>
             </div>
         </div>
     </div>
@@ -188,7 +188,7 @@
             <img src="https://i.ibb.co/hdgRwK2/icon.webp" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas de<br> transportes</h5>
-                <a href="http://learningkidscodigo.test/adivinanzasTransportes" class="btn">Leer</a>
+                <a href=" {{ url('/adivinanzasTransportes') }}" class="btn">Leer</a>
             </div>
         </div>
 </div>
@@ -199,7 +199,7 @@
             <img src="https://i.ibb.co/Hpb4517/jghi.jpg" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas<br> cortas</h5>
-                <a href="http://learningkidscodigo.test/adivinanzasCortas" class="btn">Leer</a>
+                <a href=" {{ url('/adivinanzasCortas') }}" class="btn">Leer</a>
             </div>
         </div>
     </div>

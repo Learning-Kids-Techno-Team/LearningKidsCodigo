@@ -2,7 +2,7 @@
     <nav class="navbar navbar-light navbar-expand-md shadow-sm " id="navbar">
         <div class="container">
 
-            <a  class="navbar-brand"> <!-- href=" {{ url('/') }}"-->
+            <a  class="navbar-brand"> <!-- href=" {{ url('/') }}" -->
 
                 <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" width="110">
             <!-- {{ config('app.name','Inicio') }}-->

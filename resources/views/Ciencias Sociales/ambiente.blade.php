@@ -162,7 +162,7 @@
                 <img id="im" class="mx-auto d-block"  src="https://i.ibb.co/JCP7ZJB/images-2.jpg"  width="460" height="280">
                 <div class="card-body">
                     <h5 class="card-title" align="center">Contaminados</h5>
-                    <a href="http://learningkidscodigo.test/ambienteContaminado" class="btn">Leer</a>
+                    <a href=" {{ url('/ambienteContaminado') }}" class="btn">Leer</a>
                 </div>
             </div>
         </div>
@@ -172,7 +172,7 @@
                 <img id="im" class="mx-auto d-block" src="https://i.ibb.co/dDn8pMM/5.jpg"  width="460" height="280">
                 <div class="card-body">
                     <h5 class="card-title" align="center">No Contaminados</h5>
-                    <a href="http://learningkidscodigo.test/ambienteNoContaminado" class="btn">Leer</a>
+                    <a href=" {{ url('/ambienteNoContaminado') }}" class="btn">Leer</a>
                 </div>
             </div>
         </div>

@@ -104,7 +104,7 @@
         <div class=" mx-auto d-block">
             <img src="https://i.ibb.co/JtrPsnW/24b5560ad1536680ad12973aa1bc3fe7-removebg-preview-1.png" alt="24b5560ad1536680ad12973aa1bc3fe7-removebg-preview-1" height="100" class="mx-auto d-block "/>
             <h2 class="text-center" id="cuento">
-                ¿Que son los Cuentos?
+                ¿Qué son los Cuentos?
             </h2>
 
             <p class="">
@@ -144,7 +144,7 @@
             <img   src="https://i.ibb.co/CmNZfRq/descarga.jpg"  class=" mx-auto d-block" alt="rondas"  height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Fantásticos</h5>
-                <a href="http://learningkidscodigo.test/cuentoFantastico#" class="btn btn-danger" >Leer</a>
+                <a href=" {{ url('/cuentoFantastico') }}" class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -154,7 +154,7 @@
             <img   src="https://i.ibb.co/xmC8SJL/maxresdefault.jpg"  class=" mx-auto d-block" alt="rondas"  height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Infantiles</h5>
-                <a href="http://learningkidscodigo.test/cuentoInfantiles" class="btn btn-danger" >Leer</a>
+                <a href=" {{ url('/cuentoInfantiles') }}" class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -164,7 +164,7 @@
             <img   src="https://i.ibb.co/fDZPYF8/real.jpg"   class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Realistas</h5>
-                <a href= "http://learningkidscodigo.test/cuentoRealista"  class="btn btn-danger" >Leer</a>
+                <a href= " {{ url('/cuentoRealista') }}"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -174,7 +174,7 @@
             <img   src="https://i.ibb.co/GRwk26w/terror.jpg"   class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Terror</h5>
-                <a href= "http://learningkidscodigo.test/cuentoTerror"  class="btn btn-danger" >Leer</a>
+                <a href= " {{ url('/cuentoTerror') }}"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -184,7 +184,7 @@
             <img    src="https://i.ibb.co/BBcqQ4f/feliz-navidad.jpg"    class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Navidad</h5>
-                <a href= "http://learningkidscodigo.test/cuentoNavidad"  class="btn btn-danger" >Leer</a>
+                <a href=" {{ url('/cuentoNavidad') }}"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -194,7 +194,7 @@
             <img     src="https://i.ibb.co/nbCwrYv/aventura.jpg"    class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Aventuras</h5>
-                <a href= "http://learningkidscodigo.test/cuentoAventuras"  class="btn btn-danger" >Leer</a>
+                <a href= " {{ url('/cuentoAventuras') }}"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -204,7 +204,7 @@
             <img  src="https://i.ibb.co/qBGp3t3/policiales.jpg" class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Policiales</h5>
-                <a href= "http://learningkidscodigo.test/cuentoPoliciales"  class="btn btn-danger" >Leer</a>
+                <a href= " {{ url('/cuentoPoliciales') }}"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
@@ -214,7 +214,7 @@
             <img   src="https://i.ibb.co/421Xxcm/dormir.jpg"  class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Para Dormir</h5>
-                <a href= "http://learningkidscodigo.test/cuentoDormir"  class="btn btn-danger" >Leer</a>
+                <a href= " {{ url('/cuentoDormir') }}"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
