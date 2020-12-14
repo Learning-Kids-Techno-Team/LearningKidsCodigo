@@ -83,6 +83,12 @@
         }
 
 
+        #im {
+            border: gold 6px dashed;
+
+        }
+
+
         #color{
             color: navy;
 
@@ -137,7 +143,7 @@
         <div class="col-md-4">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Un bastón alargado tiene un balón redondito como su compañero, si sumas 5 y 5 sabrás a quién me refiero. ¿Qué número es?</p>
@@ -149,7 +155,7 @@
         <!-- tarjeta 2 -->
         <div class="col-md-4 ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img  src="https://i.ibb.co/MpMC7mk/descarga-1.jpg"  class="card-img-top" alt="...">
+                <img  src="https://i.ibb.co/MpMC7mk/descarga-1.jpg"  class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- Si quieres saber quién soy, espera a que llueva. Contando los colores del arcoíris tendrás la prueba. ¿Quién soy?</p>
@@ -161,7 +167,7 @@
         <!-- tarjetas3 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Puesto de una manera paso a ser un número par, pero paso a ser otro si la vuelta me das. ¿Qué número es?</p>
@@ -181,7 +187,7 @@
         <div class="col-md-4">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="..." id="im" >
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Soy uno más que dos y tengo forma de serpiente, pero no la que más miente. ¿Cuál número soy?</p>
@@ -193,7 +199,7 @@
         <!-- tarjeta 2 -->
         <div class="col-md-4  ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Cuenta los dedos de tu mano y también los de uno de tus pies y sabrás que número es. ¿Quién soy?</p>
@@ -205,7 +211,7 @@
         <!-- tarjetas3 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- Si quieres contar, por mí tienes que empezar. ¿Cuál número soy?</p>
@@ -224,7 +230,7 @@
         <div class="col-md-4">
             <!-- tarjeta 7 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- De muchos hijos que somos, el primero yo nací, pero soy el menor de todos. ¿Cómo puede ser así? ¿sabes cuál número soy?</p>
@@ -236,7 +242,7 @@
         <!-- tarjeta 8 -->
         <div class="col-md-4 ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img  src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="...">
+                <img  src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Soy más de uno sin llegar a tres y llego a cuatro cuando dos me des. ¿Cuál número soy?</p>
@@ -248,7 +254,7 @@
         <!-- tarjetas9 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- ¿Qué número tiene el mismo número de letras que el valor que expresa? Quién soy?</p>

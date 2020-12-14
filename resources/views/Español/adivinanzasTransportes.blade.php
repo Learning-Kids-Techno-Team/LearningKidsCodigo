@@ -22,13 +22,6 @@
     </script>
 
 
-
-
-
-
-
-
-
     <style>
         .navbar{
             background:#3B5686;
@@ -92,6 +85,12 @@
 
         }
 
+
+        #im {
+            border: gold 6px dashed;
+
+        }
+
     </style>
 </head>
 <body>
@@ -141,7 +140,7 @@
         <div class="col-md-4">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Por un camino de hierro voy corriendo muy veloz, doy un fuerte silbido cuando llego a la estación. ¿Quién soy?</p>
@@ -153,7 +152,7 @@
         <!-- tarjeta 2 -->
         <div class="col-md-4">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- Llevo a la familia y a su equipaje. Paso todas las noches en el garaje. ¿Quién soy?</p>
@@ -165,7 +164,7 @@
         <!-- tarjetas3 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Soy pájaro sin nido con las alas de metal, las ruedas tengo de goma y los ojitos de cristal. ¿Quién soy?</p>
@@ -185,7 +184,7 @@
         <div class="col-md-4">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Encima de la cabeza gira mi gran abanico y en la punta de la cola gira otro pequeñito. ¿Quién soy?</p>
@@ -197,7 +196,7 @@
         <!-- tarjeta 2 -->
         <div class="col-md-4  ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png"  class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png"  class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Tengo seis ruedas y a veces más. Llevo la carga donde deba llegar. ¿Quién soy?</p>
@@ -209,7 +208,7 @@
         <!-- tarjetas3 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- Camino sobre las olas y tengo vestidos blancos. Si el viento me empuja fuerte mucho más rápido ando. ¿Quién soy?</p>
@@ -228,7 +227,7 @@
         <div class="col-md-4">
             <!-- tarjeta 7 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Si por el mar quieres viajar, ¿dónde te vas a montar? ¿Quién soy?</p>
@@ -240,7 +239,7 @@
         <!-- tarjeta 8 -->
         <div class="col-md-4 ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Mi misión es transportar y en la parada debo parar. Vengo de muchos colores, pero si te llevo a la escuela, mi color es amarillo. ¿Quién soy?</p>
@@ -252,7 +251,7 @@
         <!-- tarjetas9 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- Vehículo soy, hago muchísimo ruido, pero sólo dos viajan conmigo. ¿Quién soy?</p>

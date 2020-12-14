@@ -80,6 +80,10 @@
 
         }
 
+        #im {
+            border: gold 6px dashed;
+
+        }
 
         #color{
             color: navy;
@@ -135,7 +139,7 @@
         <div class="col-md-4">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Blanca por dentro, verde por fuera. Si quieres te lo digo, espera. ¿Quién soy?</p>
@@ -147,7 +151,7 @@
         <!-- tarjeta 2 -->
         <div class="col-md-4 ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- Una señorita muy señoreada, lleva sombrero verde y blusa colorada. ¿Quién soy?</p>
@@ -159,7 +163,7 @@
         <!-- tarjetas3 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- No soy de plata, plata no soy. Ya te he dicho quién soy. ¿Quién soy?</p>
@@ -179,7 +183,7 @@
         <div class="col-md-4">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- No toma té, ni toma café, y está colorado,¿sabes quién es?</p>
@@ -191,7 +195,7 @@
         <!-- tarjeta 2 btn-primary-->
         <div class="col-md-4  ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img  src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="...">
+                <img  src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Es alargada y naranja, se la comen los conejos para así llegar a viejos. ¿Quién soy?</p>
@@ -203,7 +207,7 @@
         <!-- tarjetas3 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- Tengo cabeza redonda, sin nariz, ojos ni frente, y mi cuerpo se compone tan sólo de blancos dientes. ¿Quién es?</p>
@@ -222,7 +226,7 @@
         <div class="col-md-4">
             <!-- tarjeta 7 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Roja por dentro, verde por fuera. Si te la quieres comer, muchas semillas tendrás que morder. ¿Qué fruta es?</p>
@@ -234,7 +238,7 @@
         <!-- tarjeta 8 -->
         <div class="col-md-4 ">
             <div id="tar2" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Somos verdes y amarillas o rojas. Redonda es nuestra forma, y Blancanieves se comió una de nosotras. ¿Qué fruta somos?</p>
@@ -246,7 +250,7 @@
         <!-- tarjetas9 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- ¡Pi!, cantan los pájaros, miento y digo la verdad; por muy listo que seas, creo que no acertarás. ¿Quién soy?</p>
