@@ -106,8 +106,8 @@
                         sobre cuatro materias básicas (español, matemática, ciencias naturales y ciencias sociales). Todo el contenido
                         acerca de educación básica preescolar recopilado en una sola plataforma con el objetivo de lograr una mayor facilitación
                         de enseñanza y aprendizaje para los niños. Este espacio es una herramienta útil para reforzar el conocimiento
-                        no solo de nuestros pequeños sino tambien permite una mayor didáctica si eres educador o maestro; por ello que la
-                        información de esta página web esta abierta para todo tipo de usuario.
+                        no solo de nuestros pequeños sino también permite una mayor didáctica si eres educador o maestro; por ello que la
+                        información de esta página web está abierta para todo tipo de usuario.
                     </strong></em></h4><br><br><br>
         </div>
     </div>
