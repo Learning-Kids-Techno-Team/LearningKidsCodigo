@@ -25,7 +25,6 @@
         body{
             background-image:url("https://i.ibb.co/KVPtLfc/font2.jpg");
             background-color: #9368e9;
-
         }
 
         .navbar {
@@ -62,7 +61,7 @@
 
 
 </head>
-<body>
+<body >
 
 <!-- contenedor-->
 <div class="container-fluid" id="color">
@@ -101,13 +100,13 @@
 <div class="container-fluid" id="color" >
     <div class="row" >
         <div class="col-md-12">
-            <h2 class="text-center"><em><br><br><br><br><br><br>¡Acerca de la página!</em></h2><br>
-            <h4 class="text-center"><em><strong>Es una forma divertida y gratuita para que los niños aprendan, refuercen y/o desarrollen hábilidades
-                        sobre cuatro materias básicas (español, matemática, ciencias naturales y ciencias sociales). Todo el contenido
-                        acerca de educación básica preescolar recopilado en una sola plataforma con el objetivo de lograr una mayor facilitación
-                        de enseñanza y aprendizaje para los niños. Este espacio es una herramienta útil para reforzar el conocimiento
-                        no solo de nuestros pequeños sino también permite una mayor didáctica si eres educador o maestro; por ello que la
-                        información de esta página web está abierta para todo tipo de usuario.
+            <h2 class="text-center"><em><br><br><br><br><br><br>¡Acerca de la pagina!</em></h2><br>
+            <h4 class="text-center"><em><strong>Es una forma divertida y gratuita para que los niños aprendan, refuercen y/o desarrollen habilidades
+                        sobre cuatro materias basicas (español, matematica, ciencias naturales y ciencias sociales). Todo el contenido
+                        acerca de educacion basica preescolar recopilado en una sola plataforma con el objetivo de lograr una mayor facilitacion
+                        de enseñanza y aprendizaje para los niños. Este espacio es una herramienta util para reforzar el conocimiento
+                        no solo de nuestros pequeños sino tambien permite una mayor didactica si eres educador o maestro; por ello que la
+                        informacion de esta pagina web esta abierta para todo tipo de usuario.
                     </strong></em></h4><br><br><br>
         </div>
     </div>
