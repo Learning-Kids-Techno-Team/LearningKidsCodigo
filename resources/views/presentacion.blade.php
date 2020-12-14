@@ -25,6 +25,7 @@
         body{
             background-image:url("https://i.ibb.co/KVPtLfc/font2.jpg");
             background-color: #9368e9;
+
         }
 
         .navbar {
