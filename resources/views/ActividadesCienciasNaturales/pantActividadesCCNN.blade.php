@@ -113,7 +113,7 @@
                 <img src="https://i.ibb.co/80WJS4q/original-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">Actividad Animales</h5>
-                    <a href="http://learningkidscodigo.test/animalesT" class="btn btn-danger" >ver</a>
+                    <a href=" {{ url('/animalesT') }}" class="btn btn-danger" >ver</a>
                 </div>
             </div>
         </div>
@@ -125,7 +125,7 @@
                 <img src="https://i.ibb.co/r7fbT3P/cinco-sentidos-oir-tocar-sabor-vista-olfato-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
                     <h5 class="card-title"  align="center">Actividad Sentidos</h5>
-                    <a href="http://learningkidscodigo.test/lsentidos" class="btn btn-danger" >ver</a>
+                    <a href=" {{ url('/lsentimientos') }}" class="btn btn-danger" >ver</a>
                 </div>
             </div>
         </div>
@@ -135,7 +135,7 @@
                 <img src="https://i.ibb.co/9hn9ZkJ/parts.jpg" alt="parts" class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">Actividad Partes del cuerpo</h5>
-                    <a href="http://learningkidscodigo.test/partesC" class="btn btn-danger" >ver</a>
+                    <a href=" {{ url('/partesC') }}" class="btn btn-danger" >ver</a>
                 </div>
             </div>
         </div>
@@ -152,7 +152,7 @@
                         <img src="https://i.ibb.co/W2dWX00/higiene.jpg"   class="card mx-auto d-block" height="180" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Normas de higiene</h5>
-                            <a href="http://learningkidscodigo.test/normasH" class="btn btn-danger" >ver</a>
+                            <a href=" {{ url('/normasH') }}" class="btn btn-danger" >ver</a>
                         </div>
                     </div>
                 </div>
@@ -164,7 +164,7 @@
                         <img  src="https://i.ibb.co/dJvh0xN/iii.jpg"  class="card mx-auto d-block" height="180" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Partes de la planta</h5>
-                            <a href="http://learningkidscodigo.test/plantaActividad" class="btn btn-danger" >ver</a>
+                            <a href=" {{ url('/plantaActividad') }}" class="btn btn-danger" >ver</a>
                         </div>
                     </div>
                 </div>
@@ -174,7 +174,7 @@
                         <img   src="https://i.ibb.co/kccVkhm/SER.jpg"   class="card mx-auto d-block" height="180" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Seres vivos y no vivos</h5>
-                            <a href="http://learningkidscodigo.test/seresActividad" class="btn btn-danger" >ver</a>
+                            <a href=" {{ url('/seresActividad') }}" class="btn btn-danger" >ver</a>
                         </div>
                     </div>
                 </div>

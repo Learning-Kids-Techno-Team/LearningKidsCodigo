@@ -26,30 +26,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint5 Sindy G.">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/pantallaActividades.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/pantallaActividades.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/pantActividadesCCNN.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/pantActividadesCCNN.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/pantActividadesCCSS.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/pantActividadesCCSS.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambiente.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambiente.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaMediosDeTransporte.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaMediosDeTransporte.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaOcupaciones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaOcupaciones.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/LaSalud.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/LaSalud.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/LosAnimales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/LosAnimales.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPrincipalDeCienciasNaturales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPrincipalDeCienciasNaturales.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Español/cuento.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuento.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/monedas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/monedas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaClaseMat.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaClaseMat.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaFigurasGeometricas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaFigurasGeometricas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaLineas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaLineas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaLongitud.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaLongitud.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/relacionObjetos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/relacionObjetos.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/simbolos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/simbolos.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +220,7 @@
       <workItem from="1604284211289" duration="683000" />
       <workItem from="1604981600268" duration="1676000" />
       <workItem from="1607555949098" duration="4136000" />
-      <workItem from="1607895237416" duration="8230000" />
+      <workItem from="1607895237416" duration="8570000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -363,7 +348,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607846660514</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Sprint5 Sindy G.">
+      <created>1607904029572</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1607904029572</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Sprint5 Sindy G.">
+      <created>1607904251959</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1607904251959</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

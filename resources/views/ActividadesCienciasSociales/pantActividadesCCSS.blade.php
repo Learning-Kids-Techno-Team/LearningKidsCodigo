@@ -120,7 +120,7 @@
                 <img src="https://i.ibb.co/jWfDcJy/jjj-removebg-preview-1.png" class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">Actividad El Ambiente</h5>
-                    <a href="http://learningkidscodigo.test/actividadAmbiente" class="btn">Ver</a>
+                    <a href=" {{ url('/actividadAmbiente') }}" class="btn">Ver</a>
                 </div>
             </div>
         </div>
@@ -132,7 +132,7 @@
                 <img src="https://i.ibb.co/brvg05d/m1-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
                     <h5 class="card-title"  align="center">Actividad<br> Medios de transporte</h5>
-                    <a href="http://learningkidscodigo.test/transporteActividad" class="btn">Ver</a>
+                    <a href=" {{ url('/transporteActividad') }}" class="btn">Ver</a>
                 </div>
             </div>
         </div>
@@ -142,7 +142,7 @@
                 <img src="https://i.ibb.co/VDkYKBP/los-sentiminetos-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">Actividad<br> Los Sentimientos</h5>
-                    <a href="http://learningkidscodigo.test/sentimientoActividad" class="btn">Ver</a>
+                    <a href=" {{ url('/sentimientoActividad') }}" class="btn">Ver</a>
                 </div>
             </div>
         </div>
@@ -157,7 +157,7 @@
                         <img src="https://i.ibb.co/3sgdbRQ/original-removebg-preview.png" class="card mx-auto d-block" height="180" width="220">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Derechos y deberes<br> de los niños y las niñas</h5>
-                            <a href="http://learningkidscodigo.test/DerechosY" class="btn">Ver</a>
+                            <a href=" {{ url('/DerechosY') }}" class="btn">Ver</a>
                         </div>
                     </div>
                 </div>
@@ -168,7 +168,7 @@
                         <img src="https://i.ibb.co/mN4BBzq/ocupaciones-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Ocupaciones</h5>
-                            <a href="http://learningkidscodigo.test/ocupacionesActividad" class="btn">Ver</a>
+                            <a href=" {{ url('/ocupacionesActividad') }}" class="btn">Ver</a>
                         </div>
                     </div>
                 </div>
@@ -178,7 +178,7 @@
                         <img src="https://i.ibb.co/YkJqSNj/guja-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad<br> Estaciones del año</h5>
-                            <a href="http://learningkidscodigo.test/actividadEstaciones" class="btn">Ver</a>
+                            <a href=" {{ url('/actividadEstaciones') }}" class="btn">Ver</a>
                         </div>
                     </div>
                 </div>
@@ -194,7 +194,7 @@
                                 <img src="https://i.ibb.co/zFBJr4s/comuni-removebg-preview.png"  class="card mx-auto d-block" height="180" width="220">
                                 <div class="card-body">
                                     <h5 class="card-title" align="center">Actividad medios de comunicación</h5>
-                                    <a href="http://learningkidscodigo.test/actividadComunicacion" class="btn">Ver</a>
+                                    <a href=" {{ url('/actividadComunicacion') }}" class="btn">Ver</a>
                                 </div>
                             </div>
                         </div>
@@ -205,7 +205,7 @@
                                 <img src="https://i.ibb.co/9cmWkfD/3d92321c07f6ea6ad4bc750525fdb56b.jpg"  class="card mx-auto d-block" height="180" width="200">
                                 <div class="card-body">
                                     <h5 class="card-title" align="center">Actividad ciclo del agua</h5>
-                                    <a href="http://learningkidscodigo.test/actividadCiclo" class="btn">Ver</a>
+                                    <a href=" {{ url('/actividadCiclo') }}" class="btn">Ver</a>
                                 </div>
                             </div>
                         </div>

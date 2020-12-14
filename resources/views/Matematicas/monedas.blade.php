@@ -155,8 +155,8 @@
                 <img id="im" class="mx-auto d-block" src="https://i.ibb.co/GWbjNL2/monedas-honduras-removebg-preview.png"  width="445" height="250">
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Monedas!</h5>
-                    <a href="http://learningkidscodigo.test/monedas" class="btn">Leer</a>
-                </div>
+                    <a href=" {{ url('/monedas') }}" class="btn">Leer</a>
+                </div>"
             </div>
         </div>
         <div class="col-md-6">
@@ -165,7 +165,7 @@
                 <img id="im" class="mx-auto d-block" src="https://i.ibb.co/HP6hNh0/unnamed-2.jpg"  width="440" height="250">
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Billetes!</h5>
-                    <a href="http://learningkidscodigo.test/billetes" class="btn">Leer</a>
+                    <a href=" {{ url('/billetes') }}" class="btn">Leer</a>
                 </div>
             </div>
         </div>
