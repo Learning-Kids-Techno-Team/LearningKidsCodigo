@@ -25,9 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint5 Sindy G.">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint6 Sindy G.">
+      <change afterPath="$PROJECT_DIR$/resources/views/Ingles/meses.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +218,7 @@
       <workItem from="1611893316955" duration="366000" />
       <workItem from="1611894678894" duration="594000" />
       <workItem from="1612400581804" duration="935000" />
-      <workItem from="1612403116039" duration="581000" />
+      <workItem from="1612403116039" duration="976000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -395,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607925974881</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Sprint6 Sindy G.">
+      <created>1612403774640</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1612403774640</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,6 +433,7 @@
     <MESSAGE value="Sprint4 Sindy G." />
     <MESSAGE value="Sprint 5 Hector." />
     <MESSAGE value="Sprint5 Sindy G." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint5 Sindy G." />
+    <MESSAGE value="Sprint6 Sindy G." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint6 Sindy G." />
   </component>
 </project>

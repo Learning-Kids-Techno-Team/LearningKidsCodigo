@@ -477,3 +477,13 @@ Route::get('/presentacion',function (){
     return view('presentacion');
 });
 
+
+
+// SPRINT 6 // IMPLEMENTACION
+
+Route::get('/meses',function (){
+    return view('Ingles/meses');
+});
+
+
+
