@@ -498,7 +498,7 @@ Route::get('/pTiempo',function (){
 Route::get('/dias',function (){
     return view('Ingles/diasSemana');
 });
-Route::view('lugarCiudad',function (){
+Route::get('/lugarCiudad',function (){
     return view('Ingles/lugarCiudad');
 });
 
