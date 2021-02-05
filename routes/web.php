@@ -484,6 +484,9 @@ Route::get('/presentacion',function (){
 Route::get('/meses',function (){
     return view('Ingles/meses');
 });
+Route::get('/pantallaIngles',function (){
+    return view('Ingles/pantallaIngles');
+});
 
 
 
