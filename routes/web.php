@@ -477,6 +477,9 @@ Route::get('/presentacion',function (){
     return view('presentacion');
 });
 
+Route::get('/dias',function (){
+    return view('Ingles/diasSemana');
+});
 
 
 // SPRINT 6 // IMPLEMENTACION
@@ -488,5 +491,12 @@ Route::get('/pantallaIngles',function (){
     return view('Ingles/pantallaIngles');
 });
 
+Route::get('/pTiempo',function (){
+    return view('Ingles/pantallaTiempo');
+});
+
+Route::get('/dias',function (){
+    return view('Ingles/diasSemana');
+});
 
 
