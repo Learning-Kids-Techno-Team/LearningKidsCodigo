@@ -232,20 +232,20 @@
     <div class="container-fluid">
         <div class="row mb-5">
             <div class="col-md-3">
-                <img class="mx-auto d-block" src="https://i.ibb.co/8ddTVYJ/5231bafa47dc71365cab071feca3dfa8-removebg-preview.png"  width="180" />
+                <img class="mx-auto d-block" src="https://i.ibb.co/8ddTVYJ/5231bafa47dc71365cab071feca3dfa8-removebg-preview.png"  width="155" />
                 <h2>Koala: koala</h2>
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block" src="https://i.ibb.co/5MFFB0X/castor-feliz-dibujos-animados-madera-29190-5280-removebg-preview.png"   width="215"/>
+                <img  class="mx-auto d-block" src="https://i.ibb.co/5MFFB0X/castor-feliz-dibujos-animados-madera-29190-5280-removebg-preview.png"   width="180"/>
                 <h2>Castor: beaver</h2>
             </div>
             <div class="col-md-3">
                 <br>
-                <img  class="mx-auto d-block" src="https://i.ibb.co/TWX2SrP/dibujos-animados-lindo-mapache-29190-4683-removebg-preview.png" width="188" />
+                <img  class="mx-auto d-block" src="https://i.ibb.co/TWX2SrP/dibujos-animados-lindo-mapache-29190-4683-removebg-preview.png" width="150" />
                 <h2>Mapache: racoon</h2>
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block"src="https://i.ibb.co/mDvb9c2/depositphotos-19121483-stock-illustration-rainbow-chameleon-removebg-preview.png"  width="222" />
+                <img  class="mx-auto d-block"src="https://i.ibb.co/mDvb9c2/depositphotos-19121483-stock-illustration-rainbow-chameleon-removebg-preview.png"  width="180" />
                 <h2>Camaleón: chameleon</h2>
             </div>
         </div>
@@ -260,7 +260,7 @@
                 <h2>Ratón: mouse</h2>
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block" src="https://i.ibb.co/xGhYjrY/caracol-dibujos-animados-lindo-160606-321-removebg-preview-1.png"   width="215"/>
+                <img  class="mx-auto d-block" src="https://i.ibb.co/xGhYjrY/caracol-dibujos-animados-lindo-160606-321-removebg-preview-1.png"   width="205"/>
                 <h2>Caracol: snail</h2>
             </div>
             <div class="col-md-3">
@@ -275,6 +275,102 @@
         </div>
     </div>
 
+
+
+
+    <div  class="container-fluid">
+        <div class="row mt-5">
+            <div class="col-md-12  mb-5" style="background: #009aae">
+                <h1 style="text-align: center">Animales de la selva en inglés (jungle animals)</h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row mb-5">
+            <div class="col-md-3">
+                <br>
+                <br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/dbhKx5R/dibujos-animados-serpiente-cascabel-49499-246-removebg-preview.png"   width="113" />
+                <h2>Serpiente: snake</h2>
+            </div>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" src="https://i.ibb.co/4ThmJGz/murcielago-dibujos-animados-volando-aislado-blanco-29190-4922-removebg-preview.png"   width="180"/>
+                <h2>Murciélago: bat</h2>
+            </div>
+            <div class="col-md-3">
+                <br>
+                <br>
+                <img  class="mx-auto d-block" src="https://i.ibb.co/wg4hpM8/dibujos-animados-leopardo-caminando-43633-3051-removebg-preview.png"  width="188" />
+                <h2>Leopardo: leopard</h2>
+            </div>
+            <div class="col-md-3">
+                <br>
+                <BR>
+                <img  class="mx-auto d-block" src="https://i.ibb.co/nzS53cR/parrot-cartoon-vector-removebg-preview.png"   width="210" />
+                <h2>Loro: parrot</h2>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+    <div  class="container-fluid">
+        <div class="row mt-5">
+            <div class="col-md-12  mb-5" style="background: #009aae">
+                <h1 style="text-align: center">Insectos (Insects)</h1>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="container-fluid">
+        <div class="row mb-5">
+            <div class="col-md-3">
+                <img class="mx-auto d-block"   src="https://i.ibb.co/mDrybc2/escarabajo-ciervo-dibujos-animados-33070-2355-removebg-preview-1.png" width="150" />
+                <h2>Escarabajo : beetle</h2>
+            </div>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block"   src="https://i.ibb.co/tcHWgMv/gratis-png-dibujos-animados-de-abejorro-abeja-volando-de-dibujos-animados-removebg-preview.png"   width="150"/>
+                <h2>Abeja: bee</h2>
+            </div>
+            <div class="col-md-3">
+                <br>
+                <br>
+                <img  class="mx-auto d-block" src="https://i.ibb.co/vx14JBZ/dibujos-animados-hormiga-linda-50699-290-removebg-preview.png"  width="138" />
+                <h2>Hormiga: ant</h2>
+            </div>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block"  src="https://i.ibb.co/xg3Cwyt/781-7817992-mariposas-animadas-hd-png-download-removebg-preview.png"   width="140" />
+                <h2>Mariposa: butterfly</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row mb-5">
+            <div class="col-md-3">
+                <img class="mx-auto d-block" src="https://i.ibb.co/TtSH976/dfbfab067594efcd1af2ddb1ed8d5bb2-removebg-preview.png" width="180" />
+                <h2>Mosca: fly</h2>
+            </div>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" src="https://i.ibb.co/YTWW8Fx/kisspng-cockroach-cartoon-clip-art-cockroach-5abc67f3365a60-8510294915222968192226-removebg-preview.png"   width="215"/>
+                <h2>Cucaracha: cockroach</h2>
+            </div>
+            <div class="col-md-3">
+                <br>
+                <img  class="mx-auto d-block" src="https://i.ibb.co/SfCtq6p/depositphotos-46608589-stock-illustration-cartoon-grasshopper-removebg-preview.png"  width="188" />
+                <h2>Saltamontes: grasshopper</h2>
+            </div>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" src="https://i.ibb.co/sRmkVjP/grillo-divertido-historieta-33070-2349-removebg-preview.png"  width="180" />
+                <h2>Grillo: cricket</h2>
+            </div>
+        </div>
+    </div>
 
 
 

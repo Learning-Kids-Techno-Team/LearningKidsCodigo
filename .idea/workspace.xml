@@ -25,8 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint6 Sindy G.">
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/diasSemana.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/diasSemana.blade.php" afterDir="false" />
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/pantallaInglesAnimales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/pantallaInglesAnimales.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -390,42 +392,7 @@
       <option name="project" value="LOCAL" />
       <updated>1612582346552</updated>
     </task>
-    <task id="LOCAL-00026" summary="Sprint6 Sindy G.">
-      <created>1612585619391</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1612585619391</updated>
-    </task>
-    <task id="LOCAL-00027" summary="Sprint6 Sindy G.">
-      <created>1612591958387</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1612591958387</updated>
-    </task>
-    <task id="LOCAL-00028" summary="Sprint6 Sindy G.">
-      <created>1612592408841</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1612592408841</updated>
-    </task>
-    <task id="LOCAL-00029" summary="Sprint6 Sindy G.">
-      <created>1612594540526</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1612594540527</updated>
-    </task>
-    <task id="LOCAL-00030" summary="Sprint6 Sindy G.">
-      <created>1612594702776</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1612594702776</updated>
-    </task>
-    <option name="localTasksCounter" value="31" />
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,7 +424,6 @@
     <MESSAGE value="Sprint 5 Hector." />
     <MESSAGE value="Sprint5 Sindy G." />
     <MESSAGE value="Sprint6 Hector Lopez." />
-    <MESSAGE value="Sprint6 Sindy G." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint6 Sindy G." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint6 Hector Lopez." />
   </component>
 </project>
