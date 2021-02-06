@@ -24,7 +24,7 @@
 
         body{
 
-            background:#F8FEBE;
+            background:#d6e9f9;
 
         }
 
@@ -48,16 +48,14 @@
             height: 100px;
             border-bottom-left-radius: 80%;
             border-top-right-radius: 50%;
-            background: #B4F97B
+            background: aquamarine;
         }
 
-        #titulo{
-            text-align: center;
-            color: red;
-        }
+
         h1{
             font-family: Brush Script MT;
             size: 80px;
+            color: #d6e9f9;
 
         }
         h3{
@@ -105,13 +103,13 @@
     <!-- contenedor-->
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12" style="background: #B4F97B">
+            <div class="col-md-12" style="background:#009aae">
                 <div class="row ml-5 mr-5">
                     <div class="col-md-7  mt-5" style="background: #CCDDCC">
                         <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/Wt54FNq/gratis-png-animales-de-dibujos-animados-removebg-preview.png"     width="500"  >
                     </div>
 
-                    <div class="col-xl-5  mt-5 " style=" background:#F8FEBE "  >
+                    <div class="col-xl-5  mt-5 " style=" background: #d6e9f9"  >
                         <h4 style="color: #3B5686">Inglés</h4>
                         <h3 class="mt-5" style="text-align: center">Los Animales</h3>
                         <p class="" id="pa">
@@ -153,7 +151,7 @@
 
     <div  class="container-fluid">
         <div class="row">
-            <div class="col-md-12  mb-5" style="background: #B4F97B">
+            <div class="col-md-12  mb-5" style="background: #009aae">
                 <h1 style="text-align: center">Animales domésticos en inglés (farm animals)</h1>
             </div>
         </div>
@@ -223,7 +221,7 @@
 
     <div  class="container-fluid">
         <div class="row mt-5">
-            <div class="col-md-12  mb-5" style="background: #B4F97B">
+            <div class="col-md-12  mb-5" style="background: #009aae">
                 <h1 style="text-align: center">Animales salvajes en inglés (forest animals)</h1>
             </div>
         </div>
@@ -267,11 +265,12 @@
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/jZf8TPS/ardilla-dibujos-animados-sosteniendo-nuez-29190-5533-removebg-preview.png"  width="120" />
-                <h2>Gato: cat</h2>
+                <h2>Ardilla: squirrel</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/Cb2h6CV/png-clipart-giant-panda-bear-cartoon-panda-mammal-animals-removebg-preview.png"  width="150" />
-                <h2>Perro: dog</h2>
+                <h2>Oso panda: panda bear
+                </h2>
             </div>
         </div>
     </div>
