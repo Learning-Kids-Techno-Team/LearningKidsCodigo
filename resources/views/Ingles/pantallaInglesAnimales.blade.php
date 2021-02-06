@@ -163,19 +163,23 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/phWTHjF/dibujos-animados-caballo-blanco-43633-7163-removebg-preview-1.png" width="200" />
+                <iframe src="https://drive.google.com/file/d/13V7-Y6r2GJWr1vBSdxgg3BL62CeRsnZ0/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Caballo: horse</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/H2Nng2M/cartoon-vector-illustration-of-hen-removebg-preview.png"  width="300"/>
-            <h2>Gallina: hen</h2>
+                <iframe src="https://drive.google.com/file/d/17WAsQNfcGcumEZReMgjJdrf6Q9j_AzcQ/preview" style="border: none" width="250" height="80"></iframe>
+                <h2>Gallina: hen</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/1rfMQTF/pato-dibujos-animados-lindo-160606-389-removebg-preview.png" width="100" />
-            <h2>Pato: duck</h2>
+                <iframe src="https://drive.google.com/file/d/1j6FcR5LPowUfh2FnRCw4OcydhZX8KZK_/preview" style="border: none" width="250" height="80"></iframe>
+                <h2>Pato: duck</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/YhtC68b/conejo-dibujos-animados-zanahoria-29190-5532-removebg-preview.png" width="125" />
+                <iframe src="https://drive.google.com/file/d/1puT4EXTw87bLFh5g-jwpZCQ_XFQ44iEd/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Conejo: rabbit</h2>
             </div>
         </div>
@@ -187,18 +191,22 @@
         <div class="row">
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/M81yLSh/590113bc1998632b4cb01bcce4293fba-removebg-preview.png"  width="150" />
+                <iframe src="https://drive.google.com/file/d/1Bg2z7KIYG2nUKD9Tl4QgEc3V9qhMp5Xq/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Oveja: sheep</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/xmrxcY9/linda-vaca-dibujos-animados-160606-325-removebg-preview.png" width="180"/>
+                <iframe src="https://drive.google.com/file/d/1ux6cwFhGJWaBiWtPKfyuAKH5h_i4_q2X/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Vaca: cow</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/sm8Hp3y/gato-gracioso-dibujos-animados-aislado-29190-4874-removebg-preview.png" width="150" />
+                <iframe src="https://drive.google.com/file/d/1_V0WJ64fSMbx2P_Okk_JOj-tdrF1Yqoo/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Gato: cat</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/YpKdK13/perro-gracioso-dibujos-animados-hueso-29190-1660-removebg-preview.png"  width="145" />
+                <iframe src="https://drive.google.com/file/d/137MjkS9Y_2-N-P5t_6Tcv6hJkramxEPE/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Perro: dog</h2>
             </div>
         </div>
@@ -208,10 +216,12 @@
         <div class="row">
             <div class="col-md-6">
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/NLKdKnR/e1b52378ebe42b1f563131aa19dd9f8d-removebg-preview.png"  width="170"/>
+                <iframe src="https://drive.google.com/file/d/1fEetg47SuhVMQNuP7QdCK0s6ac-YlXyR/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Burro: donkey</h2>
             </div>
             <div class="col-md-6">
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/PZgzwF6/cerdo-feliz-dibujos-animados-aislado-sobre-fondo-blanco-29190-4224-removebg-preview.png" width="170" />
+                <iframe  src="https://drive.google.com/file/d/1x8CTVAgq-a45xnjO2hG__rhXqT9I2rS3/preview" style=" align-content: center; border: none " width="250" height="80"></iframe>
                 <h2>Cerdo: pig</h2>
             </div>
         </div>
@@ -233,19 +243,23 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" src="https://i.ibb.co/8ddTVYJ/5231bafa47dc71365cab071feca3dfa8-removebg-preview.png"  width="155" />
+                <iframe src="https://drive.google.com/file/d/1J6dk9CjoOU3EwwDmscl1HK36gUozsKpc/preview" width="640" height="480"></iframe>
                 <h2>Koala: koala</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/5MFFB0X/castor-feliz-dibujos-animados-madera-29190-5280-removebg-preview.png"   width="180"/>
+                <iframe src="https://drive.google.com/file/d/10MkOHxRG8Nga4Io1e9qxixygElBrsvDE/preview" width="640" height="480"></iframe>
                 <h2>Castor: beaver</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/TWX2SrP/dibujos-animados-lindo-mapache-29190-4683-removebg-preview.png" width="150" />
+                <iframe src="https://drive.google.com/file/d/1fgVm83mgNtE-tzcxqhdez46Z23cQIGdD/preview" width="640" height="480"></iframe>
                 <h2>Mapache: racoon</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"src="https://i.ibb.co/mDvb9c2/depositphotos-19121483-stock-illustration-rainbow-chameleon-removebg-preview.png"  width="180" />
+                <iframe src="https://drive.google.com/file/d/1CrkuJbULlCfXkejqmtYasqVWwyPF8IlM/preview" width="640" height="480"></iframe>
                 <h2>Camaleón: chameleon</h2>
             </div>
         </div>
@@ -257,14 +271,17 @@
         <div class="row">
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/ScD1z0k/raton-feliz-dibujos-animados-agitando-29190-4178-removebg-preview-1.png"   width="150" />
+                <iframe src="https://drive.google.com/file/d/1G_62bFZHwDEV-0MRJnDgjTrl-a7oXMCM/preview" width="640" height="480"></iframe>
                 <h2>Ratón: mouse</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/xGhYjrY/caracol-dibujos-animados-lindo-160606-321-removebg-preview-1.png"   width="205"/>
+                <iframe src="https://drive.google.com/file/d/12vh0D_Slfp-tYZPyEHcFqRYU8lt0-n4J/preview" width="640" height="480"></iframe>
                 <h2>Caracol: snail</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/jZf8TPS/ardilla-dibujos-animados-sosteniendo-nuez-29190-5533-removebg-preview.png"  width="120" />
+                <iframe src="https://drive.google.com/file/d/15gHltUwvlw-Wy1s6Uiyi-aeytE5kmXr6/preview" width="640" height="480"></iframe>
                 <h2>Ardilla: squirrel</h2>
             </div>
             <div class="col-md-3">
