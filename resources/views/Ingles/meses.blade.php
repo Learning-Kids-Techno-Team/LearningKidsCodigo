@@ -116,7 +116,7 @@
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                         <h4  class="mt-5" style="color: #3B5686">Inglés</h4>
-                        <h3 class="mt-5" style="text-align: center">Los meses del año</h3>
+                        <h3 class="mt-5" style="text-align: center">Meses del año. (Months of the year)</h3>
                         <p class="" id="pa">
                             <br>Una de las formas más sencillas para que los niños aprendan los meses del año en inglés y
                             español es hablarles sobre los cumpleaños, ya que ocurren una sola vez al año.
@@ -125,7 +125,7 @@
                             año, así podrán saber en qué mes es el cumpleaños de mamá, ¡O cuándo es la fecha de su propio cumpleaños!
                             <br>
 
-                            <br> Aparte de aprender los nombres de los meses en inglés, es ideal decirle cómo
+                            <br> Aparte de aprender los nombres de los meses en inglés que son doce, es ideal decirle cómo
                             se escriben las abreviaturas de los meses en inglés.
 
                             <br>
@@ -179,7 +179,7 @@
                 </div>
 
                 <div class="col-md-6 mb-5">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/qxGWWnb/febr-removebg-preview.png" width="400" height="300">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/qxGWWnb/febr-removebg-preview.png" width="420" height="250">
                 </div>
             </div>
         </div>

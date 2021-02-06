@@ -301,7 +301,7 @@
             <div class="col-md-12">
                 <h2 style="text-align: center">
                     Y ahora vamos a ver un video para aprender la correcta pronunciación de cada uno
-                    <br>de los meses en inglés con esta divertida canción. ¡Vamos a cantar!
+                    <br>de los días en inglés con esta divertida canción. ¡Vamos a cantar!
                 </h2>
                 <img class=" mx-auto d-block"  width="400" />
             </div>
