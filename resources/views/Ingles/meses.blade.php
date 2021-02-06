@@ -24,8 +24,8 @@
         }
 
         .card{
-            background:cornsilk;
-            border:yellow 6px double;
+            background: #d7f3e3;
+            border: #FDFD96 6px dashed;
             border-bottom-left-radius: 10px;
             border-bottom-right-radius: 10px;
             border-top-left-radius: 10px;
@@ -54,7 +54,7 @@
             height: 100px;
             border-bottom-left-radius: 80%;
             border-top-right-radius: 50%;
-            background: #FDFD96;
+            background: aquamarine;
         }
 
         h1{
@@ -86,7 +86,7 @@
         }
 
         .navbar{
-            background: #FDFD96;
+            background: aquamarine;
         }
         h5{
             font-family: bold;
@@ -110,9 +110,9 @@
     <!-- contenedor text-->
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12" style="background: yellow">
+            <div class="col-md-12" style="background: #FDFD96">
                 <div class="row ml-5 mr-5">
-                    <div class="col-md-7  mt-5" style="background: #CCDDCC">
+                    <div class="col-md-7  mt-5" style="background: #d7f3e3 ">
                         <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/x3rstQX/compu-removebg-preview.png" >
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
