@@ -200,6 +200,35 @@
     </div>
     </div>
 
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://i.ibb.co/y52s5c7/igle.jpg"  width="305" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Asilo de ancianos <br> Old people’s home  </em></h2>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"   src="https://i.ibb.co/bFwG5KW/parq.jpg"   width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Parque <br> Park </em></h2>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"   src="https://i.ibb.co/0Bc6w7x/pris.jpg"   width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Cárcel<br> Prison</em></h2>
+            </div>
+        </div>
+
+    </div>
+    </div>
+
     <!-- separador -->
     <div id="separadorInferior">
         <div class="content">
