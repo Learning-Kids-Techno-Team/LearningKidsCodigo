@@ -34,7 +34,6 @@
 
         }
 
-
         #pa{
             text-align: justify;
 
