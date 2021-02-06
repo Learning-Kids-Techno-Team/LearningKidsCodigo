@@ -300,6 +300,138 @@
 
     </div>
     </div>
+
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"   src="https://i.ibb.co/wB2PcMt/hotel.jpg"    width="305" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Hotel<br> Hotel</em></h2>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"  src="https://i.ibb.co/fQgtTgR/hos.jpg"  width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Hospital <br>Hospital</em></h2>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"src="https://i.ibb.co/M86MW5r/far.jpg"  width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Farmacia<br>Pharmacy</em></h2>
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://i.ibb.co/qMLhRY8/res.jpg"  width="305" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Restaurante<br> Restaurant </em></h2>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/hDKG7wp/ti.jpg"  width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Tienda <br> Store </em></h2>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"src="https://i.ibb.co/M86MW5r/far.jpg"  width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Farmacia<br>Pharmacy</em></h2>
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+    <div class="container-fluid  center-block pl-5" >
+        <br><br>
+        <div class="container-fluid d-flex justify-content-center  " >
+            <div class="row p-5 ">
+                <div class="col-md-12  " id="bor" style="background: lightgreen ">
+
+                    <h3>Otros – Others
+                    </h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"   src="https://i.ibb.co/Lp1tkLK/bas.jpg"   width="305" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Basura<br> Litter </em></h2>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"  src="https://i.ibb.co/Tr38pRR/age.jpg"  width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Agente de Polícia<br> Policeman </em></h2>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"  src="https://i.ibb.co/yfK8r7g/cabin.jpg"  width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Cabina telefónica<br>Telephone kiosk</em></h2>
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://i.ibb.co/G0WJfSH/turi.jpg"   width="305" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Turista <br> Tourist  </em></h2>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"   src="https://i.ibb.co/C5QKn4X/arb.jpg"   width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Arboles<br>Trees</em></h2>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"  src="https://i.ibb.co/tcMjfDF/Cartoon-Illustration-of-Discharged-Smart-Phone-or-Mobile-and-Retro-Phones-Laughing.jpg"   width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Teléfonos<br>Telephones </em></h2>
+            </div>
+        </div>
+
+    </div>
+    </div>
+
     <!-- separador -->
     <div id="separadorInferior">
         <div class="content">
