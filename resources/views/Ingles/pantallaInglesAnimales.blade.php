@@ -164,16 +164,21 @@
     <div class="container-fluid">
         <div class="row mb-5">
             <div class="col-md-3">
-                <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+                <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/phWTHjF/dibujos-animados-caballo-blanco-43633-7163-removebg-preview-1.png" width="200" />
+                <h2>Caballo: horse</h2>
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/H2Nng2M/cartoon-vector-illustration-of-hen-removebg-preview.png"  width="300"/>
+            <h2>Gallina: hen</h2>
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+                <br>
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/1rfMQTF/pato-dibujos-animados-lindo-160606-389-removebg-preview.png" width="100" />
+            <h2>Pato: duck</h2>
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/YhtC68b/conejo-dibujos-animados-zanahoria-29190-5532-removebg-preview.png" width="125" />
+                <h2>Conejo: rabbit</h2>
             </div>
         </div>
     </div>
@@ -183,19 +188,96 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-3">
-                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/M81yLSh/590113bc1998632b4cb01bcce4293fba-removebg-preview.png"  width="150" />
+                <h2>Oveja: sheep</h2>
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/xmrxcY9/linda-vaca-dibujos-animados-160606-325-removebg-preview.png" width="180"/>
+                <h2>Vaca: cow</h2>
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/sm8Hp3y/gato-gracioso-dibujos-animados-aislado-29190-4874-removebg-preview.png" width="150" />
+                <h2>Gato: cat</h2>
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/YpKdK13/perro-gracioso-dibujos-animados-hueso-29190-1660-removebg-preview.png"  width="145" />
+                <h2>Perro: dog</h2>
             </div>
         </div>
     </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6">
+                <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/NLKdKnR/e1b52378ebe42b1f563131aa19dd9f8d-removebg-preview.png"  width="170"/>
+                <h2>Burro: donkey</h2>
+            </div>
+            <div class="col-md-6">
+                <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/PZgzwF6/cerdo-feliz-dibujos-animados-aislado-sobre-fondo-blanco-29190-4224-removebg-preview.png" width="170" />
+                <h2>Cerdo: pig</h2>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div  class="container-fluid">
+        <div class="row mt-5">
+            <div class="col-md-12  mb-5" style="background: #B4F97B">
+                <h1 style="text-align: center">Animales salvajes en inglés (forest animals)</h1>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- animales salvajes-->
+    <div class="container-fluid">
+        <div class="row mb-5">
+            <div class="col-md-3">
+                <img class="mx-auto d-block" src="https://i.ibb.co/8ddTVYJ/5231bafa47dc71365cab071feca3dfa8-removebg-preview.png"  width="180" />
+                <h2>Koala: koala</h2>
+            </div>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" src="https://i.ibb.co/5MFFB0X/castor-feliz-dibujos-animados-madera-29190-5280-removebg-preview.png"   width="215"/>
+                <h2>Castor: beaver</h2>
+            </div>
+            <div class="col-md-3">
+                <br>
+                <img  class="mx-auto d-block" src="https://i.ibb.co/TWX2SrP/dibujos-animados-lindo-mapache-29190-4683-removebg-preview.png" width="188" />
+                <h2>Mapache: racoon</h2>
+            </div>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block"src="https://i.ibb.co/mDvb9c2/depositphotos-19121483-stock-illustration-rainbow-chameleon-removebg-preview.png"  width="222" />
+                <h2>Camaleón: chameleon</h2>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" src="https://i.ibb.co/ScD1z0k/raton-feliz-dibujos-animados-agitando-29190-4178-removebg-preview-1.png"   width="150" />
+                <h2>Ratón: mouse</h2>
+            </div>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" src="https://i.ibb.co/xGhYjrY/caracol-dibujos-animados-lindo-160606-321-removebg-preview-1.png"   width="215"/>
+                <h2>Caracol: snail</h2>
+            </div>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" src="https://i.ibb.co/jZf8TPS/ardilla-dibujos-animados-sosteniendo-nuez-29190-5533-removebg-preview.png"  width="120" />
+                <h2>Gato: cat</h2>
+            </div>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" src="https://i.ibb.co/Cb2h6CV/png-clipart-giant-panda-bear-cartoon-panda-mammal-animals-removebg-preview.png"  width="150" />
+                <h2>Perro: dog</h2>
+            </div>
+        </div>
+    </div>
+
+
+
 
 
 

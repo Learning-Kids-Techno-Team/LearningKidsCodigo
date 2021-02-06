@@ -208,7 +208,7 @@
     <div class="container-fluid">
         <div class="row mb-5">
             <div class="col-md-4">
-                <a href="">
+                <a href="http://learningkidscodigo.test/inglesAnimales">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/F8f8QxB/20754030-conjunto-de-animales-de-colecci-n-cabeza-de-dibujos-animados-removebg-preview.png"   class="rounded-circle mx-auto d-block  img-thumbnail" width="150" />
                     <h4>Los animales </h4>
 
