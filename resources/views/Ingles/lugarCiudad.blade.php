@@ -73,13 +73,26 @@
 
         }
         #borde{
-            border:  dotted 5px;
+            border: tomato dashed 8px;
         }
 
+        #pa{
+            text-align: justify;
 
+        }
+      #bor{
+          border: tomato solid 5px;
+      }
+        .card{
 
+            background: sandybrown;
+            border: tomato 8px solid;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
 
-
+        }
 
 
 
@@ -89,13 +102,73 @@
 <!-- navbar-->
 @section('content')
     <!-- contenedor-->
+    <div class="container-fluid mt-5"  >
+        <div class="row">
+            <div class="col-md-12"  >
+                <div class="row ml-5 mr-5" id="borde" >
+                    <div class="col-md-4  " style="background: #FDFD96" >
+                        <img class="mt-4 pl-3 "    src="https://i.ibb.co/yVLFJgj/ciudad.png"  width="450"  >
+                        <br><br>
+                    </div>
+                    <div class="col-sm-8 " style=" background: #FDFD96;" >
 
 
+                        <h3 class="mt-5" style="text-align: center; ">Lugares en la Ciudad</h3>
+                        <p class="" id="pa">
+                            <strong><br>Una ciudad es un asentamiento de población con atribuciones y funciones políticas,
+                                administrativas, económicas y religiosas, a diferencia de los núcleos rurales que carecen
+                                de ellas, total o parcialmente.
+
+                            </strong>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
+    <div class="container-fluid  center-block pl-5" >
+        <br><br>
+        <div class="container-fluid d-flex justify-content-center  " >
+            <div class="row p-5 ">
+                <div class="col-md-12  " id="bor" style="background: lightgreen ">
+
+                    <h3>Edificios y Lugares en la Ciudad en Inglés Y Español
+                    </h3>
+                </div>
+            </div>
+        </div>
+</div>
+    <!-- contenedor-->
+
+        <div class="row m-5" >
+            <div class="col-md-4" >
+                <div class="card" style="width: 20rem;">
+
+                    <img class=" mx-auto d-block"   src="https://i.ibb.co/Cnnfnp3/supe.jpg" width="305" height="200">
+                    <h2 class="mx-auto d-block" id="color"><em>Supermercado <br> Supermarket</em></h2>
 
 
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h2 ><em><br></em></h2>
+                <div class="card" style="width: 20rem;">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/Tq2y1Lf/escue.jpg"   width="300" height="200">
+                    <h2 class="mx-auto d-block" id="color"><em>Escuela <br> School</em></h2>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <h2 ><em><br><br></em></h2>
+                <div class="card" style="width: 20rem;">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/r4t428V/mer.jpg"  width="300" height="200">
+                    <h2 class="mx-auto d-block" id="color"><em>Mercado<br> Market</em></h2>
+                </div>
+            </div>
 
+        </div>
+    </div>
 
 
     <!-- separador -->
