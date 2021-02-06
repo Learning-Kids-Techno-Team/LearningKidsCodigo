@@ -134,7 +134,7 @@
             <div class="row p-5 ">
                 <div class="col-md-12  " id="bor" style="background: lightgreen ">
 
-                    <h3>Edificios y Lugares en la Ciudad en Inglés Y Español
+                    <h3>Edificios y Lugares en la Ciudad en Inglés Y Español – Buildings and Places in the city
                     </h3>
                 </div>
             </div>
@@ -258,6 +258,48 @@
     </div>
     </div>
 
+
+    <div class="container-fluid  center-block pl-5" >
+        <br><br>
+        <div class="container-fluid d-flex justify-content-center  " >
+            <div class="row p-5 ">
+                <div class="col-md-12  " id="bor" style="background: lightgreen ">
+
+                    <h3>Servicios en la Ciudad en Inglés Y Español–Services in the city
+                    </h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://i.ibb.co/MnNM8zg/pan.jpg"    width="305" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Panaderia <br> Bakery </em></h2>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/yYXbzGB/ban1.jpg"  width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Banco <br> Bank </em></h2>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/FHSsPzQ/cine.jpg"  width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Cine<br>Cinema </em></h2>
+            </div>
+        </div>
+
+    </div>
+    </div>
     <!-- separador -->
     <div id="separadorInferior">
         <div class="content">
