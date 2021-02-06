@@ -353,8 +353,8 @@
         <div class="col-md-4">
             <h2 ><em><br><br></em></h2>
             <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"src="https://i.ibb.co/M86MW5r/far.jpg"  width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Farmacia<br>Pharmacy</em></h2>
+                <img class="mx-auto d-block"  src="https://i.ibb.co/VH0NWwN/Children-playing-in-the-circus-illustration.jpg"  width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Circo<br>Circus</em></h2>
             </div>
         </div>
 
