@@ -134,7 +134,7 @@
             <div class="row p-5 ">
                 <div class="col-md-12  " id="bor" style="background: lightgreen ">
 
-                    <h3>Edificios y Lugares en la Ciudad en Inglés Y Español
+                    <h3>Edificios y Lugares en la Ciudad en Inglés Y Español – Buildings and Places in the city
                     </h3>
                 </div>
             </div>
@@ -171,6 +171,135 @@
     </div>
 
 
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://i.ibb.co/y52s5c7/igle.jpg"  width="305" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Catedral <br> Cathedral </em></h2>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"  src="https://i.ibb.co/xFpDGT6/ceme.jpg"  width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Cementerio <br> Cemetery </em></h2>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"  src="https://i.ibb.co/ftFDDK4/monu.jpg"   width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Monumento<br> Monument</em></h2>
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://i.ibb.co/y52s5c7/igle.jpg"  width="305" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Asilo de ancianos <br> Old people’s home  </em></h2>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"   src="https://i.ibb.co/bFwG5KW/parq.jpg"   width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Parque <br> Park </em></h2>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"   src="https://i.ibb.co/0Bc6w7x/pris.jpg"   width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Cárcel<br> Prison</em></h2>
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://i.ibb.co/f2wkxGD/isometric-view-of-a-small-town-square.jpg"   width="305" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Plaza <br> Square </em></h2>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"    src="https://i.ibb.co/Rcnd3V9/esta.jpg"   width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Estadio <br> Stadium  </em></h2>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"    src="https://i.ibb.co/tLtsj2j/resi.jpg"   width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Zona Residencial<br> Residential area </em></h2>
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+
+    <div class="container-fluid  center-block pl-5" >
+        <br><br>
+        <div class="container-fluid d-flex justify-content-center  " >
+            <div class="row p-5 ">
+                <div class="col-md-12  " id="bor" style="background: lightgreen ">
+
+                    <h3>Servicios en la Ciudad en Inglés Y Español–Services in the city
+                    </h3>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://i.ibb.co/MnNM8zg/pan.jpg"    width="305" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Panaderia <br> Bakery </em></h2>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/yYXbzGB/ban1.jpg"  width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Banco <br> Bank </em></h2>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/FHSsPzQ/cine.jpg"  width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Cine<br>Cinema </em></h2>
+            </div>
+        </div>
+
+    </div>
+    </div>
     <!-- separador -->
     <div id="separadorInferior">
         <div class="content">

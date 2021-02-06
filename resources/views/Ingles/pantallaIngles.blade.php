@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
 
-    <title>Inglés</title>
+    <title>Ingles</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
 
@@ -165,7 +165,7 @@
 
     <!-- titulo de las categorias-->
     <div style="color: #0a6ebd;">
-        <h1 style="text-align: center">Categorias de la clase de Inglés</h1>
+        <h1 style="text-align: center">Categorias de la clase de Ingles</h1>
     </div>
 
 
@@ -208,7 +208,7 @@
     <div class="container-fluid">
         <div class="row mb-5">
             <div class="col-md-4">
-                <a href="http://learningkidscodigo.test/inglesAnimales">
+                <a href="">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/F8f8QxB/20754030-conjunto-de-animales-de-colecci-n-cabeza-de-dibujos-animados-removebg-preview.png"   class="rounded-circle mx-auto d-block  img-thumbnail" width="150" />
                     <h4>Los animales </h4>
 
