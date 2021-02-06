@@ -425,7 +425,7 @@
             <h2 ><em><br><br></em></h2>
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/tcMjfDF/Cartoon-Illustration-of-Discharged-Smart-Phone-or-Mobile-and-Retro-Phones-Laughing.jpg"   width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Teléfonos<br>Telephones </em></h2>
+                <h2 class="mx-auto d-block" id="color"><em>Teléfonos<br>Telephones</em></h2>
             </div>
         </div>
 
