@@ -131,13 +131,9 @@
                         <img class="d-block w-100" alt="Carousel Bootstrap Third" src="https://www.vedoque.com/blog/wp-content/uploads/2019/05/numeros-2Banimados.jpg">
                         <div class="carousel-caption">
                             <h4 class=" mx-auto d-block">
-                            <h4>
-
                             </h4>
-                            <p>
 
-                            </p>
-                        </div>
+
                     </div>
                 </div> <a class="carousel-control-prev" href="#carousel-896190" data-slide="prev"><span class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span></a> <a class="carousel-control-next" href="#carousel-896190" data-slide="next"><span class="carousel-control-next-icon"></span> <span class="sr-only">Next</span></a>
             </div>
@@ -314,7 +310,7 @@
 
 
         </div>
-
+    </div>
 
     </div>
     <div id="separadorInferior2">
