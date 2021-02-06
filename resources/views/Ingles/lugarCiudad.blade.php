@@ -229,6 +229,35 @@
     </div>
     </div>
 
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://i.ibb.co/f2wkxGD/isometric-view-of-a-small-town-square.jpg"   width="305" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Plaza <br> Square </em></h2>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"    src="https://i.ibb.co/Rcnd3V9/esta.jpg"   width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Estadio <br> Stadium  </em></h2>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h2 ><em><br><br></em></h2>
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"    src="https://i.ibb.co/tLtsj2j/resi.jpg"   width="300" height="200">
+                <h2 class="mx-auto d-block" id="color"><em>Zona Residencial<br> Residential area </em></h2>
+            </div>
+        </div>
+
+    </div>
+    </div>
+
     <!-- separador -->
     <div id="separadorInferior">
         <div class="content">
