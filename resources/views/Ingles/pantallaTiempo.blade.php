@@ -155,7 +155,7 @@
                     <div class="card-body">
                         <h5 class="card-title" align="center">¡Months - Meses!</h5>
                         <a href=" {{ url('/meses') }}" class="btn">Leer</a>
-                    </div>"
+                    </div>
                 </div>
             </div>
             <div class="col-md-6">

@@ -125,7 +125,7 @@
                             año, así podrán saber en qué mes es el cumpleaños de mamá, ¡O cuándo es la fecha de su propio cumpleaños!
                             <br>
 
-                            <br> Aparte de aprender los nombres de los meses en inglés que son doce, es ideal decirle cómo
+                            <br> Aparte de aprender los nombres de los <stron>meses en inglés que son doce,</stron> es ideal decirle cómo
                             se escriben las abreviaturas de los meses en inglés.
 
                             <br>
