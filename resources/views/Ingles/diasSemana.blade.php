@@ -4,7 +4,7 @@
 <html>
 <head>
 
-    <title>Los meses del año</title>
+    <title>Dias de la semana</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <!-- Seguimiento -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-JWFFJETEMQ"></script>
@@ -112,7 +112,7 @@
             <div class="col-md-12" style="background: #FDFD96">
                 <div class="row ml-5 mr-5">
                     <div class="col-md-7  mt-5" style="background: #d7f3e3 ">
-                        <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/x3rstQX/compu-removebg-preview.png" >
+                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/9yzGBk8/est-removebg-preview.png">
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                         <h4  class="mt-5" style="color: #3B5686">Inglés</h4>
@@ -120,13 +120,13 @@
                         <p class="" id="pa">
                             <br>Es muy importante para los niños aprender los días de la semana en inglés,
                             ya que es una forma importante de medir el tiempo.
+
+                            <br>Los días de la semana son 7 en total, se pueden dividir en dos categorías: <strong>weekdays y weekend.</strong>
+                            Los weekdays son los días de entre semana, usualmente los días laborales o <strong>workdays,</strong>
+                            <br>y son cinco: <strong>Monday, Tuesday, Wednesday, Thursday y Friday;</strong>
+                            <br>mientras que el fin de semana, o <strong>weekend,</strong> se compone de <strong>Saturday y Sunday.</strong>
                             <br>
-                            <br>
-                            <br>Saber los nombres de los días les ayuda a organizar sus horarios y a tener presente cuándo
-                            sucederán eventos importantes, ya sea una próxima excursión o un examen.
-                            <br>
-                            Es primordial enseñarles que no todos los días de la semana son iguales. Existen los días de semana, o weekdays, donde la mayoría de las personas trabaja o estudia, y luego están los fines de semana, o weekend en inglés,
-                            donde es más común tener tiempo libre para salir al campo, descansar o ir de paseo con los amigos.
+
                         </p>
                     </div>
                 </div>
@@ -144,14 +144,12 @@
                     </h2>
                     <h3> Monday - (Mon.)</h3>
                     <p>
-                        <br><strong>Es el primer mes del año, y tiene 31 días. </strong>
-                        <br> En el hemisferio norte representa el invierno,
-                        <br> mientras que en el sur apenas está comenzando el verano, o <strong>summertime.</strong>
-
+                        <br>Tanto en español como en inglés, el nombre de este día significa «día de la Luna», o <strong>«Moon’s Day».</strong>
+                        <br>
                 </div>
 
                 <div class="col-md-6 mb-5">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/SB8CcF4/enero-removebg-preview.png" width="350" height="200">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/9n1GdGG/mond-removebg-preview.png" width="350" height="150">
                 </div>
             </div>
         </div>
@@ -167,17 +165,14 @@
                     </h2>
                     <h3>Tuesday - (Tue.)</h3>
                     <p>
-                        <br><strong>¡Es el mes más corto del año!</strong> Y también uno bastante peculiar.
-                        Febrero tiene normalmente 28 días, sin embargo,
-                        cada 4 años se le suma un día extra para un total de 29 días.
-                        <br>Este día extra es llamado leap day en inglés, e indica que ese año
-                        es un año bisiesto o <strong>leap year,</strong> es decir que tiene 366 días en lugar de 365.
-                        <br>
+                        <br>En inglés, el nombre de este día proviene del dios nórdico Týr,
+                        <br>mientras que en español se asocia a al <strong>dios romano Marte.</strong>
+
 
                 </div>
 
                 <div class="col-md-6 mb-5">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/qxGWWnb/febr-removebg-preview.png" width="400" height="300">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/DrCnngH/Captura-removebg-preview.png" width="330" height="120">
                 </div>
             </div>
         </div>
@@ -194,15 +189,14 @@
                     </h2>
                     <h3>Wednesday – (Wed.)</h3>
                     <p>
-                        <br>En el hemisferio norte marca la llegada de la primavera, o <strong>spring,</strong> sin embargo,
-                        en el hemisferio sur es el comienzo del otoño.
-                        <br><strong>Cuenta con 31 días.</strong>
+                        <br>Toma su nombre en inglés del dios nórdico Odín.
+                        En español, es el <strong>«día de Mercurio»,</strong> el dios romano.
                         <br>
 
                 </div>
 
                 <div class="col-md-6 mb-5">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/1n0z8mW/march-1-removebg-preview.png" width="350" height="250" >
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/ccmwBg9/wednesd-removebg-preview.png" width="360" height="170" >
                 </div>
             </div>
         </div>
@@ -219,15 +213,14 @@
                     </h2>
                     <h3>Thursday – (Thu.)</h3>
                     <p>
-                        <br><strong>Tiene 30 días,</strong> y es conocido como el mes de las flores en el hemisferio norte.
-                        <br>En America Central es verano o summertime.
-                        <br>En el mes de abril se presenta un clima caluroso.
+                        <br>Nombrado en inglés <strong>«día de Thor»,</strong> por el dios nórdico.
+                        En español se relaciona con Júpiter.
 
 
                 </div>
 
                 <div class="col-md-6 mb-5">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/Z2SHqR5/unna-removebg-preview.png" width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/qW7wYZf/unnamed-removebg-preview-3.png" width="350" height="150">
                 </div>
             </div>
         </div>
@@ -244,14 +237,14 @@
                     </h2>
                     <h3>Friday – (Fri.)</h3>
                     <p>
-                        <br>Es el quinto mes del año, <strong>tiene 31 días</strong> y marca el inicio del invierno, o <strong>winter,</strong>
-                        <br>en el hemisferio sur. En el norte, es el comienzo del verano.
+                        <br>Es el <strong>«día de Venus»,</strong> la diosa romana de la belleza,
+                        cuyo equivalente nórdico «Frigg», le da el nombre en inglés.
                         <br>
 
                 </div>
 
                 <div class="col-md-6 mb-5">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/Lr36t0y/kooj-removebg-preview.png" width="300" height="250">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/8M9X2CM/friyd-removebg-preview.png" width="340" height="140">
                 </div>
             </div>
         </div>
@@ -267,15 +260,13 @@
                     </h2>
                     <h3>Saturday – (Sat.)</h3>
                     <p>
-                        <br>Junio tiene 30 días, y <strong>está justo en la mitad del año.</strong>
-                        <br>Para las personas que viven en el hemisferio sur viene con frío y bajas temperaturas,
-                        mientras que para los que viven en la otra mitad del mundo viene repleto de días soleados.
+                        <br>En inglés significa <strong>«día de Saturno»,</strong> mientras que su nombre en español significa «día de reposo».
                         <br>
 
                 </div>
 
                 <div class="col-md-6 mb-5">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/THZT2Jb/june-removebg-preview.png" width="380" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/GTR2bp6/satur-removebg-preview.png" width="360" height="160">
                 </div>
             </div>
         </div>
@@ -291,14 +282,13 @@
                     </h2>
                     <h3>Sunday- (Sun.)</h3>
                     <p>
-                        <br><strong>Tiene 31 días y es justo la mitad del verano,</strong> o midsummer, en el hemisferio norte.
-                        <br>Frecuentemente se asocia al comienzo de las vacaciones.
+                        <br>Llamado <strong>«día del Sol»</strong> en inglés, en honor al más brillante astro de nuestro Sistema Solar.
                         <br>
 
                 </div>
 
                 <div class="col-md-6 mb-5">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/WGncnLc/juk-removebg-preview.png" width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/nrz5snJ/su-removebg-preview.png" width="350" height="140">
                 </div>
             </div>
         </div>
