@@ -137,6 +137,8 @@
                 <p>
                     Aprender los nombres de los animales en inglés es excelente para la educación de los peques. No sólo les ayuda a mejorar su vocabulario en español e inglés, sino que les ayuda también a mejorar sus habilidades lingüísticas en ambos idiomas. Además, conocer los animales ayuda a los peques a tener más conciencia sobre el medio ambiente para así cuidarlo y preservarlo.
                 </p>
+                <br>
+                <h3 style="text-align: center">Ahora, ¡qué comience el aprendizaje!</h3>
 
             </div>
 
@@ -152,87 +154,45 @@
     <div  class="container-fluid">
         <div class="row">
             <div class="col-md-12  mb-5" style="background: #B4F97B">
-                <h1 style="text-align: center">Tipos de familias</h1>
+                <h1 style="text-align: center">Animales domésticos en inglés (farm animals)</h1>
             </div>
         </div>
     </div>
 
 
-    <div class="container-fluid mb-5">
-        <div class="row">
-            <div class="col-md-6">
-                <h2>
-                    Familias monoparentales.
-
-                </h2>
-                <p>
-                    Conformadas por uno o más hijos y la madre o el padre. Este tipo de familia puede darse a raíz de una separación, de la decisión de ser padre o madre soltero/a o de haber enviudado. Por lo general, con el tiempo estas familias dan lugar a la nueva unión de los padres, formando así las familias ensambladas.
-
-
-                </p>
+<!-- animales domesticos-->
+    <div class="container-fluid">
+        <div class="row mb-5">
+            <div class="col-md-3">
+                <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
             </div>
-            <div class="col-md-6">
-                <img class="mx-auto d-block" src="https://i.ibb.co/T21Zd6d/familia-monoparental-dibujos-animados-ninos-18591-53727-removebg-preview.png"  width="300" >
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
             </div>
-        </div>
-    </div>
-
-
-
-    <div class="container-fluid mb-5">
-        <div class="row">
-            <div class="col-md-6">
-                <h2>
-                    Familias biparentales
-
-                </h2>
-                <p>
-                    Conformadas por una pareja y su hijo o hijos. La unión de la pareja puede darse por vínculo sentimental sin necesidad de contraer matrimonio. Pueden ser heteroparentales (conformadas por parejas de distinto sexo y sus hijos) homoparentales (conformadas por parejas del mismo sexo y sus hijos).
-
-
-                </p>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
             </div>
-            <div class="col-md-6">
-                <img class="mx-auto d-block" src="https://i.ibb.co/bX32npY/familia-reconstituida-removebg-preview.png"   width="300" >
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
             </div>
         </div>
     </div>
 
 
-    <div class="container-fluid mb-5">
+
+    <div class="container-fluid">
         <div class="row">
-            <div class="col-md-6">
-                <h2>
-                    Familias ensambladas
-
-                </h2>
-                <p>
-                    Conformadas por dos  personas que se unen y una de ellas (o ambas) ya tiene hijos o hijas. Las familias ensambladas son dos familias monoparentales que, por medio de una relación sentimental de la pareja, se unen dando lugar a la conformación de una nueva familia.
-
-
-                </p>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
             </div>
-            <div class="col-md-6">
-                <img class="mx-auto d-block" src="https://i.ibb.co/jVLr9hr/family-499x500-removebg-preview.png"    width="300" >
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
             </div>
-        </div>
-    </div>
-
-
-    <div class="container-fluid mb-5">
-        <div class="row">
-            <div class="col-md-6">
-                <h2>
-                    Familia de acogida
-
-                </h2>
-                <p>Conformadas por menores que no son descendientes de los adultos, pero han sido acogidos legalmente por ellos de forma urgente, temporal o permanente.
-
-
-                </p>
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
             </div>
-            <div class="col-md-6">
-                <img class="mx-auto d-block" src="https://i.ibb.co/MPxkVhk/kisspng-au-pair-child-care-host-family-5aee900cd994d4-1262984215255838848912-removebg-preview.png"     width="400" >
+            <div class="col-md-3">
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://www.layoutit.com/img/sports-q-c-140-140-3.jpg" />
             </div>
         </div>
     </div>
