@@ -165,8 +165,8 @@
                     </h2>
                     <h3>Tuesday - (Tue.)</h3>
                     <p>
-                        <br>En inglés, el nombre de este día proviene del dios nórdico Týr,
-                        <br>mientras que en español se asocia a al <strong>dios romano Marte.</strong>
+                        <br>En inglés, el nombre de este día proviene del dios nórdico Týr, mientras que en
+                        español se asocia a al <strong>dios romano Marte.</strong>
 
 
                 </div>
