@@ -185,10 +185,10 @@
                 <div class="col-md-3">
                 </div>
                 <div class="col-md-3">
-                    <a href="">
+                    <a href="{{url('/lugarCiudad')}}">
                     <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/Zhqx8pH/edificios-publicos-ciudad-23-2147522547-removebg-preview.png" class="rounded-circle mx-auto d-block img-thumbnail" width="150" />
                     <h4>Lugares de la ciudad </h4>
-
+                    </a>
                 </div>
                 <div class="col-md-3">
                     <a href="">
@@ -208,7 +208,7 @@
     <div class="container-fluid">
         <div class="row mb-5">
             <div class="col-md-4">
-                <a href="">
+                <a href="{{url('/inglesAnimales')}}">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/F8f8QxB/20754030-conjunto-de-animales-de-colecci-n-cabeza-de-dibujos-animados-removebg-preview.png"   class="rounded-circle mx-auto d-block  img-thumbnail" width="150" />
                     <h4>Los animales </h4>
 
