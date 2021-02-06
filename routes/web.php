@@ -502,4 +502,8 @@ Route::get('/lugarCiudad',function (){
     return view('Ingles/lugarCiudad');
 });
 
+Route::get('/inglesAnimales',function (){
+    return view('Ingles/pantallaInglesAnimales');
+});
+
 
