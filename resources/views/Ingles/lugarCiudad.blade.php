@@ -73,20 +73,16 @@
 
         }
         #borde{
-            border: tomato dashed 8px;
+            border: teal dashed 8px;
         }
 
-        #pa{
-            text-align: justify;
 
-        }
       #bor{
-          border: tomato solid 5px;
+          border: teal solid 5px;
       }
         .card{
 
-            background: sandybrown;
-            border: tomato 8px solid;
+            background: #f4b0af;
             border-bottom-left-radius: 10px;
             border-bottom-right-radius: 10px;
             border-top-left-radius: 10px;
@@ -140,33 +136,38 @@
             </div>
         </div>
 </div>
-    <!-- contenedor-->
 
-        <div class="row m-5" >
-            <div class="col-md-4" >
-                <div class="card" style="width: 20rem;">
+    <!-- contenedores-->
+    <div class="container-fluid" id="color">
+        <div class="row ">
+            <div class="col-md-4 pl-5"><br>
+                <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/Cnnfnp3/supe.jpg" width="310" height="200"/><br>
 
-                    <img class=" mx-auto d-block"   src="https://i.ibb.co/Cnnfnp3/supe.jpg" width="305" height="200">
-                    <h2 class="mx-auto d-block" id="color"><em>Supermercado <br> Supermarket</em></h2>
+                <div class="card ml-0" style="width: 20rem; ">
 
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Supermercado <br> Supermarket</em></h2>
 
                 </div>
             </div>
-            <div class="col-md-4">
-                <h2 ><em><br></em></h2>
-                <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block"  src="https://i.ibb.co/Tq2y1Lf/escue.jpg"   width="300" height="200">
-                    <h2 class="mx-auto d-block" id="color"><em>Escuela <br> School</em></h2>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <h2 ><em><br><br></em></h2>
-                <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block"  src="https://i.ibb.co/r4t428V/mer.jpg"  width="300" height="200">
-                    <h2 class="mx-auto d-block" id="color"><em>Mercado<br> Market</em></h2>
-                </div>
-            </div>
 
+
+            <div class="col-md-4 pl-5"><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/Tq2y1Lf/escue.jpg"   width="310" height="200"/><br>
+
+                <div class="card ml-3" style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Escuela <br> School</em></h2>
+
+                </div>
+            </div>
+            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/r4t428V/mer.jpg"  width="300" height="200"/><br>
+                <div class="card ml-4  " style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Mercado<br> Market</em></h2>
+
+                </div>
+            </div>
         </div>
     </div>
 
