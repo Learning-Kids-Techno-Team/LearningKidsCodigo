@@ -501,7 +501,7 @@ Route::get('/dias',function (){
 Route::get('/lugarCiudad',function (){
     return view('Ingles/lugarCiudad');
 });
-Route::get('/profesiones',function (){
+Route::get('/profesionesIng',function (){
     return view('Ingles/profesiones');
 });
 
