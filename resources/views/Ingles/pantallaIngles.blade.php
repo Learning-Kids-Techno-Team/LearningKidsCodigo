@@ -187,7 +187,7 @@
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href="{{url('/')}}">
+                    <a href="{{url('/profesiones')}}">
                     <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/MZ7VFFN/conjunto-profesiones-personas-101903-1467-removebg-preview.png"  class="rounded-circle mx-auto d-block   img-thumbnail" width="150"/>
                         <h4>Profesiones </h4>
 
