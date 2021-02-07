@@ -98,7 +98,6 @@
 
     </style>
 </head>
-<>
 <!-- navbar-->
 @section('content')
 
