@@ -25,12 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint 6 Luz Bonilla">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/pantallaIngles.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/pantallaIngles.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -218,7 +215,8 @@
       <workItem from="1607555949098" duration="4136000" />
       <workItem from="1607895237416" duration="8570000" />
       <workItem from="1607963820460" duration="614000" />
-      <workItem from="1612656992622" duration="1154000" />
+      <workItem from="1612656992622" duration="1862000" />
+      <workItem from="1612669446837" duration="2200000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -374,7 +372,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612578587323</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Sprint 6 Luz Bonilla">
+      <created>1612658344586</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1612658344586</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,7 +411,18 @@
     <MESSAGE value="Sprint 5 Hector." />
     <MESSAGE value="Sprint5 Sindy G." />
     <MESSAGE value="Sprint 6 Daniela Mazzoni" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 6 Daniela Mazzoni" />
+    <MESSAGE value="Sprint 6 Luz Bonilla" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 6 Luz Bonilla" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1612658373991">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612658373991" />
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1612658255810">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1612658255810" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -148,7 +148,7 @@
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/3p3Bds5/abogado2.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Abogado <br> Lawyer</em></h2>
-                <iframe src="https://drive.google.com/file/d/14w5gYFVBWrFGd92pWebFDQOF3uerfFsR/preview" width="300" height="80"></iframe>
+                <iframe src="https://drive.google.com/file/d/13LATZCSuZBJFBZj5JGKACns6PTgjE66x/preview" width="300" height="80"></iframe>
 
             </div>
         </div>
@@ -157,7 +157,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/QYycnzK/astronautas.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Astronauta <br> Astronaut</em></h2>
-                <iframe src="https://drive.google.com/file/d/1n5t5T3b-PyczDAWKjXKvxgrgxUFqzTXv/preview" width="300" height="80"></iframe>
+                <iframe src="https://drive.google.com/file/d/1Fei59LARB1KcDYtXpYehofzSgWYoi9jZ/preview"  width="300" height="80"></iframe>
             </div>
         </div>
         <div class="col-md-4">
@@ -165,6 +165,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/GkTNJ1B/dentista2.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Dentista<br> Dentist</em></h2>
+                <iframe src="https://drive.google.com/file/d/1D_Nf48wLMbNjaATvREi4FR8PNk2d1T4g/preview" width="300" height="80"></iframe>
             </div>
         </div>
 
@@ -179,6 +180,7 @@
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/RDR6w5n/piloto2.jpg"    width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Piloto <br> Pilot </em></h2>
+                <iframe src="https://drive.google.com/file/d/1Rh3yp3E3lznMrnQ32lEXGd5VMDy4My84/preview" width="300" height="80"></iframe>
 
 
             </div>
@@ -188,6 +190,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/V9YtZt8/enfermera.png"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Enfermera <br> Nurse </em></h2>
+                <iframe src="https://drive.google.com/file/d/1ygiPwuPBZ8lIEziAMfhH1bkhJoId5Eun/preview" width="300" height="80"></iframe>
             </div>
         </div>
         <div class="col-md-4">
@@ -195,6 +198,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/3y3bJp4/maestras1.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Maestra<br> Teacher</em></h2>
+                <iframe src="https://drive.google.com/file/d/1ijpniqx-tMJVnPs0fzEB7I14wfqX-dWw/preview" width="300" height="80"></iframe>
             </div>
         </div>
 
@@ -208,6 +212,7 @@
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/2vqJfzM/doctor.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Doctor <br> Doctor  </em></h2>
+                <iframe src="https://drive.google.com/file/d/1my6DJUxJubsw_ND4tf1vYHaAiq6U8Jix/preview"  width="300" height="80"></iframe>
 
 
             </div>
@@ -217,6 +222,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/HV1TC0c/artista.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Artista <br> Artist</em></h2>
+                <iframe src="https://drive.google.com/file/d/1DQynaRfKF_Y_leiA0Fs77QgpgMP0ElIe/preview" width="300" height="80"></iframe>
             </div>
         </div>
         <div class="col-md-4">
@@ -224,6 +230,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"    src="https://i.ibb.co/ggSZzBH/policia.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Policía<br> Police</em></h2>
+                <iframe src="https://drive.google.com/file/d/1Um7YNTNAhsmADo3qYv8rfvQnHxdsTkzX/preview" width="300" height="80"></iframe>
             </div>
         </div>
     </div>
@@ -234,6 +241,7 @@
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/xC9TtkH/detective.jpg"    width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Detective <br> Detective  </em></h2>
+                <iframe src="https://drive.google.com/file/d/1YyquWks8EmC86UPbFMs74r_nYpqxEBGb/preview" width="300" height="80"></iframe>
 
 
             </div>
@@ -243,6 +251,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"    src="https://i.ibb.co/3RqCYXD/arquitecto1.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Arquitecto <br> Architect</em></h2>
+                <iframe src="https://drive.google.com/file/d/1JAGG_MyGNjHCfLjjW3pR28NWv_Ij9wbE/preview" width="300" height="80"></iframe>
             </div>
         </div>
         <div class="col-md-4">
@@ -250,6 +259,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/d6GqpND/ciemtificos.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Cientifico<br>  Scientist</em></h2>
+                <iframe src="https://drive.google.com/file/d/1ABWEE-z6KTdn4dMHyIJIa_LJ74jIPGwF/preview" width="300" height="80"></iframe>
             </div>
         </div>
 
@@ -276,6 +286,7 @@
 
                 <img class=" mx-auto d-block"   src="https://i.ibb.co/Y01ySqT/e06f24ab5255adda2b13f9f0c8288a3e.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Carpintero <br> Carpenter</em></h2>
+                <iframe src="https://drive.google.com/file/d/1E0EjLWBxDcxVK5SWl-T__ifG9Uu7hYzz/preview" width="300" height="80"></iframe>
 
 
             </div>
@@ -285,6 +296,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/gmwMXcZ/taxista.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Taxista <br>  Taxi driver</em></h2>
+                <iframe src="https://drive.google.com/file/d/1U5OjdpKCLlbzaDl8LXGhm4-7lSQadi4o/preview" width="300" height="80"></iframe>
             </div>
         </div>
         <div class="col-md-4">
@@ -292,6 +304,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/vLrcjVw/bombero2.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Bombero<br>  Firefighter</em></h2>
+                <iframe src="https://drive.google.com/file/d/1cp1YHwvs_LGlVXAtn2jlduS7kQc6M51b/preview" width="300" height="80"></iframe>
             </div>
         </div>
 
@@ -305,7 +318,8 @@
             <div class="card" style="width: 20rem;">
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/D9hKC1D/mecanico.jpg"     width="300" height="220">
-                <h2 class="mx-auto d-block" id="color"><em>Mecanico <br> Mechanic </em></h2>
+                <h2 class="mx-auto d-block" id="color"><em>Mecánico <br> Mechanic </em></h2>
+                <iframe src="https://drive.google.com/file/d/1_wV1EBuYAmzqd5-xhlfbA-Tu8FJGdvaJ/preview" width="300" height="80"></iframe>
 
 
             </div>
@@ -315,6 +329,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/vDBvQwF/granjero.jpg"    width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Granjero <br> Farmer </em></h2>
+                <iframe src="https://drive.google.com/file/d/10Qm2tdyEDvv137fgeYAhYhqk8-Edku9q/preview" width="300" height="80"></iframe>
             </div>
         </div>
         <div class="col-md-4">
@@ -322,6 +337,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/KFqvTft/barbero.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Barbero<br>  Barber</em></h2>
+                <iframe src="https://drive.google.com/file/d/1zcPoH0xmtCN5B4ZC0sSQk67NuN6f9ipO/preview" width="300" height="80"></iframe>
             </div>
         </div>
 
@@ -335,6 +351,7 @@
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/K6WRgv5/peluuero.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Peluquera <br>  Hairdresser  </em></h2>
+                <iframe src="https://drive.google.com/file/d/1RKfP6Sfqi4MDYDYkJloF4HdpLySY2wUl/preview" width="300" height="80"></iframe>
 
 
             </div>
@@ -344,6 +361,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"    src="https://i.ibb.co/cCzjn9Q/limpieza.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Limpiadora<br> Cleaner</em></h2>
+                <iframe src="https://drive.google.com/file/d/1VGjCTnPKOfQ09kbf8Gse85myDEk4oxam/preview" width="300" height="80"></iframe>
             </div>
         </div>
         <div class="col-md-4">
@@ -351,6 +369,7 @@
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/pdt3xkZ/pintor1.jpg"    width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Pintor<br> Painter</em></h2>
+                <iframe src="https://drive.google.com/file/d/1yixDIjKGDyBMMhiSneDqDBQ-LDWf7GPL/preview" width="300" height="80"></iframe>
             </div>
         </div>
 
