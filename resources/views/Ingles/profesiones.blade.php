@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
     <!DOCTYPE html>
-<html lang="en">
+<div lang="en">
 <head>
     <meta charset="utf-8">
 
@@ -98,48 +98,42 @@
 
     </style>
 </head>
-<body>
+<>
 <!-- navbar-->
 @section('content')
-    <!-- contenedor-->
-    <div class="container-fluid mt-5"  >
-        <div class="row">
-            <div class="col-md-12"  >
-                <div class="row ml-5 mr-5" id="borde" >
-                    <div class="col-md-4  " style="background: 	#FFE4B5" >
-                        <img class="mt-4 pl-3 "     src="https://i.ibb.co/GPCrnNy/1-removebg-preview.png"   width="400"  >
-                        <br><br>
-                    </div>
-                    <div class="col-sm-8 " style=" background: 	#FFE4B5;" >
 
 
-                        <h3 class="mt-5" style="text-align: center; ">Profesiones y oficios</h3>
-                        <p class="" id="pa">
-                            <strong><br>El concepto de profesión se refiere al empleo o trabajo que alguien ejerce y por el que recibe una retribución económica.
-                                <br><br>La profesión requiere de un conocimiento especializado, una capacitación educativa de alto nivel, control sobre el contenido del trabajo, organización propia, autorregulación, altruismo, espíritu de servicio a la comunidad y elevadas normas éticas-
-                                <br><br>Un oficio es una actividad laboral que generalmente está vinculada con procesos manuales o artesanales que no requieren estudios formales.
-
-                            </strong>
-                        </p>
-                    </div>
-                </div>
+    <div class="container-fluid">
+        <div class="row" >
+            <div class="col-md-7 mt-5">
+                <h2>
+                    Profesiones y oficios en ingles y español / <br>Professions and trades in English and Spanish
+                </h2>
+                <p>
+                    <strong><br>El concepto de profesión se refiere al empleo o trabajo que alguien ejerce y por el que recibe una retribución económica.
+                        <br><br>La profesión requiere de un conocimiento especializado, una capacitación educativa de alto nivel, control sobre el contenido del trabajo, organización propia, autorregulación, altruismo, espíritu de servicio a la comunidad y elevadas normas éticas-
+                        <br><br>Un oficio es una actividad laboral que generalmente está vinculada con procesos manuales o artesanales que no requieren estudios formales.
+                    </strong></p>
             </div>
+            <div class="col-md-5">
+            <img class=" mx-auto d-block" src="https://i.ibb.co/GPCrnNy/1-removebg-preview.png"  width="450" />
         </div>
+    </div>
     </div>
 
 
-    <div class="container-fluid  center-block pl-5" >
+
+            <div class="container-fluid  center-block pl-5" >
         <br><br>
-        <div class="container-fluid d-flex justify-content-center  " >
-            <div class="row p-5 ">
-                <div class="col-md-12  " id="bor" style="background: #FFE4B5 ">
-
-                    <h3>Profesiones en Inglés Y Español
-                    </h3>
+                <div  class="container-fluid">
+                    <div class="row">
+                        <div class="col-md-12  mb-5" id="bor" style="background: #FFE4B5">
+                            <h1 style="text-align: center">Profesiones/
+                                Professions </h1>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
     <!-- contenedor-->
 
     <div class="row m-5" >
@@ -263,21 +257,17 @@
             </div>
         </div>
 
-
     </div>
     </div>
-    <div class="container-fluid  center-block pl-5" >
-        <br><br>
-        <div class="container-fluid d-flex justify-content-center  " >
-            <div class="row p-5 ">
-                <div class="col-md-12  " id="bor" style="background: #FFE4B5">
-
-                    <h3>Oficios en Inglés Y Español
-                    </h3>
-                </div>
+    <div  class="container-fluid">
+        <div class="row">
+            <div class="col-md-12  mb-5" id="bor" style="background: #FFE4B5">
+                <h1 style="text-align: center">Ocupaciones/
+                    activities </h1>
             </div>
         </div>
     </div>
+
     <!-- contenedor-->
 
     <div class="row m-5" >
@@ -374,6 +364,14 @@
         </div>
 
 
+    </div>
+    </div>
+    <div class="container-fluid " id="banderin" >
+        <div class="row " >
+            <div class="col-md-12">
+                <img src="https://i.ibb.co/jHX1m35/profesiones-88465-151-removebg-preview.png"   height="150" >
+            </div>
+        </div>
     </div>
     </div>
     <!-- separador -->
