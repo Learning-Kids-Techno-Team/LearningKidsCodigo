@@ -182,7 +182,7 @@
                 <div class="card ml-0" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Catedral <br> Cathedral </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview"  width="318" height="60"></iframe>
+
                 </div>
             </div>
 
@@ -193,7 +193,7 @@
                 <div class="card ml-3" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Cementerio <br> Cemetery </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview"  width="318" height="60"></iframe>
+
                 </div>
             </div>
             <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
@@ -201,40 +201,45 @@
                 <div class="card ml-4  " style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Monumento<br> Monument</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview"  width="318" height="60"></iframe>
+
                 </div>
             </div>
         </div>
     </div>
 
 
+    <!-- contenedores-->
+    <div class="container-fluid" id="color">
+        <div class="row ">
+            <div class="col-md-4 pl-5"><br>
+                <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px"  src="https://i.ibb.co/LZc9Sdk/an.jpg"   width="310" height="200"/><br>
 
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
+                <div class="card ml-0" style="width: 20rem; ">
 
-                <img class=" mx-auto d-block"  src="https://i.ibb.co/y52s5c7/igle.jpg"  width="305" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Asilo de ancianos <br> Old people’s home  </em></h2>
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Asilo de ancianos <br> Old people’s home  </em></h2>
+
+                </div>
+            </div>
 
 
+            <div class="col-md-4 pl-5"><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/bFwG5KW/parq.jpg"   width="310" height="200"/><br>
+
+                <div class="card ml-3" style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Parque <br> Park </em></h2>
+
+                </div>
+            </div>
+            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"  src="https://i.ibb.co/0Bc6w7x/pris.jpg"   width="300" height="200"/><br>
+                <div class="card ml-4  " style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Cárcel<br> Prison</em></h2>
+
+                </div>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"   src="https://i.ibb.co/bFwG5KW/parq.jpg"   width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Parque <br> Park </em></h2>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"   src="https://i.ibb.co/0Bc6w7x/pris.jpg"   width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Cárcel<br> Prison</em></h2>
-            </div>
-        </div>
-
-    </div>
     </div>
 
 
