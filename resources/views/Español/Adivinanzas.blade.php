@@ -142,8 +142,8 @@
 
 
 <!-- tarjetas tipos de adivinanzas -->
-<div class="container-fluid">
-<div class="row" >
+<div class="container-fluid center-block pl-5 d-flex justify-content-center">
+<div class="row m-5" >
     <!-- tarjeta 1 -->
     <div class="col-md-4 pb-5" >
         <div class="card"  style="width: 18rem;" >
@@ -158,7 +158,7 @@
 
 
     <!-- tarjeta2 -->
-    <div class="col-md-4">
+    <div class="col-md-4 pb-5">
         <div class="card" style="width: 18rem;">
             <img src="https://i.ibb.co/dKXqK3Z/maxresdefault-1.jpg" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
@@ -168,7 +168,7 @@
         </div>
     </div>
     <!-- tarjeta3 -->
-    <div class="col-md-4">
+    <div class="col-md-4 pb-5">
         <div class="card" style="width: 18rem;">
             <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card mx-auto d-block" height="160" width="220">
             <div class="card-body">
@@ -181,9 +181,9 @@
 </div>
 
     <!-- Contenedor2 y tarjeta4 -->
-    <div class="container-fluid">
+    <div class="container-fluid center-block pl-5 d-flex justify-content-center">
         <div class="row">
-            <div  class="col-md-6 d-flex justify-content-center">
+            <div  class="col-md-6 pb-5">
         <div class="card" style="width: 18rem;">
             <img src="https://i.ibb.co/hdgRwK2/icon.webp" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
@@ -194,7 +194,7 @@
 </div>
 <!-- tarjeta5 -->
 
-            <div class="col-md-6">
+            <div class="col-md-6 pb-5">
         <div class="card" style="width: 18rem;">
             <img src="https://i.ibb.co/Hpb4517/jghi.jpg" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
