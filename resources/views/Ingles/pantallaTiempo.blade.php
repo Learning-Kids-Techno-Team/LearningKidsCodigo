@@ -147,7 +147,7 @@
 
 
     <!-- contenedor de las tarjetas -->
-    <div class="container-fluid  center-block pl-5" style="background: #FFEECC"><h2 align="center"><em><br>  </em></h2>
+    <div class="container-fluid  center-block pl-5 d-flex justify-content-center" style="background: #FFEECC"><h2 align="center"><em><br>  </em></h2>
         <div class="row m-5" >
             <div class="col-md-6">
                 <div class="card" style="width: 30rem;">

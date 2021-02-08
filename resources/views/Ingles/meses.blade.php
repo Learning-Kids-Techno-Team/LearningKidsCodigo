@@ -92,9 +92,10 @@
             padding-top: 20px;
             text-align: center;
         }
-        li{
-            text-align: justify;
-        }
+       bord{
+           background: lightblue;
+           border: cornflowerblue 5px solid;
+       }
 
 
 
@@ -441,14 +442,15 @@
 
 
     <!-- Video -->
-            <div  class="container-fluid mt-5">
+            <div  class="container-fluid mt-5" id="bord">
                 <div class="row">
                     <div class="col-md-12">
                         <h2 style="text-align: center">
                             Y ahora vamos a ver un video para aprender la correcta pronunciación de cada uno
                             <br>de los meses en inglés con esta divertida canción. ¡Vamos a cantar!
+                            <br>
                         </h2>
-                        <img class=" mx-auto d-block"  width="400" />
+                        <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1eNnfhsj1j-rBD_f-58H7vJofyTb4Ao5h/preview" width="650" height="400"></iframe>
                     </div>
 
                 </div>
