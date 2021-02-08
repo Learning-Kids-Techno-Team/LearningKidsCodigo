@@ -147,7 +147,7 @@
                     Enero:
                 </h2>
                 <h3>January – (Jan.)</h3>
-                <iframe src="https://drive.google.com/file/d/1qkvP6-jlaGCq7wY1apjuccFTugM0P0B_/preview" width="200" height="80"></iframe>
+                <iframe src="https://drive.google.com/file/d/1qkvP6-jlaGCq7wY1apjuccFTugM0P0B_/preview" width="300" height="80"></iframe>
                 <p>
                     <br><strong>Es el primer mes del año, y tiene 31 días. </strong>
                     <br> En el hemisferio norte representa el invierno,
@@ -171,7 +171,7 @@
                         Febrero:
                     </h2>
                     <h3>February – (Feb.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1IaRsOUKUrk3aQGHE0AFKD3prBYf1zfcp/preview" width="200" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1IaRsOUKUrk3aQGHE0AFKD3prBYf1zfcp/preview" width="300" height="80"></iframe>
                     <p>
                         <br><strong>¡Es el mes más corto del año!</strong> Y también uno bastante peculiar.
                         Febrero tiene normalmente 28 días, sin embargo,
@@ -199,7 +199,7 @@
                         Marzo:
                     </h2>
                     <h3>March – (Mar.)</h3>
-                    <iframe src="https://drive.google.com/file/d/191zUV71ZH8GJAIWPbxuBbwW4WazaCVHJ/preview" width="200" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/191zUV71ZH8GJAIWPbxuBbwW4WazaCVHJ/preview" width="300" height="80"></iframe>
                     <p>
                         <br>En el hemisferio norte marca la llegada de la primavera, o <strong>spring,</strong> sin embargo,
                         en el hemisferio sur es el comienzo del otoño.
@@ -225,7 +225,7 @@
                         Abril:
                     </h2>
                     <h3>April – (Apr.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1f0HAioMtp_hSV5O0L9puO2OqYauGEzBC/preview" width="200" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1f0HAioMtp_hSV5O0L9puO2OqYauGEzBC/preview" width="300" height="80"></iframe>
                     <p>
                         <br><strong>Tiene 30 días,</strong> y es conocido como el mes de las flores en el hemisferio norte.
                         <br>En America Central es verano o summertime.
@@ -251,7 +251,7 @@
                         Mayo:
                     </h2>
                     <h3>May – (May)</h3>
-                    <iframe src="https://drive.google.com/file/d/1njEKjZObnMh2xXK__vjAFvJJfsfsExOP/preview" width="200" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1njEKjZObnMh2xXK__vjAFvJJfsfsExOP/preview" width="300" height="80"></iframe>
                     <p>
                         <br>Es el quinto mes del año, <strong>tiene 31 días</strong> y marca el inicio del invierno, o <strong>winter,</strong>
                         <br>en el hemisferio sur. En el norte, es el comienzo del verano.
@@ -275,7 +275,7 @@
                         Junio:
                     </h2>
                     <h3>June – (Jun.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1T5HsdL-S945UtNQSFceayu2ZLX6BB-Xv/preview" width="200" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1T5HsdL-S945UtNQSFceayu2ZLX6BB-Xv/preview" width="300" height="80"></iframe>
                     <p>
                         <br>Junio tiene 30 días, y <strong>está justo en la mitad del año.</strong>
                         <br>Para las personas que viven en el hemisferio sur viene con frío y bajas temperaturas,
@@ -300,7 +300,7 @@
                         Julio:
                     </h2>
                     <h3>July - (Jul.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1AfLfFPzPjqnPaLrXdsHv99VoJ-IIYgRn/preview" width="200" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1AfLfFPzPjqnPaLrXdsHv99VoJ-IIYgRn/preview" width="300" height="80"></iframe>
                     <p>
                         <br><strong>Tiene 31 días y es justo la mitad del verano,</strong> o midsummer, en el hemisferio norte.
                         <br>Frecuentemente se asocia al comienzo de las vacaciones.
@@ -324,7 +324,7 @@
                         Agosto:
                     </h2>
                     <h3>August – (Aug.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1cExntNl9i1IrYdhQVIeQEq6a4ZRi0kBL/preview" width="200" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1cExntNl9i1IrYdhQVIeQEq6a4ZRi0kBL/preview" width="300" height="80"></iframe>
                     <p>
                         <br>Un mes frío para el hemisferio sur que marca el final del invierno.
                         <br><strong>Tiene 31 días.</strong> Agosto, en el hemisferio norte, es el mes perfecto para ir
@@ -349,7 +349,7 @@
                         Septiembre:
                     </h2>
                     <h3>September - (Sep.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1HCaFFzhVub_CZp3y3LoQAuyKhvt9XK5t/preview" width="200" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1HCaFFzhVub_CZp3y3LoQAuyKhvt9XK5t/preview" width="300" height="80"></iframe>
                     <p>
                         <br>Es el séptimo mes del año y con él comienza el otoño en el hemisferio norte.
                         También representa para muchos lugares el comienzo del nuevo año escolar.
@@ -374,7 +374,7 @@
                             Octubre:
                         </h2>
                         <h3>October – (Oct.)</h3>
-                        <iframe src="https://drive.google.com/file/d/1oV6qsXiZ9mLi2SqMqHy5Ye-QRwtB0Qcg/preview" width="200" height="80"></iframe>
+                        <iframe src="https://drive.google.com/file/d/1oV6qsXiZ9mLi2SqMqHy5Ye-QRwtB0Qcg/preview" width="300" height="80"></iframe>
                         <p>
                             <br>Las hojas comienzan a caer de los árboles para los que viven en la mitad norte
                             del mundo, mientras que para los de la mitad sur las temperaturas van en subida.
@@ -400,7 +400,7 @@
                         Noviembre:
                     </h2>
                     <h3>November – (Nov.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1tTTB-uMaR6N52NG7djHI6sU4a2sRzMu0/preview" width="200" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1tTTB-uMaR6N52NG7djHI6sU4a2sRzMu0/preview" width="300" height="80"></iframe>
                     <p>
                         <br>En noviembre, las temperaturas en el hemisferio norte siguen en bajada,
                         mientras que al otro lado del planeta los días son más calentitos.
@@ -424,7 +424,7 @@
                         Diciembre:
                     </h2>
                     <h3>December – (Dec.)</h3>
-                    <iframe src="https://drive.google.com/file/d/16YH9Q6a1GikZUuv_49QeCb6LhhqhiPrl/preview" width="200" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/16YH9Q6a1GikZUuv_49QeCb6LhhqhiPrl/preview" width="300" height="80"></iframe>
                     <p>
                         <br>Es el último mes del año, y tiene 31 días. Diciembre marca el comienzo del
                         invierno para los que viven al norte, y el del verano para los que residen al sur del planeta.
