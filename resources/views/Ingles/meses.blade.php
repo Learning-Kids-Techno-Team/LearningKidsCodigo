@@ -92,9 +92,10 @@
             padding-top: 20px;
             text-align: center;
         }
+
        bord{
            background: lightblue;
-           border: cornflowerblue 5px solid;
+           border: #fff6af 15px dashed;
        }
 
 
@@ -143,7 +144,7 @@
         <div class="row m-3">
             <div class="col-md-6 ">
                 <h2 class="mt-5">
-                    Enero
+                    Enero:
                 </h2>
                 <h3>January – (Jan.)</h3>
                 <iframe src="https://drive.google.com/file/d/1qkvP6-jlaGCq7wY1apjuccFTugM0P0B_/preview" width="200" height="80"></iframe>
@@ -167,7 +168,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Febrero
+                        Febrero:
                     </h2>
                     <h3>February – (Feb.)</h3>
                     <iframe src="https://drive.google.com/file/d/1IaRsOUKUrk3aQGHE0AFKD3prBYf1zfcp/preview" width="200" height="80"></iframe>
@@ -195,7 +196,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Marzo
+                        Marzo:
                     </h2>
                     <h3>March – (Mar.)</h3>
                     <iframe src="https://drive.google.com/file/d/191zUV71ZH8GJAIWPbxuBbwW4WazaCVHJ/preview" width="200" height="80"></iframe>
@@ -221,7 +222,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Abril
+                        Abril:
                     </h2>
                     <h3>April – (Apr.)</h3>
                     <iframe src="https://drive.google.com/file/d/1f0HAioMtp_hSV5O0L9puO2OqYauGEzBC/preview" width="200" height="80"></iframe>
@@ -247,7 +248,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Mayo
+                        Mayo:
                     </h2>
                     <h3>May – (May)</h3>
                     <iframe src="https://drive.google.com/file/d/1njEKjZObnMh2xXK__vjAFvJJfsfsExOP/preview" width="200" height="80"></iframe>
@@ -271,7 +272,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Junio
+                        Junio:
                     </h2>
                     <h3>June – (Jun.)</h3>
                     <iframe src="https://drive.google.com/file/d/1T5HsdL-S945UtNQSFceayu2ZLX6BB-Xv/preview" width="200" height="80"></iframe>
@@ -296,7 +297,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Julio
+                        Julio:
                     </h2>
                     <h3>July - (Jul.)</h3>
                     <iframe src="https://drive.google.com/file/d/1AfLfFPzPjqnPaLrXdsHv99VoJ-IIYgRn/preview" width="200" height="80"></iframe>
@@ -320,7 +321,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Agosto
+                        Agosto:
                     </h2>
                     <h3>August – (Aug.)</h3>
                     <iframe src="https://drive.google.com/file/d/1cExntNl9i1IrYdhQVIeQEq6a4ZRi0kBL/preview" width="200" height="80"></iframe>
@@ -345,7 +346,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Septiembre
+                        Septiembre:
                     </h2>
                     <h3>September - (Sep.)</h3>
                     <iframe src="https://drive.google.com/file/d/1HCaFFzhVub_CZp3y3LoQAuyKhvt9XK5t/preview" width="200" height="80"></iframe>
@@ -370,7 +371,7 @@
                 <div class="row m-3">
                     <div class="col-md-6 ">
                         <h2 class="mt-5">
-                            Octubre
+                            Octubre:
                         </h2>
                         <h3>October – (Oct.)</h3>
                         <iframe src="https://drive.google.com/file/d/1oV6qsXiZ9mLi2SqMqHy5Ye-QRwtB0Qcg/preview" width="200" height="80"></iframe>
@@ -396,7 +397,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Noviembre
+                        Noviembre:
                     </h2>
                     <h3>November – (Nov.)</h3>
                     <iframe src="https://drive.google.com/file/d/1tTTB-uMaR6N52NG7djHI6sU4a2sRzMu0/preview" width="200" height="80"></iframe>
@@ -420,7 +421,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Diciembre
+                        Diciembre:
                     </h2>
                     <h3>December – (Dec.)</h3>
                     <iframe src="https://drive.google.com/file/d/16YH9Q6a1GikZUuv_49QeCb6LhhqhiPrl/preview" width="200" height="80"></iframe>
@@ -440,9 +441,8 @@
     </div>
 
 
-
     <!-- Video -->
-            <div  class="container-fluid mt-5" id="bord">
+            <div  class="container-fluid mt-5" >
                 <div class="row">
                     <div class="col-md-12">
                         <h2 style="text-align: center">
@@ -450,13 +450,12 @@
                             <br>de los meses en inglés con esta divertida canción. ¡Vamos a cantar!
                             <br>
                         </h2>
-                        <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1eNnfhsj1j-rBD_f-58H7vJofyTb4Ao5h/preview" width="650" height="400"></iframe>
+                        <iframe id="bord" class="mx-auto d-block" src="https://drive.google.com/file/d/1eNnfhsj1j-rBD_f-58H7vJofyTb4Ao5h/preview" width="650" height="400"></iframe>
                     </div>
 
                 </div>
             </div>
 
-            </div>
 
 
     <!-- separador -->

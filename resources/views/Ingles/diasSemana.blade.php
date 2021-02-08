@@ -140,7 +140,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Lunes
+                        Lunes:
                     </h2>
                     <h3> Monday - (Mon.)</h3>
                     <iframe src="https://drive.google.com/file/d/1NjXxzXaTYNjVSI2ZHrMLNnyb073RHMRw/preview" width="200" height="80"></iframe>
@@ -162,7 +162,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Martes
+                        Martes:
                     </h2>
                     <h3>Tuesday - (Tue.)</h3>
                     <iframe src="https://drive.google.com/file/d/1njEKjZObnMh2xXK__vjAFvJJfsfsExOP/preview" width="200" height="80"></iframe>
@@ -187,7 +187,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Miércoles
+                        Miércoles:
                     </h2>
                     <h3>Wednesday – (Wed.)</h3>
                     <iframe src="https://drive.google.com/file/d/14cm1GonhtSnD7VOzuTrwM1IFz8V-8Ixv/preview" width="200" height="80"></iframe>
@@ -212,7 +212,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Jueves
+                        Jueves:
                     </h2>
                     <h3>Thursday – (Thu.)</h3>
                     <iframe src="https://drive.google.com/file/d/1lcGV47hSs5xhuqJvRUTJ4Q1-a9BJIx76/preview" width="200" height="80"></iframe>
@@ -237,7 +237,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Viernes
+                        Viernes:
                     </h2>
                     <h3>Friday – (Fri.)</h3>
                     <iframe src="https://drive.google.com/file/d/1sT0k8tbVZcwgEk1DccSxjGMsczB8MERe/preview" width="200" height="80"></iframe>
@@ -261,7 +261,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Sábado
+                        Sábado:
                     </h2>
                     <h3>Saturday – (Sat.)</h3>
                     <iframe src="https://drive.google.com/file/d/1rvxHftoockJN3UGAr6MSl6TdoOY41wNR/preview" width="200" height="80"></iframe>
@@ -284,7 +284,7 @@
             <div class="row m-3">
                 <div class="col-md-6 ">
                     <h2 class="mt-5">
-                        Domingo
+                        Domingo:
                     </h2>
                     <h3>Sunday- (Sun.)</h3>
                     <iframe src="https://drive.google.com/file/d/1Xt9K6vzvPPJc1PqWLXwfklcC52gsZU1t/preview" width="200" height="80"></iframe>
@@ -309,6 +309,7 @@
                 <h2 style="text-align: center">
                     Y ahora vamos a ver un video para aprender la correcta pronunciación de cada uno
                     <br>de los días en inglés con esta divertida canción. ¡Vamos a cantar!
+                    <br>
                 </h2>
                 <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1YIGCenZnFDLYhgCUH8OiHyw2Y1NKDNEd/preview" width="650" height="400"></iframe>
             </div>
@@ -316,7 +317,7 @@
         </div>
     </div>
 
-    </div>
+
 
 
     <!-- separador -->
