@@ -111,12 +111,12 @@
     <!-- contenedor text-->
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12" style="background: #FDFD96">
+            <div class="col-md-12" style="background: #d7f3e3">
                 <div class="row ml-5 mr-5">
-                    <div class="col-md-7  mt-5" style="background: #d7f3e3 ">
+                    <div class="col-md-7  mt-5" style="background: #FDFD96">
                         <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/x3rstQX/compu-removebg-preview.png" >
                     </div>
-                    <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
+                    <div class="col-xl-5  mt-5 " style=" background: lightyellow">
                         <h4  class="mt-5" style="color: #3B5686">Inglés</h4>
                         <h3 class="mt-5" style="text-align: center">Meses del año. (Months of the year)</h3>
                         <p class="" id="pa">
