@@ -30,21 +30,6 @@
             background: lightcyan;
         }
 
-
-
-
-        .content{
-
-            width: 100%;
-            height: 100px;
-            margin-left: 0px;
-            border-top-left-radius: 80%;
-            border-top-right-radius:80%;
-
-
-        }
-
-
         #separadorInferior{
 
             width: 100%;
@@ -56,13 +41,10 @@
         }
 
 
-
         .navbar{
             background: aquamarine;
 
         }
-
-
 
 
         p{
@@ -243,33 +225,42 @@
     </div>
 
 
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
 
-                <img class=" mx-auto d-block"  src="https://i.ibb.co/f2wkxGD/isometric-view-of-a-small-town-square.jpg"   width="305" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Plaza <br> Square </em></h2>
+    <!-- contenedores-->
+    <div class="container-fluid" id="color">
+        <div class="row ">
+            <div class="col-md-4 pl-5"><br>
+                <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/f2wkxGD/isometric-view-of-a-small-town-square.jpg"  width="310" height="200"/><br>
+
+                <div class="card ml-0" style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Plaza <br> Square </em></h2>
+
+                </div>
+            </div>
 
 
+            <div class="col-md-4 pl-5"><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"  src="https://i.ibb.co/Rcnd3V9/esta.jpg"  width="310" height="200"/><br>
+
+                <div class="card ml-3" style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Estadio <br> Stadium </em></h2>
+
+                </div>
+            </div>
+            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"  src="https://i.ibb.co/tLtsj2j/resi.jpg"    width="300" height="200"/><br>
+                <div class="card ml-4  " style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Zona Residencial<br> Residential area</em></h2>
+
+                </div>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"    src="https://i.ibb.co/Rcnd3V9/esta.jpg"   width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Estadio <br> Stadium  </em></h2>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"    src="https://i.ibb.co/tLtsj2j/resi.jpg"   width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Zona Residencial<br> Residential area </em></h2>
-            </div>
-        </div>
-
     </div>
-    </div>
+
+
 
 
     <div class="container-fluid  center-block pl-5" >
@@ -285,93 +276,109 @@
         </div>
     </div>
 
+    <!-- contenedores-->
+    <div class="container-fluid" id="color">
+        <div class="row ">
+            <div class="col-md-4 pl-5"><br>
+                <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/MnNM8zg/pan.jpg"   width="310" height="200"/><br>
 
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
+                <div class="card ml-0" style="width: 20rem; ">
 
-                <img class=" mx-auto d-block"  src="https://i.ibb.co/MnNM8zg/pan.jpg"    width="305" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Panaderia <br> Bakery </em></h2>
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Panaderia <br> Bakery </em></h2>
+
+                </div>
+            </div>
 
 
+            <div class="col-md-4 pl-5"><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/yYXbzGB/ban1.jpg" width="310" height="200"/><br>
+
+                <div class="card ml-3" style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Banco <br> Bank</em></h2>
+
+                </div>
+            </div>
+            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"   src="https://i.ibb.co/FHSsPzQ/cine.jpg"     width="300" height="200"/><br>
+                <div class="card ml-4  " style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Cine<br>Cinema</em></h2>
+
+                </div>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://i.ibb.co/yYXbzGB/ban1.jpg"  width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Banco <br> Bank </em></h2>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://i.ibb.co/FHSsPzQ/cine.jpg"  width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Cine<br>Cinema </em></h2>
-            </div>
-        </div>
-
-    </div>
-    </div>
-
-
-
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
-
-                <img class=" mx-auto d-block"   src="https://i.ibb.co/wB2PcMt/hotel.jpg"    width="305" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Hotel<br> Hotel</em></h2>
-
-
-            </div>
-        </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"  src="https://i.ibb.co/fQgtTgR/hos.jpg"  width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Hospital <br>Hospital</em></h2>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"src="https://i.ibb.co/M86MW5r/far.jpg"  width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Farmacia<br>Pharmacy</em></h2>
-            </div>
-        </div>
-
-    </div>
     </div>
 
 
+    <!-- contenedores-->
+    <div class="container-fluid" id="color">
+        <div class="row ">
+            <div class="col-md-4 pl-5"><br>
+                <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/wB2PcMt/hotel.jpg"    width="310" height="200"/><br>
 
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
+                <div class="card ml-0" style="width: 20rem; ">
 
-                <img class=" mx-auto d-block"  src="https://i.ibb.co/qMLhRY8/res.jpg"  width="305" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Restaurante<br> Restaurant </em></h2>
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Hotel<br> Hotel</em></h2>
+
+                </div>
+            </div>
 
 
+            <div class="col-md-4 pl-5"><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/fQgtTgR/hos.jpg" width="310" height="200"/><br>
+
+                <div class="card ml-3" style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Hospital <br>Hospital</em></h2>
+
+                </div>
+            </div>
+            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"   src="https://i.ibb.co/M86MW5r/far.jpg"   width="300" height="200"/><br>
+                <div class="card ml-4  " style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Farmacia<br>Pharmacy</em></h2>
+
+                </div>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://i.ibb.co/hDKG7wp/ti.jpg"  width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Tienda <br> Store </em></h2>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"  src="https://i.ibb.co/VH0NWwN/Children-playing-in-the-circus-illustration.jpg"  width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Circo<br>Circus</em></h2>
-            </div>
-        </div>
-
     </div>
+
+
+
+    <!-- contenedores-->
+    <div class="container-fluid" id="color">
+        <div class="row ">
+            <div class="col-md-4 pl-5"><br>
+                <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/qMLhRY8/res.jpg"   width="310" height="200"/><br>
+
+                <div class="card ml-0" style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Restaurante<br> Restaurant</em></h2>
+
+                </div>
+            </div>
+
+
+            <div class="col-md-4 pl-5"><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/hDKG7wp/ti.jpg" width="310" height="200"/><br>
+
+                <div class="card ml-3" style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Tienda <br> Store</em></h2>
+
+                </div>
+            </div>
+            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"   src="https://i.ibb.co/VH0NWwN/Children-playing-in-the-circus-illustration.jpg"  width="300" height="200"/><br>
+                <div class="card ml-4  " style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Circo<br>Circus</em></h2>
+
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="container-fluid  center-block pl-5" >
@@ -388,68 +395,89 @@
     </div>
 
 
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
+    <!-- contenedores-->
+    <div class="container-fluid" id="color">
+        <div class="row ">
+            <div class="col-md-4 pl-1"><br>
+                <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/Lp1tkLK/bas.jpg"    width="310" height="200"/><br>
 
-                <img class=" mx-auto d-block"   src="https://i.ibb.co/Lp1tkLK/bas.jpg"   width="305" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Basura<br> Litter </em></h2>
+                <div class="card ml-0" style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Basura<br> Litter </em></h2>
+
+                </div>
+            </div>
+
+
+            <div class="col-md-4 pl-5"><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/Tr38pRR/age.jpg" width="310" height="200"/><br>
+
+                <div class="card ml-3" style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Agente de Polícia<br> Policeman </em></h2>
+
+                </div>
+            </div>
+            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"   src="https://i.ibb.co/yfK8r7g/cabin.jpg"  width="300" height="200"/><br>
+                <div class="card ml-4  " style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Cabina telefónica<br>Telephone kiosk</em></h2>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- contenedores-->
+    <div class="container-fluid" id="color">
+        <div class="row ">
+            <div class="col-md-4 pl-5"><br>
+                <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/G0WJfSH/turi.jpg"    width="310" height="200"/><br>
+
+                <div class="card ml-0" style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Turista <br> Tourist </em></h2>
+
+                </div>
+            </div>
+
+
+            <div class="col-md-4 pl-5"><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/C5QKn4X/arb.jpg"  width="310" height="200"/><br>
+
+                <div class="card ml-3" style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Arboles<br>Trees </em></h2>
+
+                </div>
+            </div>
+            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"    src="https://i.ibb.co/tcMjfDF/Cartoon-Illustration-of-Discharged-Smart-Phone-or-Mobile-and-Retro-Phones-Laughing.jpg"   width="300" height="200"/><br>
+                <div class="card ml-4  " style="width: 20rem; ">
+
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Teléfonos<br>Telephones</em></h2>
+
+                </div>
+            </div>
+        </div>
+    </div>
+<br> <br>
+
+    <div class="container-fluid ">
+        <div class="row pt-5" >
+            <div class="col-md-12" id="separadorInferior">
+
+                <img  src="https://i.ibb.co/12npptf/ic1-removebg-preview.png" height="120">
 
 
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"  src="https://i.ibb.co/Tr38pRR/age.jpg"  width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Agente de Polícia<br> Policeman </em></h2>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"  src="https://i.ibb.co/yfK8r7g/cabin.jpg"  width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Cabina telefónica<br>Telephone kiosk</em></h2>
-            </div>
-        </div>
-
     </div>
     </div>
 
 
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
 
-                <img class=" mx-auto d-block"  src="https://i.ibb.co/G0WJfSH/turi.jpg"   width="305" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Turista <br> Tourist  </em></h2>
-
-
-            </div>
-        </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"   src="https://i.ibb.co/C5QKn4X/arb.jpg"   width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Arboles<br>Trees</em></h2>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"  src="https://i.ibb.co/tcMjfDF/Cartoon-Illustration-of-Discharged-Smart-Phone-or-Mobile-and-Retro-Phones-Laughing.jpg"   width="300" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Teléfonos<br>Telephones</em></h2>
-            </div>
-        </div>
-
-    </div>
-    </div>
-
-    <!-- separador -->
-    <div id="separadorInferior">
-        <div class="content">
-        </div>
-    </div>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
