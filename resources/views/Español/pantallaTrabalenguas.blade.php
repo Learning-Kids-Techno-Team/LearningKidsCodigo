@@ -140,6 +140,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
+
         <div class="col-md-4">
             <div class="card" style="width: 18rem;" width="200">
                 <div class="card-body">
@@ -364,7 +365,8 @@
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
 
-                    <p class="card-text">Tres tristes tigres, tragaban trigo en un trigal, en tres tristes trastos, tragaban trigo tres tristes tigres.</p>
+                    <p class="card-text">
+                        <br>Tres tristes tigres, tragaban trigo en un trigal, en tres tristes trastos, tragaban trigo tres tristes tigres.</p>
                 </div>
                 <iframe src="https://drive.google.com/file/d/1nDShwEYOY6lrRiULyw5d3U1jfoXt9gzK/preview" style="border: none" width="280" height="100"></iframe>
             </div>
@@ -372,8 +374,7 @@
         <!-- tarjeta 2 -->
         <div class="col-md-4">
             <div class="card" style="width: 18rem;">
-                <div class="card-body">
-
+                <div class="card-body"><br><br>
                     <p class="card-text"> El que compra pocas capas
                         pocas capas paga
                         como yo compré pocas capas
@@ -387,7 +388,8 @@
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
 
-                    <p class="card-text"> María Chuchena su choza techaba,
+                    <p class="card-text">
+                        María Chuchena su choza techaba,
                         y un techador que por allá pasaba,
                         le dijo:
                         - Chuchena,
@@ -409,7 +411,7 @@
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
 
-                    <p class="card-text">Una, dola,
+                    <p class="card-text"><br></br>Una, dola,
 
                         tela, catola,
 
@@ -431,7 +433,7 @@
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
 
-                    <p class="card-text">Juan tuvo un tubo,
+                    <p class="card-text"><br><br>Juan tuvo un tubo,
 
                         y el tubo que tuvo se le rompió.
 
@@ -447,7 +449,7 @@
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
 
-                    <p class="card-text"> Nadie pica piedra como Pedro Pica Piedra
+                    <p class="card-text"> <br>Nadie pica piedra como Pedro Pica Piedra
 
                         Por que si alguien pica piedra como Pedro pica Piedra,
 
@@ -485,7 +487,7 @@
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
 
-                    <p class="card-text">Luengas lenguas hace falta para no trabalenguarse,
+                    <p class="card-text"><br>Luengas lenguas hace falta para no trabalenguarse,
 
                         el que no tenga una luenga lengua,
 
@@ -499,7 +501,7 @@
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
 
-                    <p class="card-text"> Te quiero porque me quieres,
+                    <p class="card-text"><br> Te quiero porque me quieres,
 
                         ¿quieres que te quiera más?
 
@@ -522,7 +524,7 @@
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
 
-                    <p class="card-text">Yo no quiero que me quieras porque yo te quiero a ti.
+                    <p class="card-text"><br> <br>Yo no quiero que me quieras porque yo te quiero a ti.
 
                         Queriéndome o sin quererme, yo te quiero por que sí.</p>
                 </div>
@@ -554,7 +556,7 @@
             <div class="card" style="width: 18rem;">
                 <div class="card-body">
 
-                    <p class="card-text"> El dragón tragón tragó carbón y quedó panzón.
+                    <p class="card-text"> <br> <br>El dragón tragón tragó carbón y quedó panzón.
 
                         Panzón quedó el dragón por tragón.
 
