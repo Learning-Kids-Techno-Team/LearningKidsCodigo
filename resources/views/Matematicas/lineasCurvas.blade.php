@@ -23,7 +23,7 @@
 
     <style>
         .navbar{
-            background: LightSalmon;
+            background: #FF7800;
         }
         #separadorInferior2 .content{
 
