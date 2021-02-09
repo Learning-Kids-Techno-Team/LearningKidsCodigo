@@ -92,26 +92,44 @@
         }
 
     </style>
-</head>
-<body>
+
 
 <script language="JavaScript">
 
 
-    function pulsa() {
-        document.getElementById("demo").innerHTML = "<h2>1- La Rana</h2>";
-        document.getElementById("demo1").innerHTML = "<h2>2- El Ratón</h2>";
-        document.getElementById("demo2").innerHTML = "<h2>3- La Luciérnaga</h2>";
-        document.getElementById("demo3").innerHTML = "<h2>4- El Cangrejo</h2>";
-        document.getElementById("demo4").innerHTML = "<h2>5- El Pollito</h2>";
-        document.getElementById("demo5").innerHTML = "<h2>6- El Camaleón</h2>";
-        document.getElementById("demo6").innerHTML = "<h2>7- La Abeja</h2>";
-        document.getElementById("demo7").innerHTML = "<h2>8- La Mariposa</h2>";
-        document.getElementById("demo8").innerHTML = "<h2>9- El Pingüino</h2>";
+    function resu1() {
+        document.getElementById("demo1").innerHTML = "<h4>La Rana</h4>"
+    }
+    function resu2() {
+        document.getElementById("demo2").innerHTML = "<h4>El Ratón</h4>"
+    }
+    function resu3() {
+        document.getElementById("demo3").innerHTML = "<h4>La Luciérnaga</h4>"
+    }
+    function resu4() {
+        document.getElementById("demo4").innerHTML = "<h4>El Cangrejo</h4>"
+    }
+    function resu5() {
+        document.getElementById("demo5").innerHTML = "<h4>El Pollito</h4>"
+    }
+    function resu6() {
+        document.getElementById("demo6").innerHTML = "<h4>El Camaleón</h4>"
+    }
+    function resu7() {
+        document.getElementById("demo7").innerHTML = "<h4>La Abeja</h4>"
+    }
+    function resu8() {
+        document.getElementById("demo8").innerHTML = "<h4>La Mariposa</h4>"
+    }
+    function resu9() {
+        document.getElementById("demo9").innerHTML = "<h4>El Pingüino</h4>"
 
     }
 
 </script>
+
+</head>
+<body>
 
 <!-- navbar-->
 @section('content')
@@ -145,8 +163,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Canto en la orilla, vivo en el agua, no soy pescado ni cigarra. ¿Quién soy?<BR><BR></p>
-                    <iframe src="https://drive.google.com/file/d/19-tFLoTm3uw65XlywSB_SsYtSrW1etSk/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/19-tFLoTm3uw65XlywSB_SsYtSrW1etSk/preview" width="230" height="80"></iframe>
+                    <h6 id="demo1"></h6>
+                    <button class="btn" onclick="resu1()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -157,8 +176,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- El roer es mi trabajo, el queso mi aperitivo y el gato siempre será mi más temido enemigo. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1CbfcuCcZFIHvrRX4ba3iZM4kZTUJ0k3J/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/1CbfcuCcZFIHvrRX4ba3iZM4kZTUJ0k3J/preview" width="230" height="80"></iframe>
+                    <h6 id="demo2"></h6>
+                    <button class="btn" onclick="resu2()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -169,8 +189,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Soy un trocito de luz en la noche. De día me escondo en la hierba. Parezco una esmeralda que el viento se lleva. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/12Fb2evZcg-k2V1PLhgIiAnpcNGyeHm5c/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/12Fb2evZcg-k2V1PLhgIiAnpcNGyeHm5c/preview" width="230" height="80"></iframe>
+                    <h6 id="demo3"></h6>
+                    <button class="btn" onclick="resu3()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -188,8 +209,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Dos pinzas tengo y hacia atrás camino, de mar o de río en el agua vivo. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1TdeSFeiAswCCUVwEqT5tlvVrNob-LbYe/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1TdeSFeiAswCCUVwEqT5tlvVrNob-LbYe/preview" width="230" height="80"></iframe>
+                    <h6 id="demo4"></h6>
+                    <button class="btn" onclick="resu4()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -200,8 +222,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Madre me labró una casa sin puertas y sin ventanas, y cuando quiero salir rompo antes la muralla. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1lEO67mQOkXdL3gP-wiJYjWUFfDfVQ2e1/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/1lEO67mQOkXdL3gP-wiJYjWUFfDfVQ2e1/preview" width="230" height="80"></iframe>
+                    <h6 id="demo5"></h6>
+                    <button class="btn" onclick="resu5()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -212,8 +235,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- No es cama ni es león, y desaparece en cualquier rincón. ¿Quién es?</p>
-                    <iframe src="https://drive.google.com/file/d/1ETy7TZ3e-pHvtev14xrZ7jzTaSqdC7h_/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/1ETy7TZ3e-pHvtev14xrZ7jzTaSqdC7h_/preview" width="230" height="80"></iframe>
+                    <h6 id="demo6"></h6>
+                    <button class="btn" onclick="resu6()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -231,8 +255,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Vuelo entre las flores, vivo en una colmena, fabrico miel y también cera. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1S4oOF_1pkiBtCZgAIk_2R6LRWpdMFdUE/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/1S4oOF_1pkiBtCZgAIk_2R6LRWpdMFdUE/preview" width="230" height="80"></iframe>
+                    <h6 id="demo7"></h6>
+                    <button class="btn" onclick="resu7()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -243,8 +268,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Soy un insecto que vuela entre las flores, tengo dos alitas de muchos colores. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1sdSahRaSWSjzxOugkGdWs31GJv7c1xje/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1sdSahRaSWSjzxOugkGdWs31GJv7c1xje/preview" width="230" height="80"></iframe>
+                    <h6 id="demo8"></h6>
+                    <button class="btn" onclick="resu8()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -255,8 +281,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- Viste de chaleco blanco y negro tiene su pecho. Es un ave que no vuela, pero sabe nadar derecho. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1XvggfhCce1hVOnz3eA6zcHrubZMnpZc2/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1XvggfhCce1hVOnz3eA6zcHrubZMnpZc2/preview" width="230" height="80"></iframe>
+                    <h6 id="demo9"></h6>
+                    <button class="btn" onclick="resu9()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -269,23 +296,7 @@
     <div class="row ">
         <div class="col-md-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/5Rdp7jk/pil-removebg-preview.png" width="250" />
-            <!-- Btn respuestas -->
-            <a class="btn" onclick="pulsa()">Ver Respuestas</a>
-            <iframe src="https://drive.google.com/file/d/1dYpMkeksLLPVwEhVbFFcUaHs4XT2Srv9/preview" width="200" height="80"></iframe>
-        </div>
-        <div class="col-md-8 " >
-            <h2 id="color"><em><br>Respuestas adivinanzas de Animales:</em></h2>
-            <p id="demo"></p>
-            <p id="demo1"></p>
-            <p id="demo2"></p>
-            <p id="demo3"></p>
-            <p id="demo4"></p>
-            <p id="demo5"></p>
-            <p id="demo6"></p>
-            <p id="demo7"></p>
-            <p id="demo8"></p>
-            <p id="demo9"></p>
-
+            <iframe src="https://drive.google.com/file/d/1dYpMkeksLLPVwEhVbFFcUaHs4XT2Srv9/preview" width="300" height="80"></iframe>
         </div>
     </div>
 </div>
