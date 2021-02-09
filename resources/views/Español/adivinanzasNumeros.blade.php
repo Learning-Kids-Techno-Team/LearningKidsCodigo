@@ -95,26 +95,44 @@
         }
 
     </style>
-</head>
-<body>
-
-<script language="JavaScript">
 
 
-    function pulsa() {
-        document.getElementById("demo").innerHTML = "<h2>1- El número 10</h2>";
-        document.getElementById("demo1").innerHTML = "<h2>2- El número 7</h2>";
-        document.getElementById("demo2").innerHTML = "<h2>3- El número 6</h2>";
-        document.getElementById("demo3").innerHTML = "<h2>4- El número 3</h2>";
-        document.getElementById("demo4").innerHTML = "<h2>5- El número 20</h2>";
-        document.getElementById("demo5").innerHTML = "<h2>6- El número 1</h2>";
-        document.getElementById("demo6").innerHTML = "<h2>7- El número 1</h2>";
-        document.getElementById("demo7").innerHTML = "<h2>8- El número 2</h2>";
-        document.getElementById("demo8").innerHTML = "<h2>9- El número 5</h2>";
+<script>
+
+
+    function resu1() {
+        document.getElementById("demo1").innerHTML = "<h4>El número 10</h4>"
+    }
+    function resu2() {
+        document.getElementById("demo2").innerHTML = "<h4>El número 7</h4>"
+    }
+    function resu3() {
+        document.getElementById("demo3").innerHTML = "<h4>El número 6</h4>"
+    }
+    function resu4() {
+        document.getElementById("demo4").innerHTML = "<h4>El número 3</h4>"
+    }
+    function resu5() {
+        document.getElementById("demo5").innerHTML = "<h4>El número 20</h4>"
+    }
+    function resu6() {
+        document.getElementById("demo6").innerHTML = "<h4>El número 1</h4>"
+    }
+    function resu7() {
+        document.getElementById("demo7").innerHTML = "<h4>El número 1</h4>"
+    }
+    function resu8() {
+        document.getElementById("demo8").innerHTML = "<h4>El número 2</h4>"
+    }
+    function resu9() {
+        document.getElementById("demo9").innerHTML = "<h4>El número 5</h4>"
 
     }
 
 </script>
+
+</head>
+<body>
 
 <!-- navbar-->
 @section('content')
@@ -147,8 +165,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Un bastón alargado tiene un balón redondito como su compañero, si sumas 5 y 5 sabrás a quién me refiero. ¿Qué número es?</p>
-                    <iframe src="https://drive.google.com/file/d/1f3T80CRVHb4WKBvvNAOHsvEVpJoHB7w1/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/1f3T80CRVHb4WKBvvNAOHsvEVpJoHB7w1/preview" width="230" height="80"></iframe>
+                    <h6 id="demo1"></h6>
+                    <button class="btn" onclick="resu1()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -159,8 +178,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- Si quieres saber quién soy, espera a que llueva. Contando los colores del arcoíris tendrás la prueba. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1RWrltT3Y2DvWvo9k8q2gTAyrcZHKzkBm/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1RWrltT3Y2DvWvo9k8q2gTAyrcZHKzkBm/preview" width="230" height="80"></iframe>
+                    <h6 id="demo2"></h6>
+                    <button class="btn" onclick="resu2()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -171,8 +191,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Puesto de una manera paso a ser un número par, pero paso a ser otro si la vuelta me das. ¿Qué número es?</p>
-                    <iframe src="https://drive.google.com/file/d/1FTJgz10tMR_AvFlrq0_mkyJil3YFyn69/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/1FTJgz10tMR_AvFlrq0_mkyJil3YFyn69/preview" width="230" height="80"></iframe>
+                    <h6 id="demo3"></h6>
+                    <button class="btn" onclick="resu3()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -191,8 +212,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Soy uno más que dos y tengo forma de serpiente, pero no la que más miente. ¿Cuál número soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1AB2_FDRlcblI-o1ONd0L8vnHEHnt39PS/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1AB2_FDRlcblI-o1ONd0L8vnHEHnt39PS/preview" width="230" height="80"></iframe>
+                    <h6 id="demo4"></h6>
+                    <button class="btn" onclick="resu4()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -203,8 +225,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Cuenta los dedos de tu mano y también los de uno de tus pies y sabrás que número es. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/12eFlWnTzpltXg9ozM1e4K8kV-An__-Ty/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/12eFlWnTzpltXg9ozM1e4K8kV-An__-Ty/preview" width="230" height="80"></iframe>
+                    <h6 id="demo5"></h6>
+                    <button class="btn" onclick="resu5()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -215,8 +238,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- Si quieres contar, por mí tienes que empezar. ¿Cuál número soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1TWBXRW_gWm68puQQOWgLrgpBAxLHlpox/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1TWBXRW_gWm68puQQOWgLrgpBAxLHlpox/preview" width="230" height="80"></iframe>
+                    <h6 id="demo6"></h6>
+                    <button class="btn" onclick="resu6()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -234,8 +258,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- De muchos hijos que somos, el primero yo nací, pero soy el menor de todos. ¿Cómo puede ser así? ¿sabes cuál número soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1Vm0RMnMtPaa6WLYJP4rH69hjEnAdBxr0/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1Vm0RMnMtPaa6WLYJP4rH69hjEnAdBxr0/preview" width="230" height="80"></iframe>
+                    <h6 id="demo7"></h6>
+                    <button class="btn" onclick="resu7()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -246,8 +271,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Soy más de uno sin llegar a tres y llego a cuatro cuando dos me des. ¿Cuál número soy?</p>
-                    <iframe src="https://drive.google.com/file/d/15WoSXUuMPxeBUwySyM0DszkiGZnyx4G9/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/15WoSXUuMPxeBUwySyM0DszkiGZnyx4G9/preview" width="230" height="80"></iframe>
+                    <h6 id="demo8"></h6>
+                    <button class="btn" onclick="resu8()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -258,8 +284,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- ¿Qué número tiene el mismo número de letras que el valor que expresa? Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1XvggfhCce1hVOnz3eA6zcHrubZMnpZc2/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1XvggfhCce1hVOnz3eA6zcHrubZMnpZc2/preview" width="230" height="80"></iframe>
+                    <h6 id="demo9"></h6>
+                    <button class="btn" onclick="resu9()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -273,22 +300,7 @@
         <div class="col-md-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/5Rdp7jk/pil-removebg-preview.png" width="250" />
             <!-- Btn respuestas -->
-            <a class="btn" onclick="pulsa()">Ver Respuestas</a>
-            <iframe src="https://drive.google.com/file/d/1_dUoM20BOXLcJ68-smYqmUVIBA_rdl_-/preview" width="200" height="80"></iframe>
-        </div>
-        <div class="col-md-8 " >
-            <h2 id="color"><em><br>Respuestas adivinanzas de Números:</em></h2>
-            <p id="demo"></p>
-            <p id="demo1"></p>
-            <p id="demo2"></p>
-            <p id="demo3"></p>
-            <p id="demo4"></p>
-            <p id="demo5"></p>
-            <p id="demo6"></p>
-            <p id="demo7"></p>
-            <p id="demo8"></p>
-            <p id="demo9"></p>
-
+            <iframe src="https://drive.google.com/file/d/1_dUoM20BOXLcJ68-smYqmUVIBA_rdl_-/preview" width="300" height="80"></iframe>
         </div>
     </div>
 </div>
