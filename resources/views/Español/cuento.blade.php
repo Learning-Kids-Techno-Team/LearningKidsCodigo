@@ -92,7 +92,7 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
-            <img  src="https://i.ibb.co/6Yqkrp2/ciencias-naturales.jpg" alt="rondas"  height="500" width="800" class=" mx-auto d-block"/>
+            <img src="https://i.ibb.co/vB0Z4vy/cx-removebg-preview.png"  width="600"  class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
