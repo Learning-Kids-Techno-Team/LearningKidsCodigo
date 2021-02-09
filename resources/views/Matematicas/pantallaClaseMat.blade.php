@@ -22,7 +22,7 @@
 
     <style>
   .navbar{
-     background: #FF7800;
+     background: lightsalmon;
   }
   body{
    background: #FFC897;
@@ -64,7 +64,7 @@
            background: #F7EBEB;
             border-bottom-right-radius: 100px;
             border-bottom-left-radius: 100px;
-            border: orangered 5px double;
+            border: orangered 8px dashed;
 
         }
 
@@ -146,7 +146,7 @@
     <div>
         <h1>Jugando con las Matematicas</h1>
     </div>
-    <div class="container-fluid" style="background: #FEB472">
+    <div class="container-fluid" style="background: moccasin">
         <div class="row  pb-5">
             <div class="col-md-12">
                 <a href=" {{ url('/figura') }}">
@@ -155,7 +155,7 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid" style="background: #FEB472">
+    <div class="container-fluid" style=" background: moccasin">
         <div class="row pb-5">
             <div class="col-md-6">
                 <a href=" {{ url('/numerosNaturales') }}">
@@ -169,7 +169,7 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid"style="background: #FEB472">
+    <div class="container-fluid"style="background: moccasin">
         <div class="row">
             <div class="col-md-4 pb-5">
                 <a href=" {{ url('/restas') }}">
@@ -185,7 +185,7 @@
                 </a>
         </div>
     </div>
-    <div class="container-fluid" style="background: #FEB472">
+    <div class="container-fluid" style="background: moccasin">
         <div class="row pb-5">
             <div class="col-md-3">
                 <a href=" {{ url('/relacionObjetos') }}">
@@ -205,7 +205,7 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid" style="background: #FEB472">
+    <div class="container-fluid" style="background: moccasin">
         <div class="row ">
             <div class="col-md-4  ">
                 <a href=" {{ url('/simbolos') }}">
