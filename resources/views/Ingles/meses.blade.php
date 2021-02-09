@@ -93,7 +93,7 @@
             text-align: center;
         }
 
-       bord{
+       #bord{
            background: lightblue;
            border: #fff6af 15px dashed;
        }
@@ -450,7 +450,7 @@
                             <br>de los meses en inglés con esta divertida canción. ¡Vamos a cantar!
                             <br>
                         </h2>
-                        <iframe id="bord" class="mx-auto d-block" src="https://drive.google.com/file/d/1eNnfhsj1j-rBD_f-58H7vJofyTb4Ao5h/preview" width="650" height="400"></iframe>
+                        <iframe id="bord" class="mx-auto d-block" src="https://drive.google.com/file/d/1eNnfhsj1j-rBD_f-58H7vJofyTb4Ao5h/preview" width="670" height="390"></iframe>
                     </div>
 
                 </div>
