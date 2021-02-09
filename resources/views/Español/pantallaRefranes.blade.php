@@ -257,7 +257,7 @@
                 <img src="https://i.pinimg.com/474x/2f/3b/c5/2f3bc5166d54d4610bff98b05d07dacc.jpg" width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">En boca cerrada no entran moscas.</h5>
-                    <p class="card-text"><br> En ocasiones, es preferible no decir nada. </p>
+                    <p class="card-text"><br><br> En ocasiones, es preferible no decir nada. </p>
 
                 </div>
                 <iframe src="https://drive.google.com/file/d/1OQPAN1YMFmr4HrYxVo4ugQGAi8d8eFZq/preview" style="border: none" width="280" height="100"></iframe>
