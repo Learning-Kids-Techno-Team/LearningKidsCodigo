@@ -4,8 +4,6 @@
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="utf-8">
-
-
     <title>Sumas</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 
@@ -38,7 +36,7 @@
         }
 
         .card{
-            background: #D8E2F3;
+            background: MediumAquamarine;
             border:#3B5686 6px solid;
             border-bottom-left-radius: 10px;
             border-bottom-right-radius: 10px;
@@ -74,7 +72,7 @@
 
         }
         .card-title{
-            color: orangered;
+            color: Teal;
             text-align: center;
 
 
@@ -86,7 +84,7 @@
             height: 100px;
             border-bottom-left-radius: 80%;
             border-top-right-radius: 50%;
-            background: #FF7800;
+            background: MediumAquamarine;
         }
         #titulo{
             text-align: center;
@@ -149,7 +147,7 @@
     <div class="row">
         <div class="col-md-12 bg-info">
             <div class="row ml-5 mr-5 ">
-                <div class="col-md-7 bg-danger mt-5 mx-auto d-block">
+                <div class="col-md-7  mt-5 mx-auto d-block" style="background: MediumAquamarine">
                     <img src="https://i.ibb.co/RTYhFcB/81-Vpg-Dox-AIL-removebg-preview.png">
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: #fcebcb"  >
@@ -173,7 +171,7 @@
             <div class="card" style="width: 40rem;">
                 <iframe src="https://drive.google.com/file/d/1vo9tPE33X-cjm7Ru4v5stR9OuVAThZXv/preview" width="628" height="300"></iframe>
                 <div class="card-body" id="im">
-                    <h5 class="card-title">Explicación de la Suma </h5>
+                    <h5 class="card-title"> Explicación de la Suma </h5>
                 </div>
             </div>
         </div>

@@ -107,8 +107,8 @@
 <div class="container-fluid">
 <div class="row"  style="background: #bce0ee" >
     <!-- tarjeta1 -->
-    <div class="col-md-3 pb-3" >
-        <div class="card" style="width: 18rem;">
+    <div class="col-md-3 p-5" >
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/0n1bJXt/doc3.jpg" alt="doc3" class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Era una señora que va al medico y le dice:
@@ -123,8 +123,8 @@
         </div>
     </div>
     <!-- tarjeta2 -->
-    <div class="col-md-3">
-        <div class="card" style="width: 18rem;">
+    <div class="col-md-3 p-5">
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/h8Q1q6D/doc5.jpg" alt="doc5"  class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">- ¡Doctor, doctor, tengo un hueso afuera! <br>
@@ -137,8 +137,8 @@
         </div>
     </div>
     <!-- tarjeta3 -->
-    <div class="col-md-3">
-        <div class="card" style="width: 18rem;">
+    <div class="col-md-3 p-5">
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img   src="https://i.ibb.co/Np55gL8/doc6.jpg" alt="doc6"  class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">- Doctor, doctor,<br> ¿qué puedo hacer para que me hijo no se orine en la cama?
@@ -148,8 +148,8 @@
         </div>
     </div>
     <!-- tarjeta4 -->
-    <div class="col-md-3">
-        <div class="card" style="width: 18rem;">
+    <div class="col-md-3 p-5">
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/VDNrYGk/doc4-removebg-preview.png"  class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">- Doctor<br>, ¿Cómo conservo el poco pelo que me queda?<br>
@@ -162,8 +162,8 @@
 <!-- tarjeta5 -->
     <div class="container-fluid">
 <div class="row" style="background: #bce0ee">
-    <div class="col-md-3 pb-3">
-        <div class="card" style="width: 18rem;">
+    <div class="col-md-3 p-5">
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img  src="https://i.ibb.co/FwPC45g/maes.jpg" alt="maes" class="card mx-auto d-block"  height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Jaimito le pregunta a la maestra:
@@ -175,8 +175,8 @@
         </div>
     </div>
     <!-- tarjeta6 -->
-    <div class="col-md-3">
-        <div class="card" style="width: 18rem;">
+    <div class="col-md-3 p-5">
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img   src="https://i.ibb.co/NCQS6Dw/maes2.jpg" alt="maes2"  class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">- A ver Jaimito, <BR>dime una palabra que tenga 5 ies.<BR>
@@ -188,8 +188,8 @@
         </div>
     </div>
     <!-- tarjeta7 -->
-    <div class="col-md-3">
-        <div class="card" style="width: 18rem;">
+    <div class="col-md-3 p-5">
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/92DGJJk/maes3.jpg" alt="maes3" class="card mx-auto d-block"  height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center"> El profesor de lengua descubre a María distraída mirando por la ventana. Se dirige a ella y le pregunta:
@@ -200,8 +200,8 @@
         </div>
     </div>
     <!-- tarjeta8 -->
-    <div class="col-md-3">
-        <div class="card " style="width: 18rem;">
+    <div class="col-md-3 p-5">
+        <div class="card mx-auto d-block " style="width: 18rem;">
             <img  src="https://i.ibb.co/R753RXv/maes4.jpg" alt="maes4"  class="card mx-auto d-block"  height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center"> La profesora a Pepito:<BR>
@@ -216,8 +216,8 @@
         <div class="container-fluid">
 <!-- tarjeta9 -->
 <div class="row" style="background: #bce0ee">
-    <div class="col-md-3 pb-3">
-        <div class="card" style="width: 18rem;">
+    <div class="col-md-3 p-5">
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img   src="https://i.ibb.co/pnVkFvg/pioj.jpg" alt="pioj"  class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center"> Están dos piojos en la cabeza de un señor calvo,<br> y uno le dice al otro:
@@ -227,8 +227,8 @@
         </div>
     </div>
     <!-- tarjeta10 -->
-    <div class="col-md-3 " >
-        <div class="card" style="width: 18rem;">
+    <div class="col-md-3 p-5" >
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/dtRrCZV/riendo2.jpg" alt="riendo2" class="card mx-auto d-block"  height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center"> <br> - ¿Qué le dice un gusano a otro gusano?<br>
@@ -238,8 +238,8 @@
         </div>
     </div>
     <!-- tarjeta11 -->
-    <div class="col-md-3 ">
-        <div class="card" style="width: 18rem;">
+    <div class="col-md-3 p-5">
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img  src="https://i.ibb.co/pWCKh5v/riendo4.jpg" alt="riendo4"   class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center"> <br>Un ratón le dice a una rata:<br>
@@ -250,8 +250,8 @@
         </div>
     </div>
     <!-- tarjeta12 -->
-    <div class="col-md-3 ">
-        <div class="card " style="width: 18rem;">
+    <div class="col-md-3 p-5">
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/rxPqG44/roendo6.jpg" alt="roendo6" class="card mx-auto d-block"  height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center"> <br><br>-¿Qué le dice un pato a otro pato?<br>
