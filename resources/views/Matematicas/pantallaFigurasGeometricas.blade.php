@@ -130,6 +130,7 @@
                     <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/triangle-5258735_960_720.png" width="210" >
                     <div class="card-body">
                         <h5 class="card-title">Triangulo</h5>
+
                         <a style=" background: #FF7800" href=" {{ url('/TiposDeTriangulos') }}" class="btn btn-primary">Leer</a>
                     </div>
                 </div>

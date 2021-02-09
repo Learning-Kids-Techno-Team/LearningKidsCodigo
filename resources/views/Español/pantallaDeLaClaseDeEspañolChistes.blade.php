@@ -176,6 +176,7 @@
     </div>
     <!-- tarjeta6 -->
     <div class="col-md-3 p-5">
+
         <div class="card mx-auto d-block" style="width: 18rem;">
             <img   src="https://i.ibb.co/NCQS6Dw/maes2.jpg" alt="maes2"  class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
