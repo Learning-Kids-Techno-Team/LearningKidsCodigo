@@ -91,26 +91,44 @@
         }
 
     </style>
-</head>
-<body>
+
 
 <script language="JavaScript">
 
 
-    function pulsa() {
-        document.getElementById("demo").innerHTML = "<h2>1- La Pera</h2>";
-        document.getElementById("demo1").innerHTML = "<h2>2- La Fresa</h2>";
-        document.getElementById("demo2").innerHTML = "<h2>3- El Platano</h2>";
-        document.getElementById("demo3").innerHTML = "<h2>4- El Tomate</h2>";
-        document.getElementById("demo4").innerHTML = "<h2>5- La Zanahoria</h2>";
-        document.getElementById("demo5").innerHTML = "<h2>6- Los Ajos</h2>";
-        document.getElementById("demo6").innerHTML = "<h2>7- La Sandia</h2>";
-        document.getElementById("demo7").innerHTML = "<h2>8- La Manzana</h2>";
-        document.getElementById("demo8").innerHTML = "<h2>9- El Pimiento</h2>";
+    function resu1() {
+        document.getElementById("demo1").innerHTML = "<h4>La Pera</h4>"
+    }
+    function resu2() {
+        document.getElementById("demo2").innerHTML = "<h4>La Fresa</h4>"
+    }
+    function resu3() {
+        document.getElementById("demo3").innerHTML = "<h4>El Platano</h4>"
+    }
+    function resu4() {
+        document.getElementById("demo4").innerHTML = "<h4>El Tomate</h4>"
+    }
+    function resu5() {
+        document.getElementById("demo5").innerHTML = "<h4>La Zanahoria</h4>"
+    }
+    function resu6() {
+        document.getElementById("demo6").innerHTML = "<h4>Los Ajos</h4>"
+    }
+    function resu7() {
+        document.getElementById("demo7").innerHTML = "<h4>La Sandia</h4>"
+    }
+    function resu8() {
+        document.getElementById("demo8").innerHTML = "<h4>La Manzana</h4>"
+    }
+    function resu9() {
+        document.getElementById("demo9").innerHTML = "<h4>El Pimiento</h4>"
 
     }
 
 </script>
+
+</head>
+<body>
 
 <!-- navbar-->
 @section('content')
@@ -143,8 +161,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Blanca por dentro, verde por fuera. Si quieres te lo digo, espera. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/19WL9-bqyZMi9RqvzixftvtZ5MpRYOyX0/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/19WL9-bqyZMi9RqvzixftvtZ5MpRYOyX0/preview" width="230" height="80"></iframe>
+                    <h6 id="demo1"></h6>
+                    <button class="btn" onclick="resu1()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -155,8 +174,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- Una señorita muy señoreada, lleva sombrero verde y blusa colorada. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1qRxulmTz6aSf4S5N8bSijZckyScqM9ui/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/1qRxulmTz6aSf4S5N8bSijZckyScqM9ui/preview" width="230" height="80"></iframe>
+                    <h6 id="demo2"></h6>
+                    <button class="btn" onclick="resu2()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -167,8 +187,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- No soy de plata, plata no soy. Ya te he dicho quién soy. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1-97qO7ZT8AGBybnWGB1qmgaJp_JFiMWk/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1-97qO7ZT8AGBybnWGB1qmgaJp_JFiMWk/preview" width="230" height="80"></iframe>
+                    <h6 id="demo3"></h6>
+                    <button class="btn" onclick="resu3()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -187,8 +208,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- No toma té, ni toma café, y está colorado,¿sabes quién es?</p>
-                    <iframe src="https://drive.google.com/file/d/1tQWCoe4B22x7PQ6KS6JwJcHA6qyiGvCI/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1tQWCoe4B22x7PQ6KS6JwJcHA6qyiGvCI/preview" width="230" height="80"></iframe>
+                    <h6 id="demo4"></h6>
+                    <button class="btn" onclick="resu4()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -199,8 +221,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Es alargada y naranja, se la comen los conejos para así llegar a viejos. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1F8DdlYgzp4dlWG2wLydrvsbyn1VaZlv5/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1F8DdlYgzp4dlWG2wLydrvsbyn1VaZlv5/preview" width="230" height="80"></iframe>
+                    <h6 id="demo5"></h6>
+                    <button class="btn" onclick="resu5()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -211,8 +234,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- Tengo cabeza redonda, sin nariz, ojos ni frente, y mi cuerpo se compone tan sólo de blancos dientes. ¿Quién es?</p>
-                    <iframe src="https://drive.google.com/file/d/1WOtMJnfXR9yKw-qbs4sRkciqVd3FR59R/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1WOtMJnfXR9yKw-qbs4sRkciqVd3FR59R/preview" width="230" height="80"></iframe>
+                    <h6 id="demo6"></h6>
+                    <button class="btn" onclick="resu6()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -230,8 +254,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Roja por dentro, verde por fuera. Si te la quieres comer, muchas semillas tendrás que morder. ¿Qué fruta es?</p>
-                    <iframe src="https://drive.google.com/file/d/1SylTz0M4-XMvImO0q35D93k4_XxlvpUE/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1SylTz0M4-XMvImO0q35D93k4_XxlvpUE/preview" width="230" height="80"></iframe>
+                    <h6 id="demo7"></h6>
+                    <button class="btn" onclick="resu7()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -242,8 +267,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Somos verdes y amarillas o rojas. Redonda es nuestra forma, y Blancanieves se comió una de nosotras. ¿Qué fruta somos?</p>
-                    <iframe src="https://drive.google.com/file/d/1g9patJPasnL2UxZPyyIvfUmwoJqpr-lv/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/1g9patJPasnL2UxZPyyIvfUmwoJqpr-lv/preview" width="230" height="80"></iframe>
+                    <h6 id="demo8"></h6>
+                    <button class="btn" onclick="resu8()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -254,8 +280,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- ¡Pi!, cantan los pájaros, miento y digo la verdad; por muy listo que seas, creo que no acertarás. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1v95E0oegiLl2h01Uo23RtGSTCOl83Q_t/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1v95E0oegiLl2h01Uo23RtGSTCOl83Q_t/preview" width="230" height="80"></iframe>
+                    <h6 id="demo9"></h6>
+                    <button class="btn" onclick="resu9()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -268,22 +295,7 @@
     <div class="row ">
         <div class="col-md-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/5Rdp7jk/pil-removebg-preview.png" width="250" />
-            <!-- Btn respuestas -->
-            <a class="btn" onclick="pulsa()">Ver Respuestas</a>
-            <iframe src="https://drive.google.com/file/d/1rRGIHIrqI_Twl9p3-XovkoDGxXQSlxeC/preview" width="200" height="80"></iframe>
-        </div>
-        <div class="col-md-8 " >
-            <h2 id="color"><em><br>Respuestas adivinanzas de Frutas o Verduras:</em></h2>
-            <p id="demo"></p>
-            <p id="demo1"></p>
-            <p id="demo2"></p>
-            <p id="demo3"></p>
-            <p id="demo4"></p>
-            <p id="demo5"></p>
-            <p id="demo6"></p>
-            <p id="demo7"></p>
-            <p id="demo8"></p>
-            <p id="demo9"></p>
+            <iframe src="https://drive.google.com/file/d/1rRGIHIrqI_Twl9p3-XovkoDGxXQSlxeC/preview" width="300" height="80"></iframe>
 
         </div>
     </div>
