@@ -96,26 +96,44 @@
         }
 
     </style>
-</head>
-<body>
+
 
 <script>
 
 
-    function pulsa() {
-        document.getElementById("demo").innerHTML = "<h2>1- El Bombillo</h2>";
-        document.getElementById("demo1").innerHTML = "<h2>2- La Sal</h2>";
-        document.getElementById("demo2").innerHTML = "<h2>3- El Ajo</h2>";
-        document.getElementById("demo3").innerHTML = "<h2>4- El Girasol</h2>";
-        document.getElementById("demo4").innerHTML = "<h2>5- La Letra L</h2>";
-        document.getElementById("demo5").innerHTML = "<h2>6- La Espuma</h2>";
-        document.getElementById("demo6").innerHTML = "<h2>7- La Botella</h2>";
-        document.getElementById("demo7").innerHTML = "<h2>8- El Gato </h2>";
-        document.getElementById("demo8").innerHTML = "<h2>9- La Cuchara</h2>";
+    function resu1() {
+        document.getElementById("demo1").innerHTML = "<h4>El Bombillo</h4>"
+    }
+    function resu2() {
+        document.getElementById("demo2").innerHTML = "<h4>La Sal</h4>"
+    }
+    function resu3() {
+        document.getElementById("demo3").innerHTML = "<h4>El Ajo</h4>"
+    }
+    function resu4() {
+        document.getElementById("demo4").innerHTML = "<h4>El Girasol</h4>"
+    }
+    function resu5() {
+        document.getElementById("demo5").innerHTML = "<h4>La Letra L</h4>"
+    }
+    function resu6() {
+        document.getElementById("demo6").innerHTML = "<h4>La Espuma</h4>"
+    }
+    function resu7() {
+        document.getElementById("demo7").innerHTML = "<h4>La Botella</h4>"
+    }
+    function resu8() {
+        document.getElementById("demo8").innerHTML = "<h4>El Gato </h4>"
+    }
+    function resu9() {
+        document.getElementById("demo9").innerHTML = "<h4>La Cuchara</h4>"
 
     }
 
 </script>
+
+</head>
+<body>
 
 <!-- navbar-->
 @section('content')
@@ -148,10 +166,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Es pequeña como una pera, pero alumbra la casa entera. ¿Qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/11SXZ2RRv9fQT8To781ab20hDJllHYL7V/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
-
-
+                    <iframe src="https://drive.google.com/file/d/11SXZ2RRv9fQT8To781ab20hDJllHYL7V/preview" width="230" height="80"></iframe>
+                    <h6 id="demo1"></h6>
+                    <button class="btn" onclick="resu1()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -162,8 +179,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- La han sacado del mar, es blanca y también salada. La encuentras en la ensalada. ¿Qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/1STd8UKWmh61chq8BguHx0JPSF84p9uaY/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1STd8UKWmh61chq8BguHx0JPSF84p9uaY/preview" width="230" height="80"></iframe>
+                    <h6 id="demo2"></h6>
+                    <button class="btn" onclick="resu2()">Respuesta</button>
 
                 </div>
             </div>
@@ -175,8 +193,10 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Tiene dientes, pero no puede comer. ¿Qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/1smUobulAXe8PcOVEkTiuOu6iNXT4r4mx/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/1smUobulAXe8PcOVEkTiuOu6iNXT4r4mx/preview" width="230" height="80"></iframe>
+                    <h6 id="demo3"></h6>
+                    <button class="btn" onclick="resu3()">Respuesta</button>
+
                 </div>
             </div>
         </div>
@@ -195,8 +215,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Bonita flor que gira buscando el sol. ¿Qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/18xeyAnRu3bYRt5vKU9_ZWsYv7GGgBZQ3/preview" width="200" height="80"></iframe>
-                    <a href="#" ></a>
+                    <iframe src="https://drive.google.com/file/d/18xeyAnRu3bYRt5vKU9_ZWsYv7GGgBZQ3/preview" width="230" height="80"></iframe>
+                    <h6 id="demo4"></h6>
+                    <button class="btn" onclick="resu4()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -207,8 +228,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Una letra alta y delgada es. La luna y el sol la llevan, pero en el aire no la ves. ¿Qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/1eQqdBBCJDMNxnzzsYgC-vIdLEKVipFxQ/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1eQqdBBCJDMNxnzzsYgC-vIdLEKVipFxQ/preview" width="230" height="80"></iframe>
+                    <h6 id="demo5"></h6>
+                    <button class="btn" onclick="resu5()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -219,8 +241,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- Es puma y no es animal; vuela y flota. ¿Qué será?</p>
-                    <iframe src="https://drive.google.com/file/d/1b1Zn0fndjj-0JG3kTCi2uCLNqVGzTgt0/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1b1Zn0fndjj-0JG3kTCi2uCLNqVGzTgt0/preview" width="230" height="80"></iframe>
+                    <h6 id="demo6"></h6>
+                    <button class="btn" onclick="resu6()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -238,8 +261,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Tiene cuello, pero no cabeza. ¿Sabes qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/1tIZdr5THQ0X8HmUPDD8-nysAKJk0mYY9/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1tIZdr5THQ0X8HmUPDD8-nysAKJk0mYY9/preview" width="230" height="80"></iframe>
+                    <h6 id="demo7"></h6>
+                    <button class="btn" onclick="resu7()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -250,8 +274,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Tiene patas y bigotes. Caza ratones y araña, pero no es araña. ¿Quién es?</p>
-                    <iframe src="https://drive.google.com/file/d/1sQvzGBMvSkis2HeZualyckIBOA1OFyc6/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1sQvzGBMvSkis2HeZualyckIBOA1OFyc6/preview" width="230" height="80"></iframe>
+                    <h6 id="demo8"></h6>
+                    <button class="btn" onclick="resu8()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -262,8 +287,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- Sube llena y baja vacía. Si no se da prisa, la sopa se enfría. ¿Qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/1tts5n9ocmkyH27plL0Hai2E08NVn49g8/preview" width="200" height="80"></iframe>
-                    <a href="#"></a>
+                    <iframe src="https://drive.google.com/file/d/1tts5n9ocmkyH27plL0Hai2E08NVn49g8/preview" width="230" height="80"></iframe>
+                    <h6 id="demo9"></h6>
+                    <button class="btn" onclick="resu9()">Respuesta</button>
                 </div>
             </div>
         </div>
@@ -276,24 +302,9 @@
     <div class="row ">
         <div class="col-md-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/5Rdp7jk/pil-removebg-preview.png" width="250" />
-            <!-- Btn respuestas -->
-            <a class="btn" onclick="pulsa()">Ver Respuestas</a>
-            <iframe src="https://drive.google.com/file/d/1jgNM4u6jzRBDMi5i3i-S-XUeyD3p7FOS/preview" width="200" height="80"></iframe>
+            <iframe src="https://drive.google.com/file/d/1jgNM4u6jzRBDMi5i3i-S-XUeyD3p7FOS/preview" width="300" height="80"></iframe>
         </div>
-        <div class="col-md-8 " >
-            <h2 id="color"><em><br>Respuestas adivinanzas Cortas:</em></h2>
-            <p id="demo"></p>
-            <p id="demo1"></p>
-            <p id="demo2"></p>
-            <p id="demo3"></p>
-            <p id="demo4"></p>
-            <p id="demo5"></p>
-            <p id="demo6"></p>
-            <p id="demo7"></p>
-            <p id="demo8"></p>
-            <p id="demo9"></p>
 
-        </div>
     </div>
 </div>
 
