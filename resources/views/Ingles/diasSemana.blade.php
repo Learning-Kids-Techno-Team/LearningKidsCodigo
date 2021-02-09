@@ -93,6 +93,10 @@
             text-align: center;
         }
 
+        #bord{
+            background: lightblue;
+            border: #fff6af 15px dashed;
+        }
 
     </style>
 
@@ -307,7 +311,7 @@
                     <br>de los días en inglés con esta divertida canción. ¡Vamos a cantar!
                     <br>
                 </h2>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1YIGCenZnFDLYhgCUH8OiHyw2Y1NKDNEd/preview" width="650" height="400"></iframe>
+                <iframe id="bord" class="mx-auto d-block" src="https://drive.google.com/file/d/1YIGCenZnFDLYhgCUH8OiHyw2Y1NKDNEd/preview" width="670" height="390"></iframe>
             </div>
 
         </div>
