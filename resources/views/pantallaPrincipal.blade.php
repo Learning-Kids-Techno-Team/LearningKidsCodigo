@@ -171,6 +171,7 @@
 <!-- GAMES-->
 <div id="banderin">
     <div class="container-l">
+        <!-- botones-->
         <div class="row">
             <div class="col-md-6">
                 <a href="{{ url('/pantallaPrincipalDeLaClaseDeEspañol') }}">
