@@ -155,14 +155,14 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <h2 ><em><br></em></h2>
+
                 <div class="card" style="width: 20rem;">
                     <img class="mx-auto d-block"  src="https://i.ibb.co/ZKyz8Sz/Captura-de-pantalla-499-removebg-preview.png" width="300" height="200">
                     <h2 class="mx-auto d-block" id="color"><em>Carta</em></h2>
                 </div>
             </div>
             <div class="col-md-4">
-                <h2 ><em><br><br></em></h2>
+
                 <div class="card" style="width: 20rem;">
                     <img class="mx-auto d-block" src="https://i.ibb.co/h1dkNWr/Captura-de-pantalla-500-removebg-preview.png"  width="300" height="200">
                     <h2 class="mx-auto d-block" id="color"><em>Periódico</em></h2>
@@ -185,16 +185,24 @@
                 </div>
             </div>
             <div class="col-md-4">
-                <h2 ><em><br></em></h2>
+
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block"    src="https://i.ibb.co/Jp0xkzQ/correo-electronico-removebg-preview.png"    width="300" height="200">
+                    <img class="mx-auto d-block"    src="https://i.ibb.co/XxYNFs3/Captura-de-pantalla-502-removebg-preview.png"    width="300" height="200">
                     <h2 class="mx-auto d-block" id="color"><em>Correo electrónico</em></h2>
                 </div>
             </div>
             <div class="col-md-4">
-                <h2 ><em><br><br></em></h2>
+
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block"  src="https://i.ibb.co/THKTxt1/tel-removebg-preview.png"  width="300" height="240">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/xMrBnpH/Captura-de-pantalla-503-removebg-preview.png"   width="300" height="240">
+                    <h2 class="mx-auto d-block" id="color"><em>Teléfono tradicional </em></h2>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+
+                <div class="card" style="width: 20rem;">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/TBNM53s/Captura-de-pantalla-504-removebg-preview.png"    width="300" height="240">
                     <h2 class="mx-auto d-block" id="color"><em>Teléfono tradicional </em></h2>
                 </div>
             </div>
