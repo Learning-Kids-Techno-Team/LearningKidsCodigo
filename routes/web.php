@@ -509,4 +509,9 @@ Route::get('/inglesAnimales',function (){
     return view('Ingles/pantallaInglesAnimales');
 });
 
+// SPRINT 7
+
+Route::get('/mediosTra',function (){
+    return view('Ingles/mediosTransporte');
+});
 
