@@ -89,17 +89,16 @@
                     </div>
                     <div class="col-xl-6  mt-5" style=" background:  #C5FFA0" id="borde">
 
-                        <h3 class="mt-5" style="text-align: center; color: tomato">Medios de Comunicación</h3>
+                        <h3 class="mt-5" style="text-align: center; color: tomato">Números del 1 al 10 en inglés (numbers from 1 to 10)</h3>
                         <p class="" id="pa">
                             <strong><br><br>
-                                Es un instrumento o forma de contenido por el cual se realiza el proceso de comunicación. Usualmente se emplea el término para hacer referencia a los medios de comunicación de masas, sin embargo, otros medios de comunicación, como el teléfono, no son masivos sino interpersonales. Desde que los medios de comunicación nacieron y se desarrollaron, se han vuelto una gran fuente de poder e influencia social a nivel mundial.
+                                Estos son parte de los números cardinales, que son aquellos que expresan cantidades y sirven para contar en inglés. Tienen muchos usos, como hablar sobre la edad de una persona, o quizás mencionar la cantidad de personas en su familia.
                             </strong>
                         </p>
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
+
 
 
     <!-- contenedor-->
@@ -115,28 +114,26 @@
             </div>
         </div>
 
-        <div class="row m-5" >
+        <div class="row m-5 d-flex justify-content-center" >
             <div class="col-md-4">
-                <div class="card" style="width: 20rem;">
+                <div class="card" >
 
-                    <img class="mx-auto d-block" src="https://i.ibb.co/nRwsv5g/Captura-de-pantalla-495-removebg-preview.png"   width="305" height="200">
-                    <h2 class="mx-auto d-block" id="color"><em>Celular</em></h2>
-
+                    <img class="mx-auto d-block" src="https://i.ibb.co/nRwsv5g/Captura-de-pantalla-495-removebg-preview.png"   width="300" height="250">
 
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/C2PTpNw/Captura-de-pantalla-496-removebg-preview.png"   width="300" height="200">
-                    <h2 class="mx-auto d-block" id="color"><em>Televisor</em></h2>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/C2PTpNw/Captura-de-pantalla-496-removebg-preview.png"   width="300" height="250">
+
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/g4RgpsV/Captura-de-pantalla-497-removebg-preview.png"  width="300" height="240">
-                    <h2 class="mx-auto d-block" id="color"><em>Radio</em></h2>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/g4RgpsV/Captura-de-pantalla-497-removebg-preview.png"  width="300" height="250">
+
                 </div>
             </div>
 
@@ -148,8 +145,7 @@
             <div class="col-md-4">
                 <div class="card" style="width: 20rem;">
 
-                    <img class="mx-auto d-block" src="https://i.ibb.co/dM6fvTV/Captura-de-pantalla-498-removebg-preview.png"   width="305" height="200">
-                    <h2 class="mx-auto d-block" id="color"><em>Redes sociales</em></h2>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/dM6fvTV/Captura-de-pantalla-498-removebg-preview.png"   width="305" height="250">
 
 
                 </div>
@@ -157,15 +153,15 @@
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block"  src="https://i.ibb.co/ZKyz8Sz/Captura-de-pantalla-499-removebg-preview.png" width="300" height="200">
-                    <h2 class="mx-auto d-block" id="color"><em>Carta</em></h2>
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/ZKyz8Sz/Captura-de-pantalla-499-removebg-preview.png" width="300" height="250">
+
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/h1dkNWr/Captura-de-pantalla-500-removebg-preview.png"  width="300" height="200">
-                    <h2 class="mx-auto d-block" id="color"><em>Periódico</em></h2>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/h1dkNWr/Captura-de-pantalla-500-removebg-preview.png"  width="300" height="250">
+
                 </div>
             </div>
 
@@ -178,8 +174,8 @@
             <div class="col-md-4">
                 <div class="card" style="width: 20rem;">
 
-                    <img class="mx-auto d-block"  src="https://i.ibb.co/m6pxPSG/Captura-de-pantalla-501-removebg-preview.png"    width="305" height="200">
-                    <h2 class="mx-auto d-block" id="color"><em>Fax</em></h2>
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/m6pxPSG/Captura-de-pantalla-501-removebg-preview.png"    width="305" height="250">
+
 
 
                 </div>
@@ -187,28 +183,25 @@
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block"    src="https://i.ibb.co/XxYNFs3/Captura-de-pantalla-502-removebg-preview.png"    width="300" height="200">
-                    <h2 class="mx-auto d-block" id="color"><em>Correo electrónico</em></h2>
+                    <img class="mx-auto d-block"    src="https://i.ibb.co/XxYNFs3/Captura-de-pantalla-502-removebg-preview.png"    width="300" height="250">
+
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block"  src="https://i.ibb.co/xMrBnpH/Captura-de-pantalla-503-removebg-preview.png"   width="300" height="240">
-                    <h2 class="mx-auto d-block" id="color"><em>Teléfono tradicional </em></h2>
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/xMrBnpH/Captura-de-pantalla-503-removebg-preview.png"   width="300" height="250">
+
                 </div>
             </div>
-
-            <div class="col-md-4">
-
-                <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block"  src="https://i.ibb.co/TBNM53s/Captura-de-pantalla-504-removebg-preview.png"    width="300" height="240">
-                    <h2 class="mx-auto d-block" id="color"><em>Teléfono tradicional </em></h2>
-                </div>
-            </div>
-
         </div>
-    </div>
+
+        <div class="container-fluid d-flex justify-content-center" >
+            <div class="card" >
+                <img class="mx-auto d-block"  src="https://i.ibb.co/TBNM53s/Captura-de-pantalla-504-removebg-preview.png"    width="300" height="250">
+
+            </div>
+            <div class="row m-5" >
 
 
 
