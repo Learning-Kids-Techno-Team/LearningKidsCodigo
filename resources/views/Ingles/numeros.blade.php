@@ -164,7 +164,7 @@
             <div class="col-md-4">
                 <h2 ><em><br><br></em></h2>
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/GPY39Hz/periodico-removebg-preview.png"  width="300" height="200">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/h1dkNWr/Captura-de-pantalla-500-removebg-preview.png"  width="300" height="200">
                     <h2 class="mx-auto d-block" id="color"><em>Periódico</em></h2>
                 </div>
             </div>
@@ -178,7 +178,7 @@
             <div class="col-md-4">
                 <div class="card" style="width: 20rem;">
 
-                    <img class="mx-auto d-block"  src="https://i.ibb.co/Hhxk4Zy/F-removebg-preview.png"    width="305" height="200">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/m6pxPSG/Captura-de-pantalla-501-removebg-preview.png"    width="305" height="200">
                     <h2 class="mx-auto d-block" id="color"><em>Fax</em></h2>
 
 
