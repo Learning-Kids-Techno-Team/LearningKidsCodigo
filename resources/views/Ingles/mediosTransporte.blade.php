@@ -118,10 +118,13 @@
                         <h4  class="mt-5" style="color: #3B5686">Inglés</h4>
                         <h3 class="mt-5" style="text-align: center">Medios de transporte. ()</h3>
                         <p class="" id="pa">
-                            <br>
-
-                            <br>
-                            <br>
+                            <br>¡Autobuses, botes, y trenes! ¿Cuál de los medios de transporte es el favorito de tu niño?
+                            Existen muchas formas de transporte distintas que permiten desplazarnos de un lugar del mundo a otro.
+                            <br>Una de las primeras cosas que los niñoss aprenden de forma natural es a expresar cómo ir de un
+                            lugar a otro, esto es desde que apenas comienzan a hablar y a comunicar sus ideas con familiares
+                            y amigos.
+                            <br>De este modo, hablar sobre los diferentes tipos de transporte en inglés y español se torna natural para los peques de casa,
+                            y es también una herramienta útil para continuar su educación bilingüe.
                             <br>
 
                         </p>
@@ -132,6 +135,40 @@
     </div>
 
     <!-- contenedor terrestres-->
+    <div class="container-fluid mt-5 "><h2 class="mt-5">Medios de transporte terrestre (Land Transportation)</h2>
+        <div class="card">
+            <div class="row m-3">
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Bicicleta: <strong>bicycle</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+                <div class="col-md-4 mb-5">
+                    <h2 class="mt-5">
+                        Coche/auto/carro: <strong>car</strong>
+                    </h2>
+                    <iframe src="https://drive.google.com/file/d/1AfLfFPzPjqnPaLrXdsHv99VoJ-IIYgRn/preview" width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        autobús: <strong>bus</strong>
+                    </h2>
+                    <iframe src="https://drive.google.com/file/d/1AfLfFPzPjqnPaLrXdsHv99VoJ-IIYgRn/preview" width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+
+
 
 
     <!-- Video -->
