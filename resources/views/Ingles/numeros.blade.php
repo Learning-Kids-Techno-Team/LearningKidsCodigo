@@ -238,7 +238,7 @@
         <div class="container-fluid  center-block pl-5" >
             <br><br>
             <div class="container-fluid d-flex justify-content-center  " >
-                <div class="row p-5 ">
+                <div class="row ">
                     <div class="col-md-12">
 
 
@@ -250,22 +250,22 @@
                 <div class="col-md-4">
                     <div class="card" >
 
-                        <img class="mx-auto d-block" src="https://i.ibb.co/xHGm1L7/285227de039749550860eb8c369b4935-removebg-preview.png"    width="300" height="250">
-
+                        <img class="mx-auto d-block" src="https://i.ibb.co/xHGm1L7/285227de039749550860eb8c369b4935-removebg-preview.png"    width="200" height="200">
+                        <h3>first – primero</h3>
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block" src="https://i.ibb.co/d4xdwTq/numero2-removebg-preview.png"    width="300" height="250">
-
+                        <img class="mx-auto d-block" src="https://i.ibb.co/d4xdwTq/numero2-removebg-preview.png"    width="200" height="200">
+                        <h3>second – segundo </h3>
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"  src="https://i.ibb.co/DVc6Pds/numero3-removebg-preview.png"  width="300" height="250">
-
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/DVc6Pds/numero3-removebg-preview.png"  width="200" height="200">
+                        <h3>third – tercero </h3>
                     </div>
                 </div>
 
@@ -277,23 +277,23 @@
                 <div class="col-md-4">
                     <div class="card" style="width: 20rem;">
 
-                        <img class="mx-auto d-block"   src="https://i.ibb.co/rkLdKdG/numero4-removebg-preview.png"  width="305" height="250">
+                        <img class="mx-auto d-block"   src="https://i.ibb.co/rkLdKdG/numero4-removebg-preview.png"  width="200" height="200">
 
-
+                        <h3>fourth – cuarto </h3>
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"  src="https://i.ibb.co/4tXRWB9/numero5-removebg-preview.png"  width="300" height="250">
-
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/4tXRWB9/numero5-removebg-preview.png"  width="200" height="200">
+                        <h3>fifth – quinto </h3>
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"   src="https://i.ibb.co/stfH4Wz/fb3c7cda93ef5c384bf4290b71fcee9b-removebg-preview.png"  width="300" height="250">
-
+                        <img class="mx-auto d-block"   src="https://i.ibb.co/stfH4Wz/fb3c7cda93ef5c384bf4290b71fcee9b-removebg-preview.png"  width="200" height="200">
+                        <h3>sixth – sexto </h3>
                     </div>
                 </div>
 
@@ -306,24 +306,22 @@
                 <div class="col-md-4">
                     <div class="card" style="width: 20rem;">
 
-                        <img class="mx-auto d-block"  src="https://i.ibb.co/Hh91RLf/numero7-removebg-preview.png"    width="305" height="250">
-
-
-
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/Hh91RLf/numero7-removebg-preview.png"    width="200" height="200">
+                        <h3>seventh – séptimo</h3>
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"    src="https://i.ibb.co/7V11c5b/numero8-removebg-preview.png"      width="300" height="250">
-
+                        <img class="mx-auto d-block"    src="https://i.ibb.co/7V11c5b/numero8-removebg-preview.png"      width="200" height="200">
+                        <h3>eighth – octavo </h3>
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"  src="https://i.ibb.co/89NXfQh/78d944e2b65596a06335b51dc93aea22-removebg-preview.png"    width="300" height="250">
-
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/89NXfQh/78d944e2b65596a06335b51dc93aea22-removebg-preview.png"    width="200" height="200">
+                        <h3>ninth – noveno</h3>
                     </div>
                 </div>
             </div>
@@ -332,13 +330,20 @@
             <div class="container-fluid  d-flex justify-content-center">
                 <div class="col-md-4">
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"   src="https://i.ibb.co/ns8j1bv/numero10-removebg-preview.png"   width="300" height="250">
-
+                        <img class="mx-auto d-block"   src="https://i.ibb.co/ns8j1bv/numero10-removebg-preview.png"   width="200" height="200">
+                       <h3>tenth – décimo</h3>
                     </div>
                 </div>
             </div>
 
 
+            <div  class="container-fluid">
+                <div class="row mt-5">
+                    <div class="col-md-12  mb-5" style="background: #009aae">
+                        <h1 style="text-align: center">otros numeros</h1>
+                    </div>
+                </div>
+            </div>
 
 
             <!-- separador -->
