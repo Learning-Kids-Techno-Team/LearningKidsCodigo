@@ -68,6 +68,15 @@
         #borde{
             border: forestgreen 8px dotted;
         }
+        h3{
+            text-align: center;
+            font-family: bold;
+            color: #009aae;
+        }
+        p{
+            text-align: justify;
+
+        }
 
 
 
@@ -109,8 +118,8 @@
 
                         <br><br>
                         <p>
-                            Estos son parte de los números cardinales, que son aquellos que expresan cantidades y sirven para contar en inglés. Tienen muchos usos, como hablar sobre la edad de una persona, o quizás mencionar la cantidad de personas en su familia. </p>
-                        <h2>¡Comencemos!</h2>
+                           <em> <strong>Estos son parte de los números cardinales, que son aquellos que expresan cantidades y sirven para contar en inglés. Tienen muchos usos, como hablar sobre la edad de una persona, o quizás mencionar la cantidad de personas en su familia. </em></p>
+                        <h2 style="text-align: center">¡Comencemos!</h2>
 
                     </div>
                     <div class="col-md-6">
@@ -135,21 +144,21 @@
             <div class="col-md-4">
                 <div class="card" >
 
-                    <img class="mx-auto d-block" src="https://i.ibb.co/nRwsv5g/Captura-de-pantalla-495-removebg-preview.png"   width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/nRwsv5g/Captura-de-pantalla-495-removebg-preview.png"   width="200" height="200">
 
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/C2PTpNw/Captura-de-pantalla-496-removebg-preview.png"   width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/C2PTpNw/Captura-de-pantalla-496-removebg-preview.png"   width="200" height="200">
 
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/g4RgpsV/Captura-de-pantalla-497-removebg-preview.png"  width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/g4RgpsV/Captura-de-pantalla-497-removebg-preview.png"  width="200" height="200">
 
                 </div>
             </div>
@@ -162,7 +171,7 @@
             <div class="col-md-4">
                 <div class="card" style="width: 20rem;">
 
-                    <img class="mx-auto d-block" src="https://i.ibb.co/dM6fvTV/Captura-de-pantalla-498-removebg-preview.png"   width="305" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/dM6fvTV/Captura-de-pantalla-498-removebg-preview.png"   width="200" height="200">
 
 
                 </div>
@@ -170,14 +179,14 @@
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block"  src="https://i.ibb.co/ZKyz8Sz/Captura-de-pantalla-499-removebg-preview.png" width="300" height="250">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/ZKyz8Sz/Captura-de-pantalla-499-removebg-preview.png" width="200" height="200">
 
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/h1dkNWr/Captura-de-pantalla-500-removebg-preview.png"  width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/h1dkNWr/Captura-de-pantalla-500-removebg-preview.png"  width="200" height="200">
 
                 </div>
             </div>
@@ -191,7 +200,7 @@
             <div class="col-md-4">
                 <div class="card" style="width: 20rem;">
 
-                    <img class="mx-auto d-block"  src="https://i.ibb.co/m6pxPSG/Captura-de-pantalla-501-removebg-preview.png"    width="305" height="250">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/m6pxPSG/Captura-de-pantalla-501-removebg-preview.png"    width="200" height="200">
 
 
 
@@ -200,14 +209,14 @@
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block"    src="https://i.ibb.co/XxYNFs3/Captura-de-pantalla-502-removebg-preview.png"    width="300" height="250">
+                    <img class="mx-auto d-block"    src="https://i.ibb.co/XxYNFs3/Captura-de-pantalla-502-removebg-preview.png"    width="200" height="200">
 
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
-                    <img class="mx-auto d-block"  src="https://i.ibb.co/xMrBnpH/Captura-de-pantalla-503-removebg-preview.png"   width="300" height="250">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/xMrBnpH/Captura-de-pantalla-503-removebg-preview.png"   width="200" height="200">
 
                 </div>
             </div>
@@ -217,7 +226,7 @@
         <div class="container-fluid  d-flex justify-content-center">
         <div class="col-md-4">
             <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"    src="https://i.ibb.co/TBNM53s/Captura-de-pantalla-504-removebg-preview.png"   width="300" height="250">
+                <img class="mx-auto d-block"    src="https://i.ibb.co/TBNM53s/Captura-de-pantalla-504-removebg-preview.png"   width="200" height="200">
 
             </div>
         </div>
@@ -250,22 +259,22 @@
                 <div class="col-md-4">
                     <div class="card" >
 
-                        <img class="mx-auto d-block" src="https://i.ibb.co/xHGm1L7/285227de039749550860eb8c369b4935-removebg-preview.png"    width="200" height="200">
-                        <h3>first – primero</h3>
+                        <img class="mx-auto d-block" src="https://i.ibb.co/xHGm1L7/285227de039749550860eb8c369b4935-removebg-preview.png"    width="130" height="130">
+                        <h3>First – primero</h3>
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block" src="https://i.ibb.co/d4xdwTq/numero2-removebg-preview.png"    width="200" height="200">
-                        <h3>second – segundo </h3>
+                        <img class="mx-auto d-block" src="https://i.ibb.co/d4xdwTq/numero2-removebg-preview.png"    width="130" height="130">
+                        <h3>Second – segundo </h3>
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"  src="https://i.ibb.co/DVc6Pds/numero3-removebg-preview.png"  width="200" height="200">
-                        <h3>third – tercero </h3>
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/DVc6Pds/numero3-removebg-preview.png"  width="130" height="130">
+                        <h3>Third – tercero </h3>
                     </div>
                 </div>
 
@@ -277,23 +286,23 @@
                 <div class="col-md-4">
                     <div class="card" style="width: 20rem;">
 
-                        <img class="mx-auto d-block"   src="https://i.ibb.co/rkLdKdG/numero4-removebg-preview.png"  width="200" height="200">
+                        <img class="mx-auto d-block"   src="https://i.ibb.co/rkLdKdG/numero4-removebg-preview.png"  width="130" height="130">
 
-                        <h3>fourth – cuarto </h3>
+                        <h3>Fourth – cuarto </h3>
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"  src="https://i.ibb.co/4tXRWB9/numero5-removebg-preview.png"  width="200" height="200">
-                        <h3>fifth – quinto </h3>
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/4tXRWB9/numero5-removebg-preview.png"  width="130" height="130">
+                        <h3>Fifth – quinto </h3>
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"   src="https://i.ibb.co/stfH4Wz/fb3c7cda93ef5c384bf4290b71fcee9b-removebg-preview.png"  width="200" height="200">
-                        <h3>sixth – sexto </h3>
+                        <img class="mx-auto d-block"   src="https://i.ibb.co/stfH4Wz/fb3c7cda93ef5c384bf4290b71fcee9b-removebg-preview.png"  width="130" height="130">
+                        <h3>Sixth – sexto </h3>
                     </div>
                 </div>
 
@@ -306,22 +315,22 @@
                 <div class="col-md-4">
                     <div class="card" style="width: 20rem;">
 
-                        <img class="mx-auto d-block"  src="https://i.ibb.co/Hh91RLf/numero7-removebg-preview.png"    width="200" height="200">
-                        <h3>seventh – séptimo</h3>
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/Hh91RLf/numero7-removebg-preview.png"    width="130" height="130">
+                        <h3>Seventh – séptimo</h3>
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"    src="https://i.ibb.co/7V11c5b/numero8-removebg-preview.png"      width="200" height="200">
-                        <h3>eighth – octavo </h3>
+                        <img class="mx-auto d-block"    src="https://i.ibb.co/7V11c5b/numero8-removebg-preview.png"      width="130" height="130">
+                        <h3>Eighth – octavo </h3>
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"  src="https://i.ibb.co/89NXfQh/78d944e2b65596a06335b51dc93aea22-removebg-preview.png"    width="200" height="200">
-                        <h3>ninth – noveno</h3>
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/89NXfQh/78d944e2b65596a06335b51dc93aea22-removebg-preview.png"    width="130" height="130">
+                        <h3>Ninth – noveno</h3>
                     </div>
                 </div>
             </div>
@@ -330,8 +339,8 @@
             <div class="container-fluid  d-flex justify-content-center">
                 <div class="col-md-4">
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"   src="https://i.ibb.co/ns8j1bv/numero10-removebg-preview.png"   width="200" height="200">
-                       <h3>tenth – décimo</h3>
+                        <img class="mx-auto d-block"   src="https://i.ibb.co/ns8j1bv/numero10-removebg-preview.png"   width="130" height="130">
+                       <h3>Tenth – décimo</h3>
                     </div>
                 </div>
             </div>
@@ -353,21 +362,21 @@
                         <div class="card" >
 
                             <img class="mx-auto d-block" src="https://i.ibb.co/h7v2gTq/Captura-de-pantalla-509-removebg-preview.png"     width="200" height="200">
-                            <h3>cien - hundred</h3>
+                            <h3>Cien - hundred</h3>
                         </div>
                     </div>
                     <div class="col-md-4">
 
                         <div class="card" style="width: 20rem;">
                             <img class="mx-auto d-block" src="https://i.ibb.co/bW7V8zH/Captura-de-pantalla-510-removebg-preview.png"    width="200" height="200">
-                            <h3>mil - one thousand </h3>
+                            <h3>Mil - one thousand </h3>
                         </div>
                     </div>
                     <div class="col-md-4">
 
                         <div class="card" style="width: 20rem;">
                             <img class="mx-auto d-block" src="https://i.ibb.co/tCJjQHP/Captura-de-pantalla-512-removebg-preview.png"    width="200" height="200">
-                            <h3>un millon  - one million</h3>
+                            <h3>Un millon  - one million</h3>
                         </div>
                     </div>
                 </div>
