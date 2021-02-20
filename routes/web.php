@@ -523,3 +523,6 @@ Route::get('/numerosI',function (){
     return view('Ingles/numeros');
 });
 
+Route::get('/inglesColores',function (){
+    return view('Ingles/coloresIngles');
+});
