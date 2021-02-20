@@ -24,8 +24,8 @@
         }
 
         .card{
-            background: #d7f3e3;
-            border: #FDFD96 6px dashed;
+            background: #fffacc;
+            border: #a2e6ef 6px dashed;
             border-bottom-left-radius: 10px;
             border-bottom-right-radius: 10px;
             border-top-left-radius: 10px;
@@ -109,9 +109,9 @@
     <!-- contenedor text-->
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12" style="background: #d7f3e3">
+            <div class="col-md-12" style="background: #FDFD96">
                 <div class="row ml-5 mr-5">
-                    <div class="col-md-7  mt-5" style="background: #FDFD96">
+                    <div class="col-md-7  mt-5" style="background: #a2e6ef ">
                         <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/2FHWMP5/med-removebg-preview.png">
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
@@ -214,7 +214,7 @@
                         Bus escolar: <strong>school bus</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block" src="https://i.ibb.co/0Kq1xcS/scho-removebg-preview.png" width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/0Kq1xcS/scho-removebg-preview.png" width="320" height="250">
                 </div>
 
                 <div class="col-md-4">
@@ -222,7 +222,7 @@
                         Autobús de dos pisos: <strong>double-decker bus</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block" src="https://i.ibb.co/bRDVZDH/busss-removebg-preview.png" width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/bRDVZDH/busss-removebg-preview.png" width="320" height="250">
                 </div>
 
 
@@ -246,7 +246,7 @@
                         Tranvía: <strong>tram/cable car</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block" src="https://i.ibb.co/bJwwBhh/tran2-removebg-preview.png" width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/bJwwBhh/tran2-removebg-preview.png" width="320" height="250">
                 </div>
                 <div class="col-md-4">
                     <h2 class="mt-5">
@@ -306,7 +306,7 @@
 
                 <div class="col-md-4 mb-5">
                     <h2 class="mt-5">
-                        Coche patrulla/patrulla de policía: <strong>patrol car</strong>
+                        Patrulla de policía: <strong>patrol car</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
                     <img class="mx-auto d-block" src="https://i.ibb.co/L02Cgy2/patrulla-removebg-preview.png" width="300" height="250">
@@ -433,7 +433,7 @@
                         Transbordador espacial: <strong>space shuttle</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block" src="https://i.ibb.co/mRP1QSY/transbor-removebg-preview.png" width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/mRP1QSY/transbor-removebg-preview.png" width="350" height="270">
                 </div>
                 <div class="col-md-4">
                     <h2 class="mt-5">
@@ -552,8 +552,8 @@
         <div class="row">
             <div class="col-md-12">
                 <h2 style="text-align: center">
-                    Y ahora vamos a ver un video para aprender la correcta pronunciación de cada uno
-                    <br>de los días en inglés con esta divertida canción. ¡Vamos a cantar!
+                    Y ahora vamos a ver un video para aprender la correcta pronunciación
+                    <br>de los medios de transporte en inglés con esta divertida canción. ¡Vamos a cantar!
                     <br>
                 </h2>
                 <iframe id="bord" class="mx-auto d-block" width="670" height="390"></iframe>
@@ -566,8 +566,7 @@
 
     <!-- separador -->
     <div id="separadorInferior">
-        <div class="content ">
-
+        <div class="content">
         </div>
     </div>
 
