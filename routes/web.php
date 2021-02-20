@@ -515,6 +515,9 @@ Route::get('/mediosTra',function (){
     return view('Ingles/mediosTransporte');
 });
 
+Route::get('/alfabeto',function (){
+    return view('Ingles/alfabeto');
+});
 
 Route::get('/numerosI',function (){
     return view('Ingles/numeros');
