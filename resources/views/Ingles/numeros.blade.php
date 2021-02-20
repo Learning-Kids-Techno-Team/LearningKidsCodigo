@@ -19,20 +19,20 @@
     </script>
     <style>
         .navbar{
-            background: #60A71B;
+            background: aquamarine;
         }
 
         body{
 
-            background: #dcfecb;
+            background: #d6e9f9;
 
         }
 
 
         .card{
 
-            background: #D2FFB5;
-            border:springgreen 8px solid;
+            background:#b8ecf3;
+            border:aquamarine 8px solid;
             border-bottom-left-radius: 10px;
             border-bottom-right-radius: 10px;
             border-top-left-radius: 10px;
@@ -45,7 +45,7 @@
             width: 100%;
             height: 100px;
             margin-left: -5px;
-            background: #60A71B;
+            background: aquamarine;
             border-top-left-radius: 50%;
             border-top-right-radius:50%;
         }
@@ -66,7 +66,7 @@
             color: black;
         }
         #borde{
-            border: forestgreen 8px dotted;
+            border:#009aae 8px dotted;
         }
         h3{
             text-align: center;
@@ -96,7 +96,7 @@
                     <div class="col-md-6" >
                         <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/84FrH7C/numeros-ingles-removebg-preview.png"  width="450" height="380" >
                     </div>
-                    <div class="col-xl-6  mt-5" style=" background:  #C5FFA0" id="borde">
+                    <div class="col-xl-6  mt-5" style=" background:  #a2e6ef" id="borde">
 
                         <h3 class="mt-5" style="text-align: center; color: tomato">Números del 1 al 10 en inglés (numbers from 1 to 10)</h3>
                         <p class="" id="pa">
@@ -114,7 +114,7 @@
 
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-md-6 mt-5">
+                    <div class="col-md-6">
 
                         <br><br>
                         <p>
@@ -132,7 +132,7 @@
     <div class="container-fluid  center-block pl-5" >
         <br><br>
         <div class="container-fluid d-flex justify-content-center  " >
-            <div class="row p-5 ">
+            <div class="row  ">
                 <div class="col-md-12">
 
 
@@ -235,13 +235,26 @@
 
         <div  class="container-fluid">
             <div class="row mt-5">
-                <div class="col-md-12  mb-5" style="background: #009aae">
+                <div class="col-md-12  mb-5" style="background: #55ecff">
                     <h1 style="text-align: center">Números ordinales en inglés (Ordinal numbers)</h1>
                 </div>
             </div>
         </div>
 
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-8 mt-5">
 
+                    <p>
+                        Los números ordinales se usan para hablar de posiciones, cuando un evento pasa antes que otro, por ejemplo, y también se usan para hablar de fechas de cumpleaños u otras fechas importantes.
+                    </p>
+
+                </div>
+                <div class="col-md-4 ">
+                    <img class="mx-auto d-block " src="https://i.ibb.co/P6ykpJg/67653424-medallistas-cabritos-que-se-colocan-en-la-competencia-podio-ganador-con-el-primer-segundo-y.png" width="300"  />
+                </div>
+            </div>
+        </div>
 
 
         <div class="container-fluid  center-block pl-5" >
@@ -348,8 +361,8 @@
 
             <div  class="container-fluid">
                 <div class="row mt-5">
-                    <div class="col-md-12  mb-5" style="background: #009aae">
-                        <h1 style="text-align: center">otros numeros</h1>
+                    <div class="col-md-12  mb-5" style="background: #55ecff">
+                        <h1 style="text-align: center">Otros numeros</h1>
                     </div>
                 </div>
             </div>
