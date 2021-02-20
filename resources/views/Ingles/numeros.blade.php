@@ -346,7 +346,34 @@
             </div>
 
 
-            <!-- separador -->
+
+
+                <div class="row m-5 d-flex justify-content-center" >
+                    <div class="col-md-4">
+                        <div class="card" >
+
+                            <img class="mx-auto d-block" src="https://i.ibb.co/h7v2gTq/Captura-de-pantalla-509-removebg-preview.png"     width="200" height="200">
+                            <h3>cien - hundred</h3>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+
+                        <div class="card" style="width: 20rem;">
+                            <img class="mx-auto d-block" src="https://i.ibb.co/bW7V8zH/Captura-de-pantalla-510-removebg-preview.png"    width="200" height="200">
+                            <h3>mil - one thousand </h3>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+
+                        <div class="card" style="width: 20rem;">
+                            <img class="mx-auto d-block" src="https://i.ibb.co/tCJjQHP/Captura-de-pantalla-512-removebg-preview.png"    width="200" height="200">
+                            <h3>un millon  - one million</h3>
+                        </div>
+                    </div>
+                </div>
+
+
+                    <!-- separador -->
     <div id="separadorInferior">
         <div class="content">
         </div>
