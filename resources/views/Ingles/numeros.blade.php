@@ -213,16 +213,135 @@
             </div>
         </div>
 
-        <div class="container-fluid d-flex justify-content-center" >
-            <div class="card" >
-                <img class="mx-auto d-block"  src="https://i.ibb.co/TBNM53s/Captura-de-pantalla-504-removebg-preview.png"    width="300" height="250">
+
+        <div class="container-fluid  d-flex justify-content-center">
+        <div class="col-md-4">
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"    src="https://i.ibb.co/TBNM53s/Captura-de-pantalla-504-removebg-preview.png"   width="300" height="250">
 
             </div>
+        </div>
+        </div>
+
+
+        <div  class="container-fluid">
+            <div class="row mt-5">
+                <div class="col-md-12  mb-5" style="background: #009aae">
+                    <h1 style="text-align: center">Números ordinales en inglés (Ordinal numbers)</h1>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <div class="container-fluid  center-block pl-5" >
+            <br><br>
+            <div class="container-fluid d-flex justify-content-center  " >
+                <div class="row p-5 ">
+                    <div class="col-md-12">
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="row m-5 d-flex justify-content-center" >
+                <div class="col-md-4">
+                    <div class="card" >
+
+                        <img class="mx-auto d-block" src="https://i.ibb.co/xHGm1L7/285227de039749550860eb8c369b4935-removebg-preview.png"    width="300" height="250">
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+
+                    <div class="card" style="width: 20rem;">
+                        <img class="mx-auto d-block" src="https://i.ibb.co/d4xdwTq/numero2-removebg-preview.png"    width="300" height="250">
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+
+                    <div class="card" style="width: 20rem;">
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/DVc6Pds/numero3-removebg-preview.png"  width="300" height="250">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="container-fluid  center-block pl-5" >
+
             <div class="row m-5" >
+                <div class="col-md-4">
+                    <div class="card" style="width: 20rem;">
+
+                        <img class="mx-auto d-block"   src="https://i.ibb.co/rkLdKdG/numero4-removebg-preview.png"  width="305" height="250">
+
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+
+                    <div class="card" style="width: 20rem;">
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/4tXRWB9/numero5-removebg-preview.png"  width="300" height="250">
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+
+                    <div class="card" style="width: 20rem;">
+                        <img class="mx-auto d-block"   src="https://i.ibb.co/stfH4Wz/fb3c7cda93ef5c384bf4290b71fcee9b-removebg-preview.png"  width="300" height="250">
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="container-fluid  center-block pl-5" >
+
+            <div class="row m-5" >
+                <div class="col-md-4">
+                    <div class="card" style="width: 20rem;">
+
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/m6pxPSG/Captura-de-pantalla-501-removebg-preview.png"    width="305" height="250">
 
 
 
-    <!-- separador -->
+                    </div>
+                </div>
+                <div class="col-md-4">
+
+                    <div class="card" style="width: 20rem;">
+                        <img class="mx-auto d-block"    src="https://i.ibb.co/XxYNFs3/Captura-de-pantalla-502-removebg-preview.png"    width="300" height="250">
+
+                    </div>
+                </div>
+                <div class="col-md-4">
+
+                    <div class="card" style="width: 20rem;">
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/xMrBnpH/Captura-de-pantalla-503-removebg-preview.png"   width="300" height="250">
+
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="container-fluid  d-flex justify-content-center">
+                <div class="col-md-4">
+                    <div class="card" style="width: 20rem;">
+                        <img class="mx-auto d-block"    src="https://i.ibb.co/TBNM53s/Captura-de-pantalla-504-removebg-preview.png"   width="300" height="250">
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <!-- separador -->
     <div id="separadorInferior">
         <div class="content">
         </div>
