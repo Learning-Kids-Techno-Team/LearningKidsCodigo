@@ -306,7 +306,7 @@
                 <div class="col-md-4">
                     <div class="card" style="width: 20rem;">
 
-                        <img class="mx-auto d-block"  src="https://i.ibb.co/m6pxPSG/Captura-de-pantalla-501-removebg-preview.png"    width="305" height="250">
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/Hh91RLf/numero7-removebg-preview.png"    width="305" height="250">
 
 
 
@@ -315,14 +315,14 @@
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"    src="https://i.ibb.co/XxYNFs3/Captura-de-pantalla-502-removebg-preview.png"    width="300" height="250">
+                        <img class="mx-auto d-block"    src="https://i.ibb.co/7V11c5b/numero8-removebg-preview.png"      width="300" height="250">
 
                     </div>
                 </div>
                 <div class="col-md-4">
 
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"  src="https://i.ibb.co/xMrBnpH/Captura-de-pantalla-503-removebg-preview.png"   width="300" height="250">
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/89NXfQh/78d944e2b65596a06335b51dc93aea22-removebg-preview.png"    width="300" height="250">
 
                     </div>
                 </div>
@@ -332,7 +332,7 @@
             <div class="container-fluid  d-flex justify-content-center">
                 <div class="col-md-4">
                     <div class="card" style="width: 20rem;">
-                        <img class="mx-auto d-block"    src="https://i.ibb.co/TBNM53s/Captura-de-pantalla-504-removebg-preview.png"   width="300" height="250">
+                        <img class="mx-auto d-block"   src="https://i.ibb.co/ns8j1bv/numero10-removebg-preview.png"   width="300" height="250">
 
                     </div>
                 </div>
