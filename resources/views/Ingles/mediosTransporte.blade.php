@@ -95,7 +95,7 @@
 
         #bord{
             background: lightblue;
-            border: #fff6af 15px dashed;
+            border: #FDFD96 15px dashed;
         }
 
     </style>
@@ -472,7 +472,7 @@
                         Nave espacial: <strong>spaceship</strong>
                     </h2>
                     <iframe width="300" height="80"></iframe>
-                    <img class="mx-auto d-block" src="https://i.ibb.co/9WYzzjc/nave-removebg-preview.png" width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/9WYzzjc/nave-removebg-preview.png" width="290" height="230">
                 </div>
 
             </div>
