@@ -112,7 +112,7 @@
             <div class="col-md-12" style="background: #d7f3e3">
                 <div class="row ml-5 mr-5">
                     <div class="col-md-7  mt-5" style="background: #FDFD96">
-                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/0Xt4vNh/conj-removebg-preview.png">
+                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/2FHWMP5/med-removebg-preview.png">
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                         <h4  class="mt-5" style="color: #3B5686">Inglés</h4>
@@ -346,7 +346,7 @@
 
                 <div class="col-md-4">
                     <h2 class="mt-5">
-                        Carro de carrera/kart: <strong>go-cart</strong>
+                        Carro de carrera: <strong>go-cart</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
                     <img class="mx-auto d-block" src="https://i.ibb.co/2yhW6Db/go-removebg-preview.png" width="300" height="250">
@@ -364,7 +364,7 @@
                         Motoneta: <strong>scooter</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block" src="https://i.ibb.co/ryYKQXz/motone-removebg-preview.png" width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/qr10fbR/mu-removebg-preview.png" width="300" height="250">
                 </div>
 
                 <div class="col-md-4">
@@ -372,7 +372,7 @@
                         Moto de nieve: <strong>snowmobile</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block" src="https://i.ibb.co/LShz5Ws/niev-removebg-preview.png" width="400" height="280">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/fDXLBBj/aaa-removebg-preview.png"  width="300" height="250">
                 </div>
 
                 <div class="col-md-4 mb-5">
@@ -380,7 +380,7 @@
                         Segway: <strong>Segway</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block" src="https://i.ibb.co/10MxQGm/seg-W-removebg-preview.png" width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/pWcKjFD/seg-removebg-preview.png" width="250" height="250">
                 </div>
 
         </div>
@@ -423,65 +423,56 @@
             <div class="row m-3">
                 <div class="col-md-4">
                     <h2 class="mt-5">
-                        Helicóptero: <strong>helicopter</strong>
+                        Avión: <strong>airplane (plane)</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/dG6C8mR/unnamed-removebg-preview-4.png" width="300" height="250">
                 </div>
-
                 <div class="col-md-4">
                     <h2 class="mt-5">
                         Transbordador espacial: <strong>space shuttle</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/mRP1QSY/transbor-removebg-preview.png" width="300" height="250">
                 </div>
-
                 <div class="col-md-4">
                     <h2 class="mt-5">
-                        Avión: <strong>airplane (plane)</strong>
+                        Helicóptero: <strong>helicopter</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/2sGVkxn/helic-removebg-preview.png" width="300" height="250">
                 </div>
 
-        </div>
+
+            </div>
     </div>
     </div>
     <!-- contenedor -->
     <div class="container-fluid mt-5 ">
         <div class="card">
             <div class="row m-3">
-                <div class="col-md-3 mb-5">
+                <div class="col-md-4 mb-5">
                     <h2 class="mt-5">
                         Globo aerostático: <strong>hot air balloon</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/5Rkf0f4/glob-removebg-preview.png" width="300" height="250">
                 </div>
 
-                <div class="col-md-3 mb-5">
-                    <h2 class="mt-5">
-                        Dirigible: <strong>blimp/zeppelin</strong>
-                    </h2>
-                    <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
-                </div>
-
-                <div class="col-md-3 mb-5">
+                <div class="col-md-4 mb-5">
                     <h2 class="mt-5">
                         Cohete: <strong>rocket</strong>
                     </h2>
                     <iframe width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/mHy271s/cohet-removebg-preview.png" width="300" height="250">
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-4 mb-5">
                     <h2 class="mt-5">
                         Nave espacial: <strong>spaceship</strong>
                     </h2>
                     <iframe width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/9WYzzjc/nave-removebg-preview.png" width="300" height="250">
                 </div>
 
             </div>
@@ -498,24 +489,25 @@
                         Velero: <strong>sailboat</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
-                </div>
-
-                <div class="col-md-4 mb-5">
-                    <h2 class="mt-5">
-                        Crucero: <strong>cruise ship</strong>
-                    </h2>
-                    <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/GMtdJXw/at-removebg-preview-1.png" width="300" height="250">
                 </div>
 
                 <div class="col-md-4">
                     <h2 class="mt-5">
-                        Buque de carga: <strong>cargo ship</strong>
+                        Crucero: <strong>cruise ship</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/DrCHtz0/crucer-removebg-preview.png" width="300" height="250">
                 </div>
+
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Submarino: <strong>submarine</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/ysmKTT2/submar-removebg-preview.png" width="300" height="250">
+                </div>
+
 
         </div>
     </div>
@@ -525,36 +517,28 @@
     <div class="container-fluid mt-5 ">
         <div class="card">
             <div class="row m-3">
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <h2 class="mt-5">
-                        Barco pirata: <strong>pirate ship</strong>
+                        Barco: <strong>ship</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/2dqyZXv/cap-removebg-preview.png" width="300" height="250">
                 </div>
 
-                <div class="col-md-3 mb-5">
+                <div class="col-md-4">
                     <h2 class="mt-5">
                         Moto de agua: <strong>jet ski</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/PxcMCfN/moa-removebg-preview.png" width="300" height="250">
                 </div>
 
-                <div class="col-md-3">
+                <div class="col-md-4">
                     <h2 class="mt-5">
                         Balsa: <strong>raft</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
-                </div>
-
-                <div class="col-md-3">
-                    <h2 class="mt-5">
-                        Submarino: <strong>submarine</strong>
-                    </h2>
-                    <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/z7dbYJ3/balsa-removebg-preview.png" width="300" height="250">
                 </div>
 
             </div>
@@ -572,7 +556,7 @@
                     <br>de los días en inglés con esta divertida canción. ¡Vamos a cantar!
                     <br>
                 </h2>
-                <iframe id="bord" class="mx-auto d-block" src="https://drive.google.com/file/d/1YIGCenZnFDLYhgCUH8OiHyw2Y1NKDNEd/preview" width="670" height="390"></iframe>
+                <iframe id="bord" class="mx-auto d-block" width="670" height="390"></iframe>
             </div>
 
         </div>
