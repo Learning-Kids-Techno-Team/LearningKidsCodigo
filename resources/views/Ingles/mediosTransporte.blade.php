@@ -112,11 +112,11 @@
             <div class="col-md-12" style="background: #d7f3e3">
                 <div class="row ml-5 mr-5">
                     <div class="col-md-7  mt-5" style="background: #FDFD96">
-                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/9yzGBk8/est-removebg-preview.png">
+                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/0Xt4vNh/conj-removebg-preview.png">
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                         <h4  class="mt-5" style="color: #3B5686">Inglés</h4>
-                        <h3 class="mt-5" style="text-align: center">Medios de transporte. ()</h3>
+                        <h3 class="mt-5" style="text-align: center">Medios de transporte en inglés.</h3>
                         <p class="" id="pa">
                             <br>¡Autobuses, botes, y trenes! ¿Cuál de los medios de transporte es el favorito de tu niño?
                             Existen muchas formas de transporte distintas que permiten desplazarnos de un lugar del mundo a otro.
@@ -135,7 +135,7 @@
     </div>
 
     <!-- contenedor terrestres-->
-    <div class="container-fluid mt-5 "><h2 class="mt-5">Medios de transporte terrestre (Land Transportation)</h2>
+    <div class="container-fluid mt-5"><h2 class="mt-5">Medios de transporte terrestre en inglés (Land Transportation)</h2>
         <div class="card">
             <div class="row m-3">
                 <div class="col-md-4">
@@ -143,31 +143,423 @@
                         Bicicleta: <strong>bicycle</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
-                    <img class="mx-auto d-block"  width="300" height="250">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/5YhBKHN/bcy-removebg-preview.png" width="300" height="280">
                 </div>
 
                 <div class="col-md-4 mb-5">
                     <h2 class="mt-5">
+                        Triciclo: <strong>tricycle</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/7rNybkF/tricicl-removebg-preview.png" width="300" height="220">
+                </div>
+
+                <div class="col-md-4 mb-5">
+                    <h2 class="mt-5">
+                        Motocicleta: <strong>motorcycle (motorbike)</strong>
+                    </h2>
+                    <iframe width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/H4kcxhg/mot-removebg-preview.png" width="300" height="220">
+                </div>
+
+            </div>
+    </div>
+    </div>
+
+    <!-- contenedor terrestres-->
+    <div class="container-fluid mt-5 ">
+        <div class="card">
+            <div class="row m-3">
+                <div class="col-md-4 mb-5">
+                    <h2 class="mt-5">
                         Coche/auto/carro: <strong>car</strong>
                     </h2>
-                    <iframe src="https://drive.google.com/file/d/1AfLfFPzPjqnPaLrXdsHv99VoJ-IIYgRn/preview" width="300" height="80"></iframe>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/WFYGLGZ/car-removebg-preview.png" width="280" height="200">
+                </div>
+
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Camioneta: <strong>pick-up truck</strong>
+                    </h2>
+                    <iframe width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/TP6YKHc/camionet-removebg-preview.png" width="300" height="250">
+                </div>
+
+                <div class="col-md-4 mb-5">
+                    <h2 class="mt-5">
+                        Descapotable: <strong>convertible</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/rbtT84b/desmontabl-removebg-preview.png" width="290" height="200">
+                </div>
+
+        </div>
+    </div>
+    </div>
+
+    <!-- contenedor terrestres-->
+    <div class="container-fluid mt-5 ">
+        <div class="card">
+            <div class="row m-3">
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        autobús: <strong>bus</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/m4JD5wg/bus-removebg-preview.png" width="300" height="250">
+                </div>
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Bus escolar: <strong>school bus</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/0Kq1xcS/scho-removebg-preview.png" width="300" height="250">
+                </div>
+
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Autobús de dos pisos: <strong>double-decker bus</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/bRDVZDH/busss-removebg-preview.png" width="300" height="250">
+                </div>
+
+
+
+        </div>
+    </div>
+    </div>
+    <!-- contenedor terrestres-->
+    <div class="container-fluid mt-5 ">
+        <div class="card">
+            <div class="row m-3">
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Metro/subterraneo: <strong>subway</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/yR3MPHn/metr-removebg-preview.png" width="400" height="290">
+                </div>
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Tranvía: <strong>tram/cable car</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/bJwwBhh/tran2-removebg-preview.png" width="300" height="250">
+                </div>
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Tren: <strong>train</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/pyCgVw7/tren-removebg-preview.png" width="300" height="230">
+                </div>
+
+        </div>
+    </div>
+    </div>
+    <!-- contenedor terrestres-->
+    <div class="container-fluid mt-5 ">
+        <div class="card">
+            <div class="row m-3">
+                <div class="col-md-4 mb-5">
+                    <h2 class="mt-5">
+                        Camión: <strong>truck</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/4KLjLDw/camio-removebg-preview.png" width="300" height="250">
+                </div>
+
+                <div class="col-md-4 mb-5">
+                    <h2 class="mt-5">
+                        Camión de la basura: <strong>garbage truck</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/F7cK1nV/basur-removebg-preview.png" width="350" height="280">
+                </div>
+
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Tractor: <strong>tractor</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/WDVQdRT/tr6-removebg-preview.png" width="300" height="250">
+                </div>
+
+
+            </div>
+    </div>
+    </div>
+    <!-- contenedor terrestres-->
+    <div class="container-fluid mt-5 ">
+        <div class="card">
+            <div class="row m-3">
+
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Ambulancia: <strong>ambulance</strong>
+                    </h2>
+                    <iframe width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/Vx9zYS6/ambu-removebg-preview.png" width="300" height="250">
+                </div>
+
+                <div class="col-md-4 mb-5">
+                    <h2 class="mt-5">
+                        Coche patrulla/patrulla de policía: <strong>patrol car</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/L02Cgy2/patrulla-removebg-preview.png" width="300" height="250">
+                </div>
+
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Taxi: <strong>taxi</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/02b08c4/tx-removebg-preview.png" width="300" height="250">
+                </div>
+
+
+            </div>
+    </div>
+    </div>
+    <!-- contenedor terrestres-->
+    <div class="container-fluid mt-5 ">
+        <div class="card">
+            <div class="row m-3">
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Furgoneta: <strong>van</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/4RSm5sc/furrg-removebg-preview.png" width="300" height="250">
+                </div>
+
+                <div class="col-md-4 mb-5">
+                    <h2 class="mt-5">
+                        Limusina: <strong>limousine</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/xH3h5P7/limu-removebg-preview.png" width="300" height="200">
+                </div>
+
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Carro de carrera/kart: <strong>go-cart</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/2yhW6Db/go-removebg-preview.png" width="300" height="250">
+                </div>
+
+        </div>
+    </div>
+    </div>
+    <!-- contenedor -->
+    <div class="container-fluid mt-5 ">
+        <div class="card">
+            <div class="row m-3">
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Motoneta: <strong>scooter</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/ryYKQXz/motone-removebg-preview.png" width="300" height="250">
+                </div>
+
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Moto de nieve: <strong>snowmobile</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/LShz5Ws/niev-removebg-preview.png" width="400" height="280">
+                </div>
+
+                <div class="col-md-4 mb-5">
+                    <h2 class="mt-5">
+                        Segway: <strong>Segway</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/10MxQGm/seg-W-removebg-preview.png" width="300" height="250">
+                </div>
+
+        </div>
+    </div>
+    </div>
+    <!-- contenedor-->
+    <div class="container-fluid mt-5 ">
+        <div class="card">
+            <div class="row m-3">
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Grúa: <strong>tow truck</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/wWhqj8j/gruaa-removebg-preview.png" width="300" height="250">
+                </div>
+
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Montacargas: <strong>forklift</strong>
+                    </h2>
+                    <iframe width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/GQw7NwV/monta-removebg-preview.png" width="300" height="250">
+                </div>
+
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Remolque: <strong>wagon</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/dmGWt7W/remol-removebg-preview.png" width="300" height="250">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- contenedor aereo-->
+    <div class="container-fluid mt-5 "><h2 class="mt-5">Medios de transporte aéreo en inglés (Air transport)</h2>
+        <div class="card">
+            <div class="row m-3">
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Helicóptero: <strong>helicopter</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
                     <img class="mx-auto d-block"  width="300" height="250">
                 </div>
 
                 <div class="col-md-4">
                     <h2 class="mt-5">
-                        autobús: <strong>bus</strong>
+                        Transbordador espacial: <strong>space shuttle</strong>
                     </h2>
-                    <iframe src="https://drive.google.com/file/d/1AfLfFPzPjqnPaLrXdsHv99VoJ-IIYgRn/preview" width="300" height="80"></iframe>
+                    <iframe  width="300" height="80"></iframe>
                     <img class="mx-auto d-block"  width="300" height="250">
                 </div>
 
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Avión: <strong>airplane (plane)</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+        </div>
+    </div>
+    </div>
+    <!-- contenedor -->
+    <div class="container-fluid mt-5 ">
+        <div class="card">
+            <div class="row m-3">
+                <div class="col-md-3 mb-5">
+                    <h2 class="mt-5">
+                        Globo aerostático: <strong>hot air balloon</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+                <div class="col-md-3 mb-5">
+                    <h2 class="mt-5">
+                        Dirigible: <strong>blimp/zeppelin</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+                <div class="col-md-3 mb-5">
+                    <h2 class="mt-5">
+                        Cohete: <strong>rocket</strong>
+                    </h2>
+                    <iframe width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+                <div class="col-md-3">
+                    <h2 class="mt-5">
+                        Nave espacial: <strong>spaceship</strong>
+                    </h2>
+                    <iframe width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
 
             </div>
         </div>
     </div>
 
 
+    <!-- contenedor ACUATICO-->
+    <div class="container-fluid mt-5"><h2 class="mt-5">Medios de transporte acuático en inglés (Water transportation)</h2>
+        <div class="card">
+            <div class="row m-3">
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Velero: <strong>sailboat</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+                <div class="col-md-4 mb-5">
+                    <h2 class="mt-5">
+                        Crucero: <strong>cruise ship</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+                <div class="col-md-4">
+                    <h2 class="mt-5">
+                        Buque de carga: <strong>cargo ship</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+        </div>
+    </div>
+    </div>
+
+    <!-- contenedor ACUA-->
+    <div class="container-fluid mt-5 ">
+        <div class="card">
+            <div class="row m-3">
+                <div class="col-md-3">
+                    <h2 class="mt-5">
+                        Barco pirata: <strong>pirate ship</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+                <div class="col-md-3 mb-5">
+                    <h2 class="mt-5">
+                        Moto de agua: <strong>jet ski</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+                <div class="col-md-3">
+                    <h2 class="mt-5">
+                        Balsa: <strong>raft</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+                <div class="col-md-3">
+                    <h2 class="mt-5">
+                        Submarino: <strong>submarine</strong>
+                    </h2>
+                    <iframe  width="300" height="80"></iframe>
+                    <img class="mx-auto d-block"  width="300" height="250">
+                </div>
+
+            </div>
+        </div>
+    </div>
 
 
 
