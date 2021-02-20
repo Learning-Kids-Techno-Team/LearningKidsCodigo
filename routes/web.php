@@ -526,3 +526,4 @@ Route::get('/numerosI',function (){
 Route::get('/inglesColores',function (){
     return view('Ingles/coloresIngles');
 });
+
