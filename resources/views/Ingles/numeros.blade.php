@@ -84,6 +84,8 @@
 
     </style>
 </head>
+
+
 <body>
 <!-- navbar-->
 @section('content')
