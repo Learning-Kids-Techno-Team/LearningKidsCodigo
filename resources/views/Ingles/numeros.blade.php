@@ -6,7 +6,7 @@
     <meta charset="utf-8">
 
 
-    <title>Medios Comunicacion</title>
+    <title>Numeros en inglés</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <!-- Seguimiento -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-JWFFJETEMQ"></script>
@@ -85,14 +85,14 @@
             <div class="col-md-12" >
                 <div class="row ml-5 mr-5"  >
                     <div class="col-md-6" >
-                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/zFBJr4s/comuni-removebg-preview.png"  width="450" height="380" >
+                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/84FrH7C/numeros-ingles-removebg-preview.png"  width="450" height="380" >
                     </div>
                     <div class="col-xl-6  mt-5" style=" background:  #C5FFA0" id="borde">
 
                         <h3 class="mt-5" style="text-align: center; color: tomato">Números del 1 al 10 en inglés (numbers from 1 to 10)</h3>
                         <p class="" id="pa">
                             <strong><br><br>
-                                Estos son parte de los números cardinales, que son aquellos que expresan cantidades y sirven para contar en inglés. Tienen muchos usos, como hablar sobre la edad de una persona, o quizás mencionar la cantidad de personas en su familia.
+                                Los números son la base para entender y realizar diferentes operaciones matemáticas. Los números juegan un papel cada vez más importante en sus vidas, ya que su nivel educativo avanza y sus conocimientos se desarrollan. Al aprender los números, se puede comprender conceptos matemáticos básicos desde temprana edad, lo que tendrá un gran impacto en la confianza que tienen en sus habilidades matemáticas. Esta confianza es la clave para  tengas mucha mayor facilidad de aprendizaje en el futuro. Igualmente, es muy útil para tus habilidades lingüísticas aprender los números en inglés a temprana edad, así crecerán sabiéndolos de forma natural.
                             </strong>
                         </p>
                     </div>
@@ -102,14 +102,31 @@
 
 
     <!-- contenedor-->
+
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-md-6 mt-5">
+
+                        <br><br>
+                        <p>
+                            Estos son parte de los números cardinales, que son aquellos que expresan cantidades y sirven para contar en inglés. Tienen muchos usos, como hablar sobre la edad de una persona, o quizás mencionar la cantidad de personas en su familia. </p>
+                        <h2>¡Comencemos!</h2>
+
+                    </div>
+                    <div class="col-md-6">
+                        <img src="https://i.ibb.co/Ny8JbMM/ninos-dibujos-animados-123-numeros-97632-579-removebg-preview.png" width="500" />
+                    </div>
+                </div>
+            </div>
+
+
     <div class="container-fluid  center-block pl-5" >
         <br><br>
         <div class="container-fluid d-flex justify-content-center  " >
             <div class="row p-5 ">
-                <div class="col-md-12  " id="bor" style="background: #FDFD96">
+                <div class="col-md-12">
 
-                    <h3>Algunos ejemplos de medios de comunicación:
-                    </h3>
+
                 </div>
             </div>
         </div>
