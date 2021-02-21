@@ -227,7 +227,7 @@
     </div>
         <div class="row mb-5">
             <div class="col-md-3">
-                <a href="{{url('/')}}">
+                <a href="{{url('/inglesColores')}}">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/SssjzCN/54086510-dibujado-a-mano-alzada-l-pices-de-colores-textura-de-dibujos-animados-removebg-preview.png" class="rounded-circle mx-auto d-block img-thumbnail" width="150" />
                     <h4>Colores </h4>
 

@@ -133,7 +133,14 @@
                 </div>
             </div>
         </div>
-        <!-- contenedor-->
+        <div class="container-fluid " id="banderin" >
+            <div class="row " >
+                <div class="col-md-12">
+                    <img src="https://i.ibb.co/FzMXF3V/pintura-removebg-preview.png"    height="150" class="mx-auto d-block" >
+                </div>
+            </div>
+
+            <!-- contenedor-->
 
         <div class="row m-5" >
             <div class="col-md-4" >
@@ -324,6 +331,12 @@
 
 </div>
 </div>
+<div class="container-fluid " id="banderin" >
+    <div class="row " >
+        <div class="col-md-12">
+            <img src="https://i.ibb.co/FzMXF3V/pintura-removebg-preview.png"    height="150" >
+        </div>
+    </div>
 
 
 </div>
