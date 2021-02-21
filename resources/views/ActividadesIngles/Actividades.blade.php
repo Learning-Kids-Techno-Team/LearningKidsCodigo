@@ -143,7 +143,7 @@
                     <img img src="https://i.ibb.co/BspywvW/personajes-dibujos-animados-diferentes-profesiones-29937-4353-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
                     <div class="card-body">
                         <h5 class="card-title" align="center">Actividad de las profesiones</h5>
-                        <a href=" {{ url('/sentimientoActividad') }}" class="btn">Ver</a>
+                        <a href=" {{ url('/actividadProfesiones') }}" class="btn">Ver</a>
                     </div>
                 </div>
             </div>
@@ -209,9 +209,9 @@
                                 </div>
                             </div>
 
+                        </div>
 
-
-
+</div>
 
             <div  id="separadorInferior2">
                 <div class="content ">
@@ -221,7 +221,7 @@
         </div>
     </div>
     </div>
-
+            </div>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
