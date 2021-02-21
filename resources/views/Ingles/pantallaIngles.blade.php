@@ -235,7 +235,7 @@
                 </a>
             </div>
             <div class="col-md-3">
-                <a href="{{url('/')}}">
+                <a href="{{url('/numerosI')}}">
                 <img  style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/1mDpDjv/ninos-dibujos-animados-123-numeros-97632-620-removebg-preview.png"  class="rounded-circle mx-auto d-block  img-thumbnail" width="150" />
                     <h4>Números </h4>
                 </a>
@@ -298,16 +298,23 @@
 
                 </a>
             </div>
+
         </div>
     </div>
 
     <div class="container-fluid " id="banderin" >
         <div class="row " >
-            <div class="col-md-12">
+            <div class="col-md-8">
                 <img src="https://i.ibb.co/D7L6jV4/tren-removebg-preview.png"  height="150" >
             </div>
 
+            <div class="col-md-4">
+                <a href="{{url('/')}}">
+                    <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/Ssvn24c/md-da49defeff45b5d8311aba88332ed9a0-removebg-preview.png"    class="rounded-circle mx-auto d-block   img-thumbnail" width="150" />
+                    <h4>Actividades </h4>
 
+                </a>
+            </div>
         </div>
     </div>
 
