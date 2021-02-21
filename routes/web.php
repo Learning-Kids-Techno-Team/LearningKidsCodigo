@@ -527,3 +527,12 @@ Route::get('/inglesColores',function (){
     return view('Ingles/coloresIngles');
 });
 
+
+//Actividades Sprint 7
+
+
+Route::get('/actividadIngles',function (){
+    return view('ActividadesIngles/Actividades');
+});
+
+
