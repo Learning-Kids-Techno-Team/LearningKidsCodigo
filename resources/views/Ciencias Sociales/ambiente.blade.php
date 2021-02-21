@@ -126,7 +126,7 @@
 @section('content')
 
 <!-- imagen -->
-<div class="container-fluid" id="dif">
+<div class="container-fluid" id="dif" >
     <div class="row" >
         <div class="col-md-12" id="fondo">
             <img  src="https://i.ibb.co/sR75Spn/do-removebg-preview.png" class=" mx-auto d-block" height="500" width="500">
