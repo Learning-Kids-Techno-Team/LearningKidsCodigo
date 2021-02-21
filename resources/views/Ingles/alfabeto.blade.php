@@ -155,7 +155,7 @@
                 <div class="card ml-5 " style="width: 10rem ;">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>A<br>ei</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1oZrqAEPgm5Oj733Wyoe4D6FtgbgcMYb3/preview" width="160" height="60"></iframe>
 
                 </div>
             </div>
@@ -169,7 +169,7 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>B<br>bi </em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1HEWVln4VRRuN1vKO9_U078ZfINGaE3ep/preview" width="160" height="60"></iframe>
                 </div>
             </div>
             <div class="col-md-3  "><br><br><br>
@@ -178,7 +178,7 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>C<br>ci</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1v9o650pUsikLyuIkLkZgCC8F6yxZo0PH/preview" width="160" height="60"></iframe>
                 </div>
             </div>
         </div>
@@ -194,7 +194,7 @@
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>G<br>yi</em></h2>
 
-
+                    <iframe src="https://drive.google.com/file/d/1xxn35Y9snWzOv-jhgesNPRXT2SfQTbph/preview" width="160" height="60"></iframe>
                 </div>
             </div>
 
@@ -207,7 +207,7 @@
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>F<br>ef</em></h2>
 
-
+                    <iframe src="https://drive.google.com/file/d/1l9zNOb1KjuVM0rneXbgbVC55JbsQpbWR/preview" width="160" height="60"></iframe>
                 </div>
             </div>
 
@@ -220,7 +220,7 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>E<br>i </em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1XMDAj27ypUCACURF6UPaAd0dSCc17Jg-/preview" width="160" height="60"></iframe>
                 </div>
             </div>
             <div class="col-md-3  pl-5">
@@ -229,7 +229,7 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>D<br>di</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1s7Yhn7A-1geKxGeixGFf4dR2ZnupcNqn/preview" width="160" height="60"></iframe>
                 </div>
             </div>
         </div>
@@ -247,7 +247,7 @@
                 <div class="card ml-5 " style="width: 10rem ;">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>H<br>eich</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1_lLmhv8lEcF8tzBQWjPygGCCxlXB0AEz/preview" width="160" height="60"></iframe>
 
                 </div>
             </div>
@@ -259,7 +259,7 @@
                 <div class="card ml-5 " style="width: 10rem ;">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>I<br>ai</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/14Rv32Wm__y6_LUxxKjzXimv3ZINPSpXD/preview" width="160" height="60"></iframe>
                 </div>
             </div>
 
@@ -272,7 +272,7 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>J<br>yei </em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1gGRw-XiicvLjKM1JfBtTLCiD8gpUPE5w/preview" width="160" height="60"></iframe>
                 </div>
             </div>
             <div class="col-md-3  "><br><br><br><br><br><br><br><br>
@@ -281,7 +281,7 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>K<br>kei</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1koSqAV5qScq_vbX4f8qxCbeCGmy-Di9w/preview" width="160" height="60"></iframe>
                 </div>
             </div>
         </div>
@@ -296,7 +296,7 @@
                 <div class="card ml-5 " style="width: 10rem ;">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>O<br>ou</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1LfpvK05baTJwfz_W5emngIc37Zi49rt7/preview" width="160" height="60"></iframe>
 
                 </div>
             </div>
@@ -309,7 +309,7 @@
                 <div class="card ml-5 " style="width: 10rem ;">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>N<br>en</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1QAVugiRRNAwkJLn9CasG8eyOf5-z-LkE/preview" width="160" height="60"></iframe>
 
                 </div>
             </div>
@@ -323,7 +323,7 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>M<br>em</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1xBpXwh201RdfQIeQwXU-QFJC0bLRQBA3/preview" width="160" height="60"></iframe>
                 </div>
             </div>
             <div class="col-md-3  pl-5"><br><br>
@@ -332,7 +332,7 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>L<br>el</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1loNWy5pC5Rpy-INSHp7knDcvFlUPhXHw/preview" width="160" height="60"></iframe>
                 </div>
             </div>
         </div>
@@ -350,7 +350,7 @@
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>P<br>pi</em></h2>
 
-
+                    <iframe src="https://drive.google.com/file/d/1jaIMEAkidC7zAPIMMHTd0TXCHeqc7IT7/preview" width="160" height="60"></iframe>
                 </div>
             </div>
 
@@ -361,7 +361,7 @@
                 <div class="card ml-5 " style="width: 10rem ;">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Q<br>kiu</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1QT-bigg9uIsoKz_P1tAfktKRdyo0_MRc/preview" width="160" height="60"></iframe>
 
                 </div>
             </div>
@@ -375,7 +375,7 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>R<br>ar</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1WjI9gNtg0gtBo7VuNKnlqWjCXQ2lK1UK/preview" width="160" height="60"></iframe>
                 </div>
             </div>
             <div class="col-md-3  "><br><br><br><br><br><br><br><br>
@@ -384,7 +384,7 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>S<br>es</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1Kc0iZw-y730uihrpZNmEHY2ATfepm2Eb/preview" width="160" height="60"></iframe>
                 </div>
             </div>
         </div>
@@ -400,7 +400,7 @@
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>W<br>dabliu</em></h2>
 
-
+                    <iframe src="https://drive.google.com/file/d/16cCE25Jf394tGvDFA_yoS2z-jbTl44DJ/preview" width="160" height="60"></iframe>
                 </div>
             </div>
 
@@ -412,7 +412,7 @@
                 <div class="card ml-5 " style="width: 10rem ;">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>V<br>uvi</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1VIiVlyA9f0p1Kv71ApTVKqRQNdER3e4u/preview" width="160" height="60"></iframe>
 
                 </div>
             </div>
@@ -426,7 +426,7 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>U<br>iu</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1pzTKAY0SssWX7hq0OUV7-jxfZM7P0FP6/preview" width="160" height="60"></iframe>
                 </div>
             </div>
             <div class="col-md-3  pl-5"><br><br>
@@ -435,7 +435,7 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>T<br>ti</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1TY9KPiRu6CZQ0hBhyH-RpcOpkigrefNG/preview" width="160" height="60"></iframe>
                 </div>
             </div>
         </div>
@@ -453,7 +453,7 @@
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>X<br>ex</em></h2>
 
-
+                    <iframe src="https://drive.google.com/file/d/1MV5g0450TDMW-w-rol-qHhE_gMf3M2B5/preview" width="160" height="60"></iframe>
                 </div>
             </div>
 
@@ -465,7 +465,7 @@
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Y<br>uai</em></h2>
 
-
+                    <iframe src="https://drive.google.com/file/d/1l7HqYIC3KbgA8m7v6QzPMmPHJgdKR7o_/preview" width="160" height="60"></iframe>
                 </div>
             </div>
 
@@ -478,11 +478,11 @@
                 <div class="card ml-5 " style="width: 10rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Z<br>set</em></h2>
-
+                    <iframe src="https://drive.google.com/file/d/1ON16YzxqWrt53tgBoCoSbXiSJeoNftIM/preview" width="160" height="60"></iframe>
                 </div>
             </div>
             <div class="col-md-3  "><br><br><br><br><br><br><br><br>
-                <!-- letra s-->
+
                 <img class="rounded-circle d-flex justify-content-center bg-success" style="border: lightgreen solid 12px"   width="150" height="150"/><br>
 
             </div>
