@@ -217,7 +217,7 @@
                 </a>
             </div>
             <div class="col-md-4">
-                <a href="{{url('/')}}">
+                <a href="{{url('/alfabeto')}}">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/SyfBVNG/45092986-pequenas-crian-as-felizes-com-bloco-de-alfabeto-removebg-preview.png" class="rounded-circle mx-auto d-block  img-thumbnail"  width="150" />
                     <h4>Abecedario</h4>
 
