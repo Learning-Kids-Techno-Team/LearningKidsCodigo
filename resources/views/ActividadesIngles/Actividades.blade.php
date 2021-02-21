@@ -193,7 +193,7 @@
                                     <img src="https://i.ibb.co/7gtRW7S/gran-coleccion-lapices-colores-estilo-dibujos-animados-ilustracion-sobre-fondo-blanco-257455-978-rem.png"   class="card mx-auto d-block" height="180" width="220">
                                     <div class="card-body">
                                         <h5 class="card-title" align="center">Actividad los colores</h5>
-                                        <a href=" {{ url('/actividadComunicacion') }}" class="btn">Ver</a>
+                                        <a href=" {{ url('/actividadColores') }}" class="btn">Ver</a>
                                     </div>
                                 </div>
                             </div>

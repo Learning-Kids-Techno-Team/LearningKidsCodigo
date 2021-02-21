@@ -537,5 +537,7 @@ Route::get('/actividadIngles',function (){
 Route::get('/actividadProfesiones',function (){
     return view('ActividadesIngles/actividadProfesiones');
 });
-
+Route::get('/actividadColores',function (){
+    return view('ActividadesIngles/actividadColores');
+});
 
