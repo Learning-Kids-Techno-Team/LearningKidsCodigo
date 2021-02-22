@@ -204,7 +204,7 @@
                                     <img src="https://i.ibb.co/khf5MMG/mascot-illustration-featuring-numbers-1-260nw-413888401-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
                                     <div class="card-body">
                                         <h5 class="card-title" align="center">Actividad los numeros</h5>
-                                        <a href=" {{ url('/actividadCiclo') }}" class="btn">Ver</a>
+                                        <a href=" {{ url('/actividadnumeros') }}" class="btn">Ver</a>
                                     </div>
                                 </div>
                             </div>
