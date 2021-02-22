@@ -547,3 +547,6 @@ Route::get('/actividadMeses',function (){
 Route::get('/actividadTransportes',function (){
     return view('ActividadesIngles/actividadTransportes');
 });
+Route::get('/actividadLugar',function (){
+    return view('ActividadesIngles/actividadLugar');
+});
