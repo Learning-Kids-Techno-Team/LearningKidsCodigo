@@ -559,3 +559,7 @@ Route::get('/actividadAbecedario',function (){
 Route::get('/actividadanimales',function (){
     return view('ActividadesIngles/actividadAnimales');
 });
+
+Route::get('/actividadnumeros',function (){
+    return view('ActividadesIngles/actividadNumeros');
+});
