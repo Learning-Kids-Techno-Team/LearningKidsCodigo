@@ -550,3 +550,6 @@ Route::get('/actividadTransportes',function (){
 Route::get('/actividadLugar',function (){
     return view('ActividadesIngles/actividadLugar');
 });
+Route::get('/actividadAbecedario',function (){
+    return view('ActividadesIngles/actividadAbecedario');
+});
