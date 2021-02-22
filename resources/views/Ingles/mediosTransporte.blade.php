@@ -118,12 +118,12 @@
                         <h4  class="mt-5" style="color: #3B5686">Inglés</h4>
                         <h3 class="mt-5" style="text-align: center">Medios de transporte en inglés.</h3>
                         <p class="" id="pa">
-                            <br>¡Autobuses, botes, y trenes! ¿Cuál de los medios de transporte es el favorito de tu niño?
-                            Existen muchas formas de transporte distintas que permiten desplazarnos de un lugar del mundo a otro.
+                            <br>Existen muchas formas de transporte distintas que permiten desplazarnos de un lugar del mundo a otro.
                             <br>Una de las primeras cosas que los niñoss aprenden de forma natural es a expresar cómo ir de un
                             lugar a otro, esto es desde que apenas comienzan a hablar y a comunicar sus ideas con familiares
                             y amigos.
-                            <br>De este modo, hablar sobre los diferentes tipos de transporte en inglés y español se torna natural para los peques de casa,
+                            <br>
+                            <br>De este modo, hablar sobre los diferentes tipos de transporte en inglés y español se torna natural para los niños de casa,
                             y es también una herramienta útil para continuar su educación bilingüe.
                             <br>
 
@@ -135,7 +135,7 @@
     </div>
 
     <!-- contenedor terrestres-->
-    <div class="container-fluid mt-5"><h2 class="mt-5">Medios de transporte terrestre en inglés (Land Transportation)</h2>
+    <div class="container-fluid mt-5"><h2 class="mt-5">¡Medios de transporte terrestre en inglés! <strong><em>(Land Transportation)</em></strong></h2><br>
         <div class="card">
             <div class="row m-3">
                 <div class="col-md-4">
@@ -418,7 +418,7 @@
     </div>
 
     <!-- contenedor aereo-->
-    <div class="container-fluid mt-5 "><h2 class="mt-5">Medios de transporte aéreo en inglés (Air transport)</h2>
+    <div class="container-fluid mt-5 "><h2 class="mt-5">¡Medios de transporte aéreo en inglés! <strong><em>(Air transport)</em></strong></h2><br>
         <div class="card">
             <div class="row m-3">
                 <div class="col-md-4">
@@ -481,7 +481,7 @@
 
 
     <!-- contenedor ACUATICO-->
-    <div class="container-fluid mt-5"><h2 class="mt-5">Medios de transporte acuático en inglés (Water transportation)</h2>
+    <div class="container-fluid mt-5"><h2 class="mt-5">¡Medios de transporte acuático en inglés! <strong><em> (Water transportation)</em></strong></h2><br>
         <div class="card">
             <div class="row m-3">
                 <div class="col-md-4">
