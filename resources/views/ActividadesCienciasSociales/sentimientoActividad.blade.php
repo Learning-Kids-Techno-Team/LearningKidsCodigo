@@ -82,11 +82,15 @@
             text-align: center;
             color: red;
         }
-        h1{
 
+        h1{
+            font-family: Brush Script MT;
             size: 80px;
 
         }
+
+
+
         h3{
             font-style:italic;
 

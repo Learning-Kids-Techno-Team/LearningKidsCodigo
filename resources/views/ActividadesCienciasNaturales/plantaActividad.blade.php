@@ -82,7 +82,7 @@
             color: red;
         }
         h1{
-
+            font-family: Brush Script MT;
             size: 80px;
 
         }
