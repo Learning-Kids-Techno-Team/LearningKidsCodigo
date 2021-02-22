@@ -132,7 +132,7 @@
                 <div class="card" style="width: 18rem;">
                     <img src="https://i.ytimg.com/vi/ynLYpd2sMsc/maxresdefault.jpg" class="card mx-auto d-block" height="180" width="200">
                     <div class="card-body">
-                        <h5 class="card-title"  align="center">Actividad lugareas de la ciudad</h5>
+                        <h5 class="card-title"  align="center">Actividad lugares de la ciudad</h5>
                         <a href=" {{ url('/actividadLugar') }}" class="btn">Ver</a>
                     </div>
                 </div>

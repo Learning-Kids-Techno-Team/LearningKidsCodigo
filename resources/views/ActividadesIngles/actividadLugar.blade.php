@@ -57,13 +57,11 @@
             border-top-right-radius: 50%;
             background: turquoise;
         }
-
         h1{
-
+            font-family: Brush Script MT;
             size: 80px;
 
         }
-
 
 
     </style>
