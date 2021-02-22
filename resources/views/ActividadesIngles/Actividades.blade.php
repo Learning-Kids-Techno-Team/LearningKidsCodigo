@@ -121,7 +121,7 @@
                     <img src="https://i.ibb.co/93kyTr0/ninos-pequenos-reloj-29937-4342-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                     <div class="card-body">
                         <h5 class="card-title" align="center">Actividad del tiempo</h5>
-                        <a href=" {{ url('/actividadAmbiente') }}" class="btn">Ver</a>
+                        <a href=" {{ url('/actividadMeses') }}" class="btn">Ver</a>
                     </div>
                 </div>
             </div>
@@ -169,7 +169,7 @@
                             <img src="https://i.ibb.co/TvzdRnT/depositphotos-7406445-stock-illustration-cartoon-vehicles-removebg-preview.png"   class="card mx-auto d-block" height="180" width="200">
                             <div class="card-body">
                                 <h5 class="card-title" align="center">Actividad medios de transporte</h5>
-                                <a href=" {{ url('/ocupacionesActividad') }}" class="btn">Ver</a>
+                                <a href=" {{ url('/actividadTransportes') }}" class="btn">Ver</a>
                             </div>
                         </div>
                     </div>

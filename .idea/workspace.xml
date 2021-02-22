@@ -26,10 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint7 Sindy G.">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadMesesYDias.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadMesesYDias.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadTransportes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadTransportes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesIngles/Actividades.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesIngles/Actividades.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -508,7 +505,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613971695473</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Sprint7 Sindy G.">
+      <created>1613973008260</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1613973008260</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
