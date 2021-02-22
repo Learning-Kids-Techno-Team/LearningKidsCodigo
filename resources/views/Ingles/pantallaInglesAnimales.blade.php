@@ -365,9 +365,10 @@
             <div class="col-md-3">
                 <br>
                 <br>
-                <img  class="mx-auto d-block" src="https://i.ibb.co/vx14JBZ/dibujos-animados-hormiga-linda-50699-290-removebg-preview.png"  width="138" />
+                <img  class="mx-auto d-block" src="https://i.ibb.co/ZzYFpzq/dibujos-animados-hormiga-linda-50699-290-removebg-preview.png"  width="138" />
                 <iframe src="https://drive.google.com/file/d/1nnSTBc16Vq2AjpfLFEwl8H-UE3tYVCdI/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Hormiga: ant</h2>
+
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/xg3Cwyt/781-7817992-mariposas-animadas-hd-png-download-removebg-preview.png"   width="140" />
