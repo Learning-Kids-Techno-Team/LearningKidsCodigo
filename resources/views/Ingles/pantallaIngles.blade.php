@@ -210,7 +210,7 @@
                 </a>
             </div>
             <div class="col-md-4">
-                <a href="{{url('/')}}">
+                <a href="{{url('/mediosTra')}}">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/rwvYbCk/1649a406132586d9d8d9001cdf21f42d-removebg-preview.png" class="rounded-circle mx-auto d-block img-thumbnail " width="150" />
                     <h4>Medios de transporte </h4>
 
