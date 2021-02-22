@@ -133,7 +133,7 @@
                     <img src="https://i.ytimg.com/vi/ynLYpd2sMsc/maxresdefault.jpg" class="card mx-auto d-block" height="180" width="200">
                     <div class="card-body">
                         <h5 class="card-title"  align="center">Actividad lugareas de la ciudad</h5>
-                        <a href=" {{ url('/transporteActividad') }}" class="btn">Ver</a>
+                        <a href=" {{ url('/actividadLugar') }}" class="btn">Ver</a>
                     </div>
                 </div>
             </div>
@@ -179,7 +179,7 @@
                             <img src="https://i.ibb.co/2nPTVQ7/716p-Et88i-L-AC-SY450-removebg-preview.png"   class="card mx-auto d-block" height="180" width="200">
                             <div class="card-body">
                                 <h5 class="card-title" align="center">Actividad abecedario</h5>
-                                <a href=" {{ url('/actividadEstaciones') }}" class="btn">Ver</a>
+                                <a href=" {{ url('/actividadAbecedario') }}" class="btn">Ver</a>
                             </div>
                         </div>
                     </div>
