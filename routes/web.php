@@ -541,3 +541,9 @@ Route::get('/actividadColores',function (){
     return view('ActividadesIngles/actividadColores');
 });
 
+Route::get('/actividadMeses',function (){
+    return view('ActividadesIngles/actividadMesesYDias');
+});
+Route::get('/actividadTransportes',function (){
+    return view('ActividadesIngles/actividadTransportes');
+});
