@@ -22,7 +22,7 @@
 
         body{
 
-            background: lightyellow;
+            background: #FDFD96;
 
         }
 
@@ -34,40 +34,9 @@
             border-top-left-radius: 10px;
             border-top-right-radius: 10px;
 
-
-
         }
 
 
-        #pa{
-            text-align: justify;
-
-
-        }
-        #banderin{
-
-
-            margin-top: auto;
-            height:90px;
-
-        }
-        #color{
-            color: white;
-            height: 80px;
-
-
-
-        }
-        p{
-            text-align: center;
-
-        }
-        .card-title{
-            color: orangered;
-            text-align: center;
-
-
-        }
 
         #separadorInferior2 .content{
 
@@ -75,12 +44,9 @@
             height: 100px;
             border-bottom-left-radius: 80%;
             border-top-right-radius: 50%;
-            background: #dcfecb;
+            background: aquamarine;
         }
-        #titulo{
-            text-align: center;
-            color: red;
-        }
+
         h1{
             font-family: Brush Script MT;
             size: 80px;
@@ -107,9 +73,9 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-m-12" style="background: #dcfecb;">
+            <div class="col-m-12" style="background: #FDFD96;">
                 <div >
-                    <h1 style="text-align: center">Actividad Medios de Transporte en Ingles</h1>
+                    <h1 style="text-align: center">Actividad Medios de Transporte en Inglés</h1>
                 </div>
 
                 <div>
