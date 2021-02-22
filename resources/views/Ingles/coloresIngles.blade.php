@@ -148,7 +148,7 @@
 
                     <img class=" mx-auto d-block"  src="https://i.ibb.co/LCvx9Pp/azul-removebg-preview.png"   width="200" height="200">
                     <h2 class="mx-auto d-block" id="color"><em>Azul / Blue</em></h2>
-                    <iframe src="https://drive.google.com/file/d/13LATZCSuZBJFBZj5JGKACns6PTgjE66x/preview" width="300" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1gtBFsRgR2c_9AOb2myB3xuF_0ntmi60H/preview" width="300" height="80"></iframe>
 
                 </div>
             </div>
@@ -158,7 +158,7 @@
 
                     <img class="mx-auto d-block" src="https://i.ibb.co/YL3RGTL/rojo-removebg-preview.png"    width="200" height="200">
                     <h2 class="mx-auto d-block" id="color"><em>Rojo / Red</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1Fei59LARB1KcDYtXpYehofzSgWYoi9jZ/preview"  width="300" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1jsx3nXYN6hbVENz6nkoH2M_42ByisNH5/preview"  width="300" height="80"></iframe>
                 </div>
             </div>
             <div class="col-md-4">
@@ -166,7 +166,7 @@
                 <div class="card" style="width: 20rem; border: yellow solid 8px;">
                     <img class="mx-auto d-block"  src="https://i.ibb.co/bbBcSKS/amarilla-removebg-preview.png"   width="200" height="200">
                     <h2 class="mx-auto d-block" id="color"><em>Amarillo  / Yellow </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1D_Nf48wLMbNjaATvREi4FR8PNk2d1T4g/preview" width="300" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1kyS3Q-wWbFz1sWKpShTZNN2tefVXmyIK/preview" width="300" height="80"></iframe>
                 </div>
             </div>
 
@@ -193,7 +193,7 @@
 
             <img class=" mx-auto d-block" src="https://i.ibb.co/YdnyBs6/verde-removebg-preview.png"  width="200" height="200">
             <h4 class="mx-auto d-block" id="color"><em> Azul+Amarillo=Verde<br><br> Blue+Yellow=Green</em></h4>
-            <iframe src="https://drive.google.com/file/d/1E0EjLWBxDcxVK5SWl-T__ifG9Uu7hYzz/preview" width="300" height="80"></iframe>
+            <iframe src="https://drive.google.com/file/d/1XWP2BJc3OBgfskO-3eEmB2eMLam0gjmS/preview" width="300" height="80"></iframe>
 
 
         </div>
@@ -203,7 +203,7 @@
         <div class="card" style="width: 20rem;border: orange solid 8px;">
             <img class="mx-auto d-block"  src="https://i.ibb.co/rf9qRsR/naranja-removebg-preview.png"   width="200" height="200">
             <h4 class="mx-auto d-block" id="color"><em>Amarillo+Rojo=Naranja <br><br> Yellow+Red=Orange </em></h4>
-            <iframe src="https://drive.google.com/file/d/1U5OjdpKCLlbzaDl8LXGhm4-7lSQadi4o/preview" width="300" height="80"></iframe>
+            <iframe src="https://drive.google.com/file/d/134_78TMSQOr8b6xHB-6EgcxADaRmde3R/preview" width="300" height="80"></iframe>
         </div>
     </div>
     <div class="col-md-4">
@@ -211,7 +211,7 @@
         <div class="card" style="width: 20rem;border: purple solid 8px;">
             <img class="mx-auto d-block"src="https://i.ibb.co/xJ8g68F/pintura-morada-removebg-preview.png"  width="200" height="200">
             <h4 class="mx-auto d-block" id="color"><em>Azul+Rojo=Morado<br><br>Blue+Red=Purple</em></h4>
-            <iframe src="https://drive.google.com/file/d/1cp1YHwvs_LGlVXAtn2jlduS7kQc6M51b/preview" width="300" height="80"></iframe>
+            <iframe src="https://drive.google.com/file/d/1iFLoi5iQOzB8FbN9BahCUM9v-JmP99vL/preview" width="300" height="80"></iframe>
         </div>
     </div>
 
@@ -235,7 +235,7 @@
 
             <img class=" mx-auto d-block" src="https://i.ibb.co/C2fL0Vd/marron-removebg-preview.png"   width="200" height="200">
             <h4 class="mx-auto d-block" id="color"><em> Verde+Rojo=Marrón<br><br> Green+Red=Brown</em></h4>
-            <iframe src="https://drive.google.com/file/d/1E0EjLWBxDcxVK5SWl-T__ifG9Uu7hYzz/preview" width="300" height="80"></iframe>
+            <iframe src="https://drive.google.com/file/d/1seKFYDUmvs5OuwKpjmOQKs0JGUER6ASg/preview" width="300" height="80"></iframe>
 
 
         </div>
@@ -245,7 +245,7 @@
         <div class="card" style="width: 20rem;border: teal solid 8px;">
             <img class="mx-auto d-block" src="https://i.ibb.co/1rCjpPH/verdeaz-removebg-preview.png"    width="200" height="200">
             <h4 class="mx-auto d-block" id="color"><em>Azul+Verde=Verde azulado<br><br> Blue+Green=Teal </em></h4>
-            <iframe src="https://drive.google.com/file/d/1U5OjdpKCLlbzaDl8LXGhm4-7lSQadi4o/preview" width="300" height="80"></iframe>
+            <iframe src="https://drive.google.com/file/d/18HtFEfBIkTeOZaqxbBymGcRqXLRgblXk/preview" width="300" height="80"></iframe>
         </div>
     </div>
     <div class="col-md-4">
@@ -253,7 +253,7 @@
         <div class="card" style="width: 20rem;border: lime solid 8px;">
             <img class="mx-auto d-block" src="https://i.ibb.co/KVZYczT/lima-removebg-preview.png"  width="200" height="200">
             <h4 class="mx-auto d-block" id="color"><em>Amarillo+Verde=Lima <br><br>Yellow+Green=Lime</em></h4>
-            <iframe src="https://drive.google.com/file/d/1cp1YHwvs_LGlVXAtn2jlduS7kQc6M51b/preview" width="300" height="80"></iframe>
+            <iframe src="https://drive.google.com/file/d/1nlAlDh92vXhYWdtb93lSqaBQldfEkF6f/preview" width="300" height="80"></iframe>
         </div>
     </div>
 </div>
@@ -275,7 +275,7 @@
 
             <img class=" mx-auto d-block" src="https://i.ibb.co/1s7py4S/pink-removebg-preview.png"    width="200" height="200">
             <h4 class="mx-auto d-block" id="color"><em> Rosa / Pink</em></h4>
-            <iframe src="https://drive.google.com/file/d/1E0EjLWBxDcxVK5SWl-T__ifG9Uu7hYzz/preview" width="300" height="80"></iframe>
+            <iframe src="https://drive.google.com/file/d/17EZxsP3ewVZLv5mCR-dr39CSbI6UapF5/preview" width="300" height="80"></iframe>
 
 
         </div>
@@ -285,7 +285,7 @@
         <div class="card" style="width: 20rem;border: black solid 8px;">
             <img class="mx-auto d-block" src="https://i.ibb.co/kHrSRtB/neg-removebg-preview.png"    width="200" height="200">
             <h4 class="mx-auto d-block" id="color"><em>Negro / Black </em></h4>
-            <iframe src="https://drive.google.com/file/d/1U5OjdpKCLlbzaDl8LXGhm4-7lSQadi4o/preview" width="300" height="80"></iframe>
+            <iframe src="https://drive.google.com/file/d/1uN3hvZYKgQ5Cm95BW2IK0mIWlpD7AxP6/preview" width="300" height="80"></iframe>
         </div>
     </div>
     <div class="col-md-4">
@@ -293,7 +293,7 @@
         <div class="card" style="width: 20rem;border: whitesmoke solid 8px;">
             <img class="mx-auto d-block" src="https://i.ibb.co/W2pHD7q/blanco.png"   width="200" height="200">
             <h4 class="mx-auto d-block" id="color"><em>Blanco / White</em></h4>
-            <iframe src="https://drive.google.com/file/d/1cp1YHwvs_LGlVXAtn2jlduS7kQc6M51b/preview" width="300" height="80"></iframe>
+            <iframe src="https://drive.google.com/file/d/1ww9WZJyvsiHKggSFl1YPbgzfPGtbXve4/preview" width="300" height="80"></iframe>
         </div>
     </div>
 </div>
@@ -305,7 +305,7 @@
 
                 <img class=" mx-auto d-block" src="https://i.ibb.co/JnWLvfn/gris-removebg-preview.png"     width="200" height="200">
                 <h4 class="mx-auto d-block" id="color"><em> Gris / Gray </em></h4>
-                <iframe src="https://drive.google.com/file/d/1E0EjLWBxDcxVK5SWl-T__ifG9Uu7hYzz/preview" width="300" height="80"></iframe>
+                <iframe src="https://drive.google.com/file/d/162vfwIVAZ3vKT_ozHBjZi8ptbUSXkHG-/preview" width="300" height="80"></iframe>
 
 
             </div>
@@ -315,7 +315,7 @@
             <div class="card" style="width: 20rem;border: navy solid 8px;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/TtpXvq3/nav.png"     width="200" height="200">
                 <h4 class="mx-auto d-block" id="color"><em>Azul marino/ Navy </em></h4>
-                <iframe src="https://drive.google.com/file/d/1U5OjdpKCLlbzaDl8LXGhm4-7lSQadi4o/preview" width="300" height="80"></iframe>
+                <iframe src="https://drive.google.com/file/d/1puwI1vYzQQ5wvM5y2j1gRjW-Qwc4425q/preview" width="300" height="80"></iframe>
             </div>
         </div>
         <div class="col-md-4">
@@ -323,7 +323,7 @@
             <div class="card" style="width: 20rem;border: lightblue solid 8px;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/DVCkJkK/celeste-removebg-preview.png"   width="200" height="200">
                 <h4 class="mx-auto d-block" id="color"><em>Azul celeste/ Light blue</em></h4>
-                <iframe src="https://drive.google.com/file/d/1cp1YHwvs_LGlVXAtn2jlduS7kQc6M51b/preview" width="300" height="80"></iframe>
+                <iframe src="https://drive.google.com/file/d/1rtwC0vzTbZ8kbM7wt6_8dlrUdPwGd3b4/preview"  width="300" height="80"></iframe>
             </div>
         </div>
 
