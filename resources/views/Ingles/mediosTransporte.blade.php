@@ -238,7 +238,7 @@
                     <h2 class="mt-5">
                         Metro/subterraneo: <strong>subway</strong>
                     </h2>
-
+                    <iframe src="https://drive.google.com/file/d/1XkJ3glBAVOz2A2F9tFuH8PoD0tpp0L1q/preview" width="300" height="80"></iframe>
                     <img class="mx-auto d-block" src="https://i.ibb.co/yR3MPHn/metr-removebg-preview.png" width="400" height="290">
                 </div>
                 <div class="col-md-4">
@@ -371,7 +371,7 @@
                     <h2 class="mt-5">
                         Moto de nieve: <strong>snowmobile</strong>
                     </h2>
-
+                    <iframe src="https://drive.google.com/file/d/1biABUp1FeO72x1MvMKys9B7UDOrZWFsM/preview" width="300" height="80"></iframe>
                     <img class="mx-auto d-block"  src="https://i.ibb.co/fDXLBBj/aaa-removebg-preview.png"  width="300" height="250">
                 </div>
 
@@ -504,7 +504,7 @@
                     <h2 class="mt-5">
                         Submarino: <strong>submarine</strong>
                     </h2>
-
+                    <iframe src="https://drive.google.com/file/d/1kJyMmUjOu6ao7GHsA5zk_M3S_QBQsvRy/preview" width="300" height="80"></iframe>
                     <img class="mx-auto d-block" src="https://i.ibb.co/ysmKTT2/submar-removebg-preview.png" width="300" height="250">
                 </div>
 
@@ -527,7 +527,7 @@
 
                 <div class="col-md-4">
                     <h2 class="mt-5">
-                        Moto de acuatica: <strong>jet ski</strong>
+                        Moto de acuática: <strong>jet ski</strong>
                     </h2>
                     <iframe src="https://drive.google.com/file/d/1PVSRb5V_XVejEmP3arsm4n7eQSI1nZpB/preview" width="300" height="80"></iframe>
                     <img class="mx-auto d-block"  src="https://i.ibb.co/PxcMCfN/moa-removebg-preview.png" width="300" height="250">
