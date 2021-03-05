@@ -528,6 +528,18 @@ Route::get('/inglesColores',function (){
 });
 
 
+
+// SPRINT 8
+
+Route::get('/Miembros',function (){
+    return view('Ingles/familiaMiembros');
+});
+
+
+
+
+
+
 //Actividades Sprint 7
 
 
@@ -563,3 +575,8 @@ Route::get('/actividadanimales',function (){
 Route::get('/actividadnumeros',function (){
     return view('ActividadesIngles/actividadNumeros');
 });
+
+
+
+
+
