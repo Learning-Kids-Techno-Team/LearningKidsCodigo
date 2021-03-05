@@ -134,7 +134,7 @@
         </div>
     </div>
 
-    <!-- contenedor de los meses-->
+    <!-- contenedor de los dias-->
     <div class="container-fluid mt-5 "><h2 class="mt-5">Días en inglés</h2>
         <div class="card">
             <div class="row m-3">
@@ -147,6 +147,7 @@
                     <p>
                         <br>Tanto en español como en inglés, el nombre de este día significa «día de la Luna», o <strong>«Moon’s Day».</strong>
                         <br>
+                    </p>
                 </div>
 
                 <div class="col-md-6 mb-5">
@@ -156,7 +157,7 @@
         </div>
     </div>
 
-    <!-- contenedor de los meses-->
+    <!-- contenedor -->
     <div class="container-fluid mt-5 ">
         <div class="card">
             <div class="row m-3">
@@ -169,8 +170,7 @@
                     <p>
                         <br>En inglés, el nombre de este día proviene del dios nórdico Týr, mientras que en
                         español se asocia a al <strong>dios romano Marte.</strong>
-
-
+                    </p>
                 </div>
 
                 <div class="col-md-6 mb-5">
@@ -181,7 +181,7 @@
     </div>
 
 
-    <!-- contenedor de los meses-->
+    <!-- contenedor de los dias-->
     <div class="container-fluid mt-5 ">
         <div class="card">
             <div class="row m-3">
@@ -195,6 +195,7 @@
                         <br>Toma su nombre en inglés del dios nórdico Odín.
                         En español, es el <strong>«día de Mercurio»,</strong> el dios romano.
                         <br>
+                    </p>
 
                 </div>
 
@@ -206,7 +207,7 @@
     </div>
 
 
-    <!-- contenedor de los meses-->
+    <!-- contenedor de los dias-->
     <div class="container-fluid mt-5 ">
         <div class="card">
             <div class="row m-3">
@@ -219,8 +220,7 @@
                     <p>
                         <br>Nombrado en inglés <strong>«día de Thor»,</strong> por el dios nórdico.
                         En español se relaciona con Júpiter.
-
-
+                    </p>
                 </div>
 
                 <div class="col-md-6 mb-5">
@@ -231,7 +231,7 @@
     </div>
 
 
-    <!-- contenedor de los meses-->
+    <!-- contenedor de los dias-->
     <div class="container-fluid mt-5 ">
         <div class="card">
             <div class="row m-3">
@@ -245,7 +245,7 @@
                         <br>Es el <strong>«día de Venus»,</strong> la diosa romana de la belleza,
                         cuyo equivalente nórdico «Frigg», le da el nombre en inglés.
                         <br>
-
+                    </p>
                 </div>
 
                 <div class="col-md-6 mb-5">
@@ -268,7 +268,7 @@
                     <p>
                         <br>En inglés significa <strong>«día de Saturno»,</strong> mientras que su nombre en español significa «día de reposo».
                         <br>
-
+                    </p>
                 </div>
 
                 <div class="col-md-6 mb-5">
@@ -292,6 +292,7 @@
                         <br>Llamado <strong>«día del Sol»</strong> en inglés, en honor al más brillante astro de nuestro Sistema Solar.
                         <br>
 
+                    </p>
                 </div>
 
                 <div class="col-md-6 mb-5">
