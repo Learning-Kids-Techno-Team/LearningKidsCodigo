@@ -152,9 +152,9 @@
                     <br><strong>Es el primer mes del año, y tiene 31 días. </strong>
                     <br> En el hemisferio norte representa el invierno,
                     <br> mientras que en el sur apenas está comenzando el verano, o <strong>summertime.</strong>
+                </p>
 
             </div>
-
             <div class="col-md-6 mb-5">
                 <img class="mx-auto d-block" src="https://i.ibb.co/SB8CcF4/enero-removebg-preview.png" width="350" height="200">
             </div>
@@ -179,9 +179,9 @@
                         <br>Este día extra es llamado leap day en inglés, e indica que ese año
                         es un año bisiesto o <strong>leap year,</strong> es decir que tiene 366 días en lugar de 365.
                         <br>
+                    </p>
 
                 </div>
-
                 <div class="col-md-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/qxGWWnb/febr-removebg-preview.png" width="420" height="250">
                 </div>
@@ -206,8 +206,8 @@
                         <br><strong>Cuenta con 31 días.</strong>
                         <br>
 
+                    </p>
                 </div>
-
                 <div class="col-md-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/1n0z8mW/march-1-removebg-preview.png" width="350" height="250" >
                 </div>
@@ -231,9 +231,8 @@
                         <br>En America Central es verano o summertime.
                         <br>En el mes de abril se presenta un clima caluroso.
 
-
+                    </p>
                 </div>
-
                 <div class="col-md-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/Z2SHqR5/unna-removebg-preview.png" width="300" height="250">
                 </div>
@@ -257,8 +256,8 @@
                         <br>en el hemisferio sur. En el norte, es el comienzo del verano.
                         <br>
 
+                    </p>
                 </div>
-
                 <div class="col-md-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/Lr36t0y/kooj-removebg-preview.png" width="300" height="250">
                 </div>
@@ -282,8 +281,8 @@
                         mientras que para los que viven en la otra mitad del mundo viene repleto de días soleados.
                         <br>
 
+                    </p>
                 </div>
-
                 <div class="col-md-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/THZT2Jb/june-removebg-preview.png" width="380" height="250">
                 </div>
@@ -306,8 +305,8 @@
                         <br>Frecuentemente se asocia al comienzo de las vacaciones.
                         <br>
 
+                    </p>
                 </div>
-
                 <div class="col-md-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/WGncnLc/juk-removebg-preview.png" width="300" height="250">
                 </div>
@@ -331,8 +330,8 @@
                         a la playa y disfrutar del mar.
                         <br>
 
+                    </p>
                 </div>
-
                 <div class="col-md-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/ZgRfGPJ/agost-removebg-preview.png" width="320" height="180">
                 </div>
@@ -356,8 +355,8 @@
                         <br><strong>Septiembre tiene 30 días.</strong>
                         <br>
 
+                    </p>
                 </div>
-
                 <div class="col-md-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/gRPnC18/septiem-removebg-preview.png" width="300" height="250" >
                 </div>
@@ -381,8 +380,8 @@
                             <br><strong>Octubre tiene 31 días y es el decimoprimer mes del año.</strong>
                             <br>
 
+                        </p>
                     </div>
-
                     <div class="col-md-6 mb-5">
                         <img class="mx-auto d-block" src="https://i.ibb.co/XYgP6dQ/octub-removebg-preview.png" width="300" height="250">
                     </div>
@@ -406,8 +405,9 @@
                         mientras que al otro lado del planeta los días son más calentitos.
                         <br><strong>Noviembre tiene 30 días y es el penúltimo mes del año.</strong>
                         <br>
-                </div>
 
+                    </p>
+                </div>
                 <div class="col-md-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/rwqDhNr/noviem-removebg-preview.png" width="300" height="250" >
                 </div>
@@ -431,8 +431,8 @@
                         <br><strong>En este mes se celebra la navidad o christmas.</strong>
                         <br>
 
+                    </p>
                 </div>
-
                 <div class="col-md-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/kB3ZBZg/diciemb-removebg-preview.png" width="300" height="250">
                 </div>
