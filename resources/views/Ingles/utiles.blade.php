@@ -19,20 +19,11 @@
 
         body{
 
-            background:lightyellow;
+            background:#fff6af;
 
         }
 
-        .card{
-            background: #d7f3e3;
-            border: #FDFD96 6px dashed;
-            border-bottom-left-radius: 10px;
-            border-bottom-right-radius: 10px;
-            border-top-left-radius: 10px;
-            border-top-right-radius: 10px;
 
-
-        }
 
         #pa{
             text-align: justify;
@@ -61,11 +52,7 @@
            font-family: "Roboto", "Helvetica", "Arial", sans-serif;
        }
 
-        #lt{
-            color: #123c24 ;
-            font-family: bold;
-            font-size: 30px;
-        }
+
 
 
         h4{
@@ -147,7 +134,7 @@
                     Igualmente, al aprender los útiles de clase en inglés te ayudará con su proceso de aprendizaje en el colegio, de modo que te sentiras  más cómodos realizando las tareas que les asigne la maestra o maestro, y también te sentiras más calmado al interactuar con el resto de la clase. <br>
 
                    </h5>
-                <h1 style="text-align: center">!Comenzemos!</h1>
+                <h1 style="text-align: center">!Comencemos!</h1>
                 <br><br><br>
             </div>
         </div>
