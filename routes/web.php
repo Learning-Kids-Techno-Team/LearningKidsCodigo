@@ -580,6 +580,9 @@ Route::get('/Miembros',function (){
 Route::get('/utiles',function (){
     return view('Ingles/utiles');
 });
+Route::get('/partes',function (){
+    return view('Ingles/partes');
+});
 
 
 
