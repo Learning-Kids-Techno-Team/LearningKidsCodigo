@@ -219,13 +219,6 @@
       <workItem from="1612849177940" duration="638000" />
       <workItem from="1613704709635" duration="6847000" />
     </task>
-    <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
-      <created>1602562454321</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1602562454321</updated>
-    </task>
     <task id="LOCAL-00002" summary="Sprint1 Sindy">
       <created>1602624294504</created>
       <option name="number" value="00002" />
@@ -562,7 +555,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615037130967</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Sprint8 Hector Lopez.">
+      <created>1615039546746</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1615039546747</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
