@@ -75,8 +75,9 @@
 
         h2{
             text-align: center;
-            color: #123c24 ;
+            color: #0b3251;
             font-family: bold;
+            background-image: url("https://i.ibb.co/FVpRGSC/text-background-plate-5a3bff7ca8e220-5994791815138814686918-removebg-preview.png");
         }
 
         h3{
@@ -146,7 +147,7 @@
                     Igualmente, al aprender los útiles de clase en inglés te ayudará con su proceso de aprendizaje en el colegio, de modo que te sentiras  más cómodos realizando las tareas que les asigne la maestra o maestro, y también te sentiras más calmado al interactuar con el resto de la clase. <br>
 
                    </h5>
-                <h2>!Comenzemos!</h2>
+                <h1 style="text-align: center">!Comenzemos!</h1>
                 <br><br><br>
             </div>
         </div>
@@ -158,25 +159,25 @@
             <div class="col-md-3">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/CtZcH14/png-clipart-compass-compas-compass-cartoon-removebg-preview.png" width="150" />
                 <iframe src="https://drive.google.com/file/d/1X8quovBD7ghyU40Y6XhNbSI0tplTo_Sj/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Escarabajo : beetle</h2>
+                <h2>Compás: compass</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/HdGZLbV/kisspng-stopwatch-cartoon-clip-art-protactor-5b320e4fac4a96-0558369415300071197057-removebg-preview.png"    width="365"/>
                 <iframe src="https://drive.google.com/file/d/1eEpM7yRRtEyQXFJOoCXNdnhisWSfhY9G/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Abeja: bee</h2>
+                <h2>Transportador: protractor</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/N9MCfBy/49509-3-removebg-preview.png"   width="165" />
                 <iframe src="https://drive.google.com/file/d/1nnSTBc16Vq2AjpfLFEwl8H-UE3tYVCdI/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Hormiga: ant</h2>
+                <h2>Marcador: marker</h2>
 
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/ZfSD9rz/66-662806-papel-hojas-madera-escribir-plantilla-patrn-paper-hd-removebg-preview.png"    width="250" />
                 <iframe src="https://drive.google.com/file/d/1yxFY4ZbKiuQMMRZTM1HTMPcSsPXRDZYX/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Mariposa: butterfly</h2>
+                <h2>Papel: paper</h2>
             </div>
         </div>
     </div>
@@ -188,24 +189,25 @@
             <div class="col-md-3">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/h7hjcDc/image-processing20200511-32371-69nvlc-removebg-preview.png"  width="140" />
                 <iframe src="https://drive.google.com/file/d/1X8quovBD7ghyU40Y6XhNbSI0tplTo_Sj/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Escarabajo : beetle</h2>
+                <h2>Carpeta: folder</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/1R2NdCZ/image-processing20200511-25230-703d5g-removebg-preview.png"    width="145"/>
                 <iframe src="https://drive.google.com/file/d/1eEpM7yRRtEyQXFJOoCXNdnhisWSfhY9G/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Abeja: bee</h2>
+                <h2>Mapa: map</h2>
             </div>
             <div class="col-md-3">
 
                 <img  class="mx-auto d-block" src="https://i.ibb.co/JdbbXC9/grapadora-oficina-plana-color-azul-72147494939-removebg-preview.png"   width="148" />
                 <iframe src="https://drive.google.com/file/d/1nnSTBc16Vq2AjpfLFEwl8H-UE3tYVCdI/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Hormiga: ant</h2>
+                <h2>Grapadora: stapler</h2>
 
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block"  src="https://i.ibb.co/HthcZ2w/aplicar-pegamento-removebg-preview.png"   width="1"4/>  7 7
+                <br>
+                <img  class="mx-auto d-block"  src="https://i.ibb.co/HthcZ2w/aplicar-pegamento-removebg-preview.png"   width="180"/>
                 <iframe src="https://drive.google.com/file/d/1yxFY4ZbKiuQMMRZTM1HTMPcSsPXRDZYX/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Mariposa: butterfly</h2>
+                <h2>Pegamento: glue</h2>
             </div>
         </div>
     </div>
@@ -215,27 +217,29 @@
     <div class="container-fluid">
         <div class="row mb-5">
             <div class="col-md-3">
-                <img class="mx-auto d-block"   src="https://i.ibb.co/rfYfqfC/estuche-infantil-colegio-9970866-removebg-preview.png"  width="150" />
+
+                <img class="mx-auto d-block"   src="https://i.ibb.co/rfYfqfC/estuche-infantil-colegio-9970866-removebg-preview.png"  width="155" />
                 <iframe src="https://drive.google.com/file/d/1X8quovBD7ghyU40Y6XhNbSI0tplTo_Sj/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Escarabajo : beetle</h2>
+                <h2>Estuche: pencil case</h2>
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block"   src="https://i.ibb.co/wyzMTBf/Paperclip-01-xndr-removebg-preview.png"  width="150"/>
+                <br>
+                <img  class="mx-auto d-block"   src="https://i.ibb.co/wyzMTBf/Paperclip-01-xndr-removebg-preview.png"  width="155"/>
                 <iframe src="https://drive.google.com/file/d/1eEpM7yRRtEyQXFJOoCXNdnhisWSfhY9G/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Abeja: bee</h2>
+                <h2>Sujetapapeles/clip: clip</h2>
             </div>
             <div class="col-md-3">
+
                 <br>
-                <br>
-                <img  class="mx-auto d-block" src="https://i.ibb.co/3MYjdLn/depositphotos-11908678-stock-illustration-eraser-removebg-preview.png" width="138" />
+                <img  class="mx-auto d-block" src="https://i.ibb.co/3MYjdLn/depositphotos-11908678-stock-illustration-eraser-removebg-preview.png" width="153" />
                 <iframe src="https://drive.google.com/file/d/1nnSTBc16Vq2AjpfLFEwl8H-UE3tYVCdI/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Hormiga: ant</h2>
+                <h2>Borrador/goma de borrar: eraser/rubber</h2>
 
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/3r6cPJ6/pngtree-brown-computer-desk-cartoon-table-cabinet-illustration-table-illustration-png-image-449705-r.png"   width="140" />
                 <iframe src="https://drive.google.com/file/d/1yxFY4ZbKiuQMMRZTM1HTMPcSsPXRDZYX/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Mariposa: butterfly</h2>
+                <h2>Escritorio: desk</h2>
             </div>
         </div>
     </div>
@@ -246,27 +250,29 @@
     <div class="container-fluid">
         <div class="row mb-5">
             <div class="col-md-3">
+
                 <img class="mx-auto d-block"   src="https://i.ibb.co/VjyVt5z/png-clipart-carteira-escolar-chair-furniture-table-desk-chair-angle-office-removebg-preview.png"  width="150" />
                 <iframe src="https://drive.google.com/file/d/1X8quovBD7ghyU40Y6XhNbSI0tplTo_Sj/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Escarabajo : beetle</h2>
+                <h2>Silla: chair</h2>
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block"   src="https://i.ibb.co/R9zXH2h/10e9aac158c97c8e420f32c500b61b35-removebg-preview.png"    width="150"/>
+                <br><br><br>
+                <img  class="mx-auto d-block"   src="https://i.ibb.co/R9zXH2h/10e9aac158c97c8e420f32c500b61b35-removebg-preview.png"    width="160"/>
                 <iframe src="https://drive.google.com/file/d/1eEpM7yRRtEyQXFJOoCXNdnhisWSfhY9G/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Abeja: bee</h2>
+                <h2>Tijeras: scissors</h2>
             </div>
             <div class="col-md-3">
-                <br>
-                <br>
-                <img  class="mx-auto d-block" src="https://i.ibb.co/1QTKTk5/istockphoto-942881434-170667a-removebg-preview.png"   width="138" />
+                <br><br><br><br>
+                <img  class="mx-auto d-block" src="https://i.ibb.co/1QTKTk5/istockphoto-942881434-170667a-removebg-preview.png"   width="145" />
                 <iframe src="https://drive.google.com/file/d/1nnSTBc16Vq2AjpfLFEwl8H-UE3tYVCdI/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Hormiga: ant</h2>
+                <h2>Regla: ruler</h2>
 
             </div>
             <div class="col-md-3">
+                <br><br><br><br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/M7Cq1Fr/png-transparent-harold-and-the-purple-crayon-crayola-crayola-s-pencil-text-color-removebg-preview.png"  width="140" />
                 <iframe src="https://drive.google.com/file/d/1yxFY4ZbKiuQMMRZTM1HTMPcSsPXRDZYX/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Mariposa: butterfly</h2>
+                <h2>Crayones: crayons</h2>
             </div>
         </div>
     </div>
@@ -277,25 +283,26 @@
             <div class="col-md-3">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/sv0MHWw/3125-removebg-preview.png"  width="150" />
                 <iframe src="https://drive.google.com/file/d/1X8quovBD7ghyU40Y6XhNbSI0tplTo_Sj/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Escarabajo : beetle</h2>
+                <h2>Lápiz: pencil</h2>
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block"   src="https://i.ibb.co/j8xjxQz/png-transparent-cartoon-book-closed-book-perfect-comic-book-yellow-material-rectangle-removebg-previ.png"    width="150"/>
+                <br><br>
+                <img  class="mx-auto d-block"   src="https://i.ibb.co/j8xjxQz/png-transparent-cartoon-book-closed-book-perfect-comic-book-yellow-material-rectangle-removebg-previ.png"    width="180"/>
                 <iframe src="https://drive.google.com/file/d/1eEpM7yRRtEyQXFJOoCXNdnhisWSfhY9G/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Abeja: bee</h2>
+                <h2>libro: book</h2>
             </div>
             <div class="col-md-3">
                 <br>
-                <br>
-                <img  class="mx-auto d-block" src="https://i.ibb.co/Qv1WT6M/dibujos-animados-mochila-escolar-24640-54592-removebg-preview.png"   width="138" />
+
+                <img  class="mx-auto d-block" src="https://i.ibb.co/Qv1WT6M/dibujos-animados-mochila-escolar-24640-54592-removebg-preview.png"   width="140" />
                 <iframe src="https://drive.google.com/file/d/1nnSTBc16Vq2AjpfLFEwl8H-UE3tYVCdI/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Hormiga: ant</h2>
+                <h2>Mochila: backpack</h2>
 
             </div>
             <div class="col-md-3">
-                <img  class="mx-auto d-block" src="https://i.ibb.co/FW0dxnj/istockphoto-1085027454-170667a-removebg-preview.png"    width="140" />
+                <img  class="mx-auto d-block" src="https://i.ibb.co/FW0dxnj/istockphoto-1085027454-170667a-removebg-preview.png"    width="165" />
                 <iframe src="https://drive.google.com/file/d/1yxFY4ZbKiuQMMRZTM1HTMPcSsPXRDZYX/preview" style="border: none" width="250" height="80"></iframe>
-                <h2>Mariposa: butterfly</h2>
+                <h2>Computadora: computer</h2>
             </div>
         </div>
     </div>
