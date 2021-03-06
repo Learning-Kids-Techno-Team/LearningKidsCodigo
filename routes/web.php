@@ -529,13 +529,6 @@ Route::get('/inglesColores',function (){
 
 
 
-// SPRINT 8
-
-Route::get('/Miembros',function (){
-    return view('Ingles/familiaMiembros');
-});
-
-
 
 
 
@@ -575,6 +568,16 @@ Route::get('/actividadanimales',function (){
 Route::get('/actividadnumeros',function (){
     return view('ActividadesIngles/actividadNumeros');
 });
+
+
+
+// SPRINT 8
+
+Route::get('/Miembros',function (){
+    return view('Ingles/familiaMiembros');
+});
+
+
 
 
 
