@@ -109,10 +109,10 @@
     <!-- contenedor text-->
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12" style="background: #d7f3e3">
+            <div class="col-md-12" style="background: #fff6af ">
                 <div class="row ml-5 mr-5">
-                    <div class="col-md-7  mt-5" style="background: #FDFD96">
-                        <img class="mt-5 mx-auto d-block" >
+                    <div class="col-md-7  mt-5" style="background: #DCFECB">
+                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/rvjchTH/afami-removebg-preview-2.png">
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                         <h4  class="mt-5" style="color: #3B5686"><em>Inglés</em></h4>
@@ -139,21 +139,21 @@
     <div class="container-fluid mt-5"><h2 class="mt-5"><strong><em>¡Miembros de la familia en inglés!</em></strong></h2><br>
             <div class="row m-3">
                 <div class="col-md-4">
-                    <img class="mx-auto d-block"  width="300" height="280">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/R0styB9/muj-removebg-preview.png" width="350" height="250">
                 <h2 class="mt-5">
                     Madre: <strong>mother</strong>
                 </h2>
                     <iframe  width="300" height="80"></iframe>
             </div>
                 <div class="col-md-4">
-                    <img class="mx-auto d-block"  width="300" height="220">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/k14MGmK/papa-removebg-preview.png" width="350" height="250">
                     <h2 class="mt-5">
                         Padre: <strong>father</strong>
                     </h2>
                     <iframe  width="300" height="80"></iframe>
                 </div>
                 <div class="col-md-4">
-                    <img class="mx-auto d-block"  width="300" height="220">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/Sv31ckh/tni-a3-removebg-preview.png" width="350" height="250">
                     <h2 class="mt-5">
                         Hija: <strong>daughter</strong>
                     </h2>
@@ -164,24 +164,24 @@
     </div>
 
     <!-- contenedor miembros familia-->
-    <div class="container-fluid mt-5"><h2 class="mt-5"></h2><br>
+    <div class="container-fluid mt-5">
         <div class="row m-3">
             <div class="col-md-4">
-                <img class="mx-auto d-block"  width="300" height="280">
+                <img class="mx-auto d-block" src="https://i.ibb.co/gtt8fdr/ni-2-removebg-preview.png" width="350" height="250">
                 <h2 class="mt-5">
                    Hijo: <strong>son</strong>
                 </h2>
                 <iframe  width="300" height="80"></iframe>
             </div>
             <div class="col-md-4">
-                <img class="mx-auto d-block"  width="300" height="220">
+                <img class="mx-auto d-block" src="https://i.ibb.co/S6b3kwX/bebe-removebg-preview.png" width="230" height="170">
                 <h2 class="mt-5">
                     Bebé: <strong>baby</strong>
                 </h2>
                 <iframe  width="300" height="80"></iframe>
             </div>
             <div class="col-md-4">
-                <img class="mx-auto d-block"  width="300" height="220">
+                <img class="mx-auto d-block" src="https://i.ibb.co/rZrw3jM/abu-removebg-preview.png" width="300" height="250">
                 <h2 class="mt-5">
                     Abuela: <strong>grandmother</strong>
                 </h2>
@@ -192,24 +192,24 @@
     </div>
 
     <!-- contenedor miembros familia-->
-    <div class="container-fluid mt-5"><h2 class="mt-5"></h2><br>
+    <div class="container-fluid mt-5">
         <div class="row m-3">
             <div class="col-md-4">
-                <img class="mx-auto d-block"  width="300" height="280">
-                <h2 class="mt-5">
-                    Abuelo: <strong>grandfather</strong>
-                </h2>
-                <iframe  width="300" height="80"></iframe>
-            </div>
-            <div class="col-md-4">
-                <img class="mx-auto d-block"  width="300" height="220">
+                <img class="mx-auto d-block" src="https://i.ibb.co/vdZF9s0/felizni-a-removebg-preview.png" width="300" height="220">
                 <h2 class="mt-5">
                     Nieta: <strong>granddaughter</strong>
                 </h2>
                 <iframe  width="300" height="80"></iframe>
             </div>
             <div class="col-md-4">
-                <img class="mx-auto d-block"  width="300" height="220">
+                <img class="mx-auto d-block" src="https://i.ibb.co/hmZ1LB1/abue-removebg-preview.png"  width="350" height="250">
+                <h2 class="mt-5" >
+                    Abuelo: <strong>grandfather</strong>
+                </h2>
+                <iframe  width="300" height="80"></iframe>
+            </div>
+            <div class="col-md-4">
+                <img class="mx-auto d-block" src="https://i.ibb.co/x8rLVB7/ni-ofeliz-removebg-preview.png" width="300" height="220">
                 <h2 class="mt-5">
                     Nieto: <strong>grandson</strong>
                 </h2>
@@ -221,24 +221,24 @@
 
 
     <!-- contenedor miembros familia-->
-    <div class="container-fluid mt-5"><h2 class="mt-5"></h2><br>
+    <div class="container-fluid mt-5">
         <div class="row m-3">
             <div class="col-md-4">
-                <img class="mx-auto d-block"  width="300" height="280">
+                <img class="mx-auto d-block" src="https://i.ibb.co/GCgzYk8/mother-removebg-preview.png" width="350" height="250">
                 <h2 class="mt-5">
                     Tia: <strong>aunt</strong>
                 </h2>
                 <iframe  width="300" height="80"></iframe>
             </div>
             <div class="col-md-4">
-                <img class="mx-auto d-block"  width="300" height="220">
+                <img class="mx-auto d-block" src="https://i.ibb.co/LgZzHyN/tio-removebg-preview.png" width="350" height="250">
                 <h2 class="mt-5">
                     Tio: <strong>uncle</strong>
                 </h2>
                 <iframe  width="300" height="80"></iframe>
             </div>
             <div class="col-md-4">
-                <img class="mx-auto d-block"  width="300" height="220">
+                <img class="mx-auto d-block" src="https://i.ibb.co/hfJfc7x/prii-removebg-preview.png" width="350" height="250">
                 <h2 class="mt-5">
                     Primo/a: <strong>cousin</strong>
                 </h2>
@@ -251,20 +251,21 @@
 
 
     <!-- contenedor tree-->
-    <div class="container-fluid mt-5 "><h2 class="mt-5">El parentesco en inglés</h2>
+    <div class="container-fluid mt-5 "><h2 class="mt-5"><strong><em>¡El parentesco en inglés!</em></strong></h2>
             <div class="row m-3">
-                <div class="col-md-12">
-                    <p>
-                        <br>El árbol genealógico <strong><em>family tree</em></strong> es como se distribuye cada miembro familiar dentro del marco de la familia y se define el parentesco.
-                        En esta imagen podemos visualizar de manera muy clara el diferente parentesco en inglés de cada miembro.
+                <div class="col-md-12" style="background: #DCFECB">
+                    <p style="text-align: center">
+                        <br>El árbol genealógico <strong><em>family tree:</em></strong>
+                        <br>es como se distribuye cada miembro familiar dentro del marco de la familia y se define el parentesco.
+                        <br>En esta imagen podemos visualizar de manera muy clara el diferente parentesco en inglés de cada miembro.
                         <br>
                     </p>
                 </div>
 
-                <div class="col-md-6 mb-5">
-                    <img class="mx-auto d-block" width="350" height="150">
+                <div class="col-md-12 mb-5" style="background: #DCFECB ">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/Y0C4n73/image001.jpg" >
                 </div>
-            </div>
+             </div>
     </div>
 
 
@@ -273,10 +274,10 @@
     <div  class="container-fluid mt-5">
         <div class="row">
             <div class="col-md-12">
-                <h2 style="text-align: center">
+                <h2 style="text-align: center"><strong><em>
                     Y ahora vamos a ver un video para aprender la correcta pronunciación de cada uno
                     <br>de los miembros de la familia en inglés con esta divertida canción. ¡Vamos a cantar!
-                    <br>
+                    <br></em></strong>
                 </h2>
                 <iframe id="bord" class="mx-auto d-block"  width="670" height="390"></iframe>
             </div>
