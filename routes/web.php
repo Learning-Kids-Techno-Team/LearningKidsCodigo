@@ -577,6 +577,10 @@ Route::get('/Miembros',function (){
     return view('Ingles/familiaMiembros');
 });
 
+Route::get('/utiles',function (){
+    return view('Ingles/utiles');
+});
+
 
 
 
