@@ -61,18 +61,22 @@
             size: 80px;
 
         }
-        h3{
-            font-style:italic;
 
-
+        #lt{
+            color: #123c24 ;
+            font-family: bold;
+            font-size: 30px;
         }
+
+
         h4{
             text-decoration-color: #3B5686;
             text-align: center;
         }
+
         h2{
             text-align: center;
-            color: #3B5686;
+            color: #123c24 ;
             font-family: bold;
         }
         #bor{
@@ -94,7 +98,7 @@
         }
 
         #bord{
-            background: lightblue;
+            background:#DCFECB;
             border: #fff6af 15px dashed;
         }
 
@@ -116,15 +120,15 @@
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                         <h4  class="mt-5" style="color: #3B5686"><em>Inglés</em></h4>
-                        <h3 class="mt-5" style="text-align: center">Miembros de la familia (Family members)</h3>
+                        <h3 class="mt-5" style="text-align: center">Miembros de la familia <em>(Family members)</em></h3>
                         <p class="" id="pa">
                             <br>Vamos a ver la mejor forma de aprender los miembros de la familia en inglés para niños.
-                            Las relaciones familiares (family relations) no sólo ayudan a moldear la forma en que los niños ven al mundo
+                            Las relaciones familiares <strong>(family relations)</strong> no sólo ayudan a moldear la forma en que los niños ven al mundo
                             y a todo lo que les rodea.
                             <br>
                             <br>Para los niños, saber los nombres de los miembros de la familia y conocerles significa pertenecer a algo importante.
                             Es por esto que al ayudarles a identificar correctamente las relaciones entre los familiares, y los nombres de la familia
-                            en inglés les ayuda a conocer su familia y el parentesco (kinship)
+                            en inglés les ayuda a conocer su familia y el parentesco <strong>(kinship).</strong>
                             <br>
 
                         </p>
@@ -249,7 +253,6 @@
     </div>
 
 
-
     <!-- contenedor tree-->
     <div class="container-fluid mt-5 "><h2 class="mt-5"><strong><em>¡El parentesco en inglés!</em></strong></h2>
             <div class="row m-3">
@@ -268,6 +271,30 @@
              </div>
     </div>
 
+
+    <!-- contenedor vocabulario-->
+    <div class="container-fluid mt-5 "><h2 class="mt-5"><strong><em>¡Vocabulario de parentesco en inglés!</em></strong></h2>
+        <div class="row m-3">
+            <div class="col-md-6" style="background: #DCFECB"><strong>
+                <ul id="lt">
+                <li>Parents: padres</li>
+                <li>Children: niños</li>
+                <li>Sister: hermana</li>
+                <li>Brother: hermano</li>
+                <li>Siblings: hermanos</li>
+                <li>Great-grandparents: tatarabuelos</li>
+                <li>Husband: marido / esposo</li>
+                <li>Wife: mujer/esposa</li>
+                </ul></strong>
+            </div>
+
+            <div class="col-md-6 mb-5" style="">
+                <img class="rounded-circle mx-auto d-block bg-info" src="https://i.ibb.co/2ctGX3w/app-removebg-preview.png" width="350" height="250">
+                <h2><em>Audio pronunciación</em></h2>
+                <iframe  width="400" height="80"></iframe>
+            </div>
+        </div>
+    </div>
 
 
     <!-- Video -->

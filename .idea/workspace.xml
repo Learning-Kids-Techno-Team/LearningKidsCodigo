@@ -48,6 +48,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
@@ -219,14 +227,7 @@
       <workItem from="1612849177940" duration="638000" />
       <workItem from="1613704709635" duration="6847000" />
       <workItem from="1614918912904" duration="4758000" />
-      <workItem from="1614999758090" duration="5550000" />
-    </task>
-    <task id="LOCAL-00003" summary="Sprint1 Daniela">
-      <created>1602697826940</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1602697826940</updated>
+      <workItem from="1614999758090" duration="10116000" />
     </task>
     <task id="LOCAL-00004" summary="Sprint1 Daniela">
       <created>1602698456597</created>
@@ -564,7 +565,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614923741488</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Sprint 8 Sindy G.">
+      <created>1615007231174</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1615007231174</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
