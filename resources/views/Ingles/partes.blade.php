@@ -4,10 +4,10 @@
 <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-
+     <title>Partes del Cuerpo</title>
     <style>
         body {
-            background:  #dcfecb;
+            background: #F8FEBE;
         }
 
 
@@ -83,8 +83,20 @@
         }
 
 
+        .im{
+            color: black ;
+            font-family: bold;
+            font-size: 30px;
+        }
+        .card__imag {
+            height: 250px;
+            width: 250px;
 
+            border: 8px solid mediumspringgreen;
+            margin-top: 20px;
 
+            box-shadow: 0 10px 50px rgba(285, 20, 220, 8);
+        }
 
 
 
@@ -123,7 +135,14 @@
             </div>
         </div>
     </div>
+    <div  class="container-fluid mt-5">
+        <div class="row">
+            <div class="col-md-12">
+                <img class=" mx-auto d-block " alt="Bootstrap Image Preview" src="https://static.vecteezy.com/system/resources/previews/001/312/591/non_2x/body-parts-of-girl-for-kids-learning-vector.jpg"  width="450" />
+            </div>
 
+        </div>
+    </div>
 
     <div class="container-fluid d-flex justify-content-center  " >
         <div class="row ">
@@ -134,9 +153,27 @@
             </div>
         </div>
     </div>
+    <div class="container-fluid " style="background:  #f5f5f5; ">
+        <div class="row m-3">
+            <div class="col-md-6" >
+                <p class="im"><strong>
+                        <br> <br>
+                        ¿sabrías decir qué partes contiene la cara?<br><br>
+                        ¡Vamos a aprenderlas!
+                    </strong></p>
+            </div>
+
+            <div class="col-md-6 mb-5" >
+                <img class="mx-auto d-block card__imag" src="https://i.ibb.co/CbRbYMk/car3.png" >
 
 
-    <!-- contenedor 2 -->
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- contenedor 1 -->
 
     <div class="container-fluid ">
 
@@ -172,10 +209,168 @@
                     </div>
                 </div>
 
+
+
             </div>
         </div>
     </div>
 
+
+    <!-- contenedor 2 -->
+    <div class="container-fluid ">
+
+        <div class="container-fluid mt-4">
+
+            <div class="row m-5" >
+                <div class="col-md-4">
+                    <!-- tarjeta 1 -->
+                    <div class="card ">
+                        <img src="https://i.ibb.co/fHLCfZB/nariz.jpg"  class="card__image">
+                        <h1 class="card__name text-center"><strong>Nariz<br>nose</strong></h1>
+                        <br>
+                        <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview"  width="318" height="60"></iframe>
+                    </div>
+
+                </div>
+                <!-- tarjeta 2 -->
+                <div class="col-md-4  ">
+                    <div class="card ">
+                        <img src="https://i.ibb.co/34cpczJ/boca.jpg"  class="card__image">
+                        <h1 class="card__name text-center"><strong>Boca <br>mouth</strong></h1>
+                        <br>
+                        <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview"  width="318" height="60"></iframe>
+                    </div>
+                </div>
+                <!-- tarjetas3 -->
+                <div class="col-md-4">
+                    <div class="card ">
+                        <img src="https://i.ibb.co/X4V5Nvj/pelo.jpg"   class="card__image">
+                        <h1 class="card__name text-center"><strong>Pelo<br>hair</strong></h1>
+                        <br>
+                        <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview"  width="318" height="60"></iframe>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="container-fluid d-flex justify-content-center  " >
+        <div class="row ">
+            <div class="col-md-12  " style="background: orange"  >
+
+                <h3>Partes del tronco en Inglés y Español - Parts of the trunk in English and Spanish
+                </h3>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="container-fluid " style="background:  #f5f5f5; ">
+        <div class="row m-3">
+            <div class="col-md-6" >
+                  <p class="im"><strong>
+                      Va desde la cabeza hasta la cintura, y<br>
+                      es la región más importante del cuerpo<br>
+                      ¿sabrías decir qué partes contiene el tronco?<br><br>
+                          ¡Vamos a aprenderlas!
+                      </strong></p>
+            </div>
+
+            <div class="col-md-6 mb-5" >
+                <img class="mx-auto d-block card__imag" src="https://i.ibb.co/NKgN91F/Captura-de-pantalla-606.png"
+
+                     width="350" height="250">
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- contenedor 1 -->
+
+    <div class="container-fluid ">
+
+        <div class="container-fluid mt-4">
+
+            <div class="row m-5" >
+                <div class="col-md-4">
+                    <!-- tarjeta 1 -->
+                    <div class="card ">
+                        <img src="https://i.ibb.co/Ws6cQQ1/cade.jpg"   class="card__image">
+                        <h1 class="card__name text-center"><strong>Cintura<br>waist</strong></h1>
+                        <br>
+                        <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview"  width="318" height="60"></iframe>
+                    </div>
+
+                </div>
+                <!-- tarjeta 2 -->
+                <div class="col-md-4  ">
+                    <div class="card ">
+                        <img  src="https://i.ibb.co/bjtKzHx/cos.jpg" class="card__image">
+                        <h1 class="card__name text-center"><strong>Costilla<br>rib</strong></h1>
+                        <br>
+                        <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview"  width="318" height="60"></iframe>
+                    </div>
+                </div>
+                <!-- tarjetas3 -->
+                <div class="col-md-4">
+                    <div class="card ">
+                        <img  src="https://i.ibb.co/ctrzgFc/espal.jpg"   class="card__image">
+                        <h1 class="card__name text-center"><strong>Espalda<br>back</strong></h1>
+                        <br>
+                        <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview"  width="318" height="60"></iframe>
+                    </div>
+                </div>
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- contenedor 2 -->
+    <div class="container-fluid ">
+
+        <div class="container-fluid mt-4">
+
+            <div class="row m-5" >
+                <div class="col-md-4">
+                    <!-- tarjeta 1 -->
+                    <div class="card ">
+                       <img src="https://i.ibb.co/zN3FXCN/omb.jpg"  class="card__image">
+                        <h1 class="card__name text-center"><strong>Ombligo<br>navel </strong></h1>
+                        <br>
+                        <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview"  width="318" height="60"></iframe>
+                    </div>
+
+                </div>
+                <!-- tarjeta 2 -->
+                <div class="col-md-4  ">
+                    <div class="card ">
+                        <img src="https://i.ibb.co/TPWJmxG/pecho.jpg"  class="card__image">
+                        <h1 class="card__name text-center"><strong>Pecho<br>chest</strong></h1>
+                        <br>
+                        <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview"  width="318" height="60"></iframe>
+                    </div>
+                </div>
+                <!-- tarjetas3 -->
+                <div class="col-md-4">
+                    <div class="card ">
+                        <img src="https://i.ibb.co/Q9Bz266/column.jpg"   class="card__image">
+                        <h1 class="card__name text-center"><strong>Columna vertebral<br>spine</strong></h1>
+                        <br>
+                        <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview"  width="318" height="60"></iframe>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
 
     <!-- separador -->
     <div id="separadorInferior">
