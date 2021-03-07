@@ -590,3 +590,4 @@ Route::get('/partes',function (){
 
 
 
+

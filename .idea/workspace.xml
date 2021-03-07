@@ -28,6 +28,7 @@
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Ingles/partes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/partes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,6 +223,8 @@
       <workItem from="1613861981038" duration="324000" />
       <workItem from="1613862627886" duration="331000" />
       <workItem from="1613863803558" duration="4105000" />
+      <workItem from="1615135229912" duration="424000" />
+      <workItem from="1615136221639" duration="1650000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -489,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615076935026</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Sprint 8 Daniela Mazzoni">
+      <created>1615087343565</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1615087343565</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
