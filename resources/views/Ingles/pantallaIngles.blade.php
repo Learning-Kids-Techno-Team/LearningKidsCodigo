@@ -248,7 +248,7 @@
                 </a>
             </div>
             <div class="col-md-3">
-                <a href="{{url('/')}}">
+                <a href="{{url('/partes')}}">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/Tbn1H41/conjunto-iconos-colores-partes-cuerpo-humano-106317-22-removebg-preview.png"  class="rounded-circle mx-auto d-block   img-thumbnail" width="150" />
                     <h4>Partes del cuerpo </h4>
 
