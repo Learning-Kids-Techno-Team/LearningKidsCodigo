@@ -257,7 +257,7 @@
         </div>
         <div class="row mb-5">
             <div class="col-md-2">
-                <a href="{{url('/')}}">
+                <a href="{{url('/vestimenta')}}">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview"src="https://i.ibb.co/cyCfQ3W/85414090-colecci-n-de-iconos-de-ropa-de-mujer-varias-prendas-de-vestir-para-mujeres-para-trabajar-ca.png" class="rounded-circle mx-auto d-block   img-thumbnail" width="150" />
                     <h4>Prendas de vestir </h4>
 

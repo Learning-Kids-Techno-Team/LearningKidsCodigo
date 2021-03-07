@@ -583,6 +583,9 @@ Route::get('/utiles',function (){
 Route::get('/partes',function (){
     return view('Ingles/partes');
 });
+Route::get('/vestimenta',function (){
+    return view('Ingles/vestimenta');
+});
 
 
 
