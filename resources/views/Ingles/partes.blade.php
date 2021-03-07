@@ -271,7 +271,7 @@
     <div class="container-fluid " style="background:  #f5f5f5; ">
         <div class="row m-3">
             <div class="col-md-6" >
-                  <p class="im"><strong><br>
+                  <p class="im"><strong>
                       Va desde la cabeza hasta la cintura, y<br>
                       es la región más importante del cuerpo<br>
                       ¿sabrías decir qué partes contiene el tronco?<br><br>
