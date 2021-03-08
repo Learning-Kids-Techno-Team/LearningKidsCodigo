@@ -597,6 +597,8 @@ Route::get('/actividadUtiles',function (){
     return view('ActividadesIngles/actividadUtiles');
 });
 
-
+Route::get('/actividadParte',function (){
+    return view('ActividadesIngles/actividadParte');
+});
 
 
