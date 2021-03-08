@@ -602,6 +602,6 @@ Route::get('/actividadParte',function (){
 });
 
 Route::get('/actividadMiembros',function (){
-    return view('ActividadesIngles/actividadMiembro');
+    return view('ActividadesIngles/actividadMiembros');
 });
 
