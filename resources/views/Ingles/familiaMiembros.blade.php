@@ -292,10 +292,10 @@
                 </ul></strong>
             </div>
 
-            <div class="col-md-6 mb-5" style="">
-                <img class="rounded-circle mx-auto d-block bg-info" src="https://i.ibb.co/2ctGX3w/app-removebg-preview.png" width="350" height="250">
-                <h2><em>Audio pronunciación en inglés</em></h2>
-                <iframe src="https://drive.google.com/file/d/1u00DW7e8T1IE2Hk78gJVWWfRJm7uRBtY/preview" width="400" height="80"></iframe>
+            <div class="col-md-6 mb-5">
+                <img class="rounded-circle mx-auto d-block bg-info mt-5" src="https://i.ibb.co/2ctGX3w/app-removebg-preview.png" width="400" height="300">
+                <h2><em>Audio pronunciación en inglés</em></h2><br>
+                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1u00DW7e8T1IE2Hk78gJVWWfRJm7uRBtY/preview" width="400" height="80"></iframe>
             </div>
         </div>
     </div>
@@ -311,7 +311,7 @@
                     <br></em></strong>
                 </h2>
                 <iframe id="bord" class="mx-auto d-block" src="https://drive.google.com/file/d/1WvuKz2iEvOk5uS637kswIGsE6U8uOKHq/preview"
-                        width="670" height="3900"></iframe>
+                        width="670" height="390"></iframe>
             </div>
 
         </div>

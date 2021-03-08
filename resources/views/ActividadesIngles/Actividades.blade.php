@@ -185,9 +185,9 @@
                     </div>
 
                     <div class="container-fluid">
-                        <div class="row pt-5  "  style="background: #dcfecb ">
+                        <div class="row pt-5"  style="background: #dcfecb ">
                             <!-- tarjeta 1 -->
-                            <div class="col-md-6 pb-5 d-flex justify-content-center" >
+                            <div class="col-md-4 pb-5 d-flex justify-content-center" >
                                 <div class="card"  style="width: 18rem;" >
 
                                     <img src="https://i.ibb.co/7gtRW7S/gran-coleccion-lapices-colores-estilo-dibujos-animados-ilustracion-sobre-fondo-blanco-257455-978-rem.png"   class="card mx-auto d-block" height="180" width="220">
@@ -199,7 +199,7 @@
                             </div>
 
                             <!-- tarjeta2 -->
-                            <div class="col-md-6 pb-5 d-flex justify-content-center">
+                            <div class="col-md-4 pb-5 d-flex justify-content-center">
                                 <div class="card" style="width: 18rem;">
                                     <img src="https://i.ibb.co/khf5MMG/mascot-illustration-featuring-numbers-1-260nw-413888401-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
                                     <div class="card-body">
@@ -209,19 +209,74 @@
                                 </div>
                             </div>
 
-                        </div>
+                            <!-- tarjeta3-->
+                            <div class="col-md-4 pb-5 d-flex justify-content-center">
+                                <div class="card" style="width: 18rem;">
+                                    <img  class="card mx-auto d-block" src="https://i.ibb.co/hFn3G31/jop.jpg" height="180" width="200">
+                                    <div class="card-body">
+                                        <h5 class="card-title" align="center">Actividad miembros de la familia</h5>
+                                        <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                    </div>
+                                </div>
+                            </div>
 
-</div>
+
+
+                            <div class="container-fluid">
+                                <div class="row pt-5  "  style="background: #dcfecb">
+                                    <!-- tarjeta 1 -->
+                                    <div class="col-md-4 pb-5 d-flex justify-content-center" >
+                                        <div class="card"  style="width: 18rem;" >
+
+                                            <img  class="card mx-auto d-block" src="https://i.ibb.co/M12q3jL/abcd.jpg" height="180" width="200">
+                                            <div class="card-body">
+                                                <h5 class="card-title" align="center">Actividad partes del cuerpo</h5>
+                                                <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                    <!-- tarjeta2 -->
+                                    <div class="col-md-4 pb-5 d-flex justify-content-center">
+                                        <div class="card" style="width: 18rem;">
+                                            <img  class="card mx-auto d-block" src="https://i.ibb.co/zmjH3zL/ab.jpg" height="180" width="200">
+                                            <div class="card-body">
+                                                <h5 class="card-title"  align="center">Actividad prendas de vestir</h5>
+                                                <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- tarjeta3 -->
+                                    <div class="col-md-4 pb-5 d-flex justify-content-center">
+                                        <div class="card" style="width: 18rem;">
+                                            <img   class="card mx-auto d-block" src="https://i.ibb.co/TRppNHH/abc.jpg" height="180" width="200">
+                                            <div class="card-body">
+                                                <h5 class="card-title" align="center">Actividad utiles escolares</h5>
+                                                <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
             <div  id="separadorInferior2">
                 <div class="content ">
 
                 </div>
             </div>
-        </div>
-    </div>
-    </div>
-            </div>
+
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
