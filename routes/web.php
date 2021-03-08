@@ -573,7 +573,7 @@ Route::get('/actividadnumeros',function (){
 
 // SPRINT 8
 
-Route::get('/Miembros',function (){
+Route::get('/miembros',function (){
     return view('Ingles/familiaMiembros');
 });
 

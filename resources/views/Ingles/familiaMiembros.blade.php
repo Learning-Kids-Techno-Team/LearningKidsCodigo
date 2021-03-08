@@ -310,7 +310,8 @@
                     <br>de los miembros de la familia en inglés con esta divertida canción. ¡Vamos a cantar!
                     <br></em></strong>
                 </h2>
-                <iframe id="bord" class="mx-auto d-block"  width="670" height="390"></iframe>
+                <iframe id="bord" class="mx-auto d-block" src="https://drive.google.com/file/d/1WvuKz2iEvOk5uS637kswIGsE6U8uOKHq/preview"
+                        width="670" height="3900"></iframe>
             </div>
 
         </div>
