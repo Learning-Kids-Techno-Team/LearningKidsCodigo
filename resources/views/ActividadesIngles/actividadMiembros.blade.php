@@ -13,7 +13,7 @@
         gtag('config', 'G-JWFFJETEMQ');
     </script>
 
-    <title>Actividad Medios de transporte</title>
+    <title>Actividad Miembros de la familia</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <style>
         .navbar{
@@ -75,11 +75,11 @@
         <div class="row">
             <div class="col-m-12" style="background: #FDFD96;">
                 <div >
-                    <h1 style="text-align: center">Actividad Medios de Transporte en Inglés</h1>
+                    <h1 style="text-align: center">Actividad miembros de la familia en Inglés</h1>
                 </div>
 
                 <div>
-                    <iframe src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Ingles/Actividades%20Ingles/Actividad%20Medios%20de%20Transporte%20en%20ingles%20(Published)/" width="1347" height="800"></iframe>
+                    <iframe src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Juegos/Actividades%20Ingles/Juego%20de%20memoria%20(Miembros%20de%20la%20Familia)%20(Published)/" width="1347" height="800"></iframe>
                 </div>
 
             </div>
