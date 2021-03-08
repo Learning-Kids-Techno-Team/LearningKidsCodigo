@@ -601,4 +601,7 @@ Route::get('/actividadParte',function (){
     return view('ActividadesIngles/actividadParte');
 });
 
+Route::get('/actividadMiembros',function (){
+    return view('ActividadesIngles/actividadMiembro');
+});
 
