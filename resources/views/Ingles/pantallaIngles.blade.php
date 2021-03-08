@@ -264,7 +264,7 @@
                 </a>
             </div>
             <div class="col-md-2">
-                <a href="{{url('/')}}">
+                <a href="{{url('/utiles')}}">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview"  src="https://i.ibb.co/8bMzXFT/86383784-conjunto-de-vector-de-tiles-escolares-fondo-de-regreso-a-la-escuela-con-papeler-a-removebg.png"  class="rounded-circle mx-auto d-block  img-thumbnail" width="150" />
                     <h4>Útiles escolares </h4>
 
