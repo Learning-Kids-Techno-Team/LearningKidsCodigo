@@ -147,21 +147,22 @@
                 <h2 class="mt-5">
                     Madre: <strong>mother</strong>
                 </h2>
-                    <iframe  width="300" height="80"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1ZTKEwGXA0_xRJhBWn2TOJXPDEvV06eZu/preview" width="300" height="80"></iframe>
             </div>
                 <div class="col-md-4">
                     <img class="mx-auto d-block" src="https://i.ibb.co/k14MGmK/papa-removebg-preview.png" width="350" height="250">
                     <h2 class="mt-5">
                         Padre: <strong>father</strong>
+                        <iframe src="https://drive.google.com/file/d/1GxFHZGIt92FE-W_Ja-9zSTdrVysfjFQi/preview" width="300" height="80"></iframe>
                     </h2>
-                    <iframe  width="300" height="80"></iframe>
+
                 </div>
                 <div class="col-md-4">
                     <img class="mx-auto d-block" src="https://i.ibb.co/Sv31ckh/tni-a3-removebg-preview.png" width="350" height="250">
                     <h2 class="mt-5">
                         Hija: <strong>daughter</strong>
+                        <iframe src="https://drive.google.com/file/d/1hg512iRwU-agSZiGxOXMnVmKBuhZS1GB/preview" width="300" height="80"></iframe>
                     </h2>
-                    <iframe  width="300" height="80"></iframe>
 
                 </div>
             </div>
@@ -175,22 +176,21 @@
                 <h2 class="mt-5">
                    Hijo: <strong>son</strong>
                 </h2>
-                <iframe  width="300" height="80"></iframe>
+                <iframe src="https://drive.google.com/file/d/1uHRfjbTclSpNkAdicOF1qERWuB22Gx9k/preview" width="300" height="80"></iframe>
             </div>
             <div class="col-md-4">
                 <img class="mx-auto d-block" src="https://i.ibb.co/S6b3kwX/bebe-removebg-preview.png" width="230" height="170">
                 <h2 class="mt-5">
                     Bebé: <strong>baby</strong>
                 </h2>
-                <iframe  width="300" height="80"></iframe>
+                <iframe src="https://drive.google.com/file/d/1iwtkNp1A7I4KQ5XJp-H4221IleEIHrVe/preview" width="300" height="80"></iframe>
             </div>
             <div class="col-md-4">
                 <img class="mx-auto d-block" src="https://i.ibb.co/rZrw3jM/abu-removebg-preview.png" width="300" height="250">
                 <h2 class="mt-5">
                     Abuela: <strong>grandmother</strong>
                 </h2>
-                <iframe  width="300" height="80"></iframe>
-
+                <iframe src="https://drive.google.com/file/d/1n0tM8DyCzqbw4bfZNMudjQSRhtED3XjQ/preview" width="300" height="80"></iframe>
             </div>
         </div>
     </div>
@@ -203,22 +203,21 @@
                 <h2 class="mt-5">
                     Nieta: <strong>granddaughter</strong>
                 </h2>
-                <iframe  width="300" height="80"></iframe>
+                <iframe src="https://drive.google.com/file/d/1BcPThCJWy4soR3xwKFYupoBOywyk3gpq/preview" width="300" height="80"></iframe>
             </div>
             <div class="col-md-4">
                 <img class="mx-auto d-block" src="https://i.ibb.co/hmZ1LB1/abue-removebg-preview.png"  width="350" height="250">
                 <h2 class="mt-5" >
                     Abuelo: <strong>grandfather</strong>
                 </h2>
-                <iframe  width="300" height="80"></iframe>
+                <iframe src="https://drive.google.com/file/d/1t9_wckFGtEHhrnC4wUN3MVc-aYmbKYsK/preview" width="300" height="80"></iframe>
             </div>
             <div class="col-md-4">
                 <img class="mx-auto d-block" src="https://i.ibb.co/x8rLVB7/ni-ofeliz-removebg-preview.png" width="300" height="220">
                 <h2 class="mt-5">
                     Nieto: <strong>grandson</strong>
                 </h2>
-                <iframe  width="300" height="80"></iframe>
-
+                <iframe src="https://drive.google.com/file/d/1wJ4TKXbDIAkNUdOOguKMXJoieD0J_bpw/preview" width="300" height="80"></iframe>
             </div>
         </div>
     </div>
@@ -277,20 +276,26 @@
         <div class="row m-3">
             <div class="col-md-6" style="background: #DCFECB"><strong>
                 <ul id="lt">
-                <li>Parents: padres</li>
-                <li>Children: niños</li>
-                <li>Sister: hermana</li>
-                <li>Brother: hermano</li>
-                <li>Siblings: hermanos</li>
-                <li>Great-grandparents: tatarabuelos</li>
-                <li>Husband: marido / esposo</li>
-                <li>Wife: mujer/esposa</li>
+                    <li>Parents: padres</li>
+                    <li>Children: niños</li>
+                    <li>Sister: hermana</li>
+                    <li>Brother: hermano</li>
+                    <li>Siblings: hermanos</li>
+                    <li>Great-grandparents: tatarabuelos</li>
+                    <li>Grandmother: abuela</li>
+                    <li>Grandfather: abuelo</li>
+                    <li>Husband: marido / esposo</li>
+                    <li>Wife: mujer/esposa</li>
+                    <li>Daughter: hija</li>
+                    <li>Son: hijo</li>
+                    <li>Cousin wife: esposa de primo </li>
+                    <li>Nephew: sobrino</li>
                 </ul></strong>
             </div>
 
             <div class="col-md-6 mb-5" style="">
                 <img class="rounded-circle mx-auto d-block bg-info" src="https://i.ibb.co/2ctGX3w/app-removebg-preview.png" width="350" height="250">
-                <h2><em>Audio pronunciación</em></h2>
+                <h2><em>Audio pronunciación en inglés</em></h2>
                 <iframe  width="400" height="80"></iframe>
             </div>
         </div>
