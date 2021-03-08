@@ -586,10 +586,10 @@ Route::get('/partes',function (){
 Route::get('/vestimenta',function (){
     return view('Ingles/vestimenta');
 });
-
-
-
-
+//Actividades Sprint 8
+Route::get('/actividadPrendas',function (){
+    return view('ActividadesIngles/actividadPrendas');
+});
 
 
 

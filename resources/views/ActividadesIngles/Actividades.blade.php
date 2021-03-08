@@ -243,7 +243,7 @@
                                             <img  class="card mx-auto d-block" src="https://i.ibb.co/zmjH3zL/ab.jpg" height="180" width="200">
                                             <div class="card-body">
                                                 <h5 class="card-title"  align="center">Actividad prendas de vestir</h5>
-                                                <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                                <a href=" {{ url('/actividadPrendas') }}" class="btn">Ver</a>
                                             </div>
                                         </div>
                                     </div>
