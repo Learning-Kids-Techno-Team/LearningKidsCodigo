@@ -197,7 +197,7 @@
             <div class="col-md-4">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/4mLvNBs/gabardina-removebg-preview.png"  width="135"/>
                 <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1ux6cwFhGJWaBiWtPKfyuAKH5h_i4_q2X/preview" style="border: none" width="280" height="80"></iframe>
-                <h2>Gabardina / chubasquero:<br>Raincoat</h2>
+                <h2>Gabardina:trench coat</h2>
             </div>
             <div class="col-md-4">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/Dbz28bf/chaleco-removebg-preview.png"  width="200" />
