@@ -458,7 +458,7 @@
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/X3pQjB2/anillo-removebg-preview.png"  width="157" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1-DuSSs5Rrof8GG4jDJ8j09IhowenzCpH/preview"" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1-DuSSs5Rrof8GG4jDJ8j09IhowenzCpH/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Anillo: Ring</h2>
             </div>
             <div class="col-md-3">
