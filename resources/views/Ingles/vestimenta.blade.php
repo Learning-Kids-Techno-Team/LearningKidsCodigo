@@ -163,23 +163,23 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/zbQFbsj/camiseta-removebg-preview.png"  width="220" />
-                <iframe src="https://drive.google.com/file/d/13V7-Y6r2GJWr1vBSdxgg3BL62CeRsnZ0/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1lleqKu2lVzJfqZmCoDkzY8haMCt-n8_F/preview"  style="border: none" width="250" height="80"></iframe>
                 <h2>Camiseta: T-shirt</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/q0wVdCx/jersey-removebg-preview.png"   width="150"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/17WAsQNfcGcumEZReMgjJdrf6Q9j_AzcQ/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1YtNwnTpLL-4yCAHmVvDNpUcwIAxO7Lxm/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Jersey: Sweater</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/c6jK138/chaqueta-removebg-preview.png" width="200" />
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1j6FcR5LPowUfh2FnRCw4OcydhZX8KZK_/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1KSJzqspU-FU9mAU5tP1989RoGHdN-U-5/preview"  style="border: none" width="250" height="80"></iframe>
                 <h2>chaqueta: Jacket</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/163M1nH/abrigo-removebg-preview.png"  width="225" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1puT4EXTw87bLFh5g-jwpZCQ_XFQ44iEd/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1l9qe7cR_eiQHaR-NsS7qXX1rXzocSUt9/preview"  style="border: none" width="250" height="80"></iframe>
                 <h2>Abrigo: Coat</h2>
             </div>
         </div>
@@ -191,17 +191,17 @@
         <div class="row">
             <div class="col-md-4">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/Ns3FSZf/tirantes-removebg-preview.png"   width="195" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1Bg2z7KIYG2nUKD9Tl4QgEc3V9qhMp5Xq/preview" style="border: none" width="280" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1m2l0Uec2PuzZ5eofd0tmaha4IyUG9TwU/preview"  style="border: none" width="280" height="80"></iframe>
                 <h2>Camiseta de tirantes:<br> Tanktop</h2>
             </div>
             <div class="col-md-4">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/4mLvNBs/gabardina-removebg-preview.png"  width="135"/>
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1ux6cwFhGJWaBiWtPKfyuAKH5h_i4_q2X/preview" style="border: none" width="280" height="80"></iframe>
+                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1Tz5xfgH_ar0C3B4CEalLOUOGsDNsGzW_/preview"  style="border: none" width="280" height="80"></iframe>
                 <h2>Gabardina:trench coat</h2>
             </div>
             <div class="col-md-4">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/Dbz28bf/chaleco-removebg-preview.png"  width="200" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1_V0WJ64fSMbx2P_Okk_JOj-tdrF1Yqoo/preview" style="border: none" width="280" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1trDHQy0qSvEEbHaVW5fe46aWEeGiBnLQ/preview"  style="border: none" width="280" height="80"></iframe>
                 <h2>Chaleco: Vest</h2>
             </div>
         </div>
@@ -222,23 +222,23 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" src="https://i.ibb.co/1GJDpBr/falda-removebg-preview.png"  width="185" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1J6dk9CjoOU3EwwDmscl1HK36gUozsKpc/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1WTTsFFe3wN4hwL5BvAsEDb6LOX_MvaA2/preview"  style="border: none" width="250" height="80"></iframe>
                 <h2>Falda: Skirt</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/h842WJ4/vestido-removebg-preview.png"   width="160"/>
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/10MkOHxRG8Nga4Io1e9qxixygElBrsvDE/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe  class="mx-auto d-block"  src="https://drive.google.com/file/d/1YJDRm-QkYs7rGGXVCQbt1m3H5J9bfHsA/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Vestido: Dress</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/jWFNGpN/tacones-removebg-preview.png"  width="160" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1fgVm83mgNtE-tzcxqhdez46Z23cQIGdD/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1HCqg-_uTwlcXBfb_qqHhnLfuo-W3YbmJ/preview"  style="border: none" width="250" height="80"></iframe>
                 <h2>Tacones: Heels</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/s1zqjQs/blusa-removebg-preview.png"  width="180" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1CrkuJbULlCfXkejqmtYasqVWwyPF8IlM/preview"style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/12kDykIQSjLxVH8XL7qhZrm3reuiTWYj2/preview"  style="border: none" width="250" height="80"></iframe>
                 <h2>Blusa: Blouse</h2>
             </div>
         </div>
@@ -250,22 +250,22 @@
         <div class="row">
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/Cby97m6/sujetador-removebg-preview.png"    width="195" />
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1G_62bFZHwDEV-0MRJnDgjTrl-a7oXMCM/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1iwAL_4EOKEfwPdXDsrGOdB0TD0I3NzS8/preview"  style="border: none" width="250" height="80"></iframe>
                 <h2>Sujetador/sostén:Bra</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/nfphMDb/bragas-removebg-preview.png"    width="160"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/12vh0D_Slfp-tYZPyEHcFqRYU8lt0-n4J/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1TURoycjoNOwBhoLLqoJJJSO5rAQmf3od/preview"  style="border: none" width="250" height="80"></iframe>
                 <h2>Bragas/pantis:panties</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/M1FsD9S/medias-removebg-preview.png"   width="197" />
-                <iframe src="https://drive.google.com/file/d/15gHltUwvlw-Wy1s6Uiyi-aeytE5kmXr6/preview"style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1LYHf1X_L-YhzVFoitJzQz2Jaev1AwcUd/preview"  style="border: none" width="250" height="80"></iframe>
                 <h2>Medias: stockings</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/YXS0fkD/pijama-removebg-preview.png"   width="170" />
-                <iframe src="https://drive.google.com/file/d/1_7bAROO7MhXgXXmd7tNXmMGn6qAmYW_0/preview"style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1DPO--jEYz5CQ_pnhxCjRsfsUwiZyScgM/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Pijama / ropa de dormir: pajamas
                 </h2>
             </div>
@@ -289,26 +289,26 @@
                 <br>
                 <br>
                 <img class="mx-auto d-block"  src="https://i.ibb.co/sKJht5S/zapatos-removebg-preview.png"    width="250" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/17QdWwsZjFBLR2FS39DItq64vEoaFL7E9/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1-aKcZLwx4YStymNZ3YTBaOycIDVv-y-m/preview"  style="border: none" width="250" height="80"></iframe>
                 <h2>Zapatos: shoes</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/6Xn1LKc/botas-removebg-preview.png"    width="200"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1QfC4b7-TaTWrtQiUmaHPLbZXqyPdoReA/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1F8lQcERuAAzkdl9VeKnOBlFE1rybf6bN/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Botas: boots</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/xmPV0Hf/tenis-removebg-preview.png"  width="150" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1psXReODt1ca8DqQMNO-w7eccceW_KAJe/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1FQyJwsQHUeKd4i0hEdTQI-JNXE6wLAd4/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>zapato deportivo:  sports shoe</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <BR>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/Kr5s2cK/sandalia-removebg-preview.png"   width="147" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1hZ8GNSTBWY-rqUtTv59AueqaCAriEpEd/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/107WeM_U31CLkR73e8IRyjQOX9rW3xSf8/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Sandalia: sandal</h2>
             </div>
         </div>
@@ -332,25 +332,25 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block"    src="https://i.ibb.co/cbFB5qB/trajes-removebg-preview.png"  width="150" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1X8quovBD7ghyU40Y6XhNbSI0tplTo_Sj/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1xwQESvDJTfpgKZWNoCoS0v8-7cjaU333/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>traje: suit</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"    src="https://i.ibb.co/c1HTJLW/camisa-removebg-preview.png"    width="185"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1eEpM7yRRtEyQXFJOoCXNdnhisWSfhY9G/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1AbubIamSXWzKbhlBgJIawzGNXW3MFse9/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>camisa: shirt</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/kB8QgWj/corbatas-removebg-preview-2.png"   width="138" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1nnSTBc16Vq2AjpfLFEwl8H-UE3tYVCdI/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/16ZbHF1dHirqFPA7XS-fctv2pomMcKXt3/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Corbata: tie</h2>
 
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/1ZdyM6L/corbatin-removebg-preview.png"   width="250" />
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1yxFY4ZbKiuQMMRZTM1HTMPcSsPXRDZYX/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/13G051HWJKKaS97RQ_99uuw-lVzyolxFT/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Corbatín / pajarita: bow-tie</h2>
             </div>
         </div>
@@ -360,23 +360,23 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" src="https://i.ibb.co/w7M9yw1/calzoncillo-removebg-preview.png"  width="215" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1nJDvxXon1SJ6eKHF3iNlKNOIx6dIBMP-/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/14-Gn9CuMwgu55K9ZCp0nAjeY4wCQEfhb/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Calzoncillos: briefs</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/NsbwGg4/calsetines-removebg-preview.png"   width="215"/>
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1AfCMKGsF4AAECZZJvMVNLJl2_igtsr_I/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1nGX-aYv13LcwRz8sDKuYQMcChbePYb1s/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>calcetines / medias: socks</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/tcbZdrK/calzoneta-removebg-preview.png"   width="188" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1TucwJsKYGRuUS29yatawtnFzQ-2rVd2n/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1P7cZ6LmYNGuDnJolvqniBCoWMozN9G8t/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Calzoneta: underpants</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/7CPXBz0/jeans-removebg-preview.png"   width="320" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1nNtqDup8Jle_ls2MtX49R8EBm0VN9RPv/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Pantalones: Jeans</h2>
             </div>
         </div>
@@ -395,25 +395,25 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/LSZ21PB/sombrero-removebg-preview.png"  width="150" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1X8quovBD7ghyU40Y6XhNbSI0tplTo_Sj/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1dg8XlmfOh5dmQY8_Q0gNeBSZlSuW6B8k/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Sombrero:Sun hat</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/BtbTNHG/gorro-removebg-preview.png"  width="150"/>
-                <iframe class="mx-auto d-block"src="https://drive.google.com/file/d/1eEpM7yRRtEyQXFJOoCXNdnhisWSfhY9G/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/13PvFix6KS6qQ-5-xToTb94ogtW571lgT/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Gorro de lana:Wool hat</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/mTt4YYm/gafas-removebg-preview.png"   width="100" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1nnSTBc16Vq2AjpfLFEwl8H-UE3tYVCdI/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1ewocEgqnt2lXo_Ig4sba09FXUaQ7coyk/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Gafas / lentes: glasses</h2>
 
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/FDvJhR0/pendientes-removebg-preview.png"    width="150" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1yxFY4ZbKiuQMMRZTM1HTMPcSsPXRDZYX/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/16-jeFwZwaCOBtgGdY2MQ7IFKWSrnvTyv/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Pendientes / zarcillos: Earrings</h2>
             </div>
         </div>
@@ -423,22 +423,22 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" src="https://i.ibb.co/cCZ8ZVh/braslete-removebg-preview.png" width="170" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1nJDvxXon1SJ6eKHF3iNlKNOIx6dIBMP-/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1wgg4TZszNOulNcHFeyF3rY5WCCfdC4Zh/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Pulsera / brazalete: Bracelet</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/hLTCDxX/cinturon-removebg-preview.png"   width="218"/>
-                <iframe src="https://drive.google.com/file/d/1AfCMKGsF4AAECZZJvMVNLJl2_igtsr_I/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1ticqPivyP78QtcI5B-cXNLgCAXLtvNzx/preview"style="border: none" width="250" height="80"></iframe>
                 <h2>Cinturón: Belt</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/tC1y23t/collar-removebg-preview.png"  width="170" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1TucwJsKYGRuUS29yatawtnFzQ-2rVd2n/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/185S4WUJYQTGITH58g8FFGq4m9b75QirS/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>collar: Necklace</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/HgS9hSN/cartera-removebg-preview.png"   width="200" />
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1jw1Ru6Drk-PrcANSNCqyrOyM7nMiFUXJ/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>cartera: Purse</h2>
             </div>
         </div>
@@ -447,23 +447,23 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" src="https://i.ibb.co/f0JPt8L/billetera-removebg-preview.png"  width="155" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1nJDvxXon1SJ6eKHF3iNlKNOIx6dIBMP-/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1uu_miY3WLw05-bI_wJ5XBL5Rs3OMYUhQ/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Billetera: Wallet</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/z4M7bdX/gorra-removebg-preview.png"   width="210"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1AfCMKGsF4AAECZZJvMVNLJl2_igtsr_I/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1R9xMZ8t8MnClemdMIhv5_SYjvrSw_MSG/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Gorra: Cap</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/X3pQjB2/anillo-removebg-preview.png"  width="157" />
-                <iframe src="https://drive.google.com/file/d/1TucwJsKYGRuUS29yatawtnFzQ-2rVd2n/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1-DuSSs5Rrof8GG4jDJ8j09IhowenzCpH/preview"" style="border: none" width="250" height="80"></iframe>
                 <h2>Anillo: Ring</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/WPwgQgv/reloj-removebg-preview.png"   width="248" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1U5NaobAFFhn37TITupi6X_37wa-SzRM2/preview" style="border: none" width="250" height="80"></iframe>
                 <h2>Reloj de pulsera: Watch</h2>
             </div>
         </div>

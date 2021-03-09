@@ -26,8 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint 8 Luz Bonilla">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadPrendas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadPrendas.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Ingles/vestimenta.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/vestimenta.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -491,7 +491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615076935026</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Sprint 8 Luz Bonilla">
+      <created>1615253650365</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1615253650365</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -527,13 +534,18 @@
     <MESSAGE value="Sprint 7 Hector Lopez" />
     <MESSAGE value="Sprint 7 Daniela Mazzoni" />
     <MESSAGE value="Sprint 8 Daniela Mazzoni" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 8 Daniela Mazzoni" />
+    <MESSAGE value="Sprint 8 Luz Bonilla" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 8 Luz Bonilla" />
   </component>
   <component name="WindowStateProjectService">
     <state x="517" y="283" key="NewPhpFileDialog" timestamp="1615181253671">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="283" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1615181253671" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1615253656573">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1615253656573" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
