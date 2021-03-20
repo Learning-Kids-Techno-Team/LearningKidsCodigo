@@ -25,10 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint 8 Luz Bonilla">
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint 9 Luz Bonilla">
+      <change beforePath="$PROJECT_DIR$/.idea/LearningKids-TechnoTeam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearningKids-TechnoTeam.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/vestimenta.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/vestimenta.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,6 +157,11 @@
       <path value="$PROJECT_DIR$/vendor/laravel/ui" />
     </include_path>
   </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-62" />
+    <option name="width" value="876" />
+    <option name="height" value="735" />
+  </component>
   <component name="ProjectId" id="1io7p1JOdFbfV4bU58UqMpUGZPj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -167,7 +173,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mercaGeova" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -224,6 +231,7 @@
       <workItem from="1613862627886" duration="331000" />
       <workItem from="1613863803558" duration="4105000" />
       <workItem from="1615159385455" duration="194000" />
+      <workItem from="1616224117775" duration="1137000" />
     </task>
     <task id="LOCAL-00001" summary="Primer Sprint Techno Team">
       <created>1602562454321</created>
@@ -498,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615253650365</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Sprint 9 Luz Bonilla">
+      <created>1616225220472</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1616225220472</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -535,17 +550,22 @@
     <MESSAGE value="Sprint 7 Daniela Mazzoni" />
     <MESSAGE value="Sprint 8 Daniela Mazzoni" />
     <MESSAGE value="Sprint 8 Luz Bonilla" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 8 Luz Bonilla" />
+    <MESSAGE value="Sprint 9 Luz Bonilla" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 9 Luz Bonilla" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="283" key="NewPhpFileDialog" timestamp="1615181253671">
+    <state x="517" y="283" key="NewPhpFileDialog" timestamp="1616224442740">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="283" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1615181253671" />
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1615253656573">
+    <state x="517" y="283" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1616224442740" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1616225248808">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1615253656573" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1616225248808" />
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1616224191752">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1616224191752" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -607,6 +607,6 @@ Route::get('/actividadMiembros',function (){
 
 
 //Sprint9
-Route::get('/partesdelacasa',function (){
+Route::get('/partesDeLaCasa',function (){
     return view('Ingles/partesDeLaCasa');
 });
