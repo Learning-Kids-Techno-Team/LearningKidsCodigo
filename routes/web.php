@@ -605,3 +605,8 @@ Route::get('/actividadMiembros',function (){
     return view('ActividadesIngles/actividadMiembros');
 });
 
+
+//Sprint9
+Route::get('/partesdelacasa',function (){
+    return view('Ingles/partesDeLaCasa');
+});
