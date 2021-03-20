@@ -621,3 +621,13 @@ Route::get('/emociones',function (){
     return view('Ingles/emociones');
 });
 
+Route::get('/pantallaAlimentos',function (){
+    return view('Ingles/pantallaAlimentos');
+});
+Route::get('/frutas',function (){
+    return view('Ingles/frutas');
+});
+Route::get('/verduras',function (){
+    return view('Ingles/verduras');
+});
+
