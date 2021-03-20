@@ -13,7 +13,7 @@
         gtag('config', 'G-JWFFJETEMQ');
     </script>
 
-    <title>Actividad Meses y dias</title>
+    <title>Actividad Partes del cuerpo</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <style>
         .navbar{
@@ -22,18 +22,26 @@
 
         body{
 
-            background: #FDFD96;
+            background:teal;
 
         }
 
-        .card{
-            background: lightyellow;
-            border:green 6px solid;
-            border-bottom-left-radius: 10px;
-            border-bottom-right-radius: 10px;
-            border-top-left-radius: 10px;
-            border-top-right-radius: 10px;
+        #banderin{
 
+
+            margin-top: auto;
+            height:90px;
+
+        }
+        #color{
+            color: white;
+            height: 80px;
+
+
+
+        }
+        p{
+            text-align: center;
 
         }
 
@@ -44,23 +52,12 @@
             height: 100px;
             border-bottom-left-radius: 80%;
             border-top-right-radius: 50%;
-            background: aquamarine;
+            background: aqua;
         }
-
-
         h1{
-            font-family: Brush Script MT;
+
             size: 80px;
 
-        }
-        h3{
-            font-style:italic;
-
-
-        }
-        h4{
-            text-decoration-color: #3B5686;
-            text-align: center;
         }
 
 
@@ -69,18 +66,20 @@
 
 </head>
 <body >
-
 @section('content')
+
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-m-12" style="background: #FDFD96;">
+            <div class="col-m-12" style="background: antiquewhite;">
                 <div >
-                    <h1 style="text-align: center">Actividad Meses y Días en Inglés</h1>
+                    <h1 style="text-align: center">Actividad de las partes del cuerpo</h1>
                 </div>
 
                 <div>
-                    <iframe src= "https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Juegos/Actividades%20Ingles/Actividad%20de%20Tiempo.%20(Meses%20y%20dias%20en%20ingles)%20(Published)/" width="1347" height="800"></iframe>
+
+                    <iframe src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Juegos/Actividades%20Ingles/MY%20BODY%20(Published)/" width="1347" height="700"></iframe>
+
                 </div>
 
             </div>
@@ -96,9 +95,12 @@
     </div>
 
 
+
+
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 </body>
 </html>
 @endsection
+

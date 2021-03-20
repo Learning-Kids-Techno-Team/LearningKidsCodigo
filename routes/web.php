@@ -597,6 +597,16 @@ Route::get('/actividadUtiles',function (){
     return view('ActividadesIngles/actividadUtiles');
 });
 
+Route::get('/actividadParte',function (){
+    return view('ActividadesIngles/actividadParte');
+});
+
+Route::get('/actividadMiembros',function (){
+    return view('ActividadesIngles/actividadMiembros');
+});
 
 
-
+//Sprint9
+Route::get('/partesDeLaCasa',function (){
+    return view('Ingles/partesDeLaCasa');
+});

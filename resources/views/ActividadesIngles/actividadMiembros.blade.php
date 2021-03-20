@@ -13,7 +13,7 @@
         gtag('config', 'G-JWFFJETEMQ');
     </script>
 
-    <title>Actividad Meses y dias</title>
+    <title>Actividad Miembros de la familia</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <style>
         .navbar{
@@ -27,15 +27,15 @@
         }
 
         .card{
-            background: lightyellow;
+            background: #DCFECB;
             border:green 6px solid;
             border-bottom-left-radius: 10px;
             border-bottom-right-radius: 10px;
             border-top-left-radius: 10px;
             border-top-right-radius: 10px;
 
-
         }
+
 
 
         #separadorInferior2 .content{
@@ -46,7 +46,6 @@
             border-top-right-radius: 50%;
             background: aquamarine;
         }
-
 
         h1{
             font-family: Brush Script MT;
@@ -76,11 +75,11 @@
         <div class="row">
             <div class="col-m-12" style="background: #FDFD96;">
                 <div >
-                    <h1 style="text-align: center">Actividad Meses y Días en Inglés</h1>
+                    <h1 style="text-align: center">Actividad miembros de la familia en Inglés</h1>
                 </div>
 
                 <div>
-                    <iframe src= "https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Juegos/Actividades%20Ingles/Actividad%20de%20Tiempo.%20(Meses%20y%20dias%20en%20ingles)%20(Published)/" width="1347" height="800"></iframe>
+                    <iframe src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Juegos/Actividades%20Ingles/Juego%20de%20memoria%20(Miembros%20de%20la%20Familia)%20(Published)/" width="1347" height="800"></iframe>
                 </div>
 
             </div>
@@ -102,3 +101,4 @@
 </body>
 </html>
 @endsection
+

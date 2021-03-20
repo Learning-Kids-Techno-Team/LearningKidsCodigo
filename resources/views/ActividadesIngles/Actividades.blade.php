@@ -215,7 +215,7 @@
                                     <img  class="card mx-auto d-block" src="https://i.ibb.co/hFn3G31/jop.jpg" height="180" width="200">
                                     <div class="card-body">
                                         <h5 class="card-title" align="center">Actividad miembros de la familia</h5>
-                                        <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                        <a href=" {{ url('/actividadMiembros') }}" class="btn">Ver</a>
                                     </div>
                                 </div>
                             </div>
@@ -231,7 +231,7 @@
                                             <img  class="card mx-auto d-block" src="https://i.ibb.co/M12q3jL/abcd.jpg" height="180" width="200">
                                             <div class="card-body">
                                                 <h5 class="card-title" align="center">Actividad partes del cuerpo</h5>
-                                                <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                                <a href=" {{ url('/actividadParte') }}" class="btn">Ver</a>
                                             </div>
                                         </div>
                                     </div>
