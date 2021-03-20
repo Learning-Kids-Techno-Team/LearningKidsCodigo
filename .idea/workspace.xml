@@ -26,9 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Ingles/figurasGeometricas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/figurasGeometricas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,13 +220,6 @@
       <workItem from="1615042818641" duration="2739000" />
       <workItem from="1615133766265" duration="1317000" />
       <workItem from="1616254259061" duration="824000" />
-    </task>
-    <task id="LOCAL-00008" summary="Sprint2 Daniela">
-      <created>1602886825752</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1602886825752</updated>
     </task>
     <task id="LOCAL-00009" summary="Sprint2 Daniela">
       <created>1602887219100</created>
@@ -566,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615210211458</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Sprint9 Hector Lopez.">
+      <created>1616260603763</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1616260603765</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
