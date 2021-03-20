@@ -27,7 +27,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadUtiles.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadUtiles.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/figurasGeometricas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/figurasGeometricas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +175,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -220,13 +221,7 @@
       <workItem from="1613704709635" duration="6847000" />
       <workItem from="1615042818641" duration="2739000" />
       <workItem from="1615133766265" duration="1317000" />
-    </task>
-    <task id="LOCAL-00007" summary="Sprint1 Daniela">
-      <created>1602702553739</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1602702553739</updated>
+      <workItem from="1616254259061" duration="824000" />
     </task>
     <task id="LOCAL-00008" summary="Sprint2 Daniela">
       <created>1602886825752</created>
@@ -564,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615210049094</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Sprint8 Hector Lopez.">
+      <created>1615210211457</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1615210211458</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -599,7 +601,8 @@
     <MESSAGE value="Sprint6 Sindy G." />
     <MESSAGE value="Sprint7 Sindy G." />
     <MESSAGE value="Sprint8 Hector Lopez." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint8 Hector Lopez." />
+    <MESSAGE value="Sprint9 Hector Lopez." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint9 Hector Lopez." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -611,5 +614,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

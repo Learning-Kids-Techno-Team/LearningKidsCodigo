@@ -606,7 +606,16 @@ Route::get('/actividadMiembros',function (){
 });
 
 
-//Sprint9
+
+
+                               //Sprint9
 Route::get('/partesDeLaCasa',function (){
     return view('Ingles/partesDeLaCasa');
 });
+
+
+Route::get('/figuras',function (){
+    return view('Ingles/figurasGeometricas');
+});
+
+
