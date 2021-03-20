@@ -617,5 +617,7 @@ Route::get('/partesDeLaCasa',function (){
 Route::get('/figuras',function (){
     return view('Ingles/figurasGeometricas');
 });
-
+Route::get('/emociones',function (){
+    return view('Ingles/emociones');
+});
 
