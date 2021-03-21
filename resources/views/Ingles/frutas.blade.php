@@ -99,7 +99,7 @@
 
         #bord{
             background:#DCFECB;
-            border: #fff6af 15px dashed;
+            border: coral 15px dashed;
         }
 
         #tar1{
@@ -135,7 +135,7 @@
         <div class="row">
             <div class="col-md-12" style="background: coral">
                 <div class="row ml-5 mr-5">
-                    <div class="col-md-7  mt-5" style="background: #fff6af ">
+                    <div class="col-md-7  mt-5" style="background:#fff6af ">
                         <img class="mx-auto d-block" src="https://i.ibb.co/6gs7h4D/cc-removebg-preview.png">
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow">

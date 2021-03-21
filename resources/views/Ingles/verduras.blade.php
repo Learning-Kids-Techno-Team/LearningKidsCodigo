@@ -99,7 +99,25 @@
 
         #bord{
             background:#DCFECB;
-            border: #fff6af 15px dashed;
+            border: coral 15px dashed;
+        }
+
+        #tar1{
+            background: #fff6af;
+            border: yellow 5px dashed;
+
+        }
+
+        #tar2{
+            background: #CCEECC;
+            border: #4caf50 5px dashed;
+
+        }
+
+        #tar3{
+            background: #FFEECC;
+            border: coral 5px dashed;
+
         }
 
     </style>
@@ -113,14 +131,14 @@
     <!-- contenedor text-->
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12" style="background: #fff6af ">
+            <div class="col-md-12" style="background: coral ">
                 <div class="row ml-5 mr-5">
-                    <div class="col-md-7  mt-5" style="background: #DCFECB">
+                    <div class="col-md-7  mt-5" style="background: #fff6af">
                         <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/qxH6MXZ/acc-removebg-preview-1.png">
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                         <h4  class="mt-5" style="color: #3B5686"><em>Inglés</em></h4>
-                        <h3 class="mt-5" style="text-align: center">Vegetales (Verduras) <em>(Vegetables)</em></h3>
+                        <h3 class="mt-5" style="text-align: center">Vegetales <em>(Vegetables)</em></h3>
                         <p class="" id="pa">
                             <br>Los vegetales, o también llamados verduras, son coloridos y deliciosos, y vienen de muchas formas,
                             colores y con distintas texturas. Los vegetales son una excelente fuente de vitaminas y nutrientes, tanto
@@ -173,10 +191,10 @@
             <!-- tarjetas3 -->
             <div class="col-md-4">
                 <div id="tar3" class="card">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/T8PqVJv/esparra-removebg-preview.png" width="230" height="200">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/T8PqVJv/esparra-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
                         <h2 class="mt-5">
-                            Espárragos: <strong>Asparagus</strong>
+                            Espárragos:<strong>Asparagus</strong>
                         </h2>
                         <iframe  width="230" height="80"></iframe>
 
@@ -219,7 +237,7 @@
             <!-- tarjeta 6 -->
             <div class="col-md-4">
                 <div id="tar3" class="card">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/8cGR9ZT/pepino-removebg-preview.png" width="200" height="200">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/rmjdx28/pepp-removebg-preview.png" width="230" height="200">
                     <div class="card-body">
                         <h2 class="mt-5">
                             Pepino: <strong>Cucumber</strong>
@@ -239,7 +257,7 @@
             <div class="col-md-4">
                 <!-- tarjeta 7-->
                 <div id="tar1" class="card">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/0CZh3VP/bereng-removebg-preview.png" width="250" height="200">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/0CZh3VP/bereng-removebg-preview.png" width="230" height="200">
                     <div class="card-body">
                         <h2 class="mt-5">
                             Berenjena: <strong>Eggplant</strong>
@@ -265,10 +283,10 @@
             <!-- tarjeta 9 -->
             <div class="col-md-4">
                 <div id="tar3" class="card">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/PFT2L1d/pimiever-removebg-preview.png" width="250" height="200">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/kMsjzwg/cebolla-removebg-preview.png" width="200" height="200">
                     <div class="card-body">
                         <h2 class="mt-5">
-                            Pimiento verde: <strong>Green pepper</strong>
+                            Cebolla: <strong>Onion</strong>
                         </h2>
                         <iframe  width="300" height="80"></iframe>
 
@@ -284,10 +302,10 @@
             <div class="col-md-4">
                 <!-- tarjeta 1 -->
                 <div id="tar1" class="card">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/rv2p19Z/lechug-removebg-preview.png" width="250" height="200" >
+                    <img class="mx-auto d-block" src="https://i.ibb.co/nf83FqX/projo-removebg-preview.png" width="220" height="200">
                     <div class="card-body">
                         <h2 class="mt-5">
-                            Lechuga: <strong>Lettuce</strong>
+                            Pimiento rojo: <strong>Red pepper</strong>
                         </h2>
                         <iframe  width="230" height="80"></iframe>
 
@@ -297,7 +315,7 @@
             <!-- tarjeta 2 -->
             <div class="col-md-4 ">
                 <div id="tar2" class="card" >
-                    <img class="mx-auto d-block" src="https://i.ibb.co/fX31RXj/cham-removebg-preview.png" width="250" height="200">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/fX31RXj/cham-removebg-preview.png" width="220" height="200">
                     <div class="card-body">
                         <h2 class="mt-5">
                             Champiñones: <strong>Mushrooms</strong>
@@ -310,10 +328,10 @@
             <!-- tarjetas3 -->
             <div class="col-md-4">
                 <div id="tar3" class="card">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/kMsjzwg/cebolla-removebg-preview.png" width="230" height="200">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/PFT2L1d/pimiever-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
                         <h2 class="mt-5">
-                            Cebolla: <strong>Onion</strong>
+                            Pimiento verde: <strong>Green pepper</strong>
                         </h2>
                         <iframe  width="230" height="80"></iframe>
 
@@ -356,10 +374,10 @@
             <!-- tarjeta 6 -->
             <div class="col-md-4">
                 <div id="tar3" class="card">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/nf83FqX/projo-removebg-preview.png" width="250" height="200">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/rv2p19Z/lechug-removebg-preview.png" width="240" height="200" >
                     <div class="card-body">
                         <h2 class="mt-5">
-                            Pimiento rojo: <strong>Red pepper</strong>
+                            Lechuga: <strong>Lettuce</strong>
                         </h2>
                         <iframe  width="230" height="80"></iframe>
 
@@ -389,7 +407,7 @@
             <!-- tarjeta 8 -->
             <div class="col-md-4 ">
                 <div id="tar2" class="card">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/zZg40kt/remolac-removebg-preview.png" width="250" height="200">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/zZg40kt/remolac-removebg-preview.png" width="220" height="200">
                     <div class="card-body">
                         <h2 class="mt-5">
                             Remolacha: <strong>Beetroot</strong>
@@ -447,10 +465,10 @@
             <!-- tarjetas3 -->
             <div class="col-md-4">
                 <div id="tar3" class="card">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/FKmqxp7/repollo-removebg-preview.png" width="250" height="200">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/FKmqxp7/repollo-removebg-preview.png" width="220" height="200">
                     <div class="card-body">
                         <h2 class="mt-5">
-                            Repollo / col: <strong>Cabbage</strong>
+                            Repollo: <strong>Cabbage</strong>
                         </h2>
                         <iframe  width="230" height="80"></iframe>
 
@@ -467,7 +485,7 @@
 
                 <!-- tarjeta 1 -->
                 <div id="tar1" class="card">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/0DcHmV1/apio-1-removebg-preview.png" width="200" height="200">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/0DcHmV1/apio-1-removebg-preview.png" width="220" height="200">
                     <div class="card-body">
                         <h2 class="mt-5">
                             Apio: <strong>Celery</strong>
@@ -480,7 +498,7 @@
             <!-- tarjeta 2 -->
             <div class="col-md-4 ">
                 <div id="tar2" class="card" >
-                    <img class="mx-auto d-block" src="https://i.ibb.co/ct7QBwB/chile-removebg-preview.png" width="280" height="200">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/ct7QBwB/chile-removebg-preview.png" width="220" height="200">
                     <div class="card-body">
                         <h2 class="mt-5">
                             Chile / ají: <strong>Chili</strong>
@@ -507,8 +525,8 @@
         </div>
     </div>
     <!-- contenedor -->
-    <div class="container-fluid mt-5"><h2 class="mt-5">¡Plantas condimentos en inglés!</h2><br>
-        <div class="card">
+    <div class="container-fluid mt-5"><h2 class="mt-5"><strong><em>¡Plantas condimentos en inglés!</em></strong></h2><br>
+        <div class="card" id="tar2">
             <div class="row m-3">
                 <div class="col-md-3">
                     <h2 class="mt-5">
@@ -544,7 +562,7 @@
 
     <!-- contenedor -->
     <div class="container-fluid mt-5">
-        <div class="card">
+        <div class="card" id="tar3">
             <div class="row m-3">
                 <div class="col-md-4">
                     <h2 class="mt-5">
