@@ -49,6 +49,50 @@
         }
 
 
+        #gradient {
+
+            margin: 0 auto;
+            margin-top: 10px;
+
+        }
+
+        #gradient:after {
+            content: "";
+            position: absolute;
+            background: tomato;
+            left: 50%;
+            margin-top: -180px;
+            margin-left: -270px;
+            padding-left: 20px;
+            border-radius: 5px;
+            width: 550px;
+            height: 285px;
+            z-index: -1;
+        }
+
+        #card {
+            position: relative;
+            width: 505px;
+            height: 250px;
+            padding: 35px;
+            left: 50%;
+            top: 85px;
+            margin-left: -250px;
+            background: palegreen;
+            box-shadow: -20px 0 35px -25px yellow, 20px 0 35px -25px aqua;
+            border: dashed 8px seagreen;
+
+        }
+
+        #card img {
+            width: 175px;
+            float: left;
+
+            margin-right: 2px;
+
+        }
+
+
 
     </style>
 </head>
@@ -60,7 +104,7 @@
     </div>
     <br>
     <br>
-    <h2 style="text-align: center; color:blue" >
+    <h2 style="text-align: center; color: tomato" >
 
         Sentimientos y Emociones en ingles /Feelings and Emotions in English
     </h2>
@@ -78,6 +122,7 @@
 <br>
                     <p style="background: mediumspringgreen" >
                         <strong >
+
                             Las emociones son parte importante de todas las personas.
                             Todos tenemos diferentes sentimientos,y es común que una
                             persona experimente varias emociones a lo largo del día
@@ -95,11 +140,222 @@
         </div>
     </div>
 
+    <div class="container-fluid d-flex justify-content-center  " >
+        <div class="row ">
+            <div class="col-md-12  " style="background: orange"  >
+
+                <h3 >Emociones en ingles y español - Emotions in english and spanish
+                </h3>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="container-fluid  " >
+
+        <div class="container-fluid m-4" >
+
+            <div class="row "  >
+                <div class="col-md-6" id="gradient">
+                    <!-- tarjeta 1 -->
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/80WB1NZ/car8-removebg-preview.png" />
+                            <h3 class="text-center">Feliz<br>happy
+                            <br>
+                            <br>
+                            <br>
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+                    </div>
+
+                </div>
+
+                <!-- tarjeta 2 -->
+                <div class="col-md-6" id="gradient">
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/B3CH1pQ/gg-removebg-preview.png" />
+                        <h3 class="text-center">Felicidad<br>happiness
+
+                            <br>
+                            <br>
+                            <br>
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <br>
+
+    <div class="container-fluid  " >
+
+        <div class="container-fluid m-4" >
+
+            <div class="row "  >
+                <div class="col-md-6" id="gradient">
+                    <!-- tarjeta 1 -->
+                    <div id="card">
+
+                        <img src="https://o.remove.bg/downloads/638c2985-6bcd-4098-8f44-34863cf15890/fp-removebg-preview.png" />
+
+                        <h3 class="text-center">Triste<br>sad
+
+                            <br>
+                            <br>
+                            <br>
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+                    </div>
+
+                </div>
+                <!-- tarjeta 2 -->
+                <div class="col-md-6" id="gradient">
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/Mg2FjY0/cars-removebg-preview.png"  />
+                        <h3 class="text-center">Tristeza<br>sadness
+
+                            <br>
+                            <br>
+                            <br>
+
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <br>
+    <br>
+
+    <div class="container-fluid  " >
+
+        <div class="container-fluid m-4" >
+
+            <div class="row "  >
+                <div class="col-md-6" id="gradient">
+                    <!-- tarjeta 1 -->
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/b7dMtt4/enu-removebg-preview.png" >
+
+                        <h3 class="text-center">Enojado<br> angry
+
+                            <br>
+                            <br>
+                            <br>
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+                    </div>
+
+                </div>
+                <!-- tarjeta 2 -->
+                <div class="col-md-6" id="gradient">
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/yYnmpcH/asq-removebg-preview.png">
+                        <h3 class="text-center">Enojo<br>anger
+
+                            <br>
+                            <br>
+                            <br>
+
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <br>
+
+    <div class="container-fluid  " >
+
+        <div class="container-fluid m-4" >
+
+            <div class="row "  >
+                <div class="col-md-6" id="gradient">
+                    <!-- tarjeta 1 -->
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/wyNWnZN/ff-removebg-preview.png" alt="ff-removebg-preview" border="0">
+
+                        <h3 class="text-center">Asustado<br> scared
+
+                            <br>
+                            <br>
+                            <br>
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+                    </div>
+
+                </div>
+                <!-- tarjeta 2 -->
+                <div class="col-md-6" id="gradient">
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/JtkfGGD/hl.png" alt="hl" border="0">
+                        <h3 class="text-center">Enojo<br>anger
+
+                            <br>
+                            <br>
+                            <br>
+
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 
 
 
+
+
+
+    <br>
+    <br>
+    <br><br>
+    <br><br>
     <!-- separador -->
     <div id="separadorInferior">
         <div class="content">
