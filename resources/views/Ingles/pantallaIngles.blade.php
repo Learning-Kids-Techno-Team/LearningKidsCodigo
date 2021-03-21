@@ -271,7 +271,7 @@
                 </a>
             </div>
             <div class="col-md-2">
-                <a href="{{url('/')}}">
+                <a href="{{url('/pantallaAlimentos')}}">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/ysgM7Hh/fondo-frutas-verduras-diseno-plano-23-2148100345-removebg-preview-1.png"  class="rounded-circle mx-auto d-block  img-thumbnail" width="150" />
                     <h4>Frutas y verduras </h4>
 
