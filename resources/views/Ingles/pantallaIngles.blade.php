@@ -278,7 +278,7 @@
                 </a>
             </div>
             <div class="col-md-2">
-                <a href="{{url('/')}}">
+                <a href="{{url('/http://learningkidscodigo.test/emociones')}}">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/b63GL20/Captura-de-pantalla-2017-09-11-a-las-00-18-30-removebg-preview.png"  class="rounded-circle mx-auto d-block  img-thumbnail" width="150" />
                     <h4>Emociones </h4>
 
