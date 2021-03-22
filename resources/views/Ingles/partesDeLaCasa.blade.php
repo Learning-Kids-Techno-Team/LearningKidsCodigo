@@ -164,25 +164,25 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/wd3b4KN/dormitorio-Principal.jpg"  width="280" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/13V7-Y6r2GJWr1vBSdxgg3BL62CeRsnZ0/preview" style="border: none" width="280" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1LUYdOPu2xJLjwgJrBGu8b6IUc-kj00C9/preview"  style="border: none" width="280" height="80"></iframe>
                 <h2>Dormitorio principal:
                     Master bedroom
                 </h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/7JMZn67/dormitorio.jpg"   width="260"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/17WAsQNfcGcumEZReMgjJdrf6Q9j_AzcQ/preview" style="border: none" width="260" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1O5Ze5XQpag0nlGeXY19C0G6_t7f9Y1Kt/preview"  style="border: none" width="260" height="80"></iframe>
                 <h2>Dormitorio: Bedroom</h2>
             </div>
             <div class="col-md-3">
 
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"   src="https://i.ibb.co/r61tSWp/banio.jpg"   width="300" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1j6FcR5LPowUfh2FnRCw4OcydhZX8KZK_/preview" style="border: none" width="300" height="80"></iframe>
-                <h2>Baño: Bathroom</h2>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/18gmIZcZf6Q4ybfxuJM9kFQiKW54v-ktO/preview" style="border: none" width="300" height="80"></iframe>
+                <h2>Cuarto de baño: Bathroom</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/qrth15K/sala.png"  width="278" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1puT4EXTw87bLFh5g-jwpZCQ_XFQ44iEd/preview" style="border: none" width="278" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1TNu3KyhFOz_WXlGYwXZt_6bdKhUjFiSf/preview"  style="border: none" width="278" height="80"></iframe>
                 <h2>Sala: Living room</h2>
             </div>
         </div>
@@ -194,22 +194,22 @@
         <div class="row">
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/G3vF3Kn/comedor.jpg" width="300" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1Bg2z7KIYG2nUKD9Tl4QgEc3V9qhMp5Xq/preview" style="border: none" width="300" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1bNH3htmTyqjQrSmvpU2DcWwttu8ibxdC/preview"  style="border: none" width="300" height="80"></iframe>
                 <h2>Comedor: Dinning room</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/k4HFRSM/Kitchen-interior-witn-furniture-cartoon-vector-illustration-Home-cooking-room-with-wooden-dining-tab.jpg"  width="300"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1ux6cwFhGJWaBiWtPKfyuAKH5h_i4_q2X/preview" style="border: none" width="300" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1bBKW-c73ZykXrAfEnzk1GEZtWV4FoFWu/preview"  style="border: none" width="300" height="80"></iframe>
                 <h2>Cocina: Kitchen room</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/m5qYYrd/jardin.jpg" width="300" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1_V0WJ64fSMbx2P_Okk_JOj-tdrF1Yqoo/preview" style="border: none" width="300" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1xtZ5_goJvOdQhzQeJYETGQieszKwmfz5/preview" style="border: none" width="300" height="80"></iframe>
                 <h2>Jardin: Garden</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/vctZnZZ/cochera.jpg"   width="355" />
-                <iframe class="mx-auto d-block"src="https://drive.google.com/file/d/137MjkS9Y_2-N-P5t_6Tcv6hJkramxEPE/preview" style="border: none" width="355" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/17-3qtk0hUxD6zoURo6JrOWWEA1YopxTN/preview"   style="border: none" width="355" height="80"></iframe>
                 <h2>Cochera: Garage</h2>
             </div>
         </div>
@@ -219,22 +219,22 @@
         <div class="row">
             <div class="col-md-3">
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/PjxXsnT/ventana2.jpg"   width="250"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1fEetg47SuhVMQNuP7QdCK0s6ac-YlXyR/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1fuUDTUvu5EsVuSJnWyMedE0hp6jjiVUX/preview"  style="border: none" width="250" height="80"></iframe>
                 <h2>Ventana: Window</h2>
             </div>
             <div class="col-md-3">
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/s1kDMDz/puerta-Principal.jpg"  width="250" />
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1x8CTVAgq-a45xnjO2hG__rhXqT9I2rS3/preview" style=" align-content: center; border: none " width="250" height="80"></iframe>
+                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1PPcvK9YhiR2DVBd6MzF9f6hSYNTG2U8v/preview"  style=" align-content: center; border: none " width="250" height="80"></iframe>
                 <h2>Puerta principal: Front door</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"   src="https://i.ibb.co/zHzWqWL/techo3-removebg-preview.png"   width="250" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1_V0WJ64fSMbx2P_Okk_JOj-tdrF1Yqoo/preview" style="border: none" width="250" height="80"></iframe>
+                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1Jpmi_Q2vlfoQuiCopdkVNRRU3M2Rlqv-/preview"  style="border: none" width="250" height="80"></iframe>
                 <h2>Techo: Roof</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/nz7kghC/piso.jpg"    width="355" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/137MjkS9Y_2-N-P5t_6Tcv6hJkramxEPE/preview" style="border: none" width="355" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1A3T46aYuKtmQ00G_f9iWgmR0s-mfTuiJ/preview" style="border: none" width="355" height="80"></iframe>
                 <h2>Piso: Floor</h2>
             </div>
         </div>
@@ -244,13 +244,13 @@
         <div class="row mb-5">
             <div class="col-md-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/nCLk7Yy/pared.jpg"   width="300" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1J6dk9CjoOU3EwwDmscl1HK36gUozsKpc/preview" style="border: none" width="300" height="80"></iframe>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1DDCOYf1pu0oYuNzpzWpE8bxJCBHoAyl_/preview" style="border: none" width="300" height="80"></iframe>
                 <h2>Pared: Wall</h2>
             </div>
             <div class="col-md-6">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/HxSxZdF/escalera.jpg"    width="300"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/10MkOHxRG8Nga4Io1e9qxixygElBrsvDE/preview" style="border: none" width="300" height="80"></iframe>
-                <h2>escalera: Stairs</h2>
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1mMtI6veiO_BdX2TidV9bxbjL4tWEb9wp/preview"  style="border: none" width="300" height="80"></iframe>
+                <h2>escaleras: Stairs</h2>
             </div>
         </div>
     </div>

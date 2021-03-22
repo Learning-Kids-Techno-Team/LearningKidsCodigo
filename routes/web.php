@@ -631,3 +631,7 @@ Route::get('/verduras',function (){
     return view('Ingles/verduras');
 });
 
+//  actividades SPRINT 9
+Route::get('/actividadPartesCasa',function (){
+    return view('ActividadesIngles/actividadPartesCasa');
+});

@@ -285,7 +285,7 @@
                 </a>
             </div>
             <div class="col-md-2">
-                <a href="{{url('/')}}">
+                <a href="{{url('/partesDeLaCasa')}}">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/mC3JX3r/partes-casa-e1512554637817-removebg-preview.png"  class="rounded-circle mx-auto d-block   img-thumbnail" width="150" />
                     <h4>Partes de la casa </h4>
 
