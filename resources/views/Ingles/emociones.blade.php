@@ -87,8 +87,7 @@
         #card img {
             width: 175px;
             float: left;
-
-            margin-right: 2px;
+            margin-right: 20px;
 
         }
 
@@ -208,7 +207,7 @@
                     <!-- tarjeta 1 -->
                     <div id="card">
 
-                        <img src="https://o.remove.bg/downloads/638c2985-6bcd-4098-8f44-34863cf15890/fp-removebg-preview.png" />
+                        <img src="https://i.ibb.co/7VvPDSd/fp-removebg-preview.png" />
 
                         <h3 class="text-center">Triste<br>sad
 
@@ -345,17 +344,195 @@
         </div>
     </div>
 
+<br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="container-fluid d-flex justify-content-center  " >
+        <div class="row ">
+            <div class="col-md-12  " style="background: orange"  >
+
+                <h3>Estados de ánimo en inglés -Moods in english
+                </h3>
+            </div>
+        </div>
+    </div>
+<br>
+    <br>
+    <br>
+    <br>
+    <div class="container-fluid "  >
+        <div class="row ">
+
+
+            <div class="col-md-6 " >
+                <img class="mx-auto d-block card__imag"  src="https://i.ibb.co/r622Fnj/hhp-removebg-preview.png" width="550">
 
 
 
+            </div>
+            <div class="col-md-6" >
+                <p class="im"><strong>
+                        Las emociones,  son respuestas breves a estímulos externos,
+                        como esa sensación particular cuando te hacen una fiesta sorpresa,
+                        o la sensación de dicha al terminar un proyecto importante.
+                    </strong></p>
+            </div>
 
 
+        </div>
+    </div>
 
+    <div class="container-fluid  " >
+
+        <div class="container-fluid " >
+
+            <div class="row "  >
+                <div class="col-md-6" id="gradient">
+                    <!-- tarjeta 1 -->
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/N15j4N7/af-removebg-preview.png" >
+                        <h3 class="text-center">Alegría<br>joy
+                            <br>
+                            <br>
+                            <br>
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+                    </div>
+
+                </div>
+
+                <!-- tarjeta 2 -->
+                <div class="col-md-6" id="gradient">
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/Tqj1ZtH/ai-removebg-preview.png" alt="ai-removebg-preview" border="0">
+                        <h3 class="text-center">Confusión<br>confusion
+
+                            <br>
+                            <br>
+                            <br>
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<br>
+    <br>
+
+    <div class="container-fluid  " >
+
+        <div class="container-fluid " >
+
+            <div class="row "  >
+                <div class="col-md-6" id="gradient">
+                    <!-- tarjeta 1 -->
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/mN49Fm2/dx.png" alt="dx" border="0">
+                        <h3 class="text-center">Aburrimiento<br>boredon
+                            <br>
+                            <br>
+                            <br>
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+                    </div>
+
+                </div>
+
+                <!-- tarjeta 2 -->
+                <div class="col-md-6" id="gradient">
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/2FNLr1d/ma-removebg-preview.png" alt="ma-removebg-preview" border="0">
+                        <h3 class="text-center">Simpatía<br>sympathy
+
+                            <br>
+                            <br>
+                            <br>
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <br>
     <br>
+
+    <div class="container-fluid  " >
+
+        <div class="container-fluid " >
+
+            <div class="row "  >
+                <div class="col-md-6" id="gradient">
+                    <!-- tarjeta 1 -->
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/zHwMzcW/asi-removebg-preview.png" alt="asi-removebg-preview" border="0">
+                        <h3 class="text-center">Asombro<br>amazement
+                            <br>
+                            <br>
+                            <br>
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+                    </div>
+
+                </div>
+
+                <!-- tarjeta 2 -->
+                <div class="col-md-6" id="gradient">
+                    <div id="card">
+
+                        <img src="https://i.ibb.co/Tt96zxz/sd-removebg-preview.png" alt="sd-removebg-preview" border="0">
+                        <h3 class="text-center">Envidia<br>envy
+
+                            <br>
+                            <br>
+                            <br>
+
+                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+
+                        </h3>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+<br>
+    <br>
+    <br>
     <br><br>
-    <br><br>
+
+
+
+
+
+
     <!-- separador -->
     <div id="separadorInferior">
         <div class="content">
