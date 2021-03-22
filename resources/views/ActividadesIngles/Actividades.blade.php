@@ -259,6 +259,61 @@
                                     </div>
 
 
+                                    <div class="container-fluid">
+                                        <div class="row pt-5  "  style="background: #dcfecb">
+                                            <!-- tarjeta 1 -->
+                                            <div class="col-md-4 pb-5 d-flex justify-content-center" >
+                                                <div class="card"  style="width: 18rem;" >
+
+                                                    <img  class="card mx-auto d-block" src="https://i.ibb.co/12tCjbn/este-removebg-preview.png" alt="este-removebg-preview" height="180" width="200">
+                                                    <div class="card-body">
+                                                        <h5 class="card-title" align="center">Actividad Frutas y Vegetales</h5>
+                                                        <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
+                                            <!-- tarjeta2 -->
+                                            <div class="col-md-4 pb-5 d-flex justify-content-center">
+                                                <div class="card" style="width: 18rem;">
+                                                    <img  class="card mx-auto d-block" src="https://i.ibb.co/y086rKk/unnamed-removebg-preview-5.png" height="180" width="200">
+                                                    <div class="card-body">
+                                                        <h5 class="card-title"  align="center">Actividad Emociones</h5>
+                                                        <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- tarjeta3 -->
+                                            <div class="col-md-4 pb-5 d-flex justify-content-center">
+                                                <div class="card" style="width: 18rem;">
+                                                    <img   class="card mx-auto d-block" src="https://i.ibb.co/pyyyvMQ/cas-removebg-preview.png" height="180" width="200">
+                                                    <div class="card-body">
+                                                        <h5 class="card-title" align="center">Actividad Partes de la Casa</h5>
+                                                        <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div class="container-fluid pb-5 d-flex justify-content-center">
+                                                <div class="row pt-5  "  style="background: #dcfecb">
+                                                    <!-- tarjeta 1 -->
+                                                    <div class="col-md-4" >
+                                                        <div class="card"  style="width: 18rem;" >
+
+                                                            <img  class="card mx-auto d-block" src="https://i.ibb.co/vJkm4Gj/fig-removebg-preview.png" height="180" width="200">
+                                                            <div class="card-body">
+                                                                <h5 class="card-title" align="center">Actividad Figuras Geométricas</h5>
+                                                                <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
 
                                 </div>
 
