@@ -290,7 +290,7 @@
                                                     <img   class="card mx-auto d-block" src="https://i.ibb.co/pyyyvMQ/cas-removebg-preview.png" height="180" width="200">
                                                     <div class="card-body">
                                                         <h5 class="card-title" align="center">Actividad Partes de la Casa</h5>
-                                                        <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                                        <a href=" {{ url('/actividadPartesCasa') }}" class="btn">Ver</a>
                                                     </div>
                                                 </div>
                                             </div>
