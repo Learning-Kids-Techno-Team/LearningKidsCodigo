@@ -26,7 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint 9 Sindy G.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadFrutasVerduras.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadesFrutasVerduras.blade.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,13 +229,6 @@
       <workItem from="1614918912904" duration="4758000" />
       <workItem from="1614999758090" duration="10116000" />
       <workItem from="1615241217410" duration="2094000" />
-    </task>
-    <task id="LOCAL-00017" summary="Sprint 5 Hector.">
-      <created>1607557332463</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1607557332463</updated>
     </task>
     <task id="LOCAL-00018" summary="Sprint5 Sindy G.">
       <created>1607846660514</created>
@@ -572,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616395240406</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Sprint 9 Sindy G.">
+      <created>1616396259915</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1616396259915</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
