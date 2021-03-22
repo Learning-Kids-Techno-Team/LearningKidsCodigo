@@ -267,8 +267,8 @@
 
                                                     <img  class="card mx-auto d-block" src="https://i.ibb.co/12tCjbn/este-removebg-preview.png" alt="este-removebg-preview" height="180" width="200">
                                                     <div class="card-body">
-                                                        <h5 class="card-title" align="center">Actividad Frutas y Vegetales</h5>
-                                                        <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                                        <h5 class="card-title" align="center">Actividad Frutas y Verduras</h5>
+                                                        <a href=" {{ url('/actividadFrutas') }}" class="btn">Ver</a>
                                                     </div>
                                                 </div>
                                             </div>

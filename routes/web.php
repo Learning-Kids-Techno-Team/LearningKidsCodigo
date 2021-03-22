@@ -635,3 +635,8 @@ Route::get('/verduras',function (){
 Route::get('/actividadPartesCasa',function (){
     return view('ActividadesIngles/actividadPartesCasa');
 });
+
+Route::get('/actividadFrutas',function (){
+    return view('ActividadesIngles/actividadFrutasVerduras');
+});
+
