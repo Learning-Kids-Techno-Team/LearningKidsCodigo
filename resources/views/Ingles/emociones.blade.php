@@ -166,7 +166,7 @@
                             <br>
                             <br>
 
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+                                <iframe src="https://drive.google.com/file/d/12-_ytOuE9XKG2uSmgK0qq3AzvkdtAjyA/preview" width="318" height="55"></iframe>
 
                         </h3>
 
@@ -185,7 +185,7 @@
                             <br>
                             <br>
 
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+                            <iframe src="https://drive.google.com/file/d/1LsqtAqdrlcEk27G29zqeYskxM_ejKRAZ/preview" width="318" height="55"></iframe>
 
                         </h3>
 
@@ -215,8 +215,7 @@
                             <br>
                             <br>
 
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
-
+                            <iframe src="https://drive.google.com/file/d/1HelLl1IKu5eC8z0zh3L0Xf95ImXOvS2w/preview" width="318" height="55"></iframe>
                         </h3>
 
                     </div>
@@ -233,8 +232,7 @@
                             <br>
                             <br>
 
-
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+                            <iframe src="https://drive.google.com/file/d/1i9DZd3b9nuF-1ohvBe7M75FgfeD9Q6BS/preview" width="318" height="55"></iframe>
 
                         </h3>
 
@@ -264,9 +262,7 @@
                             <br>
                             <br>
                             <br>
-
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
-
+                            <iframe src="https://drive.google.com/file/d/1qo6LkSfLAC5Q3BsCKY78tRZCPTdgj7Tl/preview" width="318" height="55"></iframe>
                         </h3>
 
                     </div>
@@ -284,7 +280,7 @@
                             <br>
 
 
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+                            <iframe src="https://drive.google.com/file/d/1LuSw_nOQZX8LqwDMXIDDtxEUajMOiaHf/preview" width="318" height="55"></iframe>
 
                         </h3>
 
@@ -314,7 +310,7 @@
                             <br>
                             <br>
 
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+                            <iframe src="https://drive.google.com/file/d/1wzx4Acp4UD1GM5a_Z-W8p5nOc0ipC5VC/preview" width="318" height="55"></iframe>
 
                         </h3>
 
@@ -326,14 +322,15 @@
                     <div id="card">
 
                         <img src="https://i.ibb.co/JtkfGGD/hl.png" alt="hl" border="0">
-                        <h3 class="text-center">Enojo<br>anger
+                        <h3 class="text-center">Miedo<br>afraid
 
                             <br>
                             <br>
                             <br>
 
 
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+                            <iframe src="https://drive.google.com/file/d/1pKKaZKyxRQeCH0wG4_9lIXle2SNc2alZ/preview" width="318" height="55"></iframe>
+
 
                         </h3>
 
@@ -399,8 +396,7 @@
                             <br>
                             <br>
 
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
-
+                            <iframe src="https://drive.google.com/file/d/1h6da1r_aXDWGKySs2SmWCqwyqllhg2wa/preview" width="318" height="55"></iframe>
                         </h3>
 
                     </div>
@@ -418,7 +414,8 @@
                             <br>
                             <br>
 
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+                            <iframe src="https://drive.google.com/file/d/1QndeCEQuOMBACvANtZg0qp61oLfxacri/preview" width="318" height="55"></iframe>
+
 
                         </h3>
 
@@ -445,7 +442,7 @@
                             <br>
                             <br>
 
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+                            <iframe src="https://drive.google.com/file/d/1xxPin1Jo08liQFB-AMP7cpUV_MCUVolJ/preview" width="318" height="55"></iframe>
 
                         </h3>
 
@@ -464,7 +461,7 @@
                             <br>
                             <br>
 
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+                            <iframe src="https://drive.google.com/file/d/1AwzJzFUThS4dckp-2_AKWe2xTIZWcMd0/preview" width="318" height="55"></iframe>
 
                         </h3>
 
@@ -487,12 +484,11 @@
                     <div id="card">
 
                         <img src="https://i.ibb.co/zHwMzcW/asi-removebg-preview.png" alt="asi-removebg-preview" border="0">
-                        <h3 class="text-center">Asombro<br>amazement
+                        <h3 class="text-center">Asombro<br>astonishment
                             <br>
                             <br>
                             <br>
-
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+                            <iframe src="https://drive.google.com/file/d/1rpma8GB5UmbvgKJ9Y3ykTGuC3_7DN1eB/preview" width="318" height="55"></iframe>
 
                         </h3>
 
@@ -510,8 +506,7 @@
                             <br>
                             <br>
                             <br>
-
-                            <iframe src="https://o.remove.bg/downloads/74812df6-ffc7-444e-a685-6b25c28dc0b6/sss-removebg-preview.png" width="318" height="55"></iframe>
+                            <iframe src="https://drive.google.com/file/d/1NDMhqHN2d5eWmXBVug5jvofPbPaylkjE/preview" width="318" height="55"></iframe>
 
                         </h3>
 
