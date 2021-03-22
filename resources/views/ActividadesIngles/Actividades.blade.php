@@ -280,7 +280,7 @@
                                                     <img  class="card mx-auto d-block" src="https://i.ibb.co/y086rKk/unnamed-removebg-preview-5.png" height="180" width="200">
                                                     <div class="card-body">
                                                         <h5 class="card-title"  align="center">Actividad Emociones</h5>
-                                                        <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                                        <a href=" {{ url('/actividadesEmocion') }}" class="btn">Ver</a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -311,6 +311,8 @@
 
                                                 </div>
                                             </div>
+
+
 
                                         </div>
                                     </div>

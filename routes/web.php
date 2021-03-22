@@ -640,3 +640,6 @@ Route::get('/actividadFrutas',function (){
     return view('ActividadesIngles/actividadFrutasVerduras');
 });
 
+Route::get('/actividadesEmocion',function (){
+    return view('ActividadesIngles/actividadesEmocion');
+});
