@@ -26,7 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -524,7 +524,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616377294588</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Sprint 9 Hector Lopez">
+      <created>1616459086644</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1616459086644</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -561,7 +568,8 @@
     <MESSAGE value="Sprint 7 Daniela Mazzoni" />
     <MESSAGE value="Sprint 8 Daniela Mazzoni" />
     <MESSAGE value="Sprint 9 Daniela Mazzoni" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 9 Daniela Mazzoni" />
+    <MESSAGE value="Sprint 9 Hector Lopez" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 9 Hector Lopez" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

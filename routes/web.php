@@ -643,3 +643,10 @@ Route::get('/actividadFrutas',function (){
 Route::get('/actividadesEmocion',function (){
     return view('ActividadesIngles/actividadesEmocion');
 });
+
+
+Route::get('/actividadFi',function (){
+    return view('ActividadesIngles/actividadFigurasGeometricas');
+});
+
+
