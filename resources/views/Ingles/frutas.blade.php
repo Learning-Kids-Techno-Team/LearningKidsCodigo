@@ -461,7 +461,7 @@
                 </div>
             </div>
             <!-- tarjetas3 -->
-            <div class="col-md-4">
+            <div class="col-md-4 pb-5">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/DQyPrVJ/mandarina-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
