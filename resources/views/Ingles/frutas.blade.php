@@ -160,8 +160,16 @@
         </div>
     </div>
 
+    <!-- contenedor tree-->
+    <div class="container-fluid mt-5 ">
+        <div class="row m-3">
+            <div class="col-md-12" style="background: coral">
+                <h2 class="mt-5"><strong><em>¡Nombre de frutas en inglés y español!</em></strong></h2><br>
+            </div>
+        </div>
+    </div>
     <!-- contenedor de las tarjetas -->
-    <div class="container-fluid mt-5"><h2 class="mt-5"><strong><em>¡Nombre de frutas en inglés y español!</em></strong></h2><br>
+    <div class="container-fluid mt-5">
         <div  class="row m-5" >
             <div class="col-md-4">
 
@@ -512,25 +520,6 @@
 
         </div>
     </div>
-
-
-
-    <!-- Video -->
-    <div  class="container-fluid mt-5">
-        <div class="row">
-            <div class="col-md-12">
-                <h2 style="text-align: center"><strong><em>
-                            Y ahora vamos a ver un video para aprender la correcta pronunciación de cada uno
-                            <br>de las frutas en inglés con esta divertida canción. ¡Vamos a cantar!
-                            <br></em></strong>
-                </h2>
-                <iframe id="bord" class="mx-auto d-block"
-                        width="670" height="390"></iframe>
-            </div>
-
-        </div>
-    </div>
-
 
 
     <!-- separador -->
