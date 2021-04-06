@@ -34,7 +34,7 @@
         .card{
             background: #f9f9f9;
             border-bottom-left-radius: 50%;
-            border: black 8px solid;
+            border: coral 8px solid;
 
 
         }
@@ -103,7 +103,7 @@
         }
 
         #im {
-            border: black 5px dotted;
+            border: coral 5px dotted;
 
         }
 
