@@ -650,3 +650,11 @@ Route::get('/actividadFi',function (){
 });
 
 
+                                                            // Tecnologia
+
+Route::get('/tecnologia',function (){
+    return view('Tecnologia/pantallaPrincipal');
+});
+
+
+
