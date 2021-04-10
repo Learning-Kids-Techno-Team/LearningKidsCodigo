@@ -59,11 +59,6 @@
         }
 
 
-        #separadorInferior2 .content{
-
-            background: aquamarine;
-        }
-
 
 
         .navbar{
@@ -72,12 +67,14 @@
         }
 
 
+        #separadorInferior .content{
 
-
-
-
-
-
+            width: 100%;
+            height: 100px;
+            border-bottom-left-radius: 80%;
+            border-top-right-radius: 50%;
+            background: #C5FFA0;
+        }
 
 
 
@@ -174,47 +171,62 @@
                 <div class="col-md-3">
                 </div>
                 <div class="col-md-3">
+                    <a href=" {{ url('/partesDeLaCompu') }}">
                     <img alt="Bootstrap Image Preview" src="https://i.ibb.co/CzhxH0m/pngtree-computer-vector-illustration-in-cartoon-style-png-image-2222574-removebg-preview-1.png" class="rounded-circle mx-auto d-block img-thumbnail" style=" background: #C5FFA0" width="150"/>
                     <h4>Partes de
                         la computadora </h4>
+                    </a>
                 </div>
                 <div class="col-md-3">
+                    <a href=" {{ url('/') }}">
                     <img alt="Bootstrap Image Preview" src="https://i.ibb.co/sW9WnF7/hardware-removebg-preview.png" class="rounded-circle mx-auto d-block img-thumbnail " style=" background: #C5FFA0" width="150" />
                     <h4>Computadora y su dispositivo hardware </h4>
+                    </a>
                 </div>
                 <div class="col-md-3">
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-3">
+                    <a href=" {{ url('/') }}">
                     <img alt="Bootstrap Image Preview" src="https://i.ibb.co/vx5SyyB/e6fe1f2a743943cb45eff1ea9cceb7dc-removebg-preview.png" class="rounded-circle mx-auto d-block img-thumbnail" style=" background: #C5FFA0" width="150" />
                     <h4>Computadora y sus dispositivos software </h4>
+                    </a>
                 </div>
                 <div class="col-md-3">
+                    <a href=" {{ url('/') }}">
                     <img alt="Bootstrap Image Preview" src="https://us.123rf.com/450wm/vvadyabb/vvadyabb1705/vvadyabb170500005/78563222-manos-planas-escribiendo-en-el-teclado-blanco-con-el-rat%C3%B3n-y-el-vector-de-fondo-en-colores-pastel.jpg?ver=6" class="rounded-circle mx-auto d-block img-thumbnail" width="150" style=" background: #C5FFA0" />
                     <h4>Partes del teclado </h4>
+                    </a>
                 </div>
                 <div class="col-md-3">
+                    <a href=" {{ url('/') }}">
                     <img alt="Bootstrap Image Preview" src="https://www.top-password.com/blog/wp-content/uploads/2018/05/taskbar-context-menu.png" class="rounded-circle mx-auto d-block img-thumbnail" width="150" style=" background: #C5FFA0" />
                     <h4>Ventana
                         de windows </h4>
+                    </a>
                 </div>
                 <div class="col-md-3">
+                    <a href=" {{ url('/') }}">
                     <img alt="Bootstrap Image Preview" src="https://i.ibb.co/mD86dFr/dise-o-de-personajes-dibujos-animados-mouse-en-un-gesto-sorpresa-ilustraci-n-del-vector-169360635-re.png" class="rounded-circle mx-auto d-block img-thumbnail" width="150" style=" background: #C5FFA0"/>
                     <h4>Funciones del mouse </h4>
-
+                    </a>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-3">
                 </div>
                 <div class="col-md-3">
+                    <a href=" {{ url('/') }}">
                     <img alt="Bootstrap Image Preview" src="https://mantenimientobios.com/wp-content/uploads/2019/05/How-to-Open-Right-Click-Menu-for-Icons-on-Taskbar-in-Windows-10-Pic-5.png"  class="rounded-circle mx-auto d-block img-thumbnail" width="150" style=" background: #C5FFA0"/>
                     <h4> Barra de tareas windows  </h4>
+                    </a>
                 </div>
                 <div class="col-md-3">
+                    <a href=" {{ url('/') }}">
                     <img alt="Bootstrap Image Preview" src="https://i.ibb.co/yXx1J7d/coleccion-aparatos-electronicos-1294-17-removebg-preview.png" class="rounded-circle mx-auto d-block img-thumbnail" width="150" style=" background: #C5FFA0"/>
                     <h4>Aparatos electrónicos  </h4>
+                    </a>
                 </div>
 
                 <div class="col-md-3">
@@ -222,26 +234,27 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
+                    <a href=" {{ url('/') }}">
                     <img alt="Bootstrap Image Preview" src="https://i.ibb.co/61qytsZ/8ff43fc791f074b4532e3c71b1d4ac62-removebg-preview.png" class="rounded-circle mx-auto d-block img-thumbnail" width="150" style=" background: #C5FFA0" />
                     <h4>Actividades</h4>
+                    </a>
                 </div>
 
             </div>
         </div>
 
-
 </div>
-<div id="separadorInferior2">
-    <div class="content ">
+</div>
 
+    <!-- separador -->
+    <div id="separadorInferior">
+        <div class="content ">
+
+        </div>
     </div>
-</div>
 
 
-
-
-
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 
