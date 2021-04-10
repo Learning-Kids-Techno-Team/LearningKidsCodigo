@@ -656,5 +656,7 @@ Route::get('/tecnologia',function (){
     return view('Tecnologia/pantallaPrincipal');
 });
 
-
+Route::get('/partesDeLaCompu',function (){
+    return view('Tecnologia/partesDeLaCompu');
+});
 
