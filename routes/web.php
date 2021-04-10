@@ -660,3 +660,14 @@ Route::get('/partesDeLaCompu',function (){
     return view('Tecnologia/partesDeLaCompu');
 });
 
+
+
+
+
+
+// Actividades Tecnologia!
+
+Route::get('/pantallaTecno',function (){
+    return view('ActividadesTecnologia/pantallaActividadTecno');
+});
+
