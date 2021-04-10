@@ -155,7 +155,54 @@
     </div>
 
 
+    <!-- contenedor tree-->
+    <div  class="container-fluid pb-5">
+        <div class="col-md-12  mb-5" style="background:  #dcfecb">
+                <h1 style="text-align: center">¡Partes de la Computadora!</h1>
+            </div>
+        </div>
 
+
+    <!-- botones-->
+    <div class="container-fluid pb-5">
+        <div class="row m-3">
+            <div class="col-md-4">
+                <img src="https://i.ibb.co/Qv6r2VJ/monit-removebg-preview.png" class="mx-auto d-block" width="250"/>
+                <h2><em>Monitor</em> (Boton de encendido y pantalla)</h2>
+                <h4>Sirve para ver o visualizar en el todo lo que realizamos en la computadora.</h4>
+            </div>
+
+            <!-- imagen del centro-->
+            <div class="col-md-4">
+                <img src="https://i.ibb.co/RTBmnDF/block-image.png" class="mx-auto d-block" width="400"/>
+            </div>
+
+            <div  class="col-md-4">
+                <img src="https://i.ibb.co/YQm9nbj/cpu2-removebg-preview.png"  class="mx-auto d-block" width="250"/>
+                <h2><em>CPU</em> (Unidad Central de Procesos)</h2>
+                <h4>Es la parte mas importante de la computadora, sin ella no podriamos hacer nada dentro del computador.</h4>
+            </div>
+
+        </div>
+        <div class="container-fluid pb-5">
+        <div class="row m-3">
+            <div class="col-md-6">
+                <img src="https://i.ibb.co/njrnRL6/mouse-1-removebg-preview.png" class="mx-auto d-block" width="250"/>
+                <h2><em>Mouse</em> (Boton derecho, <br>boton izquierdo y scroll)</h2>
+                <h4>Sirve para hacer movimientos mas directos y rapidos en el monitor de la maquina.</h4>
+            </div>
+
+            <div class="col-md-6">
+                <img src="https://i.ibb.co/2S2cscC/ted-removebg-preview.png"  class="mx-auto d-block" width="300">
+                <h2><em>Teclado</em> (Teclado en letras y <br>teclado numerico)</h2>
+                <h4>Nos sirve para digitar, escribir o ingresar datos importantes al computador.</h4>
+            </div>
+
+        </div>
+
+
+    </div>
+    </div>
 
 
 
