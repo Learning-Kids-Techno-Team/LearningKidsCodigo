@@ -141,7 +141,7 @@
                     <img  src="https://i.ibb.co/Qd0dhbs/compu1.gif" class="card mx-auto d-block" height="170" width="210">
                     <div class="card-body">
                         <h5 class="card-title"  align="center">Actividad<br> Computadora y su dispositivos hardware</h5>
-                        <a href=" {{ url('/') }}" class="btn">Ver</a>
+                        <a href=" {{ url('/pantallaDispositivosHardware') }}" class="btn">Ver</a>
                     </div>
                 </div>
             </div>
