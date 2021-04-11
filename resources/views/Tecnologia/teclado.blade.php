@@ -129,6 +129,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-xl-3 col-sm-6 col-12">
                 <div class="card" style="background:lightgreen; border: #ffed4a solid 8px">
                     <div class="card-content">
@@ -202,8 +203,99 @@
         </div>
     </div>
 
+    <div class="container-fluid " >
+        <div class="row m-3">
 
-    <!-- separador -->
+            <div class="col-md-6" >
+<br><br>
+                <h1 class="text-center">Partes del teclado</h1>
+
+            </div>
+
+            <div class="col-md-6 mb-5" >
+                <img src="https://i.ibb.co/F3NTqr3/21-removebg-preview.png" width="200">
+
+
+
+            </div>
+
+        </div>
+    </div>
+
+    <!-- contendor imagen  -->
+    <div  class="container-fluid mt-5">
+        <div class="row">
+            <div class="col-md-12">
+                <img class=" mx-auto d-block " style="border: #9561e2 solid 8px"
+                     src="https://jsequeiros.com/archivos/computacion/teclado/conocimiento-del-teclado.png"
+                     width="750" />
+            </div>
+
+        </div>
+    </div>
+<br>
+
+        <div class="row">
+            <div class="col-12 mt-3 mb-1">
+                <h1 class="text-center">Bloque de funciones </h1>
+
+            </div>
+        </div>
+
+       <div class="container-fluid mt-5">
+        <div class="row">
+            <div class="col-xl-6 col-md-12"  >
+                <div class="card overflow-hidden" style="background:     #f5f5f5 ; border: greenyellow dashed 8px">
+                    <div class="card-content">
+                        <div class="card-body cleartfix">
+                            <h4 class="text-center">Tecla de funciones</h4>
+                            <br>
+                            <div class="media align-items-stretch">
+
+                                <div class="media-body">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/FKCT4F9/pas.jpg" alt="pas" border="0"
+                                    width="300">
+                                    <br>
+                                    <p class="text-center"> <strong>Va desde la tecla F1 a F12, en tres bloques de cuatro:
+                                            de F1 a F4, de F5 a F8 y de F9 a F12. </strong></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-6 col-md-12">
+                <div class="card" style="background:     #f5f5f5 ; border: greenyellow dashed 8px">
+                    <div class="card-content">
+                        <div class="card-body cleartfix">
+                            <div class="media align-items-stretch">
+
+                                <div class="align-self-center">
+                                    <h4 class="text-center">Tecla de escape o ESC</h4>
+
+                                   <img class="mx-auto d-block" src="https://i.ibb.co/JsygVW2/11-removebg-preview.png"
+                                        width="205">
+
+                                    <p class="text-center"> <strong>Se utiliza generalmente para cancelar
+                                            operaciones a nivel de usuario y para abandonar
+                                            programas o secciones de éstos.
+
+                                         </strong></p>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+       </div>
+
+    <br><br>
+        <!-- separador -->
     <div id="separadorInferior">
         <div class="content">
         </div>
