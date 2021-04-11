@@ -675,4 +675,7 @@ Route::get('/teclado',function (){
 Route::get('/pantallaTecno',function (){
     return view('ActividadesTecnologia/pantallaActividadTecno');
 });
+Route::get('/pantallaDispositivosHardware',function (){
+    return view('ActividadesTecnologia/actividadDispositivosHardware');
+});
 
