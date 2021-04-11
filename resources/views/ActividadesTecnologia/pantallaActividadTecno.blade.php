@@ -35,8 +35,8 @@
         .card{
 
             border-bottom-left-radius: 50%;
-            border-color: powderblue;
-            border: double 5px powderblue;
+            border-color: #2a9055;
+            border: double 5px #2a9055;
             background-color: #f8f9fa;
         }
 
@@ -75,7 +75,7 @@
 
         }
         body{
-            background: powderblue;
+            background: #C5FFA0;
         }
 
 
@@ -91,8 +91,8 @@
 
         .btn {
 
-            background: #b0d4f1;
-            border: powderblue 2px solid;
+            background: #C5FFA0;
+            border: #2a9055 2px solid;
         }
 
     </style>
@@ -112,7 +112,7 @@
 
 
     <div  class="container-fluid ">
-        <div class="row " style="background: powderblue" >
+        <div class="row " style="background: #C5FFA0" >
             <div class="col-md-12  mb-5" style="background: lightyellow">
                 <h1 style="text-align: center">Actividades</h1>
             </div>
@@ -140,7 +140,7 @@
                 <div class="card" style="width: 18rem;">
                     <img  src="https://i.ibb.co/Qd0dhbs/compu1.gif" class="card mx-auto d-block" height="170" width="210">
                     <div class="card-body">
-                        <h5 class="card-title"  align="center">Actividad<br> Computadora y su dispositivo hardware</h5>
+                        <h5 class="card-title"  align="center">Actividad<br> Computadora y su dispositivos hardware</h5>
                         <a href=" {{ url('/') }}" class="btn">Ver</a>
                     </div>
                 </div>

@@ -102,23 +102,6 @@
             border: coral 15px dashed;
         }
 
-        #tar1{
-            background: #fff6af;
-            border: yellow 5px dashed;
-
-        }
-
-        #tar2{
-            background: #CCEECC;
-            border: #4caf50 5px dashed;
-
-        }
-
-        #tar3{
-            background: #FFEECC;
-            border: coral 5px dashed;
-
-        }
 
     </style>
 
