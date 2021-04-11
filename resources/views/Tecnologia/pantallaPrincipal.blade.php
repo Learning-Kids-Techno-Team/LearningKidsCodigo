@@ -178,7 +178,7 @@
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href=" {{ url('/') }}">
+                    <a href=" {{ url('/dispositivos') }}">
                     <img alt="Bootstrap Image Preview" src="https://i.ibb.co/sW9WnF7/hardware-removebg-preview.png" class="rounded-circle mx-auto d-block img-thumbnail " style=" background: #C5FFA0" width="150" />
                     <h4>Computadora y su dispositivo hardware </h4>
                     </a>

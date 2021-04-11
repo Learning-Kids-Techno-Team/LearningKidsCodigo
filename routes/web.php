@@ -655,7 +655,9 @@ Route::get('/actividadFi',function (){
 Route::get('/tecnologia',function (){
     return view('Tecnologia/pantallaPrincipal');
 });
-
+Route::get('/dispositivos',function (){
+    return view('Tecnologia/computadoraYDispositivosHardware');
+});
 Route::get('/partesDeLaCompu',function (){
     return view('Tecnologia/partesDeLaCompu');
 });
