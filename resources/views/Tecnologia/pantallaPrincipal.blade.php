@@ -194,7 +194,7 @@
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href=" {{ url('/') }}">
+                    <a href=" {{ url('/teclado') }}">
                     <img alt="Bootstrap Image Preview" src="https://us.123rf.com/450wm/vvadyabb/vvadyabb1705/vvadyabb170500005/78563222-manos-planas-escribiendo-en-el-teclado-blanco-con-el-rat%C3%B3n-y-el-vector-de-fondo-en-colores-pastel.jpg?ver=6" class="rounded-circle mx-auto d-block img-thumbnail" width="150" style=" background: #C5FFA0" />
                     <h4>Partes del teclado </h4>
                     </a>
