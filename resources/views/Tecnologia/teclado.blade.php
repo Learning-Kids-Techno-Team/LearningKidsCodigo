@@ -25,7 +25,11 @@
 
         }
 
-        p {
+
+        #c{
+            background: springgreen;
+        }
+        #a {
             border: turquoise 50px solid;
             border-image-source: url("https://i.ibb.co/d4SwJPg/mar-removebg-preview.png");
             border-image-slice: 160;
@@ -33,11 +37,6 @@
 
             padding: 10px;
             text-align: justify;
-        }
-
-
-        #c{
-            background: springgreen;
         }
 
 
@@ -53,13 +52,13 @@
 
                     <div class="col-md-7  " style="background: #ffed4a">
                         <img class="mt-5 mx-auto d-block"
-                             src="https://userscontent2.emaze.com/images/8307a578-6e35-4295-9f50-083721d672c7/6f3f87bfbbda3fcfd0637d96b54c9504.png"
+                             src="https://i.ibb.co/tZGg9kD/6f3f87bfbbda3fcfd0637d96b54c9504.png"
                              width="500"  >
                     </div>
                     <div class="col-xl-5   " style=" background: #ffed4a"  >
                         <br>
                         <h1 class="text-center">El Teclado</h1>
-                        <p class="text-center " >
+                        <p class="text-center " id="a" >
 
 
                             <strog>
@@ -72,6 +71,138 @@
             </div>
         </div>
     </div>
+
+   <div class="container-fluid " >
+    <div class="row m-3">
+
+        <div class="col-md-6" >
+            <h1 class="text-center"> ¿Sabías qué?</h1>
+            <p class="text-center" ><strong>
+
+                    <br><br>
+                    Un teclado Tiene entre 101 y 108 teclas aproximadamente y
+                    esta dividido en 4 bloques, como veremos más adelante.
+                </strong></p>
+        </div>
+
+        <div class="col-md-6 mb-5" >
+            <img class="mx-auto d-block" src="https://i.ibb.co/YRnsswL/qw-removebg-preview.png"
+                 width="300">
+
+
+
+        </div>
+
+    </div>
+    </div>
+
+
+
+
+
+    <div class="grey-bg container-fluid">
+        <div class="row">
+            <div class="col-12 mt-3 mb-1">
+                <h1 class="text-center" >Tipos de Teclado</h1>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xl-3 col-sm-6 col-12">
+                <div class="card" style="background:lightgreen; border: #ffed4a solid 8px">
+                    <div class="card-content">
+                        <div class="card-body">
+                            <div class="media-body align-text-center ">
+                                <h4>Teclado Ergonómico</h4>
+
+                            </div>
+                            <div class="media d-flex">
+                                <div class="align-self-center">
+                                    <img src="https://i.ibb.co/wJFbg0N/haq-removebg-preview.png"
+                                         width="230">
+
+                                    <p class="text-center"> <strong><br>Es un teclado que como su propia palabra dice está diseñado para
+                                            trabajar con el de la forma más cómoda y menos cansada. </strong></p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-sm-6 col-12">
+                <div class="card" style="background:lightgreen; border: #ffed4a solid 8px">
+                    <div class="card-content">
+                        <div class="card-body">
+                            <div class="media-body text-center">
+                                <h3>Teclado Multimedia</h3>
+                                <br>
+                            </div>
+                            <div class="media d-flex">
+                                <div class="align-self-center">
+                                    <img src="https://i.ibb.co/TkjXQ9N/js-removebg-preview.png"  width="250"
+                                         height="200">
+                                    <br><br>
+                                    <p class="text-center"><strong>Diseñados con teclas especiales que dan
+                                            acceso directo al volumen, la calculadora,
+                                            el lector de CD-ROM, y otros elementos multimedia (video y sonido).</strong> </p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-sm-6 col-12">
+                <div class="card" style="background:lightgreen; border: #ffed4a solid 8px">
+                    <div class="card-content">
+                        <div class="card-body">
+                            <div class="media-body text-center">
+                                <h4>Teclado Inalámbrico</h4>
+                                <br>
+                            </div>
+                            <div class="media d-flex">
+                                <div class="align-self-center">
+                                    <br>
+                                    <img src="https://i.ibb.co/ygXR0QH/ja-removebg-preview.png" width="260">
+                                    <p class="text-center"><strong> Son aquellos que en lugar de conectar el teclado al ordenador mediante
+                                            cables, se conectan con una pequeña antena y transmite la información por
+                                            medio de ondas electromagnéticas por el aire. </strong></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-sm-6 col-12">
+                <div class="card" style="background:lightgreen; border: #ffed4a solid 8px">
+                    <div class="card-content">
+                        <div class="card-body">
+                            <div class="media-body text-center">
+                                <h3>Teclado Flexible</h3>
+                                <br>
+                            </div>
+                            <div class="media d-flex">
+                                <div class="align-self-center">
+                                    <img src="https://i.ibb.co/wgTWqzG/ka-removebg-preview.png"
+                                         width="250" >
+                                    <br> <br><br>
+                                    <p class="text-center"><strong>Están fabricados con goma siliconada o plástico.
+                                            Son muy flexibles, de poco peso, delgados y resistentes al agua y otros líquidos.</strong>
+                                    </p>
+                                </div>
+
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <!-- separador -->
     <div id="separadorInferior">
         <div class="content">
