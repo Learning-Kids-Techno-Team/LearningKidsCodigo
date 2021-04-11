@@ -37,7 +37,7 @@
             border-bottom-left-radius: 50%;
             border-color: #2a9055;
             border: double 5px #2a9055;
-            background-color: #f8f9fa;
+            background-color: #dcfecb;
         }
 
 
