@@ -659,6 +659,9 @@ Route::get('/tecnologia',function (){
 Route::get('/partesDeLaCompu',function (){
     return view('Tecnologia/partesDeLaCompu');
 });
+Route::get('/teclado',function (){
+    return view('Tecnologia/teclado');
+});
 
 
 
