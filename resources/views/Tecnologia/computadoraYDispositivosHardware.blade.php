@@ -48,7 +48,7 @@
             height: 100px;
             border-bottom-left-radius: 80%;
             border-top-right-radius: 50%;
-            background: aquamarine;
+            background:  #16A085
         }
 
 

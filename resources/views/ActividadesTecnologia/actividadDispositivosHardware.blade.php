@@ -13,7 +13,7 @@
         gtag('config', 'G-JWFFJETEMQ');
     </script>
 
-    <title>Actividad ABC</title>
+    <title>Actividad Dispositivos Hardware</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <style>
         .navbar{
@@ -75,14 +75,14 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-m-12" style="background: antiquewhite;">
+            <div class="col-m-12" style="background: #16A085;">
                 <div >
                     <h1 style="text-align: center">Actividad Dispositivos hardware</h1>
                 </div>
 
                 <div>
 
-                    <iframe src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Juegos/The%20alphabet%20(Published)/" width="1347" height="700"></iframe>
+                    <iframe src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Juegos/dispositivos%20hardware%20(Published)/" width="1347" height="700"></iframe>
 
                 </div>
 
