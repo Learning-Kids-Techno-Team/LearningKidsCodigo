@@ -241,7 +241,7 @@
                 </a>
             </div>
             <div class="col-md-3">
-                <a href="{{url('/miembros')}}">
+                <a href="{{url('/Miembros')}}">
                 <img style="background: aquamarine" alt="Bootstrap Image Preview" src="https://i.ibb.co/gvXfHG1/depositphotos-126531952-stock-illustration-family-members-happy-faces-flat-removebg-preview.png" class="rounded-circle mx-auto d-block   img-thumbnail" width="150" />
                     <h4>Miembros de la familia </h4>
 
