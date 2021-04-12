@@ -228,9 +228,9 @@
                     </a>
                 </div>
                 <div class="col-md-4 mb-5">
-                    <a >
+                    <a href="{{ url('/tecnologia') }}">
                         <img  style="background: #95c5ed" alt="Bootstrap Image Preview"  src="https://i.ibb.co/YDvPQP2/ninos-pequenos-que-usan-dispositivos-tecnologicos-29937-4117-removebg-preview-1.png" class=" img-fluid  img-thumbnail  mx-auto d-block  rounded-circle" width="150" />
-                        <h3>Tecnologia</h3>
+                        <h3>Tecnología</h3>
 
                     </a>
                 </div>
