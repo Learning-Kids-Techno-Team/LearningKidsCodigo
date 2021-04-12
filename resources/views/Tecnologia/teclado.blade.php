@@ -39,6 +39,16 @@
             text-align: justify;
         }
 
+        .card{
+            background: whitesmoke;
+            border:#ffed4a 8px solid;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+
+        }
+
 
     </style>
 </head>
@@ -293,6 +303,284 @@
             </div>
         </div>
        </div>
+
+
+    <div class="container-fluid mt-5">
+        <div class="row">
+            <div class="col-xl-6 col-md-12"  >
+                <div class="card overflow-hidden" style="background:     #f5f5f5 ; border: greenyellow dashed 8px">
+                    <div class="card-content">
+                        <div class="card-body cleartfix">
+                            <h4 class="text-center">Tecla Bloqueo Desplazamiento o Scroll Lock</h4>
+                            <br>
+                            <div class="media align-items-stretch">
+
+                                <div class="media-body">
+                                    <img class="mx-auto d-block"  src="https://i.ibb.co/p0yRppB/1388602-removebg-preview.png"
+                                         width="205">
+                                    <br>
+                                    <p class="text-center"> <strong>Trata de una tecla de bloqueo,
+                                            es decir, que su pulsación sucesiva activa o desactiva sus hipotéticas
+                                            funciones. </strong></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-6 col-md-12">
+                <div class="card" style="background:     #f5f5f5 ; border: greenyellow dashed 8px">
+                    <div class="card-content">
+                        <div class="card-body cleartfix">
+                            <div class="media align-items-stretch">
+
+                                <div class="align-self-center">
+                                    <h4 class="text-center">
+                                        Tecla Pausa, Pause o Break</h4>
+
+                                    <img class="mx-auto d-block"  src="https://i.ibb.co/FgK6ngC/pau.jpg"
+                                         width="205">
+
+                                    <p class="text-center"> <strong>
+                                            En Windows la tecla Pausa no tiene ningún uso como interruptora de procesos.
+
+                                        </strong></p>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-12 mt-3 mb-1">
+            <h1 class="text-center">Bloque alfanumérico </h1>
+
+        </div>
+    </div>
+
+    <div class="container-fluid mt-5">
+        <div class="row">
+            <div class=" col-md-12"  >
+                <div class="card overflow-hidden"style="background:lightgray; border: greenyellow solid 8px">
+                    <div class="card-content">
+                        <div class="card-body cleartfix">
+                            <h4 class="text-center">Tecla de funciones</h4>
+                            <br>
+                            <div class="media align-items-stretch">
+
+                                <div class="media-body">
+                                    <img class="mx-auto d-block"  src="https://i.ibb.co/GJx5d3d/gd.gif"
+                                         >
+                                    <br>
+                                    <p class="text-center"> <strong> Está ubicado en la parte inferior del bloque de funciones,
+                                            contiene los números arábigos del 1 al 0 y
+                                            el alfabeto organizado como en una máquina de escribir,
+                                            además de algunas teclas especiales.</strong></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-12 mt-3 mb-1">
+            <h1 class="text-center">Bloque especial </h1>
+
+        </div>
+    </div>
+
+    <div class="container-fluid mt-5">
+        <div class="row">
+            <div class=" col-md-12"  >
+                <div class="card overflow-hidden" style="background:lightgray; border: greenyellow solid 8px">
+                    <div class="card-content">
+                        <div class="card-body cleartfix">
+                            <h4 class="text-center">Tecla especiales</h4>
+                            <br>
+                            <div class="media align-items-stretch">
+
+                                <div class="media-body">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/3rk8GSS/nj.jpg"
+                                     >
+                                    <br>
+                                    <p class="text-center"> <strong> Está ubicado a la derecha del bloque alfanumérico,
+                                            contiene algunas teclas especiales como Imp Pant, Bloq de desplazamiento,
+                                            pausa, inicio, fin, insertar, suprimir, Repag, Avpag y las flechas direccionales
+                                            que permiten mover el punto de inserción en las cuatro direcciones.</strong></p>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="row">
+        <div class="col-12 mt-3 mb-1">
+            <h1 class="text-center">Bloque Numerico </h1>
+
+        </div>
+    </div>
+
+
+    <div class="container-fluid mt-5">
+        <div class="row">
+            <div class=" col-md-12"  >
+                <div class="card overflow-hidden" style="background:lightgray; border: greenyellow solid 8px">
+                    <div class="card-content">
+                        <div class="card-body cleartfix">
+                            <h4 class="text-center">Tecla especiales</h4>
+                            <br>
+                            <div class="media align-items-stretch">
+
+                                <div class="media-body">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/1X2ktJS/tas.jpg"
+                                    >
+                                    <br>
+                                    <p class="text-center"> <strong>
+                                            Está ubicado a la derecha del bloque especial,
+                                            se activa cuando al presionar la tecla Bloq Num,
+                                            contiene los números arábigos organizados como en
+                                            una calculadora con el fin de facilitar la digitacion de cifras,
+                                            además contiene los signos de las cuatro operaciones básicas como
+                                            suma +, resta -, multiplicación * y división /
+
+                                        </strong></p>
+
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+
+
+    <div class="container-fluid " >
+        <div class="row m-3">
+            <div class="col-md-6 mb-5" >
+                <img class="mx-auto d-block"  src="https://i.ibb.co/JdZjZzP/dd.jpg"
+                     width="300">
+
+
+
+            </div>
+            <div class="col-md-6" >
+<br><br>
+                <h1 class="text-center">Atajos del teclado</h1>
+
+            </div>
+
+
+
+        </div>
+    </div>
+
+    <div class="row m-5 d-flex justify-content-center" >
+        <div class="col-md-4">
+            <div class="card" style="width: 20rem;">
+                <br>
+
+                <img class="mx-auto d-block" src="https://i.ibb.co/Gv9WJKm/co1.jpg"    width="150" height="150">
+                <br>
+                <h4 class="mx-auto d-block">Para copiar texto</h4>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/h8YXxWL/ctrlv.jpg"    width="150" height="150">
+                <br>
+                <h4 class="mx-auto d-block">Para pegar el texto copiado </h4>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <br>
+                <img class="mx-auto d-block"  src="https://i.ibb.co/fv9hgQG/asz.jpg"  width="150" height="150">
+                <br>
+                <h4>Deshacer el último cambio</h4>
+
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+    <div class="row m-5 d-flex justify-content-center" >
+        <div class="col-md-4">
+            <div class="card" style="width: 20rem;">
+                <br>
+
+                <img class="mx-auto d-block" src="https://i.ibb.co/crxD7sP/fs.jpg"    width="150" height="150">
+                <br>
+                <h4 class="text-center">Abre la Búsqueda en cualquier programa.</h4>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/VpcbyX6/cs.png"    width="150" height="150">
+                <br>
+                <h4 class="text-center"> Guarda el archivo con el que estamos trabajando. </h4>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <br>
+                <img class="mx-auto d-block"  src="https://i.ibb.co/VjsNdS0/aa.jpg"  width="150" height="150">
+                <br>
+                <h4 class="text-center">Mueve el cursor al principio o al final de documento.</h4>
+
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+
+    <div class="container-fluid  d-flex justify-content-center">
+        <div class="col-md-4">
+            <div class="card" style="width: 20rem;">
+                <br>
+                <img class="mx-auto d-block"   src="https://i.ibb.co/W3DsLL2/Ctrp.png"   width="150" height="150">
+
+                <h3 class="text-center">Nos abre una vista previa de la impresión del documento.</h3>
+
+            </div>
+        </div>
+    </div>
+
 
     <br><br>
         <!-- separador -->
