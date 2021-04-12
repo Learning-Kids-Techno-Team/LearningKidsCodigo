@@ -53,7 +53,7 @@
             height: 100px;
             border-bottom-left-radius: 80%;
             border-top-right-radius: 50%;
-            background: #409444;
+            background: #C5FFA0;
         }
 
         h1{
@@ -230,13 +230,13 @@
                 </p>
                 <h4>El Mouse</h4>
                 <p>
-                    Es el dispositivo de entrada mas utilizado. El mouse o raton es arrastrado en una superficie plana
+                    Es el dispositivo de entrada más utilizado. El mouse o ratón es arrastrado en una superficie plana
                     para maniobrar el puntero que podemos visualizar en la pantalla del monitor.
                     Tiene dos botones: derecho y un izquierdo. Algunos tienen una rueda en el centro que sirve para
-                    desplazar rapidamente el puntero del mouse en el monitor y es llamado scroll.
+                    desplazar rápidamente el puntero del mouse en el monitor y es llamado scroll.
                     <strong>La acción de presionar los botones del mouse se le conoce como "Click".</strong>
+                <br>
                 </p>
-                <h5 style="text-align: right"> </h5>
 
             </div>
             </div>

@@ -223,14 +223,7 @@
       <workItem from="1613862627886" duration="331000" />
       <workItem from="1613863803558" duration="4105000" />
       <workItem from="1615159385455" duration="194000" />
-      <workItem from="1618202979181" duration="8994000" />
-    </task>
-    <task id="LOCAL-00004" summary="Sprint1 Daniela">
-      <created>1602698456597</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1602698456597</updated>
+      <workItem from="1618202979181" duration="10308000" />
     </task>
     <task id="LOCAL-00005" summary="Sprint1 Daniela">
       <created>1602701290739</created>
@@ -568,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618198095141</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Sprint 10 Sindy G.">
+      <created>1618213386460</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1618213386460</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,7 +607,8 @@
     <MESSAGE value="Sprint 9 Daniela Mazzoni" />
     <MESSAGE value="Sprint 9 Hector Lopez" />
     <MESSAGE value="Sprint 10 Hector Lopez" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 10 Hector Lopez" />
+    <MESSAGE value="Sprint 10 Sindy G." />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 10 Sindy G." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
