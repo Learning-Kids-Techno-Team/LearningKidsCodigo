@@ -41,7 +41,7 @@
 
         .card{
             background: whitesmoke;
-            border:#ffed4a 8px solid;
+            border:#00a5bb 8px solid;
             border-bottom-left-radius: 10px;
             border-bottom-right-radius: 10px;
             border-top-left-radius: 10px;
@@ -52,7 +52,7 @@
 
 
         h2{
-            background: #00a5bb;
+            background: #98dfb6;
         }
 
 
@@ -66,13 +66,13 @@
             <div class="col-md-12 " >
                 <div class="row ml-2 "  >
 
-                    <div class="col-md-7  " style="background: #ffed4a">
+                    <div class="col-md-7  " style="background: #98dfb6">
 
                         <img class="mt-5 mx-auto d-block"
                              src="https://i.ibb.co/3sXtyq0/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-removebg-preview.png"
                              width="500"  >
                     </div>
-                    <div class="col-xl-5   " style=" background: #ffed4a"  >
+                    <div class="col-xl-5   " style=" background: #98dfb6"  >
                         <br>
                         <h1 class="text-center">Software</h1>
                         <p class="text-center " id="a" >
@@ -239,6 +239,168 @@
 
     </div>
     </div>
+
+
+
+
+
+
+
+    <!-- titulo de las categorias-->
+
+
+    <div style="color: #0b3251;">
+        <br>
+        <h2  style="text-align: center">Software de aplicación </h2>
+        <br><br><br>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6">
+
+                <p style="text-align: justify">
+                    Todos aquellos programas adicionales que pueden incorporarse al computador una vez instalado el sistema operativo y que permiten llevar a cabo un sinfín de tareas posibles, desde procesadores de texto hasta navegadores de internet o herramientas de diseño o videojuegos.
+
+                    </p>
+
+            </div>
+            <div class="col-md-6">
+
+                <img class="d-block mx-auto" src="https://i.ibb.co/D8wVTSR/desktop-564f6cc6-9c6d-477e-8a61-a355574859e1-removebg-preview.png" width="300"/>
+
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="http://www.brandemia.org/wp-content/uploads/2013/07/logo_firefox2013.jpg"    width="300" height="220">
+                <h3 class="mx-auto d-block"><em>Mozilla Firefox</em></h3>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"   src="https://winphonemetro.com/files/2017/05/PowerPoint-Logo.jpg"   width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Microsoft Power Point </em></h3>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://www.muypymes.com/wp-content/uploads/2013/07/Apache-OpenOffice-Logo-1280x720.png"  width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Open Office</em></h3>
+
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://teorema-rd.com/wp-content/uploads/2020/05/logo-excel-1024x576.jpg"    width="300" height="220">
+                <h3 class="mx-auto d-block"><em>Microsoft Excel</em></h3>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"   src="https://i.blogs.es/c554bd/portada/450_1000.jpg"   width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>MSN Messenger</em></h3>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://brandemia.org/sites/default/files/logo_avast_portada.jpg"  width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Avast</em></h3>
+
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://teorema-rd.com/wp-content/uploads/2020/05/Microsoft-Project-logo.jpg"    width="300" height="220">
+                <h3 class="mx-auto d-block"><em>MS Project</em></h3>
+
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"   src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1051px-Adobe_Photoshop_Express_logo.svg.png"   width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Adobe Photoshop</em></h3>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://movilforum.com/wp-content/uploads/2020/08/Audacity-icono.jpg"  width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Audacity</em></h3>
+
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://1000logos.net/wp-content/uploads/2020/08/Opera-Logo.jpg"    width="300" height="220">
+                <h3 class="mx-auto d-block"><em>Opera</em></h3>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"   src="https://1000marcas.net/wp-content/uploads/2020/02/Google-Chrome-Logo.png"   width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Google Chrome </em></h3>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Symbol.png"  width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Microsoft Word</em></h3>
+
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+
 
 
 
