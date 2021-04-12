@@ -188,7 +188,7 @@
             </div>
             <div class="row">
                 <div class="col-md-3">
-                    <a href=" {{ url('/') }}">
+                    <a href=" {{ url('/software') }}">
                     <img alt="Bootstrap Image Preview" src="https://i.ibb.co/vx5SyyB/e6fe1f2a743943cb45eff1ea9cceb7dc-removebg-preview.png" class="rounded-circle mx-auto d-block img-thumbnail" style=" background: #C5FFA0" width="150" />
                     <h4>Computadora y sus dispositivos software </h4>
                     </a>
