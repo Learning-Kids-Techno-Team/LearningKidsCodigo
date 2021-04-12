@@ -235,13 +235,11 @@
                     Tiene dos botones: derecho y un izquierdo. Algunos tienen una rueda en el centro que sirve para
                     desplazar rápidamente el puntero del mouse en el monitor y es llamado scroll.
                     <strong>La acción de presionar los botones del mouse se le conoce como "Click".</strong>
-                <br>
                 </p>
 
             </div>
             </div>
     </div>
-
 
 
     <!-- separador -->
