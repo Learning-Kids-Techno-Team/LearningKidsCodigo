@@ -685,3 +685,6 @@ Route::get('/pantallaDispositivosHardware',function (){
 Route::get('/actividadCompu',function (){
     return view('ActividadesTecnologia/actividadCompu');
 });
+Route::get('/actividadTeclado',function (){
+    return view('ActividadesTecnologia/actividadTeclado');
+});
