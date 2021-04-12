@@ -26,7 +26,7 @@
                     <li class="nav-item"><a class="nav-link" href="{{ url('/pantallaPrincipalDeCienciasNaturales') }}">Ciencias Naturales</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ url('/pantallaPrincipalDeLaClaseDeCienciasSociales') }}">Ciencias Sociales</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ url('/pantallaIngles') }}">Inglés</a></li>
-                    <li class="nav-item"><a class="nav-link" href="{{ url('/Tecnología') }}">Tecnología</a></li>
+                    <li class="nav-item"><a class="nav-link" href="{{ url('/tecnologia') }}">Tecnología</a></li>
 
 
                     <!-- Authentication Links -->
