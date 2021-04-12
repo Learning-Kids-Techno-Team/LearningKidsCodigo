@@ -665,6 +665,10 @@ Route::get('/teclado',function (){
     return view('Tecnologia/teclado');
 });
 
+Route::get('/software',function (){
+    return view('Tecnologia/software');
+});
+
 
 
 
