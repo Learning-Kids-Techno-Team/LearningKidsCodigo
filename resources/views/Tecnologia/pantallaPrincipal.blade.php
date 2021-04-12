@@ -234,7 +234,7 @@
             </div>
             <div class="row">
                 <div class="col-md-12">
-                    <a href=" {{ url('/') }}">
+                    <a href=" {{ url('/pantallaTecno') }}">
                     <img alt="Bootstrap Image Preview" src="https://i.ibb.co/61qytsZ/8ff43fc791f074b4532e3c71b1d4ac62-removebg-preview.png" class="rounded-circle mx-auto d-block img-thumbnail" width="150" style=" background: #C5FFA0" />
                     <h4>Actividades</h4>
                     </a>
