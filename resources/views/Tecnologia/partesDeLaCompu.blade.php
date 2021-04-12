@@ -246,8 +246,8 @@
 
     <!-- separador -->
     <div id="separadorInferior">
-        <div class="col-md-6">
-            <img src="https://i.ibb.co/x3HLkSL/ni-os-removebg-preview.png" width="450" height="250">
+        <div class="col-md-12">
+            <img class="mx-auto d-block" src="https://i.ibb.co/x3HLkSL/ni-os-removebg-preview.png" width="450" height="250">
         </div>
         <div class="content">
         </div>
