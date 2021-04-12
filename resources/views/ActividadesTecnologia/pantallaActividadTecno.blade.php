@@ -129,7 +129,7 @@
                     <img src="https://i.ibb.co/xFPk4kq/ct-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                     <div class="card-body">
                         <h5 class="card-title" align="center">Actividad La Computadora</h5>
-                        <a href=" {{ url('/actividadAmbiente') }}" class="btn">Ver</a>
+                        <a href=" {{ url('/actividadCompu') }}" class="btn">Ver</a>
                     </div>
                 </div>
             </div>
