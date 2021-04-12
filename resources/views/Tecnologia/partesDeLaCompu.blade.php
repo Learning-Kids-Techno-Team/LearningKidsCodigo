@@ -25,7 +25,7 @@
 
         .card{
             background:  #dcfecb;
-            border: oldlace 6px dashed;
+            border: #C5FFA0 15px solid;
             border-bottom-left-radius: 10px;
             border-bottom-right-radius: 10px;
             border-top-left-radius: 10px;
@@ -140,7 +140,7 @@
 
     <!-- contenedor tree-->
     <div  class="container-fluid pb-5">
-        <div class="col-md-12  mb-5" style="background:  #dcfecb">
+        <div class="col-md-12  mb-5" style="background:  #C5FFA0">
                 <h1 style="text-align: center">¡Partes de la Computadora!</h1>
             </div>
         </div>

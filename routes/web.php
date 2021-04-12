@@ -682,4 +682,6 @@ Route::get('/pantallaTecno',function (){
 Route::get('/pantallaDispositivosHardware',function (){
     return view('ActividadesTecnologia/actividadDispositivosHardware');
 });
-
+Route::get('/actividadCompu',function (){
+    return view('ActividadesTecnologia/actividadCompu');
+});
