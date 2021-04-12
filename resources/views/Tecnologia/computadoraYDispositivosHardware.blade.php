@@ -42,6 +42,7 @@
         }
 
 
+
         #separadorInferior2 .content{
 
             width: 100%;
@@ -50,6 +51,7 @@
             border-top-right-radius: 50%;
             background:  #16A085
         }
+
 
 
         h1{
