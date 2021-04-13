@@ -688,3 +688,7 @@ Route::get('/actividadCompu',function (){
 Route::get('/actividadTeclado',function (){
     return view('ActividadesTecnologia/actividadTeclado');
 });
+
+Route::get('/actividadSoftware',function (){
+    return view('ActividadesTecnologia/software');
+});
