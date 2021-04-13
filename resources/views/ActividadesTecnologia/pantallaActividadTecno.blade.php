@@ -151,7 +151,7 @@
                     <img src="https://i.ibb.co/JR3SSPH/sofw.png" class="card mx-auto d-block" height="180" width="200">
                     <div class="card-body">
                         <h5 class="card-title" align="center">Actividad<br> Computadora y sus dispositivos software</h5>
-                        <a href=" {{ url('/') }}" class="btn">Ver</a>
+                        <a href=" {{ url('/actividadSoftware') }}" class="btn">Ver</a>
                     </div>
                 </div>
             </div>
