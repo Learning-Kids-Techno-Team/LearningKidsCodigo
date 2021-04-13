@@ -79,7 +79,7 @@
                 </div>
 
                 <div>
-                    <iframe src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Juegos/Actividad%20Tecnologia/Actividad%20Ruleta%20Tecnogia%20(Published)/" width="1347" height="800"></iframe>
+                    <iframe src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Ingles/Actividad%20Software%20(Published)/" width="1347" height="800"></iframe>
                 </div>
 
             </div>
