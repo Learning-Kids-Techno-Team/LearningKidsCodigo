@@ -668,7 +668,9 @@ Route::get('/teclado',function (){
 Route::get('/software',function (){
     return view('Tecnologia/software');
 });
-
+Route::get('/barraDeTareasWindows',function (){
+    return view('Tecnologia/barraDeTareasWindows');
+});
 
 
 
