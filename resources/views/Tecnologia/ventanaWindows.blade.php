@@ -115,7 +115,7 @@
         <div class="card">
             <div class="row m-5">
                 <div class="col-md-4">
-                    <img src="https://i.ibb.co/nDrDKVj/compu1-removebg-preview.png"  width="350" height="250"/>
+                    <img src="https://i.ibb.co/YkdTxkw/tec-removebg-preview.png" width="350" height="250"/>
                 </div>
                 <div class="col-md-8">
                     <h3 class="text-center" id="color"><em><strong>Ventana de Windows</strong>Cuando empiezas con tu COMPUTADORA,
