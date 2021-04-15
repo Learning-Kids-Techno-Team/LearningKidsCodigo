@@ -200,7 +200,7 @@
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href=" {{ url('/') }}">
+                    <a href=" {{ url('/veWindows') }}">
                     <img alt="Bootstrap Image Preview" src="https://www.top-password.com/blog/wp-content/uploads/2018/05/taskbar-context-menu.png" class="rounded-circle mx-auto d-block img-thumbnail" width="150" style=" background: #C5FFA0" />
                     <h4>Ventana
                         de windows </h4>
