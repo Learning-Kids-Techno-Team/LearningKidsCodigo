@@ -672,6 +672,10 @@ Route::get('/barraDeTareasWindows',function (){
     return view('Tecnologia/barraDeTareasWindows');
 });
 
+Route::get('/veWindows',function (){
+    return view('Tecnologia/ventanaWindows');
+});
+
 
 
 
