@@ -54,6 +54,9 @@
         h2{
             background: #98dfb6;
         }
+        h3{
+            text-align: center;
+        }
 
 
     </style>
@@ -69,8 +72,9 @@
                     <div class="col-md-7  " style="background: #98dfb6">
 
                         <img class="mt-5 mx-auto d-block"
-                             src="https://i.ibb.co/3sXtyq0/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-removebg-preview.png"
-                             width="500"  >
+
+                             src="https://i.ibb.co/7kFQK40/los-artilugios-electr-nicos-vector-dispositivos-de-las-multimedias-la-electr-nica-pc-tecnolog-a-icon.png"
+                             width="350"  >
                     </div>
                     <div class="col-xl-5   " style=" background: #98dfb6"  >
                         <br>
@@ -79,8 +83,7 @@
 
 
                             <strog>
-                                El software es el contenido intangible del sistema: el conjunto de programas, instrucciones y lenguajes que llevan a cabo las tareas y sirven de interfaz con el usuario.
-
+                                Los dispositivos electrónicos están compuestos por transistores, circuitos integrados, válvulas termoiónicas y muchos otros elementos que combinados entre sí permiten la generación y detección de señales de distintas frecuencias y todas aquellas funciones que se pueden realizar mediante señales eléctricas.
                             </strog>
                         </p>
                     </div>
@@ -91,35 +94,7 @@
 
 
 
-    <!-- titulo de las categorias-->
-    <div style="color: #0a6ebd;">
-        <br><br><br>
-        <h1  style="text-align: center">A su vez, el software puede clasificarse de acuerdo a su función principal en: </h1>
-        <br>
-    </div>
 
-
-    <div style="color: #0b3251;">
-        <br>
-        <h2  style="text-align: center">Software de sistema o básico (sistema operativo) </h2>
-        <br><br><br>
-    </div>
-
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-6">
-
-                <p style="text-align: justify">
-                    Un Sistema Operativo (SO) es un programa o conjunto de programas de un sistema informático, que administra los recursos físicos (hardware), los protocolos de ejecución del resto del contenido (software), así como la interfaz de usuario.
-                </p>
-
-            </div>
-            <div class="col-md-6">
-                <img alt="Bootstrap Image Preview" src="https://i.ibb.co/LQbTDKG/best-operative-system-eve-removebg-preview.png" width="520"/>
-
-            </div>
-        </div>
-    </div>
 
 
 
@@ -127,10 +102,50 @@
         <div class="col-md-4" >
             <div class="card" style="width: 20rem;">
 
-                <img class=" mx-auto d-block"  src="https://1000marcas.net/wp-content/uploads/2020/01/Unix-Logo.png"    width="300" height="220">
-                <h3 class="mx-auto d-block"><em>UNIX </em></h3>
-                <p style="text-align: justify">Este sistema operativo portable, multitarea y multiusuario fue desarrollado tempranamente en 1969, y a lo largo de los años sus derechos de copyright han pasado de una empresa a otra. En realidad se trata de una familia de SO semejantes, muchos de los cuales han hecho vida comercial y otros son de formato libre, todos a partir del núcleo Linux.
+                <img class=" mx-auto d-block"   src="https://i.ibb.co/PmMjPt5/png-transparent-template-information-mobile-phone-cartoon-material-business-holding-a-mobile-phone-g.png"   width="300" height="220">
+                <h3 class="mx-auto d-block"><em>Teléfono móvil</em></h3>
+                <p style="text-align: justify">Fáciles de llevar a cualquier lado, y con la posibilidad tanto de usar datos propios como aprovechar la conexión WiFi. Además de permitir estar siempre localizable, los smartphones son uno de los dispositivos electrónicos más utilizados como plataformas de juegos gracias al gran número de apps disponibles.
+                </p>
+                <br><br><br><br>
 
+            </div>
+        </div>
+        <div class="col-md-4">
+
+
+            <div class="card" style="width: 20rem;">
+
+                <img class="mx-auto d-block"   src="https://image.freepik.com/vector-gratis/ordenador-portatil_53876-43921.jpg" width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Portátil y ordenador de mesa </em></h3>
+                <p style="text-align: justify">Los dispositivos electrónicos más utilizados tanto para ocio como para tareas de trabajo. Aun cuando mucha gente trabaja fuera de casa, termina llevándose parte del trabajo a casa. O necesita utilizar programas de facturación, contabilidad, hojas de cálculo, etcétera. Y si tenemos en cuenta el caso de los autónomos o freelance, la presencia de un ordenador, ya sea un PC o un portátil, es casi indispensable.
+                </p>
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/WfBjt8p/gratis-png-camara-de-dibujos-animados-fotografia-camara-de-dibujos-animados-removebg-preview.png"  width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Cámara inalámbrica</em></h3>
+                <p style="text-align: justify">Muy empleada tanto en tareas de vigilancia y seguridad como de videoportero para saber quién está llamando. Una cámara inalámbrica es accesible tanto desde un PC, una tablet o un smartphone de manera remota.
+                </p>
+                <br><br><br><br><br><br>
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+
+
+
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block"  src="https://i.ibb.co/NY8Yvzx/tecnologias-inteligentes-robot-aspirador-piso-blanco-ilustracion-174496-151-removebg-preview.png"    width="300" height="220">
+                <h3 class="mx-auto d-block"><em>Robot aspirador de limpieza </em></h3>
+                <p style="text-align: justify">Uno de los dispositivos más usados en el hogar y mejor valorados. El robot aspirador es uno de los objetos inteligentes que más recomendados están por quienes tienen uno de ellos debido al tiempo que ahorra en las tareas de limpieza de suelos.
+                    <br><br><br><br><br>
                 </p>
 
             </div>
@@ -138,9 +153,46 @@
         <div class="col-md-4">
 
             <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"   src="https://presslatam.cl/wp-content/uploads/2020/11/Microsoft-logo.jpg"   width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>Microsoft Windows </em></h3>
-                <p style="text-align: justify">Sin duda el más popular de los SO, aunque realmente se trate de un conjunto de distribuciones (un entorno operativo) construidas para brindar a Sistemas Operativos más antiguos (como el MS-DOS) de una interfaz gráfica de soporte y un conjunto de herramientas de software.
+                <img class="mx-auto d-block"  src="https://i.ibb.co/pRv5h3T/consejos-trucos-comprar-robot-cocina-0-removebg-preview.png"   width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Robot de cocina </em></h3>
+                <p style="text-align: justify">El Internet de las cosas también llega a la cocina. Desde una tablet o el smartphone se puede tanto programar y realizar una comida como saber si falta algún ingrediente que añadir.<br><br><br>
+                </p>
+                <br><br><br><br><br>
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/dQXzTPd/51-Rj-Kw-Lo1-L-AC-SY355-removebg-preview.png"  width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Enchufes en hogar inteligente</em></h3>
+                <p style="text-align: justify">Quizá uno de los objetos inteligentes más llamativos dentro de la domótica para quienes aún no están puestos en los dispositivos preparados para la Internet de las cosas. Estos aparatos permiten controlar a distancia o programar el uso de los enchufes para adaptarlos a nuestras necesidades. Desde apagar una tele en 15 minutos, o un ventilador o calefactor que deseemos mantener encendido durante un tiempo más.
+                </p>
+            </div>
+        </div>
+
+    </div>
+    </div>
+
+
+
+ <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
+
+                <img class=" mx-auto d-block" src="https://i.ibb.co/dfw9bwB/png-clipart-ipad-flat-design-cartoon-business-tablet-pc-cartoon-character-electronics-removebg-previ.png"    width="300" height="220">
+                <h3 class="mx-auto d-block"><em>Tablet </em></h3>
+                <p style="text-align: justify">Similares a un teléfono móvil en su uso práctico. Permiten tener una mayor pantalla con la que poder realizar una lectura más cómoda de la información, por lo que es una excelente herramienta de apoyo para las tareas de estudio o para ver una película a mayor tamaño.
+                </p>
+                <br>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"   src="https://us.123rf.com/450wm/vvadyabb/vvadyabb1705/vvadyabb170500005/78563222-manos-planas-escribiendo-en-el-teclado-blanco-con-el-rat%C3%B3n-y-el-vector-de-fondo-en-colores-pastel.jpg?ver=6"   width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Teclado inalambrico</em></h3>
+                <p style="text-align: justify">Un teclado inalámbrico funciona exactamente de la misma manera que un mouse inalámbrico; conecta un receptor en uno de los puertos USB de su computadora. Luego, el receptor envía una señal a su teclado a batería.
                     <br><br><br>
                 </p>
             </div>
@@ -148,10 +200,9 @@
         <div class="col-md-4">
 
             <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://m1.paperblog.com/i/416/4161390/tienes-razones-sobra-usar-gnulinux-L-hBG2hE.png"  width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>GNU/Linux</em></h3>
-                <p style="text-align: justify">Este término alude a la utilización combinada del kernel libre de la familia de Unix llamado “Linux”, junto a la distribución GNU, también libre. El resultado es uno de los principales protagonistas del desarrollo de software libre, cuyo código fuente puede ser empleado, modificado y redistribuido a libertad.
-
+                <img class="mx-auto d-block" src="https://i.ibb.co/wg4K2zQ/icono-conexion-inalambrica-internet-wifi-router-48369-2505-removebg-preview.png"  width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Router</em></h3>
+                <p style="text-align: justify">Un router es un dispositivo de hardware que permite la interconexión de ordenadores en red. El router o enrutador es un dispositivo que opera en capa tres de nivel de 3. Así, permite que varias redes u ordenadores se conecten entre sí y, por ejemplo, compartan una misma conexión de Internet.
                 </p>
             </div>
         </div>
@@ -160,43 +211,6 @@
     </div>
 
 
-
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
-
-                <img class=" mx-auto d-block"  src="https://moodle2020-21.ua.es/moodle/pluginfile.php/159888/mod_resource/content/14/1.12.jpg"    width="300" height="220">
-                <h3 class="mx-auto d-block"><em>MacOS </em></h3>
-                <p style="text-align: justify">El sistema operativo de la Machintosh, también conocido como O S X o Mac OS X, cuyo entorno está basado en el Unix y es desarrollado y vendido como parte de los computadores de la marca Apple desde 2002. Parte de esta familia de software fue liberada por Apple como un Sistema Operativo abierto y de código libre llamado Darwin, al que luego añadieron componentes como el Aqua y el Finder, para obtener la interfaz en que se basa el Mac OS X, su versión más reciente.
-
-
-                </p>
-
-            </div>
-        </div>
-        <div class="col-md-4">
-
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"   src="https://revistadigital.inesem.es/informatica-y-tics/files/2015/03/ubuntu-INESEM-1024x768.jpg"   width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>Ubuntu </em></h3>
-                <p style="text-align: justify">Basado en GNU/Linux, este Sistema Operativo libre y de código abierto toma su nombre de la filosofía surafricana enfocada en la lealtad del hombre hacia el resto de la especie. En ese sentido, Ubuntu está orientado hacia la facilidad y la libertad de uso, si bien Canonical, la empresa británica que posee sus derechos, subsiste en base a servicios técnicos vinculados con el programa.
-                    <br><br><br>
-                </p>
-            </div>
-        </div>
-        <div class="col-md-4">
-
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="http://images.techhive.com/images/article/2014/11/fedora-logo-100528469-large.png"  width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>Fedora</em></h3>
-                <p style="text-align: justify">Se trata esencialmente de una distribución de Linux para propósitos generales, surgida luego de la descontinuación de Red Hat Linux, con la cual está muy vinculado pero que surgió como un proyecto comunitario. Es otro nombre indispensable a la hora de hablar de software libre y códigos abiertos, en sus tres versiones principales: Workstation, Cloud y Server.
-                    <br><br><br>
-                </p>
-            </div>
-        </div>
-
-    </div>
-    </div>
 
 
 
@@ -206,33 +220,29 @@
         <div class="col-md-4" >
             <div class="card" style="width: 20rem;">
 
-                <img class=" mx-auto d-block"  src="https://cdn.worldvectorlogo.com/logos/beos.svg"    width="300" height="220">
-                <h3 class="mx-auto d-block"><em>BeOS </em></h3>
-                <p style="text-align: justify">Desarrollado en 1990 por Be Incorporated, es un Sistema Operativo para PC orientado a la maximización del rendimiento multimedia. Se ha dicho que estaba basado en Unix, debido a la inclusión de la interfaz de comandos Bash, pero no es así: BeOs cuenta con un micronúcleo modular original, sumamente optimizado para el manejo de audio, video y gráficos animados. Además, a diferencia de Unix, es monousuario.
-
+                <img class=" mx-auto d-block"  src="https://images.philips.com/is/image/PhilipsConsumer/FM64FD65B_97-IMS-es_PA?$jpglarge$&wid=960"    width="300" height="220">
+                <h3 class="mx-auto d-block"><em>USB</em></h3>
+                <p style="text-align: justify">El Pen Drive es una unidad de almacenamiento de datos que puedes conectar a ordenadores u otros dispositivos electrónicos, desde móviles hasta televisores o consolas, mediante su conector USB, de ahí que se le conozca principalmente como memoria USB.
                 </p>
-
+                <br><br><br>
             </div>
         </div>
         <div class="col-md-4">
 
             <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"   src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0014/2494/brand.gif?itok=ydgAJhHd"   width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>Haiku </em></h3>
-                <p style="text-align: justify">Sistema Operativo de código abierto centrado en los aspectos personales de la informática y en el multimedia, inspirado en el BeOS (Be Operating System), con el que es compatible. Su gran particularidad estriba en la posibilidad de generar las propias distribuciones de cada usuario. Se encuentra actualmente en desarrollo.
-
-                    <br><br><br><br>
+                <img class="mx-auto d-block"   src="https://image.freepik.com/vector-gratis/tv-plasma-noticias-mujer_24877-17142.jpg"   width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>T.V</em></h3>
+                <p style="text-align: justify">Básicamente, un Smart TV es un televisor con un sistema operativo que permite hacer uso de diferentes aplicaciones y conectarse a Internet.
+                    <br><br><br><br><br><br><br>
                 </p>
             </div>
         </div>
         <div class="col-md-4">
 
             <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://www.expertosdecomputadoras.com/wp-content/uploads/2012/04/como%20%20encontrar%20archivos%20en%20solaris.png"  width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>Solaris</em></h3>
-                <p style="text-align: justify">Otro Sistema Operativo tipo Unix, creado en 1992 por Sun Microsystems y empleado hoy en día para arquitecturas de sistema SPARC (Scalable Processor Architecture) y x86, frecuentes en servidores y estaciones de trabajo. Es una versión oficialmente certificada de Unix cuya versión liberada se llama OpenSolaris.
-
-                    <br><br><br><br>
+                <img class="mx-auto d-block" src="https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/pro_59061918_3-500x500.jpg"  width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Auriculares bluetooth</em></h3>
+                <p style="text-align: justify">Los auriculares inalámbricos son auriculares que se conectan a un dispositivo, por ejemplo un smartphone, un altavoz estéreo, un televisor, una consola de videojuegos, un ordenador u otro dispositivo electrónico, sin utilizar cables. Los auriculares inalámbricos transmiten la señal de audio por señales de radio o de infrarrojos (IR) dependiendo del dispositivo.
                 </p>
             </div>
         </div>
@@ -245,60 +255,38 @@
 
 
 
+    <div class="row m-5" >
+        <div class="col-md-4" >
+            <div class="card" style="width: 20rem;">
 
-    <!-- titulo de las categorias-->
+                <img class=" mx-auto d-block"  src="https://roselin.es/pub/media/catalog/product/cache/26fad7f0116a4604dd5965b833befd85/8/5/85.050.007.1_noapp__1.jpg"    width="300" height="220">
+                <h3 class="mx-auto d-block"><em>Smartwatch</em></h3>
+                <p style="text-align: justify">Un smartwatch o reloj inteligente es un aparato tecnológico de pulsera que posee funcionalidades que van mas allá de las de un reloj y que hacen de él un dispositivo móvil multifunción. Los smartwatch funciones se pueden sincronizar con smartphones y/o tablets, o bien de modo independiente.
+                </p>
+                <br><br><br>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+
+            <div class="card" style="width: 20rem;">
+                <img class="mx-auto d-block"   src="https://www.get-digital.es/web/getdigital/gfx/products/__generated__resized/1100x1100/SoundLocator-main.jpg"   width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Localizador de llaves</em></h3>
+                <p style="text-align: justify">Uno de los dispositivos tecnológicos de la era digital que solo se valoran cuando se necesitan. Aunque en su caso no es uno de los objetos inteligentes que más destaque, nos puede salvar de más de un apuro. Resulta tan simple como parece, este aparato permite localizar con nuestro smartphone donde se encuentra el localizador – generalmente, llaves o cartera – mediante tecnología Bluetooth, GPS o WiFi.
 
 
-    <div style="color: #0b3251;">
-        <br>
-        <h2  style="text-align: center">Software de aplicación </h2>
-        <br><br><br>
-    </div>
-
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-6">
-
-                <p style="text-align: justify">
-                    Todos aquellos programas adicionales que pueden incorporarse al computador una vez instalado el sistema operativo y que permiten llevar a cabo un sinfín de tareas posibles, desde procesadores de texto hasta navegadores de internet o herramientas de diseño o videojuegos.
 
                 </p>
-
-            </div>
-            <div class="col-md-6">
-
-                <img class="d-block mx-auto" src="https://i.ibb.co/D8wVTSR/desktop-564f6cc6-9c6d-477e-8a61-a355574859e1-removebg-preview.png" width="300"/>
-
-            </div>
-        </div>
-    </div>
-
-
-
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
-
-                <img class=" mx-auto d-block"  src="http://www.brandemia.org/wp-content/uploads/2013/07/logo_firefox2013.jpg"    width="300" height="220">
-                <h3 class="mx-auto d-block"><em>Mozilla Firefox</em></h3>
-
-
             </div>
         </div>
         <div class="col-md-4">
 
             <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"   src="https://winphonemetro.com/files/2017/05/PowerPoint-Logo.jpg"   width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>Microsoft Power Point </em></h3>
-
-            </div>
-        </div>
-        <div class="col-md-4">
-
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://www.muypymes.com/wp-content/uploads/2013/07/Apache-OpenOffice-Logo-1280x720.png"  width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>Open Office</em></h3>
-
+                <img class="mx-auto d-block" src="https://i.blogs.es/b767f5/switch-xbox-one-ps4.jpg.optimal/1366_2000.jpeg"  width="300" height="220">
+                <h3 class="mx-auto d-block" id="color"><em>Consola de videojuegos</em></h3>
+                <p style="text-align: justify">consola de videojuegos o videoconsola, que es el dispositivo que ejecuta juegos electrónicos contenidos en discos compactos, cartuchos, tarjetas de memoria u otros formatos.
+                    <br><br><br><br><br><br><br>
+                </p>
             </div>
         </div>
 
@@ -307,98 +295,6 @@
 
 
 
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
-
-                <img class=" mx-auto d-block"  src="https://teorema-rd.com/wp-content/uploads/2020/05/logo-excel-1024x576.jpg"    width="300" height="220">
-                <h3 class="mx-auto d-block"><em>Microsoft Excel</em></h3>
-
-            </div>
-        </div>
-        <div class="col-md-4">
-
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"   src="https://i.blogs.es/c554bd/portada/450_1000.jpg"   width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>MSN Messenger</em></h3>
-
-            </div>
-        </div>
-        <div class="col-md-4">
-
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://brandemia.org/sites/default/files/logo_avast_portada.jpg"  width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>Avast</em></h3>
-
-            </div>
-        </div>
-
-    </div>
-    </div>
-
-
-
-
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
-
-                <img class=" mx-auto d-block"  src="https://teorema-rd.com/wp-content/uploads/2020/05/Microsoft-Project-logo.jpg"    width="300" height="220">
-                <h3 class="mx-auto d-block"><em>MS Project</em></h3>
-
-
-            </div>
-        </div>
-        <div class="col-md-4">
-
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"   src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Adobe_Photoshop_Express_logo.svg/1051px-Adobe_Photoshop_Express_logo.svg.png"   width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>Adobe Photoshop</em></h3>
-
-            </div>
-        </div>
-        <div class="col-md-4">
-
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://movilforum.com/wp-content/uploads/2020/08/Audacity-icono.jpg"  width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>Audacity</em></h3>
-
-            </div>
-        </div>
-
-    </div>
-    </div>
-
-
-
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
-
-                <img class=" mx-auto d-block"  src="https://1000logos.net/wp-content/uploads/2020/08/Opera-Logo.jpg"    width="300" height="220">
-                <h3 class="mx-auto d-block"><em>Opera</em></h3>
-
-            </div>
-        </div>
-        <div class="col-md-4">
-
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block"   src="https://1000marcas.net/wp-content/uploads/2020/02/Google-Chrome-Logo.png"   width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>Google Chrome </em></h3>
-
-            </div>
-        </div>
-        <div class="col-md-4">
-
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://logos-world.net/wp-content/uploads/2020/03/Microsoft-Word-Symbol.png"  width="300" height="220">
-                <h3 class="mx-auto d-block" id="color"><em>Microsoft Word</em></h3>
-
-            </div>
-        </div>
-
-    </div>
-    </div>
 
 
 
