@@ -160,7 +160,7 @@
             <div class="col-md-12 pb-5">
                     <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/Gx5ZBdM/otr.png">
                 </div>
-            <div class="col-md-12">
+            <div class="col-md-12 pb-5">
                 <h2>El escritorio de Windows</h2>
                 <p style="text-align: center">El escritorio es el area que puedes usar para navegar por tu computadora.
                     <br>Existen varias funciones disponibles muy utiles que puedes usar.
@@ -194,7 +194,7 @@
                     añadir los iconos de los programas que deseemos, así tendremos un acceso inmediato a ellos.
                 </p>
 
-            <div class="col-md-2 pb-5">
+            <div class="col-md-2">
                 <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/4VQhtKB/boton-inici.gif">
                 <h3>Boton de Inicio</h3>
             </div>
