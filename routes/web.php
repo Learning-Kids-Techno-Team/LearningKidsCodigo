@@ -672,8 +672,15 @@ Route::get('/barraDeTareasWindows',function (){
     return view('Tecnologia/barraDeTareasWindows');
 });
 
+                                                                    //Sprint 11
+
 Route::get('/veWindows',function (){
     return view('Tecnologia/ventanaWindows');
+});
+
+
+Route::get('/aparatos',function (){
+    return view('Tecnologia/AparatosElectronicos');
 });
 
 
