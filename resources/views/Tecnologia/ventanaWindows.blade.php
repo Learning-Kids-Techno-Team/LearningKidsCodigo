@@ -24,8 +24,8 @@
         }
 
         .card{
-            background:  #dcfecb;
-            border: #409444 15px dotted;
+            background: #a1cbef;
+            border: #fff6af 15px double;
             border-bottom-left-radius: 10px;
             border-bottom-right-radius: 10px;
             border-top-left-radius: 10px;
@@ -62,6 +62,19 @@
 
         }
 
+        #c{
+            background: coral;
+        }
+        #a {
+            border: turquoise 50px solid;
+            border-image-source: url("https://i.ibb.co/d4SwJPg/mar-removebg-preview.png");
+            border-image-slice: 160;
+            border-image-repeat: round;
+
+            padding: 10px;
+            text-align: justify;
+        }
+
         #lt{
             color: #123c24 ;
             font-family: bold;
@@ -77,7 +90,7 @@
 
         h2{
             text-align: center;
-            color: #2a9055 ;
+            color: #2a9055;
             font-family: bold;
         }
 
@@ -91,6 +104,10 @@
             text-align: center;
         }
 
+        #bord{
+            background: #fff6af;
+            border: coral 10px dashed;
+        }
 
 
     </style>
@@ -101,50 +118,53 @@
 <!-- navbar-->
 @section('content')
 
-    <!-- contenedor tree-->
-    <div  class="container-fluid ">
-        <div class="row " style="background: #C5FFA0" >
-            <div class="col-md-12  mb-5" style="background:  #dcfecb">
-                <h1 style="text-align: center">La ventana de Windows</h1>
+    <!-- contenedor-->
+    <div class="container-fluid "  id="c">
+        <div class="container-fluid p-5">
+            <div class="col-md-12 " >
+                <div class="row ml-2 "  >
+
+                    <div class="col-md-7  " style="background: #fff6af ">
+
+                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/jMmVMF5/com-removebg-preview.png"
+                             width="500">
+                    </div>
+                    <div class="col-xl-5" style=" background:#fff6af"  >
+                        <br>
+                        <h1 class="text-center">Ventana de Windows</h1>
+                        <p class="text-center " id="a" >
+
+
+                            <strog>
+                                Cuando empiezas con tu COMPUTADORA, la primera cosa que ves en tu pantalla es el escritorio de WINDOWS.
+                                En Windows la comunicación con el ordenador se realiza a través de un elemento que se
+                                conoce como <strong>ventana.</strong> Una <strong>ventana</strong> es un rectángulo que aparece en la pantalla al ejecutar una aplicación o ver el contenido de un icono.
+                            </strog>
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-
-    <!-- contenedor text-->
-    <div class="container-fluid mt-5 pb-5">
-        <div class="card">
-            <div class="row m-5">
-                <div class="col-md-4">
-                    <img src="https://i.ibb.co/YkdTxkw/tec-removebg-preview.png" width="350" height="250"/>
-                </div>
-                <div class="col-md-8">
-                    <h3 class="text-center" id="color"><em><strong>Ventana de Windows</strong>Cuando empiezas con tu COMPUTADORA,
-                        la primera cosa que ves en tu pantalla es el escritorio de WINDOWS.</em></h3>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
 
     <!-- contenedor funciones-->
     <div  class="container-fluid">
-        <div class="row">
-            <div class="col-md-12 " style="background: #C5FFA0">
+        <div class="row pb-5">
+            <div class="col-md-12 " style="background: #fff6af">
                 <h1 style="text-align: center">¡El escritorio y entorno de Windows!</h1>
             </div>
         </div>
     </div>
     <div class="container-fluid">
         <div class="row m-3">
+            <div class="col-md-12 pb-5">
+                    <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/Gx5ZBdM/otr.png">
+                </div>
             <div class="col-md-12">
                 <h2>El escritorio de Windows</h2>
                 <p style="text-align: center">El escritorio es el area que puedes usar para navegar por tu computadora.
-                <br>Existen varias funciones disponibles muy utiles que puedes usar.
+                    <br>Existen varias funciones disponibles muy utiles que puedes usar.
                 </p>
-                <div class="col-md-12 pb-5">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/D149DvJ/windws.jpg" width="750" height="450">
-                </div>
             </div>
                 <div class="col-md-6">
                 <h2>El entorno:</h2>
@@ -159,7 +179,7 @@
                 </p>
                 </div>
                 <div class="col-md-6 pb-5">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/9vjDxm2/iconos-escritorio.png" width="500">
+                    <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/9vjDxm2/iconos-escritorio.png" width="500">
                 </div>
                 <p>
                     A su vez, de manera predeterminada (ya que podemos moverla a cualquier lado de la pantalla), en la parte inferior
@@ -175,15 +195,15 @@
                 </p>
 
             <div class="col-md-2 pb-5">
-                <img class="mx-auto d-block" src="https://i.ibb.co/4VQhtKB/boton-inici.gif">
+                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/4VQhtKB/boton-inici.gif">
                 <h3>Boton de Inicio</h3>
             </div>
             <div class="col-md-4">
-                <img class="mx-auto d-block" src="https://i.ibb.co/kK27BLs/program.gif">
+                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/kK27BLs/program.gif">
                 <h3>Barra de tareas</h3>
             </div>
             <div class="col-md-6">
-                <img class="mx-auto d-block" src="https://i.ibb.co/F8mBY6r/Captura.png">
+                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/F8mBY6r/Captura.png">
                 <h3>Elementos Funcionamiento del sistema</h3>
             </div>
 
@@ -193,7 +213,7 @@
     <!-- contenedor expl-->
     <div  class="container-fluid">
         <div class="row">
-            <div class="col-md-12 " style="background: #C5FFA0">
+            <div class="col-md-12 " style="background: #fff6af">
                 <h1 style="text-align: center">¡Explorador de Windows!</h1>
             </div>
         </div>
@@ -201,7 +221,7 @@
     <div class="container-fluid  mt-5">
         <div class="row m-3">
             <div class="col-md-12 pb-5">
-                <img class="mx-auto d-block" src="https://i.ibb.co/2PHtHSS/explw.png">
+                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/2PHtHSS/explw.png">
             </div>
             <p>A continuación explicamos las distintas áreas que componen esta ventana:</p>
             <ol>
