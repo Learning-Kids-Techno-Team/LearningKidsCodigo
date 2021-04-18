@@ -698,3 +698,8 @@ Route::get('/actividadTeclado',function (){
 Route::get('/actividadSoftware',function (){
     return view('ActividadesTecnologia/software');
 });
+
+Route::get('/actividadWindows',function (){
+    return view('ActividadesTecnologia/actividadWindows');
+});
+
