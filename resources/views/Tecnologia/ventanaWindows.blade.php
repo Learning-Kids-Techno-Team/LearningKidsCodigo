@@ -106,7 +106,7 @@
 
         #bord{
             background: #fff6af;
-            border: coral 10px dashed;
+            border: coral 7px dashed;
         }
 
 
@@ -162,15 +162,15 @@
                 </div>
             <div class="col-md-12 pb-5">
                 <h2>El escritorio de Windows</h2>
-                <p style="text-align: center">El escritorio es el area que puedes usar para navegar por tu computadora.
-                    <br>Existen varias funciones disponibles muy utiles que puedes usar.
+                <p style="text-align: center">El escritorio es el área que puedes usar para navegar por tu computadora.
+                    <br>Existen varias funciones disponibles muy útiles que puedes usar.
                 </p>
             </div>
                 <div class="col-md-6">
                 <h2>El entorno:</h2>
                 <h4>Iconos</h4>
                 <p>
-                    Los iconos del escritorio se activan haciendo doble clic con el ratón o con el dedo en pantallas táctiles.
+                    Los iconos del escritorio se activan haciendo doble click con el ratón o con el dedo en pantallas táctiles.
                     Pueden ser de tres tipos: <strong>Programas, carpetas</strong> que contienen archivos, o bien, <strong>archivos</strong> que, al ser pulsados,
                     abren el programa con el que fueron creados y con la información que contienen. También tenemos otro tipo de
                     iconos que se llaman <strong>Accesos directos.</strong>
@@ -221,9 +221,19 @@
     <div class="container-fluid  mt-5">
         <div class="row m-3">
             <div class="col-md-12 pb-5">
+                <h2>¿Que es el explorador de windows?</h2>
+                <p>El <strong>Explorador de archivos</strong> es la herramienta básica porque con ella controlaremos toda
+                    la información que tenemos guardada en nuestras unidades: <strong>discos duros, memorias USB, CD, etc.</strong>
+                    Existen diferentes tipos de archivos y hay diferentes tipos según la clase de datos que contienen:
+                    <strong>Imágenes, clips de vídeo, música, documentos de texto, ejecutables, etc.</strong>
+                </p>
+            </div>
+
+
+            <div class="col-md-12 pb-5">
                 <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/2PHtHSS/explw.png">
             </div>
-            <p>A continuación explicamos las distintas áreas que componen esta ventana:</p>
+            <p >A continuación explicamos las distintas áreas que componen esta ventana:</p>
             <ol>
                 <li><strong>Barra de herramientas de acceso rápido:</strong> son los botones que se encuentran en la esquina superior izquierda de las ventanas del Explorador.
                     La idea es que en esa barra se encuentren los botones de los comandos que más utilicemos. Por ello, podemos modificarla para dejar ahí los botones que elijamos.
@@ -242,11 +252,38 @@
                 <br><li><strong>Ventana de archivos:</strong>En esta zona aparece la lista de los archivos contenidos en la carpeta en que estamos situados,
                     es decir, la carpeta que se indica en la Barra de direcciones.</li>
                 <br><li><strong>Barra de estado:</strong>Nos muestra información breve acerca de la carpeta seleccionada (como el número de elementos que contiene).
-                   y si tenemos o no tenemos elementos seleccionados con un click, y cual es su tamaño.</li>
+                   y si tenemos o no tenemos elementos seleccionados con un click, y cual es su tamaño.
+                    <br><br><br>
+                </li>
             </ol>
+
+            <div class="col-md-6 pb-5">
+                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/rwHCCkN/carpet.jpg" width="550">
+            </div>
+            <div class="col-md-6 pb-5">
+                <h2>El entorno:</h2>
+                <h4>Las Carpetas</h4>
+                <p>
+                    Un elemento muy común: las Carpetas en el entorno de windows. <strong>Las carpetas</strong> se utilizan para clasificar de forma lógica los archivos
+                    que tenemos en nuestro ordenador. Reciben un nombre al igual que los archivos y también es aconsejable que
+                    sean lo más descriptivos posible. De este modo nos será mucho más fácil encontrar la información que deseamos.
+                    <br>
+                </p>
+                <ul>
+                    <li>Una carpeta puede contener dentro archivos o/y otras carpetas, llamadas subcarpetas.</li>
+
+                    <li>Las carpetas también reciben el nombre de directorios.</li>
+
+                    <li>En el Explorador de archivos las carpetas están representadas por una carpeta de color amarillo.</li>
+                </ul>
+
             </div>
 
+            </div>
     </div>
+
+
+
 
 
     <!-- separador -->
