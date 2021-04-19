@@ -668,12 +668,16 @@ Route::get('/teclado',function (){
 Route::get('/software',function (){
     return view('Tecnologia/software');
 });
+// sprint 11
 Route::get('/barraDeTareasWindows',function (){
     return view('Tecnologia/barraDeTareasWindows');
 });
 
 Route::get('/veWindows',function (){
     return view('Tecnologia/ventanaWindows');
+});
+Route::get('/funcionesMouse',function (){
+    return view('Tecnologia/funcionesMouse');
 });
 
 
