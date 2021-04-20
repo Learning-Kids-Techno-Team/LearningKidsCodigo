@@ -223,7 +223,7 @@
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href=" {{ url('/') }}">
+                    <a href=" {{ url('/aparatos') }}">
                     <img alt="Bootstrap Image Preview" src="https://i.ibb.co/yXx1J7d/coleccion-aparatos-electronicos-1294-17-removebg-preview.png" class="rounded-circle mx-auto d-block img-thumbnail" width="150" style=" background: #C5FFA0"/>
                     <h4>Aparatos electrónicos  </h4>
                     </a>
