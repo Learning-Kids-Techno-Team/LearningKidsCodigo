@@ -668,6 +668,7 @@ Route::get('/teclado',function (){
 Route::get('/software',function (){
     return view('Tecnologia/software');
 });
+// sprint 11
 Route::get('/barraDeTareasWindows',function (){
     return view('Tecnologia/barraDeTareasWindows');
 });
@@ -676,6 +677,9 @@ Route::get('/barraDeTareasWindows',function (){
 
 Route::get('/veWindows',function (){
     return view('Tecnologia/ventanaWindows');
+});
+Route::get('/funcionesMouse',function (){
+    return view('Tecnologia/funcionesMouse');
 });
 
 
@@ -705,3 +709,8 @@ Route::get('/actividadTeclado',function (){
 Route::get('/actividadSoftware',function (){
     return view('ActividadesTecnologia/software');
 });
+
+Route::get('/actividadWindows',function (){
+    return view('ActividadesTecnologia/actividadWindows');
+});
+

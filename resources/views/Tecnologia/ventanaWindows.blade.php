@@ -24,8 +24,8 @@
         }
 
         .card{
-            background:  #dcfecb;
-            border: #409444 15px dotted;
+            background: #a1cbef;
+            border: #fff6af 15px double;
             border-bottom-left-radius: 10px;
             border-bottom-right-radius: 10px;
             border-top-left-radius: 10px;
@@ -62,6 +62,19 @@
 
         }
 
+        #c{
+            background: coral;
+        }
+        #a {
+            border: turquoise 50px solid;
+            border-image-source: url("https://i.ibb.co/d4SwJPg/mar-removebg-preview.png");
+            border-image-slice: 160;
+            border-image-repeat: round;
+
+            padding: 10px;
+            text-align: justify;
+        }
+
         #lt{
             color: #123c24 ;
             font-family: bold;
@@ -77,7 +90,7 @@
 
         h2{
             text-align: center;
-            color: #2a9055 ;
+            color: #2a9055;
             font-family: bold;
         }
 
@@ -91,6 +104,10 @@
             text-align: center;
         }
 
+        #bord{
+            background: #fff6af;
+            border: coral 7px dashed;
+        }
 
 
     </style>
@@ -101,56 +118,59 @@
 <!-- navbar-->
 @section('content')
 
-    <!-- contenedor tree-->
-    <div  class="container-fluid ">
-        <div class="row " style="background: #C5FFA0" >
-            <div class="col-md-12  mb-5" style="background:  #dcfecb">
-                <h1 style="text-align: center">La ventana de Windows</h1>
+    <!-- contenedor-->
+    <div class="container-fluid "  id="c">
+        <div class="container-fluid p-5">
+            <div class="col-md-12 " >
+                <div class="row ml-2 "  >
+
+                    <div class="col-md-7  " style="background: #fff6af ">
+
+                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/jMmVMF5/com-removebg-preview.png"
+                             width="500">
+                    </div>
+                    <div class="col-xl-5" style=" background:#fff6af"  >
+                        <br>
+                        <h1 class="text-center">Ventana de Windows</h1>
+                        <p class="text-center " id="a" >
+
+
+                            <strog>
+                                Cuando empiezas con tu COMPUTADORA, la primera cosa que ves en tu pantalla es el escritorio de WINDOWS.
+                                En Windows la comunicación con el ordenador se realiza a través de un elemento que se
+                                conoce como <strong>ventana.</strong> Una <strong>ventana</strong> es un rectángulo que aparece en la pantalla al ejecutar una aplicación o ver el contenido de un icono.
+                            </strog>
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-
-    <!-- contenedor text-->
-    <div class="container-fluid mt-5 pb-5">
-        <div class="card">
-            <div class="row m-5">
-                <div class="col-md-4">
-                    <img src="https://i.ibb.co/YkdTxkw/tec-removebg-preview.png" width="350" height="250"/>
-                </div>
-                <div class="col-md-8">
-                    <h3 class="text-center" id="color"><em><strong>Ventana de Windows</strong>Cuando empiezas con tu COMPUTADORA,
-                        la primera cosa que ves en tu pantalla es el escritorio de WINDOWS.</em></h3>
-                </div>
-            </div>
-        </div>
-    </div>
-
-
 
     <!-- contenedor funciones-->
     <div  class="container-fluid">
-        <div class="row">
-            <div class="col-md-12 " style="background: #C5FFA0">
+        <div class="row pb-5">
+            <div class="col-md-12 " style="background: #fff6af">
                 <h1 style="text-align: center">¡El escritorio y entorno de Windows!</h1>
             </div>
         </div>
     </div>
     <div class="container-fluid">
         <div class="row m-3">
-            <div class="col-md-12">
-                <h2>El escritorio de Windows</h2>
-                <p style="text-align: center">El escritorio es el area que puedes usar para navegar por tu computadora.
-                <br>Existen varias funciones disponibles muy utiles que puedes usar.
-                </p>
-                <div class="col-md-12 pb-5">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/D149DvJ/windws.jpg" width="750" height="450">
+            <div class="col-md-12 pb-5">
+                    <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/Gx5ZBdM/otr.png">
                 </div>
+            <div class="col-md-12 pb-5">
+                <h2>El escritorio de Windows</h2>
+                <p style="text-align: center">El escritorio es el área que puedes usar para navegar por tu computadora.
+                    <br>Existen varias funciones disponibles muy útiles que puedes usar.
+                </p>
             </div>
                 <div class="col-md-6">
                 <h2>El entorno:</h2>
                 <h4>Iconos</h4>
                 <p>
-                    Los iconos del escritorio se activan haciendo doble clic con el ratón o con el dedo en pantallas táctiles.
+                    Los iconos del escritorio se activan haciendo doble click con el ratón o con el dedo en pantallas táctiles.
                     Pueden ser de tres tipos: <strong>Programas, carpetas</strong> que contienen archivos, o bien, <strong>archivos</strong> que, al ser pulsados,
                     abren el programa con el que fueron creados y con la información que contienen. También tenemos otro tipo de
                     iconos que se llaman <strong>Accesos directos.</strong>
@@ -159,7 +179,7 @@
                 </p>
                 </div>
                 <div class="col-md-6 pb-5">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/9vjDxm2/iconos-escritorio.png" width="500">
+                    <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/9vjDxm2/iconos-escritorio.png" width="500">
                 </div>
                 <p>
                     A su vez, de manera predeterminada (ya que podemos moverla a cualquier lado de la pantalla), en la parte inferior
@@ -174,16 +194,16 @@
                     añadir los iconos de los programas que deseemos, así tendremos un acceso inmediato a ellos.
                 </p>
 
-            <div class="col-md-2 pb-5">
-                <img class="mx-auto d-block" src="https://i.ibb.co/4VQhtKB/boton-inici.gif">
+            <div class="col-md-2">
+                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/4VQhtKB/boton-inici.gif">
                 <h3>Boton de Inicio</h3>
             </div>
             <div class="col-md-4">
-                <img class="mx-auto d-block" src="https://i.ibb.co/kK27BLs/program.gif">
+                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/kK27BLs/program.gif">
                 <h3>Barra de tareas</h3>
             </div>
             <div class="col-md-6">
-                <img class="mx-auto d-block" src="https://i.ibb.co/F8mBY6r/Captura.png">
+                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/F8mBY6r/Captura.png">
                 <h3>Elementos Funcionamiento del sistema</h3>
             </div>
 
@@ -193,7 +213,7 @@
     <!-- contenedor expl-->
     <div  class="container-fluid">
         <div class="row">
-            <div class="col-md-12 " style="background: #C5FFA0">
+            <div class="col-md-12 " style="background: #fff6af">
                 <h1 style="text-align: center">¡Explorador de Windows!</h1>
             </div>
         </div>
@@ -201,9 +221,19 @@
     <div class="container-fluid  mt-5">
         <div class="row m-3">
             <div class="col-md-12 pb-5">
-                <img class="mx-auto d-block" src="https://i.ibb.co/2PHtHSS/explw.png">
+                <h2>¿Que es el explorador de windows?</h2>
+                <p>El <strong>Explorador de archivos</strong> es la herramienta básica porque con ella controlaremos toda
+                    la información que tenemos guardada en nuestras unidades: <strong>discos duros, memorias USB, CD, etc.</strong>
+                    Existen diferentes tipos de archivos y hay diferentes tipos según la clase de datos que contienen:
+                    <strong>Imágenes, clips de vídeo, música, documentos de texto, ejecutables, etc.</strong>
+                </p>
             </div>
-            <p>A continuación explicamos las distintas áreas que componen esta ventana:</p>
+
+
+            <div class="col-md-12 pb-5">
+                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/2PHtHSS/explw.png">
+            </div>
+            <p >A continuación explicamos las distintas áreas que componen esta ventana:</p>
             <ol>
                 <li><strong>Barra de herramientas de acceso rápido:</strong> son los botones que se encuentran en la esquina superior izquierda de las ventanas del Explorador.
                     La idea es que en esa barra se encuentren los botones de los comandos que más utilicemos. Por ello, podemos modificarla para dejar ahí los botones que elijamos.
@@ -222,11 +252,38 @@
                 <br><li><strong>Ventana de archivos:</strong>En esta zona aparece la lista de los archivos contenidos en la carpeta en que estamos situados,
                     es decir, la carpeta que se indica en la Barra de direcciones.</li>
                 <br><li><strong>Barra de estado:</strong>Nos muestra información breve acerca de la carpeta seleccionada (como el número de elementos que contiene).
-                   y si tenemos o no tenemos elementos seleccionados con un click, y cual es su tamaño.</li>
+                   y si tenemos o no tenemos elementos seleccionados con un click, y cual es su tamaño.
+                    <br><br><br>
+                </li>
             </ol>
+
+            <div class="col-md-6 pb-5">
+                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/rwHCCkN/carpet.jpg" width="550">
+            </div>
+            <div class="col-md-6 pb-5">
+                <h2>El entorno:</h2>
+                <h4>Las Carpetas</h4>
+                <p>
+                    Un elemento muy común: las Carpetas en el entorno de windows. <strong>Las carpetas</strong> se utilizan para clasificar de forma lógica los archivos
+                    que tenemos en nuestro ordenador. Reciben un nombre al igual que los archivos y también es aconsejable que
+                    sean lo más descriptivos posible. De este modo nos será mucho más fácil encontrar la información que deseamos.
+                    <br>
+                </p>
+                <ul>
+                    <li>Una carpeta puede contener dentro archivos o/y otras carpetas, llamadas subcarpetas.</li>
+
+                    <li>Las carpetas también reciben el nombre de directorios.</li>
+
+                    <li>En el Explorador de archivos las carpetas están representadas por una carpeta de color amarillo.</li>
+                </ul>
+
             </div>
 
+            </div>
     </div>
+
+
+
 
 
     <!-- separador -->
