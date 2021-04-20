@@ -214,7 +214,7 @@
                             <img  src="https://i.ibb.co/gRQRpLP/activ-removebg-preview-1.png"  class="card mx-auto d-block" height="180" width="200">
                             <div class="card-body">
                                 <h5 class="card-title" align="center">Actividad Aparatos electrónicos </h5>
-                                <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                <a href=" {{ url('/actividadAparatos') }}" class="btn">Ver</a>
                             </div>
                         </div>
                     </div>

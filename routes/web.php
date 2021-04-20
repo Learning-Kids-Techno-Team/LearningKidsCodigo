@@ -682,7 +682,6 @@ Route::get('/funcionesMouse',function (){
     return view('Tecnologia/funcionesMouse');
 });
 
-
 Route::get('/aparatos',function (){
     return view('Tecnologia/AparatosElectronicos');
 });
@@ -712,5 +711,10 @@ Route::get('/actividadSoftware',function (){
 
 Route::get('/actividadWindows',function (){
     return view('ActividadesTecnologia/actividadWindows');
+});
+
+
+Route::get('/actividadAparatos',function (){
+    return view('ActividadesTecnologia/actividadAparatos');
 });
 
