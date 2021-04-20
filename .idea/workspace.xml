@@ -27,6 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesTecnologia/actividadAparatos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesTecnologia/actividadAparatos.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,13 +224,6 @@
       <workItem from="1613863803558" duration="4105000" />
       <workItem from="1615159385455" duration="194000" />
       <workItem from="1618285597202" duration="370000" />
-    </task>
-    <task id="LOCAL-00010" summary="Sprint2 Daniela">
-      <created>1602887274267</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1602887274267</updated>
     </task>
     <task id="LOCAL-00011" summary="Sprint2 Daniela">
       <created>1603053896092</created>
@@ -567,7 +561,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618540745536</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Sprint 11 Hector Lopez">
+      <created>1618894784704</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1618894784704</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
