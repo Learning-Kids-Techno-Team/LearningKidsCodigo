@@ -203,7 +203,7 @@
                             <img src="https://i.ibb.co/cQJzgmw/Barra-de-tareas.jpg" class="card mx-auto d-block" height="180" width="200">
                             <div class="card-body">
                                 <h5 class="card-title" align="center">Actividad Barra de tareas windows </h5>
-                                <a href=" {{ url('/') }}" class="btn">Ver</a>
+                                <a href=" {{ url('/actividadbarra') }}" class="btn">Ver</a>
                             </div>
                         </div>
                     </div>
