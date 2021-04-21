@@ -217,7 +217,7 @@
                 <div class="col-md-3">
                 </div>
                 <div class="col-md-3">
-                    <a href=" {{ url('/') }}">
+                    <a href=" {{ url('/barraDeTareasWindows') }}">
                     <img alt="Bootstrap Image Preview" src="https://mantenimientobios.com/wp-content/uploads/2019/05/How-to-Open-Right-Click-Menu-for-Icons-on-Taskbar-in-Windows-10-Pic-5.png"  class="rounded-circle mx-auto d-block img-thumbnail" width="150" style=" background: #C5FFA0"/>
                     <h4> Barra de tareas windows  </h4>
                     </a>

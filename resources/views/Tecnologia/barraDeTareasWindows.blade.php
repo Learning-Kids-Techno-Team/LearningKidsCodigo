@@ -176,6 +176,25 @@
             </div>
         </div>
     </div>
+    <div class="container-fluid mb-5">
+        <div class="row">
+            <div class="col-md-6">
+                <h2>
+                    1.1 Menú de inicio
+
+                </h2>
+                <p>
+                    Es uno de los elementos de mayor importancia. Para desplegarlo, hay que hacer click sobre el botón Inicio, que se ubica en el extremo izquierdo de la Barra de Tareas.
+                    Este contiene todos los comandos para acceder a los programas, documentos y configuraciones, como el Panel de control, el Explorador de Windows, la sección de Ayuda y las opciones de encendido, apagado y suspensión del equipo o el cierre de sesión.
+
+                </p>
+            </div>
+            <div class="col-md-6">
+                <img class="mx-auto d-block" src="https://i.ibb.co/nCtRd7H/Menu-Inicio.jpg"   width="400" >
+            </div>
+        </div>
+    </div>
+
 
 
 
