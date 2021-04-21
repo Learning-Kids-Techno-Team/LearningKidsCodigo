@@ -167,9 +167,10 @@
 
                 </h2>
                 <p>
-                    Identificado con el logo de windows, nos da acceso al menú de inicio, quien nos brinda acceso a todas la opciones del sistema operativo.
+                    Identificado con el logo de windows,  nos da acceso al menú de inicio, quien nos brinda acceso a todas la opciones del sistema operativo.
 
                 </p>
+
             </div>
             <div class="col-md-6">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/xSxXxGS/inicio-removebg-preview.png"  width="200" >
