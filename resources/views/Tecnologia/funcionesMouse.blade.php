@@ -178,6 +178,37 @@
         </div>
     </div>
 
+    <div class="container-fluid">
+        <div class="container-fluid p-5">
+            <div class="row ml-2 ">
+                <div class="col-md-6">
+                    <h1 class="text-center">Mouse Ergonómico</h1>
+                    <div class="card">
+                        <div class="left">
+
+                            <img src="https://i.ibb.co/8BRq8K9/Ergono-removebg-preview.png"
+                                   width="400">
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="col-md-6 ">
+
+                    <br><br>
+                    <h1 class="text-center">Mouse Trackball</h1>
+                    <div class="card">
+                        <div class="left">
+                            <img src="https://i.ibb.co/CHc7j9x/Trackball-removebg-preview.png"
+                                  width="350">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
 
 
     <!-- separador -->
