@@ -44,7 +44,6 @@
             transform: skewY(-4.5deg);
             background:
                 linear-gradient(rgb(0, 255, 127), rgba(0, 250, 154,0.7)),
-                url("https://static.videezy.com/system/resources/thumbnails/000/041/796/original/4K-3.jpg")
                 no-repeat center, linear-gradient(#4e4376, #2b5876) ;
             background-size: 150px auto;
             border-bottom: 10px solid yellow;
@@ -59,6 +58,38 @@
             text-shadow: .022em .022em .022em springgreen;
 
         }
+
+        .card {
+            background: mediumspringgreen;
+
+            height: 398px;
+            width: 450px;
+            margin: 0 auto;
+            box-shadow: 0px 15px 50px 10px rgba(100, 45, 200, 100);
+            margin-top: 5%;
+
+
+        }
+
+        .left {
+
+            height: 395px;
+            width: 330px;
+            display: flex;
+            align-items: center;
+            background-color: #FDFD96;
+            border-radius: 0% 50% 50% 0%;
+
+            position: absolute;
+
+            z-index: 5;
+        }
+
+        .left img {
+            margin-left: -88px;
+            margin-top: 60px;
+        }
+
     </style>
 
 </head>
@@ -94,6 +125,54 @@
                             </h4>
                         </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid "  style="background:   lightyellow" >
+        <div class="container-fluid p-5">
+            <div class="row m-3">
+                <div class="col-md-6" >
+                    <br><br><br>
+                    <h1 class="text-center"> Tipos de mouse</h1>
+
+                </div>
+                <div class="col-md-6 mb-5"  >
+                    <br>
+                    <img  class="mx-auto d-block " src="https://i.ibb.co/6ZRPqxr/mouse-removebg-preview.png"
+                          width="300">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="container-fluid p-5">
+            <div class="row ml-2 ">
+                <div class="col-md-6">
+                    <h1 class="text-center">Mouse óptico</h1>
+                    <div class="card">
+                        <div class="left">
+
+                            <img   src="https://i.ibb.co/yhS2QRs/mz.png"
+                                   width="400">
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="col-md-6 ">
+
+                    <br><br>
+                    <h1 class="text-center">Mouse Láser</h1>
+                    <div class="card">
+                        <div class="left">
+                            <img  src="https://i.ibb.co/m5kb722/lq.png"
+                                  width="350">
+                        </div>
+                    </div>
+
                 </div>
             </div>
         </div>
