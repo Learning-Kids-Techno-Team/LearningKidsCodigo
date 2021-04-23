@@ -720,3 +720,6 @@ Route::get('/actividadAparatos',function (){
 Route::get('/actividadbarra',function (){
     return view('ActividadesTecnologia/actividadBarraDeTareas');
 });
+Route::get('actividadMouse', function (){
+    return view('ActividadesTecnologia/actividadMouse');
+});
