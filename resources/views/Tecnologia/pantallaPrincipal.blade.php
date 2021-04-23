@@ -207,7 +207,7 @@
                     </a>
                 </div>
                 <div class="col-md-3">
-                    <a href=" {{ url('/') }}">
+                    <a href=" {{ url('/funcionesMouse') }}">
                     <img alt="Bootstrap Image Preview" src="https://i.ibb.co/mD86dFr/dise-o-de-personajes-dibujos-animados-mouse-en-un-gesto-sorpresa-ilustraci-n-del-vector-169360635-re.png" class="rounded-circle mx-auto d-block img-thumbnail" width="150" style=" background: #C5FFA0"/>
                     <h4>Funciones del mouse </h4>
                     </a>
