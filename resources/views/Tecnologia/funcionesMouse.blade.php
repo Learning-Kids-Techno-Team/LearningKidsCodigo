@@ -90,6 +90,11 @@
             margin-top: 60px;
         }
 
+        #bord{
+            background: yellow;
+            border: springgreen 7px dashed;
+        }
+
     </style>
 
 </head>
@@ -210,6 +215,191 @@
         </div>
     </div>
 
+    <div class="container-fluid">
+        <div class="container-fluid p-5">
+            <div class="row ml-2 ">
+                <div class="col-md-6">
+                    <h1 class="text-center">Mouse Multitáctil</h1>
+                    <div class="card">
+                        <div class="left">
+
+                            <img src="https://i.ibb.co/gb1mBXr/Apple-removebg-preview.png"
+                                 width="400">
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="col-md-6 ">
+
+                    <br><br>
+                    <h1 class="text-center">Mouse 3D</h1>
+                    <div class="card">
+                        <div class="left">
+                            <img src="https://i.ibb.co/1dSYwbk/3d-removebg-preview.png"
+                                 width="350">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid "  style="background:   lightyellow" >
+        <div class="container-fluid p-5">
+            <div class="row m-3">
+                <div class="col-md-6" >
+                    <br><br><br>
+                    <h1 class="text-center"> Tipos de mouse según la conexión</h1>
+
+                </div>
+                <div class="col-md-6 mb-5"  >
+                    <br>
+                    <img  class="mx-auto d-block "  src="https://i.ibb.co/J2vwPM8/mq.png"
+                          width="250">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="container-fluid p-5">
+            <div class="row ml-2 ">
+                <div class="col-md-6">
+                    <h1 class="text-center">Mouse Cableado</h1>
+                    <div class="card">
+                        <div class="left">
+
+                            <img class="mx-auto d-block" src="https://i.ibb.co/CPSzq1V/Cable.jpg"
+                                 width="230">
+
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="col-md-6 ">
+
+                    <br><br>
+                    <h1 class="text-center">Mouse Inalámbrico</h1>
+                    <div class="card">
+                        <div class="left">
+                            <img class="mx-auto d-block" src="https://i.ibb.co/NWjGX37/Inalambrico.jpg"
+                                 width="250">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid "  style="background:   lightyellow" >
+        <div class="container-fluid p-5">
+            <div class="row m-3">
+                <div class="col-md-6" >
+                    <br><br><br>
+                    <h1 class="text-center"> Funciones del Mouse</h1>
+
+                </div>
+                <div class="col-md-6 mb-5"  >
+                    <br>
+                    <img id="bord" src="https://i.ibb.co/10L06j1/v1.jpg"
+                          width="250">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid mt-5">
+        <div class="row">
+            <div class="col-xl-6 col-md-12"  >
+
+                <div class="card overflow-hidden" style="background: lightgoldenrodyellow ; border: greenyellow dashed 8px;
+               ">
+                    <div class="card-content">
+                        <div class="card-body cleartfix">
+                            <h4 class="text-center">Botón Derecho</h4>
+                            <br>
+                            <div class="media align-items-stretch">
+
+                                <div class="media-body">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/VHHyYpL/bs-removebg-preview.png"
+                                         width="300">
+                                    <br>
+                                    <p class="text-center"> <strong>
+                                            Tiene usos que depende del contexto que lo encontremos en windows,
+                                            lo utilizamos para desplegar menú de opciones que señalemos.
+
+                                        </strong></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-6 col-md-12">
+                <br><br>
+                <div class="card" style="background:lightgoldenrodyellow ; border: greenyellow dashed 8px">
+                    <div class="card-content">
+                        <div class="card-body cleartfix">
+                            <div class="media align-items-stretch">
+
+                                <div class="align-self-center">
+                                    <h4 class="text-center">Botón Izquierdo</h4>
+
+                                    <img class="mx-auto d-block"  src="https://i.ibb.co/f1qbPyg/nas-removebg-preview.png"
+                                         width="205">
+
+                                    <p class="text-center"> <strong>
+                                            Nos sirve para realizar una acción (como enter) o simplemente para
+                                            colocarnos en un lugar, todo depende de la aplicación que estemos usando.
+
+                                        </strong></p>
+                                </div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid mt-5">
+        <div class="row">
+            <div class="col-xl-12 col-md-12"  >
+
+                <div class="card overflow-hidden" style="background:lightgoldenrodyellow; border: greenyellow dashed 8px">
+                    <div class="card-content">
+                        <div class="card-body cleartfix">
+                            <h4 class="text-center">Botón Central</h4>
+                            <br>
+                            <div class="media align-items-stretch">
+
+                                <div class="media-body">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/cvb0MxG/gaq-removebg-preview.png"
+                                         width="300">
+
+                                    <p class="text-center"> <strong>
+                                            Nos sirve para desplazarnos verticalmente por el programa que tengamos abierto.
+
+                                        </strong></p>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br><br><br><br>
 
     <!-- separador -->
     <div id="separadorInferior">

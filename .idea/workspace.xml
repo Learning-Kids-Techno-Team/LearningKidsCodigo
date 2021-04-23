@@ -224,13 +224,7 @@
       <workItem from="1613863803558" duration="4105000" />
       <workItem from="1615159385455" duration="194000" />
       <workItem from="1618285597202" duration="370000" />
-    </task>
-    <task id="LOCAL-00010" summary="Sprint2 Daniela">
-      <created>1602887274267</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1602887274267</updated>
+      <workItem from="1619142257578" duration="775000" />
     </task>
     <task id="LOCAL-00011" summary="Sprint2 Daniela">
       <created>1603053896092</created>
@@ -568,7 +562,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619121211098</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Sprint 11 Daniela Mazzoni">
+      <created>1619121932992</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1619121932992</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
