@@ -125,7 +125,7 @@
                 <img src="https://i.ibb.co/r7fbT3P/cinco-sentidos-oir-tocar-sabor-vista-olfato-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
                 <div class="card-body">
                     <h5 class="card-title"  align="center">Actividad Sentidos</h5>
-                    <a href=" {{ url('/lsentimientos') }}" class="btn btn-danger" >ver</a>
+                    <a href=" {{ url('/lsentidos') }}" class="btn btn-danger" >ver</a>
                 </div>
             </div>
         </div>
