@@ -25,10 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint 11 Sindy G.">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint 11 Luz Bonilla">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesTecnologia/actividadWindows.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesTecnologia/actividadWindows.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesTecnologia/actividadBarraDeTareas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesTecnologia/actividadBarraDeTareas.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,13 +223,28 @@
       <workItem from="1613862627886" duration="331000" />
       <workItem from="1613863803558" duration="4105000" />
       <workItem from="1615159385455" duration="194000" />
-      <workItem from="1618202979181" duration="10618000" />
-      <workItem from="1618293426333" duration="1265000" />
-      <workItem from="1618295018679" duration="193000" />
-      <workItem from="1618452661278" duration="334000" />
-      <workItem from="1618457017178" duration="13182000" />
-      <workItem from="1618543046708" duration="5058000" />
-      <workItem from="1618713463747" duration="4015000" />
+      <workItem from="1618285597202" duration="370000" />
+    </task>
+    <task id="LOCAL-00010" summary="Sprint2 Daniela">
+      <created>1602887274267</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602887274267</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Sprint2 Daniela">
+      <created>1603053896092</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603053896092</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Sprint2 Sindy">
+      <created>1603534953720</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603534953720</updated>
     </task>
     <task id="LOCAL-00013" summary="Sindy G. Sprint1">
       <created>1603535608588</created>
@@ -512,70 +526,49 @@
       <option name="project" value="LOCAL" />
       <updated>1618198095141</updated>
     </task>
-    <task id="LOCAL-00053" summary="Sprint 10 Sindy G.">
-      <created>1618213386460</created>
+    <task id="LOCAL-00053" summary="Sprint 10 Hector Lopez">
+      <created>1618198403708</created>
       <option name="number" value="00053" />
       <option name="presentableId" value="LOCAL-00053" />
       <option name="project" value="LOCAL" />
-      <updated>1618213386460</updated>
+      <updated>1618198403708</updated>
     </task>
-    <task id="LOCAL-00054" summary="Sprint 10 Sindy G.">
-      <created>1618214532059</created>
+    <task id="LOCAL-00054" summary="Sprint 10 Hector Lopez">
+      <created>1618280022569</created>
       <option name="number" value="00054" />
       <option name="presentableId" value="LOCAL-00054" />
       <option name="project" value="LOCAL" />
-      <updated>1618214532059</updated>
+      <updated>1618280022570</updated>
     </task>
-    <task id="LOCAL-00055" summary="Sprint 10 Sindy G.">
-      <created>1618214793132</created>
+    <task id="LOCAL-00055" summary="Sprint 10 Hector Lopez">
+      <created>1618280343662</created>
       <option name="number" value="00055" />
       <option name="presentableId" value="LOCAL-00055" />
       <option name="project" value="LOCAL" />
-      <updated>1618214793132</updated>
+      <updated>1618280343662</updated>
     </task>
-    <task id="LOCAL-00056" summary="Sprint 11 Sindy G.">
-      <created>1618469837216</created>
+    <task id="LOCAL-00056" summary="Sprint 10 Hector Lopez">
+      <created>1618280846937</created>
       <option name="number" value="00056" />
       <option name="presentableId" value="LOCAL-00056" />
       <option name="project" value="LOCAL" />
-      <updated>1618469837216</updated>
+      <updated>1618280846937</updated>
     </task>
-    <task id="LOCAL-00057" summary="Sprint 11 Sindy G.">
-      <created>1618470067722</created>
+    <task id="LOCAL-00057" summary="Sprint 11 Luz Bonilla">
+      <created>1618973254076</created>
       <option name="number" value="00057" />
       <option name="presentableId" value="LOCAL-00057" />
       <option name="project" value="LOCAL" />
-      <updated>1618470067722</updated>
+      <updated>1618973254091</updated>
     </task>
-    <task id="LOCAL-00058" summary="Sprint 11 Sindy G.">
-      <created>1618470927944</created>
+    <task id="LOCAL-00058" summary="Sprint 11 Luz Bonilla">
+      <created>1618975699917</created>
       <option name="number" value="00058" />
       <option name="presentableId" value="LOCAL-00058" />
       <option name="project" value="LOCAL" />
-      <updated>1618470927960</updated>
+      <updated>1618975699917</updated>
     </task>
-    <task id="LOCAL-00059" summary="Sprint 11 Sindy G.">
-      <created>1618548778142</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1618548778142</updated>
-    </task>
-    <task id="LOCAL-00060" summary="Sprint 11 Sindy G.">
-      <created>1618549016098</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1618549016098</updated>
-    </task>
-    <task id="LOCAL-00061" summary="Sprint 11 Sindy G.">
-      <created>1618718220358</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1618718220360</updated>
-    </task>
-    <option name="localTasksCounter" value="62" />
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,9 +607,22 @@
     <MESSAGE value="Sprint 9 Daniela Mazzoni" />
     <MESSAGE value="Sprint 9 Hector Lopez" />
     <MESSAGE value="Sprint 10 Hector Lopez" />
-    <MESSAGE value="Sprint 10 Sindy G." />
-    <MESSAGE value="Sprint 11 Sindy G." />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 11 Sindy G." />
+    <MESSAGE value="Sprint 11 Luz Bonilla" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 11 Luz Bonilla" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="283" key="NewPhpFileDialog" timestamp="1618974942310">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="283" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1618974942310" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1618975703323">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1618975703323" />
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618973224647">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1618973224647" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
