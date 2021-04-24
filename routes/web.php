@@ -717,4 +717,9 @@ Route::get('/actividadWindows',function (){
 Route::get('/actividadAparatos',function (){
     return view('ActividadesTecnologia/actividadAparatos');
 });
-
+Route::get('/actividadbarra',function (){
+    return view('ActividadesTecnologia/actividadBarraDeTareas');
+});
+Route::get('actividadMouse', function (){
+    return view('ActividadesTecnologia/actividadMouse');
+});
