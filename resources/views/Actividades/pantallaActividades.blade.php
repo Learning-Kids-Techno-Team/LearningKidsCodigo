@@ -104,7 +104,7 @@
 
                 <img src="https://i.pinimg.com/736x/97/f1/27/97f127dd93502ff7dc23c88abfe9ff88.jpg" class="card mx-auto d-block" height="150" width="220">
                 <div class="card-body">
-                    <h5 class="card-title" align="center">Actividad Lineas</h5>
+                    <h5 class="card-title" align="center">Actividad Líneas</h5>
                     <a href=" {{ url('/lineaA') }}" class="btn btn-danger" >ver</a>
                 </div>
             </div>
@@ -155,7 +155,7 @@
                     <div class="card" style="width: 18rem;">
                         <img src="https://i.ibb.co/q9C0DFT/figura.jpg" class="card mx-auto d-block" height="150" width="220">
                         <div class="card-body">
-                            <h5 class="card-title" align="center">Actividad Figuras Geometricas</h5>
+                            <h5 class="card-title" align="center">Actividad Figuras Geométricas</h5>
                             <a href=" {{ url('/figuraA') }}" class="btn btn-danger" >ver</a>
                         </div>
                     </div>
@@ -165,7 +165,7 @@
                     <div class="card" style="width: 18rem;">
                         <img  src="https://i.ibb.co/Qkc6Q54/Numeros-Ordinales.png" class="card mx-auto d-block" height="160" width="220">
                         <div class="card-body">
-                            <h5 class="card-title" align="center">Actividad numeros Ordinales</h5>
+                            <h5 class="card-title" align="center">Actividad números Ordinales</h5>
                             <a href=" {{ url('/ordinales') }}" class="btn btn-danger" >ver</a>
                         </div>
                     </div>
