@@ -111,7 +111,7 @@
 
 <!--mensaje -->
 
-    <div class="row justify-content-center" style="background: #0b75c9">
+    <div class="row justify-content-center" style="background: #0b75c9; color: white">
         <div class="col-md-20"  >
             <div >
                 <div>
@@ -154,7 +154,7 @@
                     <img src="https://i.ibb.co/dLWLThm/ninos-felices-escuela-bloques-alfabeto-29190-5022-removebg-preview.png"  class="w-100 mx-auto d-block" >
                 </div>
                 <div class="col-sm p-3 text-white text-center">
-                    <h4>Bienvenidos a <br>Learning Kids</h4>
+                    <h4 s>Bienvenidos a <br>Learning Kids</h4>
                 </div>
             </div>
         </div>
