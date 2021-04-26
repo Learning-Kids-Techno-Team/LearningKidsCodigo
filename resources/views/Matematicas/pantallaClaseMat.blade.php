@@ -144,7 +144,7 @@
 
     <!-- titulo de las categorias-->
     <div>
-        <h1>Jugando con las Matematicas</h1>
+        <h1>Jugando con las Matemáticas</h1>
     </div>
     <div class="container-fluid" style="background: moccasin">
         <div class="row  pb-5">
