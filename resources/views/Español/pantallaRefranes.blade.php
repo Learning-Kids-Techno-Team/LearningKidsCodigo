@@ -72,6 +72,10 @@
 
             border-bottom-right-radius: 50%;
         }
+        #player{
+            width: 100%;
+
+        }
 
 
     </style>
@@ -117,7 +121,9 @@
                     <p class="card-text">Levantarse temprano y aprovechar el día te ayudará a realizar muchas tareas.</p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1QNcHwH_QrU9eU6Rm6YUpaHZ8HlJ8erxT/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran1.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -130,7 +136,9 @@
                         <br></p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1o3GibGszpHndDQv38O4TqiZ85zhkP4Ay/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran2.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -141,7 +149,9 @@
                     <h5 class="card-title">Más vale pájaro en mano que ciento volando.</h5>
                     <p class="card-text">Aprecia lo que tienes en lugar de anhelar otros bienes que tienen los demás.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/15HPUGlQtgfkFPulXT7J2_2eMhKRSYkkg/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran3.mp3" controls >
+
+                </audio>
             </div>
         </div>
 
@@ -160,7 +170,9 @@
                     <p class="card-text"><br> A buen entendedor pocas palabras bastan </p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1GsFyQ5DFhCdxt8HQMwuZ8-NkR5mDZ8oG/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran4.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -172,7 +184,9 @@
                     <p class="card-text"> No te fíes de las apariencias, lo que hay detrás puede ser bien distinto.  </p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1nTTl454_RaEkCQrLUY1uWmwOmga8AD2o/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran5.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -183,7 +197,9 @@
                     <h5 class="card-title">Vísteme despacio que tengo prisa</h5>
                     <p class="card-text">Las prisas pueden entretenerte más que si haces las cosas con cuidado y despacio.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1Yu1NXNJxyKFo9LsCrFASi9ActHph_1n1/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran6.mp3" controls >
+
+                </audio>
             </div>
         </div>
 
@@ -204,7 +220,9 @@
                     <p class="card-text">Todo el mundo puede equivocarse, pero solo el que reconoce su error, es sabio.</p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1_cB_KdSZ7m4Q_8lrX17PYTGbu44GFB71/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran7.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -216,7 +234,9 @@
                     <p class="card-text"><br> Confórmate con lo que tienes. </p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1RKNiSdeuPFMSicrOxwV6VZcnVIxlImZG/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran8.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -227,7 +247,9 @@
                     <h5 class="card-title">Más vale maña que fuerza</h5>
                     <p class="card-text"><br>Conviene pensar y razonar antes que realizar algo.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1kKWgu8EXWwfLTtyM6BoUSHawHdjw34Yk/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran9.mp3" controls >
+
+                </audio>
             </div>
         </div>
 
@@ -248,7 +270,9 @@
                     <p class="card-text">Esto quiere decir que no atender cuando otro niño le critique o le diga determinadas palabras negativas.</p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1w4NDhinJKC1iJELwKF2iR7Gbuokkzp9i/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran10.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -260,7 +284,9 @@
                     <p class="card-text"><br><br> En ocasiones, es preferible no decir nada. </p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1OQPAN1YMFmr4HrYxVo4ugQGAi8d8eFZq/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran11.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -271,7 +297,9 @@
                     <h5 class="card-title">Más vale tarde que nunca.</h5>
                     <p class="card-text"><br>No dejes algo simplemente porque no lo has hecho a tiempo, más vale intentarlo que no haberlo hecho nunca.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1zj4HO_ErR8iEVpeYEprAxEY6-7nNOk2A/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran13.mp3" controls >
+
+                </audio>
             </div>
         </div>
 
@@ -291,7 +319,9 @@
                     <p class="card-text">quiere decir cuando los niños no suelen valorar lo que poseen y siempre desean tener más. </p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1q_OaqLPMrRp9VovH5dlEn-yO1nhwh_iu/preview"  style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran14.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -303,7 +333,9 @@
                     <p class="card-text"> <br>Incluso de las malas experiencias, puede extraerse algo bueno. </p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1HG2jmAY-8_2zmMQMxXodbKRCtbmT_vlg/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran15.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -314,7 +346,9 @@
                     <h5 class="card-title">Agua pasada no mueve molino</h5>
                     <p class="card-text"><br>Lo que está hecho, hecho está y no se puede cambiar.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1KLPbQke_81IztUylq5KWpQk1LkFoc-Dx/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran16.mp3" controls >
+
+                </audio>
             </div>
         </div>
 
@@ -334,7 +368,9 @@
                     <p class="card-text"><br>Hay que ser positivos en la vida e incluso, en los malos momentos, intentar sonreír. </p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1Cm_1rI4Ip-bAix9pnCycGFd_Dds-lDzq/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran17.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -346,7 +382,9 @@
                     <p class="card-text"> En ocasiones, tienes la verdad delante de tus ojos y, aun así, no quieres reconocerla.  </p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1L9xn4KdmFJrIoB3QcQcpHHI0t9Cajo5S/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran18.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -357,7 +395,9 @@
                     <h5 class="card-title">El que calla, otorga</h5>
                     <p class="card-text"><br>Si te acusan de algo y no te defiendes, estás afirmando tu culpa.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1huH_Xcxo08HrC3elkC-GW2aQ9icHwMOa/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/refranes/refran19.mp3" controls >
+
+                </audio>
             </div>
         </div>
 

@@ -72,6 +72,10 @@
 
             border-bottom-right-radius: 50%;
         }
+        #player{
+            width: 100%;
+
+        }
 
 
     </style>
@@ -136,7 +140,9 @@
                         que el Domingo era fiesta.</p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1aUD-G-e1BhjTQrPAHCeGNDfZE8QEi_re/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua1.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -147,9 +153,12 @@
                     <p class="card-text">La bruja piruja prepara un brebaje con cera de abejas,
                         dos dientes de ajo,
                         cuatro lentejas
-                        y pelos de pura oveja</p><br>
+                        y pelos de pura oveja.
+                    </p><br>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1YwQ5SeJsSo9XGoR_u55YuV_G7b-QAJ9U/preview" style="border: none" width="280" height="100" ></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua2.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -163,7 +172,9 @@
                         cinco limones y medio limón.</p>
 
                 </div>
-                <iframe src="https://drive.google.com/file/d/1hREAE5uLHeCe9aSi8cQE9MAfx5CkP6k1/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua3.mp3" controls >
+
+                </audio>
             </div>
         </div>
 
@@ -185,7 +196,9 @@
                         rápido el ferrocarril.</p>
                     <br>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1Nme8YVeHwWpk3NOJZViVAor-SFv7WYdZ/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua4.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -197,7 +210,9 @@
                         porque Ramón Rodríguez se lo ha robado.”</p>
                     <br>
                 </div>
-                <iframe src="https://drive.google.com/file/d/109j1K0e0mgdqS0ByivCpwzwchYM9Ju1c/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua5.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -207,7 +222,9 @@
 
                     <p class="card-text"> Se sienta el que tiene sesenta, se sienta el que se encuentra cansado. Si sientes que tienes sesenta, el asiento te has ganado. </p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1hyVcKpymbDpS3ru2G732GMe7OL17Be3V/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua6.mp3" controls >
+
+                </audio>
             </div>
 
         </div>
@@ -226,7 +243,9 @@
                         y en medio de la cuesta,
                         ¡Cuesta va y se acuesta!</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1b7wYKhc4DWvJhwHTKh-zB3Y-2p4Ii4xa/preview"  style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua7.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -241,7 +260,9 @@
                         pela que pela.
                         Y se empapa.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1taOLOqFYWb_1b7cylyhWh1YVgwRxzmEf/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua8.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -255,7 +276,9 @@
                         ¡Qué cajones!
                         ¿En qué cajonera van?</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1IkFQ2bhkmwn9pNJ2dblwM6jSfdv0vPEp/preview"  style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua9.mp3" controls >
+
+                </audio>
             </div>
         </div>
 
@@ -276,7 +299,9 @@
                         nunca sabrás cuántos cuentos sabes contar.</p>
                 </div>
 
-                <iframe src="https://drive.google.com/file/d/1dFaIXXlyFyJmWuH_SuJ8gB69kiduyrco/preview"  style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua10.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -290,7 +315,9 @@
                         Mariana Mañara</p>
                     <br>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1FTK9oyaCd3YEC1-4A55xTawguzkFYYUL/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua11.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -301,7 +328,9 @@
                     <p class="card-text"> El perro en el barro, rabiando rabea: su rabo se embarra
                         cuando el barro barre, y el barro a arrobas le arrebosa el rabo.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1wNTPFOjnei65-RhN1cmqkdYFRM6o8cpW/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua12.mp3" controls >
+
+                </audio>
             </div>
         </div>
 
@@ -322,7 +351,9 @@
                         al hipopótamo Hipo?</p>
                     <br>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1quCYohZydov10hF-FQgLnK3GPT_zixBX/preview"  style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua13.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -336,7 +367,9 @@
                         trepan los tres caracatrepitos
                     </p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1RFndopffIVFTh9gyH-t423aYyNgsTvt3/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua14.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -350,7 +383,9 @@
                         pronto para Paris
                     </p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1sMrnJpsmau1LmcTBY6kdC8w0_ptnSKYs/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua15.mp3" controls >
+
+                </audio>
             </div>
         </div>
 
@@ -368,7 +403,9 @@
                     <p class="card-text">
                         <br>Tres tristes tigres, tragaban trigo en un trigal, en tres tristes trastos, tragaban trigo tres tristes tigres.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1nDShwEYOY6lrRiULyw5d3U1jfoXt9gzK/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua16.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -380,7 +417,9 @@
                         como yo compré pocas capas
                         pocas capas pago</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1TT6y724t07x7WxCKy5RujWKoAqCu_IQ9/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua17.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -396,7 +435,9 @@
                         ¿tú techas tu choza,
                         o techas la ajena?</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1Tk5L_MQD3xM3MU9SB0vimxnR3poJuUVB/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua19.mp3" controls >
+
+                </audio>
             </div>
         </div>
 
@@ -425,7 +466,9 @@
 
                         y apagó el candil.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1rxg3Z1UX2AWRfPyD4M4gNeALW3UUkEeU/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua20.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -441,7 +484,9 @@
 
                         tuvo que comprar un tubo igual.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1cMg8gooMz2jME8phxXg1HVKSmZFyvFEd/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua21.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -457,7 +502,9 @@
 
                         le enseñó a picar piedra.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1_VnC3yK1iFKM0iqBdwqpQJJ9w95n95eX/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua22.mp3" controls >
+
+                </audio>
             </div>
         </div>
 
@@ -479,7 +526,9 @@
 
                         y la cama más cómoda que la cómoda?</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1tpaJFdrToME06Ek5cGYOdVc6Hufh2gkK/preview" style="border: none" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua23.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -493,7 +542,9 @@
 
                         bien podrá trabalenguarse.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1cqmsCVMFSQ1Ac6o3RJW4K5k_bGL94FKa/preview"    style="border: none;" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua24.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -509,7 +560,9 @@
 
                         ¿qué más quieres?¿quieres más?</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1lLarlfh8rybZBDCbEH7pCIrRI4kIc8Vf/preview" style="border: none;" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua25.mp3" controls >
+
+                </audio>
             </div>
         </div>
 
@@ -528,7 +581,9 @@
 
                         Queriéndome o sin quererme, yo te quiero por que sí.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1D2K6qW6oUSdHnzHOX_cMon201LWu7Q7d/preview" style="border: none;" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua26.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjeta 2 -->
@@ -547,7 +602,9 @@
 
                         buen despelicuecipelicrespador será.</p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1TEJU-N5BPnN1dL23uS5-gkDuE6N8XHhg/preview" style="border: none;" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua27.mp3" controls >
+
+                </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
@@ -562,7 +619,9 @@
 
                         ¡Qué dragón tan panzón! </p>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1Dh78Qwn_YoYLcgRkR6lOC_KyODKkLFQP/preview"  style="border: none;" width="280" height="100"></iframe>
+                <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua28.mp3" controls >
+
+                </audio>
             </div>
         </div>
 

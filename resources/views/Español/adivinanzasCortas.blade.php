@@ -94,6 +94,10 @@
 
 
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 
@@ -166,7 +170,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Es pequeña como una pera, pero alumbra la casa entera. ¿Qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/11SXZ2RRv9fQT8To781ab20hDJllHYL7V/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/cort1.mp3" controls >
+
+                    </audio>
                     <h6 id="demo1"></h6>
                     <button class="btn" onclick="resu1()">Respuesta</button>
                 </div>
@@ -179,8 +185,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- La han sacado del mar, es blanca y también salada. La encuentras en la ensalada. ¿Qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/1STd8UKWmh61chq8BguHx0JPSF84p9uaY/preview" width="230" height="80"></iframe>
-                    <h6 id="demo2"></h6>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/cort2.mp3" controls >
+
+                    </audio>                 <h6 id="demo2"></h6>
                     <button class="btn" onclick="resu2()">Respuesta</button>
 
                 </div>
@@ -193,7 +200,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Tiene dientes, pero no puede comer. ¿Qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/1smUobulAXe8PcOVEkTiuOu6iNXT4r4mx/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/cort3.mp3" controls >
+
+                    </audio>
                     <h6 id="demo3"></h6>
                     <button class="btn" onclick="resu3()">Respuesta</button>
 
@@ -215,7 +224,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Bonita flor que gira buscando el sol. ¿Qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/18xeyAnRu3bYRt5vKU9_ZWsYv7GGgBZQ3/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/cort4.mp3" controls >
+
+                    </audio>
                     <h6 id="demo4"></h6>
                     <button class="btn" onclick="resu4()">Respuesta</button>
                 </div>
@@ -228,7 +239,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Una letra alta y delgada es. La luna y el sol la llevan, pero en el aire no la ves. ¿Qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/1eQqdBBCJDMNxnzzsYgC-vIdLEKVipFxQ/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/cort5.mp3" controls >
+
+                    </audio>
                     <h6 id="demo5"></h6>
                     <button class="btn" onclick="resu5()">Respuesta</button>
                 </div>
@@ -241,7 +254,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- Es puma y no es animal; vuela y flota. ¿Qué será?</p>
-                    <iframe src="https://drive.google.com/file/d/1b1Zn0fndjj-0JG3kTCi2uCLNqVGzTgt0/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/corta6.mp3" controls >
+
+                    </audio>
                     <h6 id="demo6"></h6>
                     <button class="btn" onclick="resu6()">Respuesta</button>
                 </div>
@@ -261,7 +276,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Tiene cuello, pero no cabeza. ¿Sabes qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/1tIZdr5THQ0X8HmUPDD8-nysAKJk0mYY9/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/cort7.mp3" controls >
+
+                    </audio>
                     <h6 id="demo7"></h6>
                     <button class="btn" onclick="resu7()">Respuesta</button>
                 </div>
@@ -274,7 +291,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Tiene patas y bigotes. Caza ratones y araña, pero no es araña. ¿Quién es?</p>
-                    <iframe src="https://drive.google.com/file/d/1sQvzGBMvSkis2HeZualyckIBOA1OFyc6/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/cort8.mp3" controls >
+
+                    </audio>
                     <h6 id="demo8"></h6>
                     <button class="btn" onclick="resu8()">Respuesta</button>
                 </div>
@@ -287,7 +306,9 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- Sube llena y baja vacía. Si no se da prisa, la sopa se enfría. ¿Qué es?</p>
-                    <iframe src="https://drive.google.com/file/d/1tts5n9ocmkyH27plL0Hai2E08NVn49g8/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/cort9.mp3" controls >
+
+                    </audio>
                     <h6 id="demo9"></h6>
                     <button class="btn" onclick="resu9()">Respuesta</button>
                 </div>
@@ -302,7 +323,9 @@
     <div class="row ">
         <div class="col-md-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/5Rdp7jk/pil-removebg-preview.png" width="250" />
-            <iframe src="https://drive.google.com/file/d/1jgNM4u6jzRBDMi5i3i-S-XUeyD3p7FOS/preview" width="300" height="80"></iframe>
+            <audio  id="player" src="AudiosEspañol/Adivinanzas/RespCort.mp3" controls >
+            </audio>
+
         </div>
 
     </div>

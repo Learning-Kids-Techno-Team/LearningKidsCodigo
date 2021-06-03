@@ -93,6 +93,10 @@
             color: navy;
 
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 
@@ -165,7 +169,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Un bastón alargado tiene un balón redondito como su compañero, si sumas 5 y 5 sabrás a quién me refiero. ¿Qué número es?</p>
-                    <iframe src="https://drive.google.com/file/d/1f3T80CRVHb4WKBvvNAOHsvEVpJoHB7w1/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer1.mp3" controls >
+                    </audio>
                     <h6 id="demo1"></h6>
                     <button class="btn" onclick="resu1()">Respuesta</button>
                 </div>
@@ -178,7 +183,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- Si quieres saber quién soy, espera a que llueva. Contando los colores del arcoíris tendrás la prueba. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1RWrltT3Y2DvWvo9k8q2gTAyrcZHKzkBm/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer2.mp3" controls >
+                    </audio>
                     <h6 id="demo2"></h6>
                     <button class="btn" onclick="resu2()">Respuesta</button>
                 </div>
@@ -191,7 +197,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Puesto de una manera paso a ser un número par, pero paso a ser otro si la vuelta me das. ¿Qué número es?</p>
-                    <iframe src="https://drive.google.com/file/d/1FTJgz10tMR_AvFlrq0_mkyJil3YFyn69/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer3.mp3" controls >
+                    </audio>
                     <h6 id="demo3"></h6>
                     <button class="btn" onclick="resu3()">Respuesta</button>
                 </div>
@@ -212,7 +219,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Soy uno más que dos y tengo forma de serpiente, pero no la que más miente. ¿Cuál número soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1AB2_FDRlcblI-o1ONd0L8vnHEHnt39PS/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer4.mp3" controls >
+                    </audio>
                     <h6 id="demo4"></h6>
                     <button class="btn" onclick="resu4()">Respuesta</button>
                 </div>
@@ -225,7 +233,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Cuenta los dedos de tu mano y también los de uno de tus pies y sabrás que número es. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/12eFlWnTzpltXg9ozM1e4K8kV-An__-Ty/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer5.mp3" controls >
+                    </audio>
                     <h6 id="demo5"></h6>
                     <button class="btn" onclick="resu5()">Respuesta</button>
                 </div>
@@ -238,7 +247,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- Si quieres contar, por mí tienes que empezar. ¿Cuál número soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1TWBXRW_gWm68puQQOWgLrgpBAxLHlpox/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer6.mp3" controls >
+                    </audio>
                     <h6 id="demo6"></h6>
                     <button class="btn" onclick="resu6()">Respuesta</button>
                 </div>
@@ -258,7 +268,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- De muchos hijos que somos, el primero yo nací, pero soy el menor de todos. ¿Cómo puede ser así? ¿sabes cuál número soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1Vm0RMnMtPaa6WLYJP4rH69hjEnAdBxr0/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer7.mp3" controls >
+                    </audio>
                     <h6 id="demo7"></h6>
                     <button class="btn" onclick="resu7()">Respuesta</button>
                 </div>
@@ -271,7 +282,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Soy más de uno sin llegar a tres y llego a cuatro cuando dos me des. ¿Cuál número soy?</p>
-                    <iframe src="https://drive.google.com/file/d/15WoSXUuMPxeBUwySyM0DszkiGZnyx4G9/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer8.mp3" controls >
+                    </audio>
                     <h6 id="demo8"></h6>
                     <button class="btn" onclick="resu8()">Respuesta</button>
                 </div>
@@ -284,7 +296,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- ¿Qué número tiene el mismo número de letras que el valor que expresa? Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1XvggfhCce1hVOnz3eA6zcHrubZMnpZc2/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer9.mp3" controls >
+                    </audio>
                     <h6 id="demo9"></h6>
                     <button class="btn" onclick="resu9()">Respuesta</button>
                 </div>
@@ -300,7 +313,8 @@
         <div class="col-md-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/5Rdp7jk/pil-removebg-preview.png" width="250" />
             <!-- Btn respuestas -->
-            <iframe src="https://drive.google.com/file/d/1_dUoM20BOXLcJ68-smYqmUVIBA_rdl_-/preview" width="300" height="80"></iframe>
+            <audio  id="player" src="AudiosEspañol/Adivinanzas/RespNmer.mp3" controls >
+            </audio>
         </div>
     </div>
 </div>

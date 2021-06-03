@@ -65,6 +65,10 @@
             border-top-right-radius: 50%;
 
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 </head>
@@ -119,7 +123,9 @@
                     <br>
                 </h5>
             </div>
-            <iframe src="https://drive.google.com/file/d/1JBrUJyZGkR0KDilDiS349zjb_IhNP5_K/preview" width="280" height="100"></iframe>
+            <audio  id="player" src="AudiosEspañol/chistes/chiste1.mp3" controls >
+
+            </audio>
         </div>
     </div>
     <!-- tarjeta2 -->
@@ -133,7 +139,9 @@
                     <br>
                 </h5>
             </div>
-            <iframe src="https://drive.google.com/file/d/1etH_vVpoyCHxgoIkQrNAN0xEY2xY6DD7/preview" width="280" height="100"></iframe>
+            <audio  id="player" src="AudiosEspañol/chistes/chiste2.mp3" controls >
+
+            </audio>
         </div>
     </div>
     <!-- tarjeta3 -->
@@ -144,7 +152,9 @@
                 <h5 class="card-title" align="center">- Doctor, doctor,<br> ¿qué puedo hacer para que me hijo no se orine en la cama?
                     - Que se duerma en el baño.</h5>
             </div>
-            <iframe src="https://drive.google.com/file/d/1isr8W1_x7oS6SCxx__WUQFlzMTyesEZ5/preview" width="280" height="100"></iframe>
+            <audio  id="player" src="AudiosEspañol/chistes/chiste3.mp3" controls >
+
+            </audio>
         </div>
     </div>
     <!-- tarjeta4 -->
@@ -155,7 +165,9 @@
                 <h5 class="card-title" align="center">- Doctor<br>, ¿Cómo conservo el poco pelo que me queda?<br>
                     - Fácil, métalo en una cajita.</h5>
             </div>
-            <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
+            <audio  id="player" src="AudiosEspañol/chistes/chiste5.mp3" controls >
+
+            </audio>
         </div>
     </div>
 
@@ -171,7 +183,9 @@
                     - Claro que no, Jaimito.
                     -  Ahh, pues que bueno, porque yo no hice mi tarea.</h5>
             </div>
-            <iframe src="https://drive.google.com/file/d/1l9ePq_LMWHmilZc5FZ3urPkwwdom8onm/preview" width="280" height="100"></iframe>
+            <audio  id="player" src="AudiosEspañol/chistes/chiste5.mp3" controls >
+
+            </audio>
         </div>
     </div>
     <!-- tarjeta6 -->
@@ -185,8 +199,10 @@
                     - Pero profesora, eso es dificilísimo.<BR>
                     - Muy bien Jaimito, muy bien.</h5>
             </div>
-            <iframe src="https://drive.google.com/file/d/1EXe6yUZOzaNXyInqhM8h9k6foO32chj_/preview" width="280" height="100"></iframe>
-        </div>
+            <audio  id="player" src="AudiosEspañol/chistes/chiste6.mp3" controls >
+
+            </audio>
+             </div>
     </div>
     <!-- tarjeta7 -->
     <div class="col-md-3 p-5">
@@ -197,8 +213,10 @@
                     - A ver, María, dime dos pronombres.
                     - ¿Quién? ¿Yo?</h5>
             </div>
-            <iframe src="https://drive.google.com/file/d/1ginIO8RyXkqU4LrlU2nCv91sFdlid4Vi/preview" width="280" height="100"></iframe>
-        </div>
+            <audio  id="player" src="AudiosEspañol/chistes/chiste7.mp3" controls >
+
+            </audio>
+            </div>
     </div>
     <!-- tarjeta8 -->
     <div class="col-md-3 p-5">
@@ -209,7 +227,9 @@
                    <BR> - Pepito,<BR> ¿no te da vergüenza ser el último de la clase?<BR>
                     <BR>- Alguien debe sacrificarse... </h5>
             </div>
-            <iframe src="https://drive.google.com/file/d/1mxMn5XuboDessRU39nReOG-ro3mWnskC/preview" width="280" height="100"></iframe>
+            <audio  id="player" src="AudiosEspañol/chistes/chiste8.mp3" controls >
+
+            </audio>
         </div>
     </div>
 </div>
@@ -224,7 +244,9 @@
                 <h5 class="card-title" align="center"> Están dos piojos en la cabeza de un señor calvo,<br> y uno le dice al otro:
                     <br>- Alfredo, vámonos de aquí que este terreno ya está pavimentado.</h5>
             </div>
-            <iframe src="https://drive.google.com/file/d/1Zk0a1p1Xwu94eKSfKF93R9dUi658W0A1/preview" width="280" height="100"></iframe>
+            <audio  id="player" src="AudiosEspañol/chistes/chiste9.mp3" controls >
+
+            </audio>
         </div>
     </div>
     <!-- tarjeta10 -->
@@ -235,7 +257,9 @@
                 <h5 class="card-title" align="center"> <br> - ¿Qué le dice un gusano a otro gusano?<br>
                     <br> - Me voy a dar una vuelta a la manzana.</h5>
             </div>
-            <iframe src="https://drive.google.com/file/d/1d0j1c4gocviwV_AlJTKMW8VeLm5WNoGc/preview" width="280" height="100"></iframe>
+            <audio  id="player" src="AudiosEspañol/chistes/chiste10.mp3" controls >
+
+            </audio>
         </div>
     </div>
     <!-- tarjeta11 -->
@@ -247,7 +271,9 @@
                     - ¿Qué haces ahí sentada?<br>
                     - Estoy esperando un ratito<br></h5>
             </div>
-            <iframe src="https://drive.google.com/file/d/1MhPquPBAuESjWZ_5KR9EONp0ZmcmX1jA/preview" width="280" height="100"></iframe>
+            <audio  id="player" src="AudiosEspañol/chistes/chiste11.mp3" controls >
+
+            </audio>
         </div>
     </div>
     <!-- tarjeta12 -->
@@ -258,7 +284,9 @@
                 <h5 class="card-title" align="center"> <br><br>-¿Qué le dice un pato a otro pato?<br>
                     <br>¡Estamos empatados!<br></h5>
             </div>
-            <iframe src="https://drive.google.com/file/d/1Hz2SRP7Ee-xJhnXiWhYOenEeCWtRWmZ4/preview" width="280" height="100"></iframe>
+            <audio  id="player" src="AudiosEspañol/chistes/chiste12.mp3" controls >
+
+            </audio>
         </div>
     </div>
 </div>
