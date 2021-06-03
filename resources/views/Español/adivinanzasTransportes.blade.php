@@ -90,6 +90,10 @@
             border: gold 6px dashed;
 
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 
@@ -162,7 +166,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Por un camino de hierro voy corriendo muy veloz, doy un fuerte silbido cuando llego a la estación. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1Y5xUBOtuLJNtn3RnCgle8W1skzO3yIVz/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/tra1.mp3" controls >
+                    </audio>
                     <h6 id="demo1"></h6>
                     <button class="btn" onclick="resu1()">Respuesta</button>
                 </div>
@@ -175,7 +180,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- Llevo a la familia y a su equipaje. Paso todas las noches en el garaje. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1EUWirDuG0fVAeGGTEuHjXFZW0TA4cYPP/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer2.mp3" controls >
+                    </audio>
                     <h6 id="demo2"></h6>
                     <button class="btn" onclick="resu2()">Respuesta</button>
                 </div>
@@ -188,7 +194,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Soy pájaro sin nido con las alas de metal, las ruedas tengo de goma y los ojitos de cristal. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1t5u3DF2sWWcsTBe-7WHqV6VI7h3o4xhF/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer3.mp3" controls >
+                    </audio>
                     <h6 id="demo3"></h6>
                     <button class="btn" onclick="resu3()">Respuesta</button>
                 </div>
@@ -209,7 +216,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Encima de la cabeza gira mi gran abanico y en la punta de la cola gira otro pequeñito. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/10Gx1ko9lMWe9L4TfSZIS_ibl6HWhPHaZ/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer4.mp3" controls >
+                    </audio>
                     <h6 id="demo4"></h6>
                     <button class="btn" onclick="resu4()">Respuesta</button>
                 </div>
@@ -222,7 +230,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Tengo seis ruedas y a veces más. Llevo la carga donde deba llegar. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1mFKOv-6dCi7UqqJe54Ou9ph_AYSEvmFy/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer5.mp3" controls >
+                    </audio>
                     <h6 id="demo5"></h6>
                     <button class="btn" onclick="resu5()">Respuesta</button>
                 </div>
@@ -235,7 +244,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- Camino sobre las olas y tengo vestidos blancos. Si el viento me empuja fuerte mucho más rápido ando. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1y7YMLq_Wo4uWtUGuyJ_XP7zw7dljgsrp/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer6.mp3" controls >
+                    </audio>
                     <h6 id="demo6"></h6>
                     <button class="btn" onclick="resu6()">Respuesta</button>
                 </div>
@@ -255,7 +265,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Si por el mar quieres viajar, ¿dónde te vas a montar? ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1GOvHBlPKhTsxMzaNYROLAI-XrEUNxtH-/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer7.mp3" controls >
+                    </audio>
                     <h6 id="demo7"></h6>
                     <button class="btn" onclick="resu7()">Respuesta</button>
                 </div>
@@ -268,7 +279,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Mi misión es transportar y en la parada debo parar. Vengo de muchos colores, pero si te llevo a la escuela, mi color es amarillo. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1o_WpA6yxe_3uF92hZbu_LbSWnfKHcIee/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer8.mp3" controls >
+                    </audio>
                     <h6 id="demo8"></h6>
                     <button class="btn" onclick="resu8()">Respuesta</button>
                 </div>
@@ -281,7 +293,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- Vehículo soy, hago muchísimo ruido, pero sólo dos viajan conmigo. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/13EwmffN0zsWZEkZhkwoTKXlBr0ZaZkAQ/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer9.mp3" controls >
+                    </audio>
                     <h6 id="demo9"></h6>
                     <button class="btn" onclick="resu9()">Respuesta</button>
                 </div>
@@ -297,7 +310,8 @@
         <div class="col-md-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/5Rdp7jk/pil-removebg-preview.png" width="250" />
             <!-- Btn respuestas -->
-            <iframe src="https://drive.google.com/file/d/1fF5SNb3lEwFR0khbKLHfgQEJMIqaouCk/preview" width="300" height="80"></iframe>
+            <audio  id="player" src="AudiosEspañol/Adivinanzas/RespTran.mp3" controls >
+            </audio>
         </div>
     </div>
 </div>

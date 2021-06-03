@@ -90,6 +90,10 @@
 
 
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 
@@ -163,12 +167,14 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Canto en la orilla, vivo en el agua, no soy pescado ni cigarra. ¿Quién soy?<BR><BR></p>
-                    <iframe src="https://drive.google.com/file/d/19-tFLoTm3uw65XlywSB_SsYtSrW1etSk/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/AnimalesNum1.mp3" controls >
+                    </audio>
                     <h6 id="demo1"></h6>
                     <button class="btn" onclick="resu1()">Respuesta</button>
                 </div>
             </div>
         </div>
+
         <!-- tarjeta 2 -->
         <div class="col-md-4 ">
             <div id="tar2" class="card" style="width: 18rem;">
@@ -176,12 +182,14 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- El roer es mi trabajo, el queso mi aperitivo y el gato siempre será mi más temido enemigo. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1CbfcuCcZFIHvrRX4ba3iZM4kZTUJ0k3J/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Num2.mp3" controls >
+                    </audio>
                     <h6 id="demo2"></h6>
                     <button class="btn" onclick="resu2()">Respuesta</button>
                 </div>
             </div>
         </div>
+
         <!-- tarjetas3 -->
         <div class="col-md-4">
             <div id="tar3" class="card" style="width: 18rem;">
@@ -189,7 +197,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Soy un trocito de luz en la noche. De día me escondo en la hierba. Parezco una esmeralda que el viento se lleva. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/12Fb2evZcg-k2V1PLhgIiAnpcNGyeHm5c/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Num3.mp3" controls >
+                    </audio>
                     <h6 id="demo3"></h6>
                     <button class="btn" onclick="resu3()">Respuesta</button>
                 </div>
@@ -209,7 +218,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Dos pinzas tengo y hacia atrás camino, de mar o de río en el agua vivo. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1TdeSFeiAswCCUVwEqT5tlvVrNob-LbYe/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Num4.mp3" controls >
+                    </audio>
                     <h6 id="demo4"></h6>
                     <button class="btn" onclick="resu4()">Respuesta</button>
                 </div>
@@ -222,7 +232,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Madre me labró una casa sin puertas y sin ventanas, y cuando quiero salir rompo antes la muralla. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1lEO67mQOkXdL3gP-wiJYjWUFfDfVQ2e1/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Num5.mp3" controls >
+                    </audio>
                     <h6 id="demo5"></h6>
                     <button class="btn" onclick="resu5()">Respuesta</button>
                 </div>
@@ -235,7 +246,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- No es cama ni es león, y desaparece en cualquier rincón. ¿Quién es?</p>
-                    <iframe src="https://drive.google.com/file/d/1ETy7TZ3e-pHvtev14xrZ7jzTaSqdC7h_/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Num6.mp3" controls >
+                    </audio>
                     <h6 id="demo6"></h6>
                     <button class="btn" onclick="resu6()">Respuesta</button>
                 </div>
@@ -255,7 +267,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Vuelo entre las flores, vivo en una colmena, fabrico miel y también cera. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1S4oOF_1pkiBtCZgAIk_2R6LRWpdMFdUE/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Num7.mp3" controls >
+                    </audio>
                     <h6 id="demo7"></h6>
                     <button class="btn" onclick="resu7()">Respuesta</button>
                 </div>
@@ -268,7 +281,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Soy un insecto que vuela entre las flores, tengo dos alitas de muchos colores. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1sdSahRaSWSjzxOugkGdWs31GJv7c1xje/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Num8.mp3" controls >
+                    </audio>
                     <h6 id="demo8"></h6>
                     <button class="btn" onclick="resu8()">Respuesta</button>
                 </div>
@@ -281,7 +295,8 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- Viste de chaleco blanco y negro tiene su pecho. Es un ave que no vuela, pero sabe nadar derecho. ¿Quién soy?</p>
-                    <iframe src="https://drive.google.com/file/d/1XvggfhCce1hVOnz3eA6zcHrubZMnpZc2/preview" width="230" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Num8.mp3" controls >
+                    </audio>
                     <h6 id="demo9"></h6>
                     <button class="btn" onclick="resu9()">Respuesta</button>
                 </div>
@@ -296,7 +311,8 @@
     <div class="row ">
         <div class="col-md-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/5Rdp7jk/pil-removebg-preview.png" width="250" />
-            <iframe src="https://drive.google.com/file/d/1dYpMkeksLLPVwEhVbFFcUaHs4XT2Srv9/preview" width="300" height="80"></iframe>
+            <audio  id="player" src="AudiosEspañol/Adivinanzas/RespAnimales.mp3" controls >
+            </audio>
         </div>
     </div>
 </div>
