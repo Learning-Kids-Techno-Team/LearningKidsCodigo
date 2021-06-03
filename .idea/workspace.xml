@@ -27,8 +27,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasAnimales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasAnimales.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasTransportes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasTransportes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentoNavidad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentoNavidad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosFantasticos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosFantasticos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosInfantiles.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosInfantiles.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,14 +231,7 @@
       <workItem from="1621888582304" duration="1237000" />
       <workItem from="1622613556187" duration="1401000" />
       <workItem from="1622692597786" duration="4240000" />
-      <workItem from="1622696953975" duration="2551000" />
-    </task>
-    <task id="LOCAL-00015" summary="Sprint Techno Team">
-      <created>1604982966578</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1604982966578</updated>
+      <workItem from="1622696953975" duration="3619000" />
     </task>
     <task id="LOCAL-00016" summary="Sprint4 Sindy G.">
       <created>1605845522357</created>
@@ -575,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622698505798</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Sprint 12 Hector Lopez">
+      <created>1622699575170</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1622699575170</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

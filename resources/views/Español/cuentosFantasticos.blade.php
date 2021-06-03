@@ -67,6 +67,10 @@
             color: blue;
             text-align: center;
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 </head>
@@ -152,7 +156,8 @@
 
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1UV6lQbjmugHj2Fs_ncProwb61K1Z7ADD/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El mago magú.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -199,8 +204,9 @@
 
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1512jzVLEOfVjHca8xme0KHJw6br6y6Xm/preview" width="200" height="80"></iframe>
 
+                    <audio  id="player" src="AudiosEspañol/cuentos/El Traje de la Bruja Petra.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -250,8 +256,8 @@
 
                     </p>
 
-                    <iframe src="https://drive.google.com/file/d/1HpZ0b7VZzJpjYjd3oD270fhxbpIOZM_z/preview" width="200" height="80"></iframe>
-                </div>
+                    <audio  id="player" src="AudiosEspañol/cuentos/La mariposa presumida.mp3" controls >
+                    </audio></div>
             </div>
         </div>
 
@@ -309,7 +315,9 @@
                             Luego los llevó a una casita situada en un gran bosque, donde vivieron solos, pero felices y contentos.
 
                         </p>
-                        <iframe src="https://drive.google.com/file/d/1ZHxdLu37HLuk7O6OH6-pUBzpv3T6pMLA/preview" width="200" height="80"></iframe>
+
+                        <audio  id="player" src="AudiosEspañol/cuentos/El cordero y el pececito.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -371,7 +379,8 @@
                         Dice el sapo: No, yo no, ¿y tú? ¡Hu-hu, hu-hu, hu-hu!
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1fdm7lI2StWrXAx0XscyrABWNRXeq6rI2/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/Cuenetos del sapo.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -414,8 +423,8 @@
                         Lo que realmente le había dolido es que la utilizase para lavar sus culpas.
                         Desde ese día, Lua no volvió a prestarle la más mínima atención y se dedicó a su trabajo como ponedora y a cuidar de sus polluelos.
                     </p>
-                    <iframe src="https://drive.google.com/file/d/14A0jrdXw_25J-j4eESHtfi-h0LwE0QGT/preview" width="200" height="80"></iframe>
-
+                    <audio  id="player" src="AudiosEspañol/cuentos/Lua la gallina enamorada.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>

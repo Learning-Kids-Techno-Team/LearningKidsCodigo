@@ -69,6 +69,10 @@
             color: blue;
             text-align: center;
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 </head>
@@ -168,7 +172,8 @@
 
                         El llanto de Osito despertó a Ricitos de Oro, que muy asustada saltó de la cama y
                         corrió escaleras abajo hasta llegar al bosque para jamás regresar a la casa de los osos.</p>
-                    <iframe src="https://drive.google.com/file/d/1FUJe7i9tctPXaqF4BFK546ti94id3IGH/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/Ricitos de Oro.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -235,8 +240,8 @@
                         Caperucita volvió a ver a su madre y su abuelita y desde entonces prometió hacer siempre caso a lo que le dijera su madre.
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1MYLR0VKLWTrd8Y1pgil_KSRzPNuUknn7/preview" width="200" height="80"></iframe>
-
+                    <audio  id="player" src="AudiosEspañol/cuentos/Caperucita Roja.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -283,8 +288,8 @@
                     <br>Cuando miró su reflejo en el agua se quedó asombrado.<br>
                     <br>Él no era un patito feo, sino un apuesto y joven cisne. <br>Ahora sabía por qué se veía tan diferente a sus hermanos y hermanas.<br>
                     <br>¡Ellos eran patitos, pero él era un cisne! Feliz, nadó hacia su familia.</p>
-                <iframe src="https://drive.google.com/file/d/10BjTKO7mQA7CAZqhi2FPKywoQQA89caS/preview" width="200" height="80"></iframe>
-
+                <audio  id="player" src="AudiosEspañol/cuentos/El patito feo.mp3" controls >
+                </audio>
             </div>
     </div>
 </div>
@@ -341,7 +346,8 @@
 
 
                 </p>
-                <iframe src="https://drive.google.com/file/d/1l1PtIyidI_Qrb--vrDMR2LToKSUtP8mI/preview" width="200" height="80"></iframe>
+                <audio  id="player" src="AudiosEspañol/cuentos/El gigante egoista.mp3" controls >
+                </audio>
             </div>
         </div>
     </div>
@@ -404,7 +410,8 @@
 
 
                       </p>
-                    <iframe src="https://drive.google.com/file/d/1mf1pXgi4FGiCpfkjWBX_fsSNUCHx4nE2/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/La bella durmiente.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -453,7 +460,8 @@
                         —¿Puedo probarme la zapatilla? —dijo Cenicienta.
 
                         La joven se probó la zapatilla y le quedó perfecta. El príncipe sabía que esta era la hermosa joven que estaba buscando. Fue así como Cenicienta y el príncipe se casaron y vivieron felices para siempre.</p>
-                    <iframe src="https://drive.google.com/file/d/1aPnEZGpLTwRemPs2Xcmy-1T6frDtWhCT/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/La cenicienta.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>

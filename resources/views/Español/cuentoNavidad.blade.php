@@ -67,6 +67,10 @@
         p{
             text-align: justify;
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 </head>
@@ -129,7 +133,8 @@
                         El perrito sintió que por fin tenía una familia de verdad y el niño sintió que aquél era su mejor regalo”.
 
 </p>
-                    <iframe src="https://drive.google.com/file/d/1EtqYe5h2sSR2lfCtdNfPrQHW8wGqICK1/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El perrito.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -163,7 +168,8 @@
                         Aquella noche el hombre supo que ese regalo tenía que haber sido concedido por la buena obra<br>
                         que él había hecho regalando los abetos que cortó en la montaña”.
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1BGnE7tXiC5S9FcRYHjp6fAfeWrVRrCwX/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El arbolito de navidad.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -195,7 +201,8 @@
                     El niño comprendió entonces que Santa repartía diferentes tipos de regalos y decidió que él también podía ayudar a su amigo, por lo que exclamó. Pues yo también voy a ayudar a mi amigo compartiendo mi alegría y amistad con él. A lo que Santa le contestó con una sonrisa tierna y desapareció”.
 
                 </p>
-                <iframe src="https://drive.google.com/file/d/1yVfeFSMh5a-v2JnpLlmQIAjarSLSSyBv/preview" width="200" height="80"></iframe>
+                <audio  id="player" src="AudiosEspañol/cuentos/El mejor regalo de santa.mp3" controls >
+                </audio>
             </div>
         </div>
     </div>
@@ -234,7 +241,8 @@
 
 
                 </p>
-                <iframe src="https://drive.google.com/file/d/1ul6TIx1IRV0F-eJRm9bcPovaLfKxBNRX/preview" width="200" height="80"></iframe>
+                <audio  id="player" src="AudiosEspañol/cuentos/Un viaje increible.mp3" controls >
+                </audio>
             </div>
         </div>
     </div>
@@ -268,7 +276,8 @@
 
                         Por la mañana todos los niños tenían sus regalos debajo del árbol y los elfos fueron a devolver el trineo y los renos. Papá Noel se acercó a la fábrica y al ver que estaban todos los regalos repartidos se puso muy contento y comprendió que lo más importante de esa noche había sido el compañerismo”.
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1u9BjyFRrf3x9OqLNTvv_27z9R0elUuoq/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El plan de alonso.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -294,7 +303,8 @@
 
                         Y cuenta la tradición que siempre hay que incluir una araña en medio de cada decoración”.
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1rUserFji4njst11aWX-XiJ7kzf-DsVcm/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/La leyenda de la araña de navidad.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
