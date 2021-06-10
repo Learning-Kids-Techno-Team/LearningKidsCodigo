@@ -70,6 +70,10 @@
             text-align: justify;
 
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 </head>
@@ -144,7 +148,8 @@
 
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1Moo63wzndSFw3piqlFMShNcJvZBUZntB/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/Las aventuras del pirata caraderrata.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -199,7 +204,8 @@
                         Y, con el tiempo, aprendieron todos los secretos de las hadas mayores.
                         Pero no antes de demostrar ser dignas de ello.
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1qyy1ciRgB59Spu2swnUfa4EynHJ8pGB0/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/Las hadas Traviesas.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -243,7 +249,8 @@
 
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1WQ_T2lB6NLCGFPbl9ayACrx56-Hc_dop/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/Las tres ovejas.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -270,7 +277,8 @@
                         Lupo entendió todo aquello perfectamente y desde entonces nunca más tuvo celos de sus hermanos.
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1-8bPffArFaPOsFtT4Z-Vs3hZEbSSkWQw/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/Lupo y sus hermanos.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -330,7 +338,8 @@
 
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1qxBzcPws2RoPhCacNbkIrg-JVyUoWa0Q/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El troll que quería volar.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -353,7 +362,8 @@
 
                         Lo primero que hicieron fue buscar y encontrar el globo que había quedado abandonado en la finca de ovejas. Después, entre siete cigüeñas, pudieron elevar el globo en el aire y llevar a Loreto de vuelta a casa. Fueron las únicas que se pararon a escuchar a Loreto y que se dieron cuenta de que la chica era totalmente inofensiva y que solo necesitaba ayuda.
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1ROBHJ_Cg7K_tqP7kk3c1NHcsSbJeWdP1/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El viaje en globo de Loreto.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>

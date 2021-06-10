@@ -79,6 +79,10 @@
             color: blue;
             text-align: center;
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 </head>
@@ -158,7 +162,8 @@
                         <br>Fue así como la mujer le tiró el otro par de calzoncillos y, hasta el día de hoy,
                         todos comentan que nunca lo han vuelto a ver.
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1_u8tn2bk6v7rqspeSgbX-uxEg1gznZ_p/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/Los calsocillos del fantasma.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -211,7 +216,8 @@
                         Su madre esbozó una sonrisa que se hacía más y más ancha, dejando entrever unos dientes espantosos, largos y afilados como los de una fiera.
 
                         Pobre Juan, si estaba soñando, no podía despertar… y si era realidad, ya no tenía cómo escapar.</p>
-                    <iframe src="https://drive.google.com/file/d/13ctt2Sp2sMQGtew_lXdV3oSHYIb2Btfh/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/Los  dientes.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -245,7 +251,8 @@
                         <br>Por unos cuantos segundos hubo un silencio incómodo. Con voz de terror, el doctor Reyes dijo:
 
                         —¡Despierta a los niños y salgan inmediatamente de la casa! NO TENEMOS NINGUNA ESTATUA DE UN PAYASO.</p>
-                    <iframe src="https://drive.google.com/file/d/1F5ebXGsaerf1YWHrlR0-tXQQ_hxHJB8Z/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/La estatua del payaso.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -279,8 +286,9 @@
                                 El señor Salcedo cortó la llamada sin decir una palabra y acercó el celular a su rostro como si fuera a tomarse una foto.
 
                                 Lo que vió en la pantalla fue espeluznante, su rostro era una máscara de humo negro y de su imagen ya no quedaba nada.</p>
-                            <iframe src="https://drive.google.com/file/d/1pZOlkOFacR_gLj5wHhk5XuBM9lQQX_EL/preview" width="200" height="80"></iframe>
-                        </div>
+                           </div>
+                        <audio  id="player" src="AudiosEspañol/cuentos/El señor salcedo.mp3" controls >
+                        </audio>
                     </div>
                 </div>
 
@@ -326,7 +334,8 @@
                         —Pero ¿por qué papá? —preguntó Lucas sorprendido por la extraña reacción de su padre.
 
                         —Porque no contraté a ninguna empleada doméstica.</p>
-                    <iframe src="https://drive.google.com/file/d/1j7VZ_Mfv424UOTjZ0cyYt47viYJ0ekQR/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/La casa a oscuras.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -374,7 +383,8 @@
                         —¿Dónde está mi dedo gordo peludo? —la voz gimió estruendosamente—. ¿LO TIENES TÚ?
 
                         Hasta el día de hoy, nadie en el pueblo volvió a saber del niño y su abuela.</p>
-                    <iframe src="https://drive.google.com/file/d/1v0iGWAC1wZrcGC4qsCIyTSdjNZIGI_Ru/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El dedo gordo peludo.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>

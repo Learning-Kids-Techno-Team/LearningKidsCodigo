@@ -73,6 +73,10 @@
             text-align: justify;
 
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 </head>
@@ -156,7 +160,8 @@
                         Resulta que Clara Luisa, mujer casada, mantenía una relación sentimental con el padre Henry. Éste le comunicó que ya no quería seguir con la misma y ella decidió asesinarlo.
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1S8M_h_B-VKG2ISSe0tAI7EJbS-y1nUBy/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/La muerte del ovispo.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -205,7 +210,8 @@
                         Los demás compañeros le dispararon a Daniela, que después de ser detenida y llevada al hospital,
                         confesó su crimen pasional.
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1QVG4Dre-IfENL929U_CznxhJrVuNhIGq/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/La manzana asesina.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -271,7 +277,8 @@
                         <br>A partir de ese día el policía dormilón se empezó a tomar en serio sus problemas de sueño. Había aprendido la lección.
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1UMqoLYwjrBCboGxlWttET4_0tVgXpZt0/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El policia dormilon.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -318,7 +325,8 @@
 
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1-If9VfwjGeHdm0tbwBqEnfNBSQW0WM6t/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El extraño caso del ladron de bicicletas.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -368,7 +376,8 @@
                         <br>¡Cuál fue su sorpresa cuando se encontró al director del colegio manchado de verde hasta las
                         orejas intentando quitarse de encima la prueba del delito en el lavabo!
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1vbiSRW6j3Be3CJOeyO23aQENpCAYDiwM/preview"  width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El ladron de uvas.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -403,7 +412,8 @@
 
                         Cuando el ladrón cumplió la condena que le impuso el juez montó un puesto al que llamó “Libros usados y otros tesoros”. Muchos llevaban allí sus libros viejos para darles otra oportunidad a esas páginas que ya no les resultaban útiles a sus dueños, pero que podían ser muy útiles en unas nueva manos.
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1BcHoEckSH_ulhtVNU83SYRAy4YjDrUmh/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El ladron de libros viejos.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>

@@ -76,6 +76,10 @@
             color: blue;
             text-align: center;
         }
+        #player{
+            width: 100%;
+
+        }
 
 
 
@@ -150,7 +154,8 @@
                         es cierta hasta que alguien no la escribe. Entonces supo que él no tenía que leer, sino escribir. <br><br><br>
                         <br>Dos años más tarde publicaba su primera novela y la prologaba con esa introducción de Lev Tolstói
                         en memoria de su madre.</p>
-                    <iframe src="https://drive.google.com/file/d/14fCSce3PBY_N69AVmkcneojTn6XAu4eN/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/Familias felices.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -171,7 +176,8 @@
                         Entonces, lo dejé todo y me encerré en mi misma; harta del mundo, de que las noticias fueran manipuladas con tanta facilidad y de que la función de los periodistas no tuviera nada que ver con ese sueño infantil y fantástico. Cuando creces, la magia de la infancia se esfuma por la claraboya de tu conciencia y te das cuenta de que nada -absolutamente NADA- es tan maravilloso o placentero como creías de niña.
 
                         El pozo era tan profundo que no podía ver; sentía que nunca saldría con vida de aquel malestar que me iba consumiendo más y mas: primero, había acabado con todas mis relaciones y más tarde, me había sepultado bajo tierra, como un topo pero con la extrañeza de quien ansía la luz. Y entonces llegó: un paquete a mi nombre que contenía algo blando en su interior. Al abrirlo lo encontré: ese librito que me había llenado de energías en la infancia estaba ahí radiante, recordándome mis razones, mis principios. Miré el remitente: mi tío Palmiro acababa de enseñarme nuevamente el camino.</p>
-                    <iframe src="https://drive.google.com/file/d/1xRpkSoVlUYgJKqF6nXgWgH5bdt7wkJq9/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/La periodista.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -204,7 +210,8 @@
 
 
 </p>
-                    <iframe src="https://drive.google.com/file/d/1dfCUd-IDKG__o3CWhlqsFdw2UcSR5-RC/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/Juan y la ciudad.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -236,8 +243,9 @@
                                 llevar por el orgullo y lo aburrido que estaba resultando su gran partido.<br>
                                 <br>Mirándose unos a los otros y sin mediar palabra, comenzaron a poner de nuevo todo
                                 sobre el campo, jugando el mejor partido de sus vidas.</p>
-                            <iframe src="https://drive.google.com/file/d/1Rz3-v9K36ntYcYz6fmYQ7VzpWwQzJWNH/preview" width="200" height="80"></iframe>
-                        </div>
+                            <audio  id="player" src="AudiosEspañol/cuentos/El gran partido.mp3" controls >
+                            </audio>
+                            </div>
                     </div>
                 </div>
 
@@ -264,7 +272,8 @@
                         Esa misma tarde, platiqué con mis hermanas, quienes también estaban tristes por la separación. Logré que entendieran que estar con alguien por darle gusto a los demás no es bueno y que debíamos pensar en que el divorcio les afectaba más a ellos que a nosotros. Tomamos la decisión de hablar con nuestros padres, por separado claro, y les hicimos ver que los comprendíamos y apoyábamos firmemente en sus decisiones.
 
                         Ahora todo es mejor, no tenemos que escuchar los constantes gritos que anteriormente escuchábamos, no se siente la tensión en la casa y además vemos a nuestros padres equitativamente. Las cosas no han cambiado, aún seguimos pasándola muy bien cuando salimos con mi padre, aún recibimos los besos de buenas noches de mi madre y lo más importante es que aprendí que mis padres seguirán siendo mis padres aunque estén separados.</p>
-                    <iframe src="https://drive.google.com/file/d/1X8e4A_3O1vL7ZC96AEDFMU7TFBvJTX3J/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El divorcio de mis padres.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -308,7 +317,8 @@
 
                         <br>Cuando terminó la fiesta Rosalina se despidió de las mariposas… y empezó a caminar,
                         porque el bosque de la Luz tenía que encontrar.</p>
-                    <iframe src="https://drive.google.com/file/d/1q5msqAdDl-gVxtX0TMqnQ--RTiqaheTP/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/Rosaline y el valle de mariposas.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>

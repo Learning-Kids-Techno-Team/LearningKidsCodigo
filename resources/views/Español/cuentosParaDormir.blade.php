@@ -71,6 +71,10 @@
             text-align: center;
 
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 </head>
@@ -182,7 +186,8 @@
 
 
                   </p>
-                    <iframe src="https://drive.google.com/file/d/1ZxjyW7H4NYZ5H5ftzGygSRpvbKK9_zXP/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/La gallinita roja.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -221,7 +226,8 @@
 
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1Zcya3ntas0VsyJ0kKi_Vag-5YT53en5a/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/La liebre y la tortuga.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -261,7 +267,8 @@
 
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1QlxpfhgY_NXtQ3GVultDtdG9CUlPlvAi/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/Tio tigre y tio conejo.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -291,7 +298,8 @@
 
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/1rLVifcRy4KF2gcdaSmd4IHHYYpYnrpqE/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El leon y el raton.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -377,7 +385,8 @@
 
 
                     </p>
-                    <iframe src="https://drive.google.com/file/d/19-_6qwPsw3La2oPKkIqfwAz1Dsi-hbbC/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/La ratita presumida.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -445,7 +454,8 @@
                     </p>
 
 
-                    <iframe src="https://drive.google.com/file/d/1djvaVuDek6QjA6Dvf5eQZl_CJEDIjguN/preview" width="200" height="80"></iframe>
+                    <audio  id="player" src="AudiosEspañol/cuentos/El enano saltarin.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
