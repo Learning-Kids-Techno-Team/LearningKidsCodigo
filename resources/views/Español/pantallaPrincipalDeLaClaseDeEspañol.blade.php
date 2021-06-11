@@ -139,7 +139,7 @@
     <div class="container-fluid" style="background: #bce0ee">
         <div class="row pb-5">
 
-            <div class="col-md-12">
+            <div class="col-md-12 mt-5">
                 <a href=" {{ url('/cuento') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/tMXgL6r/Fondocampa-removebg-preview-1.png" class="rounded-circle mx-auto d-block bg-info" width="150"/><h3>Cuentos</h3>
             </a>

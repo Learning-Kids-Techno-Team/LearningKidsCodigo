@@ -25,7 +25,14 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="" />
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasAnimales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasAnimales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasCortas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasCortas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasFrutas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasFrutas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasNumeros.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasNumeros.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasTransportes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasTransportes.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -613,7 +620,8 @@
     <MESSAGE value="Sprint 10 Hector Lopez" />
     <MESSAGE value="Sprint 11 Hector Lopez" />
     <MESSAGE value="Sprint 12 Hector Lopez" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 12 Hector Lopez" />
+    <MESSAGE value="Sprint 13 Hector Lopez" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 13 Hector Lopez" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -76,7 +76,7 @@
 
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
             margin-left: -5px;
             background: #3B5686;
@@ -86,6 +86,7 @@
 
         #color{
             color: navy;
+            text-align: center;
 
 
 
@@ -93,6 +94,9 @@
         #player{
             width: 100%;
 
+        }
+        p{
+            text-align: justify;
         }
 
     </style>
@@ -159,7 +163,7 @@
 <!-- contenedor de las tarjetas -->
 <div class="container-fluid  " >
     <div  class="row " >
-        <div class="col-md-4 p-5">
+        <div class="col-xl-4 p-5">
 
             <!-- tarjeta 1 -->
             <div id="tar1" class="card mx-auto d-block " style="width: 18rem;">
@@ -176,7 +180,7 @@
         </div>
 
         <!-- tarjeta 2 -->
-        <div class="col-md-4 p-5">
+        <div class="col-xl-4 p-5">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -191,7 +195,7 @@
         </div>
 
         <!-- tarjetas3 -->
-        <div class="col-md-4 p-5">
+        <div class="col-xl-4 p-5">
             <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -211,7 +215,7 @@
 <!-- contenedor 2 -->
 <div class="container-fluid   " >
     <div class="row " >
-        <div class="col-md-4 p-5">
+        <div class="col-xl-4 p-5">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
@@ -226,7 +230,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4  p-5">
+        <div class="col-xl-4  p-5">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -240,7 +244,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4 p-5">
+        <div class="col-xl-4 p-5">
             <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -260,7 +264,7 @@
 <!-- contenedor3 -->
 <div class="container-fluid " >
     <div class="row" >
-        <div class="col-md-4 p-5">
+        <div class="col-xl-4 p-5">
             <!-- tarjeta 7 -->
             <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
@@ -275,7 +279,7 @@
             </div>
         </div>
         <!-- tarjeta 8 -->
-        <div class="col-md-4 p-5">
+        <div class="col-xl-4 p-5">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -289,7 +293,7 @@
             </div>
         </div>
         <!-- tarjetas9 -->
-        <div class="col-md-4 p-5">
+        <div class="col-xl-4 p-5">
             <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
