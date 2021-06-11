@@ -86,7 +86,8 @@
 
         </div>
         <div class="col-md-8 " >
-            <h2 id="color">Cuentos De Navidad</h2>
+            <br>
+            <h2 id="color" class="text-center">Cuentos De Navidad</h2>
             <p ><strong>
                 Los cuentos de Navidad son aquellos en los que el contexto de la historia se desarrollan en esta época del año. Normalmente hace una reflexión sobre el sentido de esta festividad y sobre los valores cristianos más relevantes como son el amor, el perdón, la esperanza o la caridad.
 
@@ -139,7 +140,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
+        <div class="col-md-6 justify-content-center pl-5 ">
             <div class="card" style="width: 30rem;">
                 <img  src="https://i.ibb.co/C5rCxjR/63-navidad.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
@@ -207,7 +208,7 @@
         </div>
     </div>
     <!-- tarjeta 2 -->
-    <div class="col-md-6 ">
+    <div class="col-md-6 justify-content-center pl-5 ">
         <div class="card" style="width: 30rem;">
             <img   src="https://i.ibb.co/7SrFbzb/raton.png"  class="card-img-top" alt="..." height="300">
             <div class="card-body">
@@ -282,7 +283,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
+        <div class="col-md-6 justify-content-center pl-5">
             <div class="card" style="width: 30rem;">
                 <img  src="https://i.ibb.co/G0YZZ9g/aranas.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
