@@ -99,7 +99,8 @@
 
         </div>
         <div class="col-md-8 " >
-            <h2 id="color">Cuentos Realistas</h2>
+            <br>
+            <h2 id="color" class="text-center">Cuentos Realistas</h2>
             <p ><strong>
                 Este género de cuentos se caracteriza por presentar historias que buscan ser creíbles a través de acontecimientos reales.
 
@@ -160,7 +161,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
+        <div class="col-md-6 justify-content-center pl-5">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/sVCT6mp/periodista.jpg" class="card-img-top" alt="..." height="250">
                 <div class="card-body">
@@ -215,7 +216,7 @@
                 </div>
             </div>
         </div>
-                <div class="col-md-4  ">
+                <div class="col-md-4 justify-content-center pl-5 ">
                     <div class="card" style="width: 30rem;">
                         <img src="https://i.ibb.co/xSC9VTz/juego.jpg"  class="card-img-top" alt="..." height="330">
                         <div class="card-body">
@@ -280,7 +281,7 @@
 
 
         <!-- tarjetas3 -->
-        <div class="col-md-6">
+        <div class="col-md-6 justify-content-center pl-5">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/0rSQFtN/valle-de-mariposas.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
