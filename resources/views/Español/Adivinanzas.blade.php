@@ -146,7 +146,7 @@
 <div class="row m-5" >
     <!-- tarjeta 1 -->
     <div class="col-md-4 pb-5" >
-        <div class="card"  style="width: 18rem;" >
+        <div class="card mx-auto d-block"  style="width: 18rem;" >
 
             <img src="https://i.ibb.co/j8qn5bF/bhg.jpg" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
@@ -157,9 +157,10 @@
     </div>
 
 
+
     <!-- tarjeta2 -->
     <div class="col-md-4 pb-5">
-        <div class="card" style="width: 18rem;">
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/dKXqK3Z/maxresdefault-1.jpg" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas de<br>frutas</h5>
@@ -169,7 +170,7 @@
     </div>
     <!-- tarjeta3 -->
     <div class="col-md-4 pb-5">
-        <div class="card" style="width: 18rem;">
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card mx-auto d-block" height="160" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas de<br> números</h5>
