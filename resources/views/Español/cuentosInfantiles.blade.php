@@ -88,7 +88,8 @@
 
         </div>
         <div class="col-md-8 " >
-            <h2 id="color">Cuentos Infantiles</h2>
+            <br>
+            <h2 id="color" class="text-center">Cuentos Infantiles</h2>
             <p ><strong><em>
                 Estos cuentos están dedicados al público infantil, por lo que suelen contar historias fantásticas y felices.<br>
 
@@ -178,7 +179,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
+        <div class="col-md-6 justify-content-center pl-5">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/zrjqkS3/Caperucita.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
@@ -293,7 +294,7 @@
             </div>
     </div>
 </div>
-        <div class="col-md-6">
+        <div class="col-md-6 justify-content-center pl-5">
         <div class="card" style="width: 30rem;">
             <img src="https://i.ibb.co/wwzjzvT/gigante.jpg"  class="card-img-top" alt="..." height="330">
             <div class="card-body">
@@ -416,7 +417,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-md-4 justify-content-center pl-5">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/WF5wrgD/cenicienta.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
