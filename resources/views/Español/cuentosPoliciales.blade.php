@@ -91,7 +91,8 @@
 
         </div>
         <div class="col-md-8 "  >
-            <h2 id="color" align="center">Cuentos Policiales</h2>
+            <br>
+            <h2 id="color" class="text-center">Cuentos Policiales</h2>
             <p ><strong>
                     Dentro de este género de cuentos se narran hechos relacionados con la delincuencia y justicia.
                     Por norma general tienen que ver con la resolución de un delito.
@@ -123,7 +124,8 @@
             <div class="card mx-auto d-block" style="width: 30rem">
                 <img src="https://i.ibb.co/Z6kh8X2/sacerdote.jpg"    class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">La Muerte del Obispo</h5>
+
+                    <h5 class="card-title; text-center" id="color">La Muerte del Obispo</h5>
                     <p class="card-text">En la comisaría principal de la pequeña ciudad de Torreroca, a la detective Piñango le llegó la noticia de una muerte que había conmocionado a gran parte de la ciudad. El obispo de la Basílica Mayor de la ciudad había muerto en extrañas circunstancias.
 
                         El padre Henry era muy querido por la comunidad. Los miembros de ésta destacaban sus constantes labores altruistas en pro de la población, además de su capacidad para integrar las distintas creencias del pueblo.
@@ -170,7 +172,7 @@
             <div class="card  mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/F6zrhv7/manzana.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">La manzana Asesina</h5>
+                    <h5 class="card-title; text-center" id="color">La manzana Asesina</h5>
                     <p class="card-text">
                         Érase una vez, un pequeño pueblo llamado San Pedro de los Vinos. <br>
                         En él, la comisaría de su pequeño cuerpo de policía se encontraba de luto,
@@ -226,8 +228,8 @@
             <div class="card mx-auto d-block" style="width: 30rem">
                 <img src="https://i.ibb.co/rshx7tK/dormilo.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">El Policia Dormilon</h5>
-                    <p class="card-text">Había una vez un policía al que le gustaba mucho dormir.<br>
+                    <h5 class="card-title; text-center" id="color">El Policia Dormilon</h5>
+                    <p class="card-text">Había una vez un policía al que le gustaba mucho dormir.
                         Por eso se quedaba dormido en cualquier parte.
                         Lo mismo le daba dormir sobre la mesa de su oficina en la comisaría que en el coche patrulla mientras estaba estacionado vigilando. <br>
                         <br>Por eso todos le llamaban el policía dormilón.
@@ -287,8 +289,8 @@
             <div class="card card mx-auto d-block" style="width: 30rem;">
                 <img    src="https://i.ibb.co/VLkWn7s/descarga2.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">El extraño caso del ladrón de bicicletas que calzaba chancletas</h5>
-                    <p class="card-text">En Villa Rueda del Camino Escarpado se celebraba todos los años una competición muy especial:
+                    <h5 class="card-title; text-center" id="color">El extraño caso del ladrón de bicicletas que calzaba chancletas</h5>
+                    <p class="card-text"><br>En Villa Rueda del Camino Escarpado se celebraba todos los años una competición muy especial:
                         una carrera de bicicletas. Pero no era una carrera cualquiera.
                         Lo especial del evento era que los ciclistas no podían llevar zapatillas de deporte ni ropa deportiva convencional.
                         Eso hacía que la carrera de bicicletas de Villar Rueda del Camino Escarpado se convirtiera en una fiesta que recordaba más a un carnaval que a un evento deportivo.
@@ -339,7 +341,7 @@
             <div class="card mx-auto d-block" style="width: 30rem">
                 <img src="https://i.ibb.co/Mp0DnQx/uvas.jpg"   class="card-img-top" alt="..." height="250">
                 <div class="card-body">
-                    <h5 class="card-title">El ladrón de uvas</h5>
+                    <h5 class="card-title; text-center" id="color">El ladrón de uvas</h5>
                     <p class="card-text">Amadeo, el profesor de matemáticas, llevaba todos los días al cole un buen tazón de uvas para tomar a media mañana.<br>
                         Todos los niños lo sabían y muchos seguían su ejemplo.<br>
 
@@ -386,7 +388,7 @@
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/BKK6hty/libro.jpg"  class="card-img-top" alt="..." height="250">
                 <div class="card-body">
-                    <h5 class="card-title">El Ladrón de libros viejos</h5>
+                    <h5 class="card-title; text-center" id="color">El Ladrón de libros viejos</h5>
                     <p class="card-text">
                         Había una vez un ladrón que se dedicaba a robar libros viejos. Al principio nadie le dio importancia. Es más, muchos terminaban agradeciéndole que se los llevara. Porque hay mucha gente a la que le cuesta deshacerse de las cosas que ya no usa, aunque estén viejas, y les da pereza hacer algo con ellas. ¡Con lo fácil que es donarlas!
 

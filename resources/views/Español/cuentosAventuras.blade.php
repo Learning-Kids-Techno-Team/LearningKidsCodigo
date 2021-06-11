@@ -89,7 +89,8 @@
 
         </div>
         <div class="col-md-8 " >
-            <h2 id="color">Cuentos De Aventuras </h2>
+            <br>
+            <h2 id="color" class="text-center">Cuentos De Aventuras </h2>
             <p ><strong>
                     Aunque es un género más propio de la novela, también hay muchos cuentos de aventuras originales y adaptado a niños y adultos. Estos se caracterizan por el ritmo acelerado de la narración, donde los personajes viven aventuras en las que el riesgo o el misterio siempre está presente.
 
@@ -119,7 +120,7 @@
             <div class="card" style="width: 30rem">
                 <img src="https://i.ibb.co/HF5bCH3/pirata.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">Las Aventuras del pirata Caraderrata</h5>
+                    <h5 class="card-title; text-center" id="color">Las Aventuras del pirata Caraderrata</h5>
                     <p class="card-text">Había una vez un pirata muy feo al que todos llamaban Caraderrata. El pirata Caraderrata se sentía muy ofendido por el apodo. Pero no decía nada, porque no quería parecer débil. En lugar de eso, el pirata Caraderrata hacía todo lo posible por dañar a todo el que se cruzara en su camino. Era temible incluso con sus compañeros de tripulación.
 
                         Un día, el pirata Caraderrata fue apresado, junto con toda la tripulación del barco. Los llevaron a todos en un isla desierta y los encerraron en unas jaulas.
@@ -154,11 +155,11 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
+        <div class="col-md-6 justify-content-center pl-5">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/pXwpyyX/hadas.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">Las Hadas traviesas</h5>
+                    <h5 class="card-title; text-center" id="color">Las Hadas traviesas</h5>
                     <p class="card-text">
                         Había una vez unas hermanas hadas que eran muy traviesas.
                         Y también bastante desobedientes. Las hadas traviesas se pasaban el día haciendo cosas que a ellas
@@ -220,7 +221,7 @@
             <div class="card" style="width: 30rem">
                 <img src="https://i.ibb.co/f9ZJRpW/ovejas.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">Las tres Ovejas </h5>
+                    <h5 class="card-title; text-center" id="color">Las tres Ovejas </h5>
                     <p class="card-text">Los Túnez eran una familia de ovejas que vivían en el campo. Eran el abuelo, el padre y el hijo. Disfrutaban a diario de un prado con mucha hierba fresca para comer pero, un día, todo se secó.
 
                         El abuelo dijo que al otro lado del puente de piedra había un valle lleno de flores y hierba deliciosa para comer. Sin embargo, ninguna de las ovejas sabía que aquel puente de piedra estaba vigilado por un cruel troll que devoraba a todos los que pasaban por él. Cuando la oveja más pequeña, que era la más rápida, cruzó corriendo el monstruo salió y le gritó:
@@ -255,11 +256,11 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
+        <div class="col-md-6 justify-content-center pl-5">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/GQB2b6k/sapo.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">Lupo y sus Hermanos </h5>
+                    <h5 class="card-title; text-center" id="color">Lupo y sus Hermanos </h5>
                     <p class="card-text">
                         Lupo era un sapo muy especial que vivía en una charca con sus padres y sus hermanos pequeños. Le encantaba jugar entre los juncos y saltar al agua. Lo que pasaba es que estaba un poco celoso porque pensaba que sus padres hacían más caso a sus hermanos pequeños.
 
@@ -291,7 +292,7 @@
             <div class="card" style="width: 30rem">
                 <img src="https://i.ibb.co/YT4JsMV/e42e7303268ad9b434097a4f6e30449c.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">El troll que quería volar</h5>
+                    <h5 class="card-title; text-center" id="color">El troll que quería volar</h5>
                     <p class="card-text">Había una vez un troll que quería volar. Todo el mundo se reía de él, pero al troll le daba lo mismo.
 
                         -Yo quiero volar, y volaré -decía el troll a todo el que se reía de él.
@@ -344,11 +345,11 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
+        <div class="col-md-6 justify-content-center pl-5">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/VY1CjrF/globos.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">El viejo en globo de Loreto</h5>
+                    <h5 class="card-title; text-center" id="color">El viejo en globo de Loreto</h5>
                     <p class="card-text">
                         Loreto llevaba meses metida de lleno en su gran proyecto: un gran globo aerostático hecho a mano. Su idea era surcar el cielo de su ciudad de punta a punta explorando y divisando todo desde las alturas. Con un gran cesto de mimbre y retales de tela que había ido guardando, vio por fin cumplido su objetivo.
 
