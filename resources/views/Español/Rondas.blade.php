@@ -131,10 +131,10 @@
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid  center-block " >
     <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-3">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/162_b4Fg5s0PIRzxeO912wrZoautK4SrI/preview" width="470" height="200"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title">Tengo una muñeca </h5>
@@ -154,12 +154,12 @@
 
 
                    <br><br> Tengo una muñeca vestida de azul,<br>
-                    zapatitos blancos y gorro de tul.<br>
+                    zapatitos blancos y gorro de tul.<br><br><bR><bR>
 
-                   <br> La llevé a paseo y se me constipo,<br>
-                    la tengo en la cama con un gran dolor.<br>
+                   <br><br> La llevé a paseo y se me constipo,
+                    <br>la tengo en la cama con un gran dolor.<br><br><br>
 
-                  <br> <br> Dos y dos son cuatro, cuatro y dos son seis,<br>
+                  <br> <br><br><br> Dos y dos son cuatro, cuatro y dos son seis,<br>
                     seis y dos son ocho, y ocho dieciséis,<br>
                     y ocho veinticuatro, y ocho treinta y dos.<br>
                     Estas son las cuentas que he sacado yo.<br>
@@ -168,11 +168,11 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-3">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1CQiJogasr943FfPNng_M4zypIzay-o_I/preview" width="470" height="200"></iframe>
                 <div class="card-body">
-                    <h5 class="card-title">Matarile-rile-ro</h5>
+                    <h5 class="card-title">Matarile-rile-ro</h5><br>
 
                     <p><strong><br>Amo a to
                         Matarile rile ro<br>
@@ -180,10 +180,9 @@
                         Matarile rile ro
                         Yo quiero un paje<br>
                         Matarile rile ro<br>
-                        <br><br>Escoja usted
-                        Matarile rile ro
+                            Usted Matarile rile ro.
 
-                        <br>Escojo a ella
+                        <br><br><br>Escojo a ella
                         Matarile rile ro<br>
                         Que oficio le pondremos<br>
                         Matarile rile ro.<br>
@@ -191,15 +190,15 @@
                         Matarile rile ro<br>Ese oficio no le gusta<br>
                         Matarile rile ro<br>
 
-                        <br>Le pondremos planchadora<br>
+                        <br><br><br>Le pondremos planchadora<br>
                         Matarile rile ro<br>
                         Ese oficio no le gusta<br>
                         Matarile rile rio<br>
-                        Le pondremos bordadora<br>
+                       <br><br> Le pondremos bordadora<br>
                         Matarile rile ro<br>
                         Ese oficio no le gusta<br>
                         Matarilr rile ro<br><br>
-                        Le pondremos ser la reyna<br>
+                        <br><br><bR>Le pondremos ser la reyna<br>
                         Matarile rile ro<br>
                         Ese oficio si le gusta<br>
                         Matarile rile ro<br>
@@ -214,10 +213,10 @@
         </div>
 
 </div>
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid  " >
     <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-3">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1RUkweJ66bMHgNY8RUkKJ3AB0RGxfyKj7/preview" width="470" height="200"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title">El Patio de mi Casa </h5>
@@ -227,33 +226,33 @@
                         Agáchense y vuélvanse a agachar<br>
                         Las niñas bonitas se saben agachar.<br>
                         Chocolate, molinillo<br>
-                        Chocolate, molinillo<br><br><br><br>
+                        Chocolate, molinillo<br><br>
                         Estirar, estirar, que la reina va a pasar.<br>
                         Dicen que soy, que soy una cojita<br>
                         Y si lo soy, lo soy de mentiritas.<br>
                         Desde chiquita me quedé, me quedé.<br><br>
                         <br>Padeciendo de este pie<br>
-                        Padeciendo de este pie.<br><br>
+                        Padeciendo de este pie.<br><br><br><br>
                         El patio de mi casa <br>(Uh-oh, uh-oh)
                         El patio de mi casa <br>(Uh-oh, uh-oh).<br>
 
                         <br>El patio de mi casa (Uh-oh, uh-oh)<br>
-                        El patio de mi casa (Uh-oh, uh-oh)<br><br>
+                        El patio de mi casa (Uh-oh, uh-oh)<br>
                         Es particular, muy particular<br>
                         El patio de mi casa es particular<br>
                         Se moja y se seca como los demás.<br>
                        <br><br> <br>Agáchense y vuélvanse a agachar<br>
                         Las niñas bonitas se saben agachar.<br>
-                        Chocolate, molinillo<br>
-                        Chocolate, molinillo.<br>
-                        <br><br>Estirar, estirar, que la reina va a pasar<br>
+                        Chocolate, molinillo
+                        Chocolate, molinillo.<br><br>
+                        <br><br><bR></bR>Estirar, estirar, que la reina va a pasar<br>
                         Dicen que soy, que soy una cojita
                         Y si lo soy, lo soy de mentiritas.
                         Desde chiquita me quedé, me quedé.<br><br>
                        <br> Padeciendo de este pie<br>
                         Padeciendo de este pie<br><br>
                         <br>El patio de mi casa (Uh-oh, uh-oh)<br>
-                        El patio de mi casa (Uh-oh, uh-oh)<br><br><br>
+                        El patio de mi casa (Uh-oh, uh-oh)<br><br>
 
                         <br><br>El patio de mi casa (Uh-oh, uh-oh)<br>
                         El patio de mi casa (Uh-oh, uh-oh)<br><br>
@@ -265,13 +264,24 @@
                         El patio de mi casa (Uh-oh, uh-oh)<br>
                         Es particular, muy particular<br>
                    <br><br>
+                            <br>El patio de mi casa es particular<br>
+                            Se moja y se seca como los demás<br>
+                            Agáchense y vuélvanse a agachar<br>
+                            Las niñas bonitas se saben agachar.<br>
+                            Chocolate, molinillo<br>
+                            Chocolate, molinillo<br><br><br>
+                            El patio de mi casa (Uh-oh, uh-oh)<br>
+                            El patio de mi casa (Uh-oh, uh-oh)<br>
+                            Es particular, muy particular<br>
+
+
                         </strong> </p>
 
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-3">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1NWS_nfme280dTnZZS8vAywxM_3mwPF91/preview" width="470" height="200"></iframe>
                 <div class="card-body">
                     <h5 class="card-title">Las calaveras </h5>
@@ -279,16 +289,16 @@
                     <p><strong> <br><br>Cuando el reloj marca la una<br>
                         Las calaveras salen de su tumba<br>
                         Chúmbala, cachúmbala, cachúmbala<br>
-                        Chúmbala, cachúmbala, cachúmbala<br><br>
-                        Cuando el reloj marca las dos
+                        Chúmbala, cachúmbala, cachúmbala<br><br><br>
+                        <bR><br>Cuando el reloj marca las dos
                         <br>Las calaveras se mueren de tos<br>
-                        Chúmbala, cachúmbala,<br> cachúmbala
-                        Chúmbala, cachúmbala,<br> cachúmbala
-                        Cuando el reloj marca las tres<br>
+                        Chúmbala, <br>cachúmbala,<br> cachúmbala
+                        Chúmbala,<br> cachúmbala,<br> cachúmbala<br>
+                        <br>Cuando el reloj marca las tres<br>
                         Las calaveras se paran al revés<br>
                         Chúmbala, cachúmbala, cachúmbala<br> (Yo aquí, y yo allá)
-                        Chúmbala, cachúmbala, cachúmbala<br>
-                        Cuando el reloj marca las cuatro<br><br>
+                        Chúmbala, cachúmbala, <br>cachúmbala<br>
+                        Cuando el reloj marca <br>las cuatro<br>
                         <br>Las calaveras se quitan los zapatos<br>
                         Chúmbala, cachúmbala, cachúmbala<br>
                         Chúmbala, cachúmbala, cachúmbala<br>
@@ -301,29 +311,29 @@
                         Chúmbala, cachúmbala,<br> cachúmbala<br>
                         Chúmbala, cachúmbala,<br> cachúmbala<br>
                         <br>Cuando el reloj marca las siete<br>
-                        Las calaveras se peinan el copete
+                        Las calaveras se peinan el copete<br>
                         Chúmbala, cachúmbala,<br> cachúmbala<br>
                         Chúmbala, cachúmbala, <br>cachúmbala.
                         Cuando el reloj marca las ocho<br><br>
                         Las calaveras se comen un bizcocho<br>
-                        Chúmbala, cachúmbala, <br>cachúmbala
-                        Chúmbala, cachúmbala, <br>cachúmbala.
+                        Chúmbala,<br>cachúmbala, <br>cachúmbala
+                        Chúmbala,<br> cachúmbala, cachúmbala.<br>
                         Cuando el reloj marca las nueve.<br>
-                        Las calaveras se comen<br> su nieve<br>
+                        Las calaveras se comen su nieve<br>
                         Chúmbala, cachúmbala, cachúmbala<br>
-                        Chúmbala, cachúmbala, cachúmbala<br>
+                        Chúmbala, cachúmbala, cachúmbala.<br><br>
                         <br><br>Cuando el reloj marca las diez<br>
                         Las calaveras cantan en inglés<br>
                         Chúmbala, cachúmbala,<br> cachúmbala
                         Chúmbala, cachúmbala,<br> cachúmbala
-                        Cuando el reloj marca las once.
-                        Las calaveras no se conocen
-                        Chúmbala, cachúmbala, cachúmbala <br>
+                        Cuando el reloj marca las once.<br>
+                        Las calaveras no se conocen<br>
+                        Chúmbala, cachúmbala,<br> cachúmbala <br>
                         Chúmbala, cachúmbala, cachúmbala<br>
-                        Cuando el reloj marca las  doce<br><br><br>
+                        Cuando el reloj marca las  doce<br>
                        <br> Las calaveras pasean en coche.<br>
                         Chúmbala, cachúmbala,<br> cachúmbala
-                        Chúmbala, cachúmbala,<br> cachúmbala.
+                        Chúmbala, <br>cachúmbala,cachúmbala.<br>
                         Cuando el reloj marca la una<br>
                         Las calaveras vuelven a sus tumbas
                         Chúmbala, cachúmbala, cachúmbala.<br>
@@ -340,20 +350,20 @@
     </div>
 
 </div>
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid " >
     <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-3">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1Cnq60GReXJFvxxRapX4WMolBonkwlHzY/preview" width="470" height="200"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title">La Pajara Pinta </h5>
 
-                    <p><strong> Estaba la pájara pinta<br>
-                        sentada en un verde limón.<br>
+                    <p><strong> <br>Estaba la pájara pinta<br>
+                            sentada en un verde limón.<br>
                         Con el pico cortaba la rama,<br>
                         con la rama cortaba la flor.<br>
                         Ay, ay, ay!<br>
-                        Cuándo vendrá mi amor...<br><br>
+                        Cuándo vendrá mi amor...<br>
 
                         Me arrodillo a los pies de mi<br> amante,
                         me levanto <br>constante, constante.<br>
@@ -363,7 +373,7 @@
                         Daré la media vuelta,<br>
                         Daré la vuelta entera,<br>
                         Con un pasito atrás,<br>
-                        Haciendo la reverencia.<br>
+                        Haciendo la reverencia.<br><br>
 
                         Pero no, pero no, pero no,<br>
                         porque me da vergüenza,<br>
@@ -376,13 +386,13 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-3">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1P8lwPud4wSzs_pcnV-YjumSPWNA33OdG/preview" width="470" height="200"></iframe>
                 <div class="card-body">
                     <h5 class="card-title">Aserrín aserrán </h5>
 
-                    <p><strong> Aserrín aserrán
+                    <p><strong> Aserrín aserrán<br>
 
                         los <br>maderos de San Juan<br>
 
@@ -435,10 +445,10 @@
 
 </div>
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid" >
     <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-3">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1iQAWepVvA9lZ-B4F8dXsgmnN8LuXj0Sc/preview" width="470" height="200"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title">Naranja Dulce</h5>
@@ -468,8 +478,8 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-3">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1PlKx4qmqc2ZShLXb7pQEC-bV3wc_Ueoe/preview" width="470" height="200"></iframe>
                 <div class="card-body">
                     <h5 class="card-title">Los pollos de mi cazuela </h5>

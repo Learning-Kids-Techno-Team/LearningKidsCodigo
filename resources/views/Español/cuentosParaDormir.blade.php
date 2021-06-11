@@ -85,12 +85,12 @@
 <!-- contenedor del gif-->
 <div class="container-fluid" id="h">
     <div class="row ">
-        <div class="col-md-4 " >
+        <div class="col-md-4" >
             <img class="mx-auto d-block"  src="https://i.ibb.co/z6dF8ZQ/d-removebg-preview.png"    width="300" />
 
         </div>
-        <div class="col-md-8 " >
-            <h2 id="color">Cuentos Para Dormir </h2>
+        <div class="col-md-8" >
+            <h2 id="color" align="center">Cuentos Para Dormir </h2>
             <p ><strong>
                     Los cuentos para dormir generan espacios de lectura en familia. Son ideales para disfrutar antes de acostarse ya que las historias son concisas y
                     no requieren demasiado tiempo de lectura. Sin embargo, son la excusa perfecta para iniciar un diálogo.
@@ -104,7 +104,7 @@
 
 <!-- contenedor de la estrella-->
 <div class="container-fluid " id="banderin" >
-    <div class="row " >
+    <div class="row">
         <div class="col-md-12">
 
         </div>
@@ -112,12 +112,12 @@
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem">
-                <img src="https://i.ibb.co/D56YkRQ/s.jpg"   class="card-img-top" alt="..." height="300">
+            <div class="card mx-auto d-block" style="width: 30rem">
+                <img src="https://i.ibb.co/D56YkRQ/s.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">La Gallina Roja</h5>
                     <p class="card-text">Érase una vez una gallinita roja que encontró un grano de trigo.
@@ -183,8 +183,6 @@
                         Y se comió todo el pan.<br><br><br>
 
                         <br>Moraleja: No esperes recompensa sin colaborar con el trabajo.
-
-
                   </p>
                     <audio  id="player" src="AudiosEspañol/cuentos/La gallinita roja.mp3" controls >
                     </audio>
@@ -192,8 +190,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/bB9Ty3s/la-liebre-y-la-tortuga.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">La Liebre y la Tortuga</h5>
@@ -223,23 +221,19 @@
                         Cuando la tortuga se acercó a la meta, todos los animales del bosque comenzaron a gritar de emoción. Los gritos despertaron a la liebre, que no podía dar crédito a sus ojos: la tortuga estaba cruzando la meta y ella había perdido la carrera.
 
                         Moraleja: Ten una buena actitud y no te burles de los demás. Puedes ser más exitoso haciendo las cosas con constancia y disciplina que actuando rápida y descuidadamente.
-
-
                     </p>
                     <audio  id="player" src="AudiosEspañol/cuentos/La liebre y la tortuga.mp3" controls >
                     </audio>
                 </div>
             </div>
         </div>
-
     </div>
 </div>
 <!-- contenedor 2 -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-
-            <div class="card" style="width: 30rem">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem">
                 <img src="https://i.ibb.co/9tzrSMV/Tio.png"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">Tio Tigre y tío Conejo </h5>
@@ -265,7 +259,6 @@
 
                         Moraleja: Más vale ser astuto que fuerte.
 
-
                     </p>
                     <audio  id="player" src="AudiosEspañol/cuentos/Tio tigre y tio conejo.mp3" controls >
                     </audio>
@@ -273,8 +266,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/zrMngyv/leon.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">El León y el Raton </h5>
@@ -295,8 +288,6 @@
                         El león agradeció al ratón por haberlo salvado y desde ese día comprendió que todos los seres son importantes.<br>
 
                        <br> Moraleja: No menosprecies a los demás, todos tenemos las cualidades que nos hacen muy especiales.
-
-
                     </p>
                     <audio  id="player" src="AudiosEspañol/cuentos/El leon y el raton.mp3" controls >
                     </audio>
@@ -305,11 +296,11 @@
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem">
+            <div class="card mx-auto d-block" style="width: 30rem">
                 <img src="https://i.ibb.co/L5BnznM/rata.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">La Ratita Presumida</h5>
@@ -381,9 +372,6 @@
                         no solo era presumida sino también muy suertuda, esta hubiera sido una muy triste historia.<br>
 
                         <br>Y colorín colorado, este cuento se ha acabado.
-
-
-
                     </p>
                     <audio  id="player" src="AudiosEspañol/cuentos/La ratita presumida.mp3" controls >
                     </audio>
@@ -391,8 +379,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/HFL3tTT/enano.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">El enano saltarín</h5>
@@ -450,10 +438,7 @@
                         —¡Te llamas Rumpelstiltskin!
 
                         Y el enano saltarín desapareció para siempre.
-
                     </p>
-
-
                     <audio  id="player" src="AudiosEspañol/cuentos/El enano saltarin.mp3" controls >
                     </audio>
                 </div>
@@ -462,10 +447,6 @@
 
     </div>
 </div>
-
-
-
-
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>

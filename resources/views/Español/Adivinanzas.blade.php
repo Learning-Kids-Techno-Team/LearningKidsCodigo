@@ -184,7 +184,7 @@
     <div class="container-fluid center-block pl-5 d-flex justify-content-center">
         <div class="row">
             <div  class="col-md-6 pb-5">
-        <div class="card" style="width: 18rem;">
+        <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/hdgRwK2/icon.webp" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas de<br> transportes</h5>
@@ -195,8 +195,8 @@
 <!-- tarjeta5 -->
 
             <div class="col-md-6 pb-5">
-        <div class="card" style="width: 18rem;">
-            <img src="https://i.ibb.co/Hpb4517/jghi.jpg" class="card mx-auto d-block" height="150" width="220">
+        <div class="card mx-auto d-block" style="width: 18rem;">
+            <img src="https://i.ibb.co/Hpb4517/jghi.jpg" class=" mx-auto d-block" height="150" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas<br> cortas</h5>
                 <a href=" {{ url('/adivinanzasCortas') }}" class="btn">Leer</a>

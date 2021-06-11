@@ -52,7 +52,11 @@
         }
 
         p{
-            text-align: center;
+            text-align: justify;
+            font-style: italic;
+            margin-left:15%;
+            margin-right: 15%;
+
         }
 
 
@@ -94,24 +98,25 @@
 <div class=" mx-auto d-block" style="background:#D8E2F3 ">
     <img src="https://i.ibb.co/VMTYwS7/nino-riendo-carcajadas-43633-2782-removebg-preview.png" height="150" class="mx-auto d-block "/>
     <h2 class="text-center" >
-        Chistes
+        ¿Qué son los Chistes?
     </h2>
 
-    <p class="">
-        <strong><em>
-                <br>Un chiste o chascarrillo es una narración oral o escrita breve, ficticia y humorística que es graciosa y suscita a la risa.<br>
-                A veces también puede ser satírico, irónico, crítico o burlesco.
-                Contiene un juego verbal o conceptual capaz de mover a risa y fundado en el humor.
-            </em></strong> </p>
+            <p class="text-justify">
+                <strong><em>
+                        <br> <br>Un chiste o chascarrillo es una narración oral o escrita breve, ficticia y humorística que es graciosa y suscita a la risa.
+                        A veces también puede ser satírico, irónico, crítico o burlesco.<br>
+                        Contiene un juego verbal o conceptual capaz de mover a risa y fundado en el humor.Muchas veces se presenta ilustrado por un dibujo (chiste gráfico) y constituye uno de los principales géneros jocosos.
+                        Se debe distinguir de la broma, que consiste en crear una situación cómica a partir de una persona, una situación o un evento real.
+                    </em></strong> </p>
+        </div>
+    </div>
 </div>
-
-
 
 <!-- tarjetas tipos de cuentos -->
 <div class="container-fluid">
 <div class="row"  style="background: #bce0ee" >
     <!-- tarjeta1 -->
-    <div class="col-md-3 p-5" >
+    <div class="col-md-3 p-5">
         <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/0n1bJXt/doc3.jpg" alt="doc3" class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
@@ -190,7 +195,6 @@
     </div>
     <!-- tarjeta6 -->
     <div class="col-md-3 p-5">
-
         <div class="card mx-auto d-block" style="width: 18rem;">
             <img   src="https://i.ibb.co/NCQS6Dw/maes2.jpg" alt="maes2"  class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
@@ -200,7 +204,6 @@
                     - Muy bien Jaimito, muy bien.</h5>
             </div>
             <audio  id="player" src="AudiosEspañol/chistes/chiste6.mp3" controls >
-
             </audio>
              </div>
     </div>
@@ -228,7 +231,6 @@
                     <BR>- Alguien debe sacrificarse... </h5>
             </div>
             <audio  id="player" src="AudiosEspañol/chistes/chiste8.mp3" controls >
-
             </audio>
         </div>
     </div>
@@ -244,8 +246,7 @@
                 <h5 class="card-title" align="center"> Están dos piojos en la cabeza de un señor calvo,<br> y uno le dice al otro:
                     <br>- Alfredo, vámonos de aquí que este terreno ya está pavimentado.</h5>
             </div>
-            <audio  id="player" src="AudiosEspañol/chistes/chiste9.mp3" controls >
-
+            <audio  id="player" src="AudiosEspañol/chistes/chiste9.mp3" controls>
             </audio>
         </div>
     </div>
@@ -257,8 +258,7 @@
                 <h5 class="card-title" align="center"> <br> - ¿Qué le dice un gusano a otro gusano?<br>
                     <br> - Me voy a dar una vuelta a la manzana.</h5>
             </div>
-            <audio  id="player" src="AudiosEspañol/chistes/chiste10.mp3" controls >
-
+            <audio  id="player" src="AudiosEspañol/chistes/chiste10.mp3" controls>
             </audio>
         </div>
     </div>
@@ -271,8 +271,7 @@
                     - ¿Qué haces ahí sentada?<br>
                     - Estoy esperando un ratito<br></h5>
             </div>
-            <audio  id="player" src="AudiosEspañol/chistes/chiste11.mp3" controls >
-
+            <audio  id="player" src="AudiosEspañol/chistes/chiste11.mp3" controls>
             </audio>
         </div>
     </div>
@@ -290,14 +289,10 @@
         </div>
     </div>
 </div>
-        </div>
-</div>
-
 
 <!-- separador -->
 <div id="separadorInferior2">
     <div class="content ">
-
     </div>
 </div>
 
