@@ -98,7 +98,8 @@
 
         </div>
         <div class="col-md-8 " >
-            <h2 id="color">Cuentos Terror</h2>
+            <br>
+            <h2 id="color" class="text-center">Cuentos Terror</h2>
             <p ><strong>
                 Estos cuentos buscan infundir el miedo o el escalofrío en los lectores a través de temas como la muerte,
                 catástrofes, crímenes, etc.
@@ -124,9 +125,9 @@
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid  justify-content-center pl-5" >
+    <div class="row m-5   " >
+        <div class="col-md-6  ">
             <!-- tarjeta 1 -->
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/X4WXTB6/fantasma.jpg" class="card-img-top" alt="..." height="300">
@@ -168,7 +169,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
+        <div class="col-md-6  justify-content-center pl-5 ">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/5RcYXzc/dientes.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
@@ -215,6 +216,7 @@
 
                         Su madre esbozó una sonrisa que se hacía más y más ancha, dejando entrever unos dientes espantosos, largos y afilados como los de una fiera.
 
+
                         Pobre Juan, si estaba soñando, no podía despertar… y si era realidad, ya no tenía cómo escapar.</p>
                     <audio  id="player" src="AudiosEspañol/cuentos/Los  dientes.mp3" controls >
                     </audio>
@@ -256,7 +258,7 @@
                 </div>
             </div>
         </div>
-                <div class="col-md-4">
+                <div class="col-md-4 justify-content-center pl-5">
                     <div class="card" style="width: 30rem;">
                         <img  src="https://i.ibb.co/KbRq6hD/Senor-salcedo-thumb.png" class="card-img-top" alt="...">
                         <div class="card-body">
@@ -340,7 +342,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6  ">
+        <div class="col-md-6  justify-content-center pl-5 ">
             <div class="card" style="width: 30rem;">
                 <img  src="https://i.ibb.co/g4bWLNK/Dedo-peludo-thumb.png"  class="card-img-top" alt="...">
                 <div class="card-body">

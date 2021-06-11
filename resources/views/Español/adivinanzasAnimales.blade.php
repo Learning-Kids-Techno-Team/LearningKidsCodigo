@@ -146,7 +146,7 @@
 
         </div>
         <div class="col-md-8 " >
-            <h2 id="color"><em><br>Adivinanzas de Animales!</em></h2>
+            <h2 id="color"><em><br>¡Adivinanzas de Animales!</em></h2>
             <p><em><br>
                     Las adivinanzas de animales ayudan al niño a pensar y ejercitar la mente de forma entretenida. Debido a que, se muestran como un divertido juego para el pequeño. Aprovecha los acertijos y realiza actividades didácticas y alegres donde el niño aprenda los nombres y características de cada animal.
                 </em></p>
@@ -157,16 +157,16 @@
 
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid  " >
+    <div  class="row " >
+        <div class="col-md-4 p-5">
 
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block " style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
-                    <p class="card-text">1- Canto en la orilla, vivo en el agua, no soy pescado ni cigarra. ¿Quién soy?<BR><BR></p>
+                    <p class="card-text">1- Canto en la orilla, vivo en el agua, no soy pescado ni cigarra. <br><br>¿Quién soy?<BR><BR></p>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/AnimalesNum1.mp3" controls >
                     </audio>
                     <h6 id="demo1"></h6>
@@ -176,12 +176,12 @@
         </div>
 
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
-            <div id="tar2" class="card" style="width: 18rem;">
+        <div class="col-md-4 p-5">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
-                    <p class="card-text">2- El roer es mi trabajo, el queso mi aperitivo y el gato siempre será mi más temido enemigo. ¿Quién soy?</p>
+                    <p class="card-text">2- El roer es mi trabajo, el queso mi aperitivo y el gato siempre será mi más temido enemigo. <br><br>¿Quién soy?</p>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/Num2.mp3" controls >
                     </audio>
                     <h6 id="demo2"></h6>
@@ -191,8 +191,8 @@
         </div>
 
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div id="tar3" class="card" style="width: 18rem;">
+        <div class="col-md-4 p-5">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
@@ -209,15 +209,15 @@
 </div>
 
 <!-- contenedor 2 -->
-<div class="container-fluid   center-block pl-5  " >
-    <div class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid   " >
+    <div class="row " >
+        <div class="col-md-4 p-5">
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
-                    <p class="card-text">4- Dos pinzas tengo y hacia atrás camino, de mar o de río en el agua vivo. ¿Quién soy?</p>
+                    <p class="card-text">4- Dos pinzas tengo y hacia atrás camino, de mar o de río en el agua vivo.<br> ¿Quién soy?</p>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/Num4.mp3" controls >
                     </audio>
                     <h6 id="demo4"></h6>
@@ -226,8 +226,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4  ">
-            <div id="tar2" class="card" style="width: 18rem;">
+        <div class="col-md-4  p-5">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
@@ -240,12 +240,12 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div id="tar3" class="card" style="width: 18rem;">
+        <div class="col-md-4 p-5">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
-                    <p class="card-text">6- No es cama ni es león, y desaparece en cualquier rincón. ¿Quién es?</p>
+                    <p class="card-text">6- No es cama ni es león, y desaparece en cualquier rincón.<br> <br>¿Quién es?</p>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/Num6.mp3" controls >
                     </audio>
                     <h6 id="demo6"></h6>
@@ -258,15 +258,15 @@
 </div>
 
 <!-- contenedor3 -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid " >
+    <div class="row" >
+        <div class="col-md-4 p-5">
             <!-- tarjeta 7 -->
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
-                    <p class="card-text">7- Vuelo entre las flores, vivo en una colmena, fabrico miel y también cera. ¿Quién soy?</p>
+                    <p class="card-text">7- Vuelo entre las flores, vivo en una colmena, fabrico miel y también cera. <br>¿Quién soy?</p>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/Num7.mp3" controls >
                     </audio>
                     <h6 id="demo7"></h6>
@@ -275,12 +275,12 @@
             </div>
         </div>
         <!-- tarjeta 8 -->
-        <div class="col-md-4 ">
-            <div id="tar2" class="card" style="width: 18rem;">
+        <div class="col-md-4 p-5">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
-                    <p class="card-text">8- Soy un insecto que vuela entre las flores, tengo dos alitas de muchos colores. ¿Quién soy?</p>
+                    <p class="card-text">8- Soy un insecto que vuela entre las flores, tengo dos alitas de muchos colores. <br>¿Quién soy?</p>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/Num8.mp3" controls >
                     </audio>
                     <h6 id="demo8"></h6>
@@ -289,8 +289,8 @@
             </div>
         </div>
         <!-- tarjetas9 -->
-        <div class="col-md-4">
-            <div id="tar3" class="card" style="width: 18rem;">
+        <div class="col-md-4 p-5">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9WGwYQw/animales.jpg" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
@@ -318,6 +318,7 @@
 </div>
 
 <!-- separador -->
+
 <div id="separadorInferior">
     <div class="content">
     </div>
