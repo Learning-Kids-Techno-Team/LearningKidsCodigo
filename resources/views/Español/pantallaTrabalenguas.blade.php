@@ -121,11 +121,11 @@
 
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" id="colorTarjetas">
-    <div class="row m-5" >
+<div class="container-fluid pt-5 " id="colorTarjetas">
+    <div class="row" >
         <!-- tarjeta 1 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;" width="200">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem;" >
                 <div class="card-body">
                     <p class="card-text">El Lunes le dijo al Martes,
 
@@ -147,31 +147,31 @@
         </div>
         <!-- tarjeta 2 -->
 
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;" width="200">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem; height: 255px" >
                 <div class="card-body">
                     <p class="card-text">La bruja piruja prepara un brebaje con cera de abejas,
                         dos dientes de ajo,
                         cuatro lentejas
                         y pelos de pura oveja.
-                    </p><br>
+                    </p>
+                    <br>
                 </div>
                 <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua2.mp3" controls >
-
                 </audio>
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
-                <div class="card-body" width="200">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem;">
+                <div class="card-body">
                     <p class="card-text"> Un limón y medio limón,
                         dos limones y medio limón,
                         tres limones y medio limón,
                         cuatro limones y medio limón,
                         cinco limones y medio limón.</p>
-
                 </div>
+                  <br>
                 <audio  id="player" src="AudiosEspañol/trabalenguas/trabalengua3.mp3" controls >
 
                 </audio>
@@ -183,11 +183,11 @@
 
 
 <!-- contenedor 2 -->
-<div class="container-fluid  center-block pl-5 " id="colorTarjetas">
-    <div class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid " id="colorTarjetas">
+    <div class="row" >
+        <div class="col-xl-4 p-3">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"> Erre con erre, guitarra;
@@ -202,8 +202,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block " style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"> El perro de San Roque no tiene rabo
@@ -216,8 +216,8 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem; height: 219px">
                 <div class="card-body">
 
                     <p class="card-text"> Se sienta el que tiene sesenta, se sienta el que se encuentra cansado. Si sientes que tienes sesenta, el asiento te has ganado. </p>
@@ -232,11 +232,11 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid" >
+    <div class="row" >
+        <div class="col-xl-4 p-3">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
                          <br>
                     <p class="card-text"> A Cuesta le cuesta subir la cuesta,
@@ -249,8 +249,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"> Pepe pela patatas
@@ -266,8 +266,8 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"> Los cojines de la reina,
@@ -285,11 +285,11 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid " >
+    <div class="row" >
+        <div class="col-xl-4 p-3">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"> Cuando cuentes cuentos
@@ -305,8 +305,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem; height: 225px">
                 <div class="card-body">
 
                     <p class="card-text"> Mariana Magaña
@@ -321,8 +321,8 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem; height: 225px">
                 <div class="card-body">
 
                     <p class="card-text"> El perro en el barro, rabiando rabea: su rabo se embarra
@@ -338,11 +338,11 @@
 </div>
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid" >
+    <div class="row" >
+        <div class="col-xl-4 p-3">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"> El hipopótamo Hipo
@@ -357,8 +357,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem; height: 215px">
                 <div class="card-body">
 
                     <p class="card-text"> Había una caracatrepa
@@ -373,8 +373,8 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem; height: 215px">
                 <div class="card-body">
 
                     <p class="card-text"> Pedro Pérez Pita pintor perpetuo
@@ -393,11 +393,11 @@
 </div>
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-4 p-3">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text">
@@ -409,8 +409,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body"><br><br>
                     <p class="card-text"> El que compra pocas capas
                         pocas capas paga
@@ -423,8 +423,8 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text">
@@ -445,11 +445,11 @@
 </div>
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid " >
+    <div class="row" >
+        <div class="col-xl-4 p-3">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"><br></br>Una, dola,
@@ -472,8 +472,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"><br><br>Juan tuvo un tubo,
@@ -490,8 +490,8 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"> <br>Nadie pica piedra como Pedro Pica Piedra
@@ -512,10 +512,10 @@
 </div>
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+<div class="container-fluid" >
+    <div class="row" >
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text">¿Por qué a la cama se llama cama,
@@ -532,8 +532,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"><br>Luengas lenguas hace falta para no trabalenguarse,
@@ -548,8 +548,8 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"><br> Te quiero porque me quieres,
@@ -570,11 +570,11 @@
 </div>
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid" >
+    <div class="row" >
+        <div class="col-xl-4 p-3">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"><br> <br>Yo no quiero que me quieras porque yo te quiero a ti.
@@ -587,9 +587,9 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 p-3">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text">Tengo una muñeca despescuecipelicrespa,
@@ -608,9 +608,9 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 p-3">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <div class="card-body">
 
                     <p class="card-text"> <br> <br>El dragón tragón tragó carbón y quedó panzón.

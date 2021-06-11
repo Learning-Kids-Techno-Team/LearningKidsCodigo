@@ -67,6 +67,7 @@
         #color{
             color: blue;
             height: 80px;
+            text-align: center;
 
 
 
@@ -132,8 +133,8 @@
     </div>
 </div>
 <div class="container-fluid  center-block " >
-    <div class="row m-5" >
-        <div class="col-md-6 p-3">
+    <div class="row" >
+        <div class="col-xl-6 p-3">
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/162_b4Fg5s0PIRzxeO912wrZoautK4SrI/preview" width="470" height="200"></iframe>
                 <div class="card-body" id="im">
@@ -168,7 +169,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6 p-3">
+        <div class="col-xl-6 p-3">
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1CQiJogasr943FfPNng_M4zypIzay-o_I/preview" width="470" height="200"></iframe>
                 <div class="card-body">
@@ -214,8 +215,8 @@
 
 </div>
 <div class="container-fluid  " >
-    <div class="row m-5" >
-        <div class="col-md-6 p-3">
+    <div class="row" >
+        <div class="col-xl-6 p-3">
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1RUkweJ66bMHgNY8RUkKJ3AB0RGxfyKj7/preview" width="470" height="200"></iframe>
                 <div class="card-body" id="im">
@@ -280,7 +281,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6 p-3">
+        <div class="col-xl-6 p-3">
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1NWS_nfme280dTnZZS8vAywxM_3mwPF91/preview" width="470" height="200"></iframe>
                 <div class="card-body">
@@ -351,8 +352,8 @@
 
 </div>
 <div class="container-fluid " >
-    <div class="row m-5" >
-        <div class="col-md-6 p-3">
+    <div class="row" >
+        <div class="col-xl-6 p-3">
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1Cnq60GReXJFvxxRapX4WMolBonkwlHzY/preview" width="470" height="200"></iframe>
                 <div class="card-body" id="im">
@@ -387,7 +388,7 @@
 
             </div>
         </div>
-        <div class="col-md-6 p-3">
+        <div class="col-xl-6 p-3">
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1P8lwPud4wSzs_pcnV-YjumSPWNA33OdG/preview" width="470" height="200"></iframe>
                 <div class="card-body">
@@ -447,8 +448,8 @@
 </div>
 
 <div class="container-fluid" >
-    <div class="row m-5" >
-        <div class="col-md-6 p-3">
+    <div class="row" >
+        <div class="col-xl-6 p-3">
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1iQAWepVvA9lZ-B4F8dXsgmnN8LuXj0Sc/preview" width="470" height="200"></iframe>
                 <div class="card-body" id="im">
@@ -479,7 +480,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6 p-3">
+        <div class="col-xl-6 p-3">
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <iframe src="https://drive.google.com/file/d/1PlKx4qmqc2ZShLXb7pQEC-bV3wc_Ueoe/preview" width="470" height="200"></iframe>
                 <div class="card-body">

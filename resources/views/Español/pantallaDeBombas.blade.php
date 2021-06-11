@@ -101,7 +101,7 @@
                 La mujer comienza lanzando la bomba hacia su compañero y éste debera contestarle de la mejor manera posible para no quedar avergonzado frente a todos y asi continuan hasta que hayan participado los que deseen o hasta que les acabe el ingenio.
             </em></strong> </p>
 </div>
-<div class="container-fluid d-flex justify-content-center p-5" >
+<div class="container-fluid d-flex justify-content-center" >
     <div class="row " >
         <div class="col-md-12 ">
             <div class="card" style="width: 40rem;">
@@ -117,10 +117,12 @@
 
 
 <!-- tarjetas tipos de cuentos -->
+
+
 <div class="container-fluid">
     <div class="row"  style="background: #bce0ee" >
         <!-- tarjeta1 -->
-        <div class="col-md-3 p-5" >
+        <div class="col-xl-3 pb-3 pt-5 " >
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/0QCXMrg/img12.jpg" alt="img12"  class="card mx-auto d-block"   height="170" width="200">
                 <div class="card-body">
@@ -141,7 +143,7 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-3 p-5">
+        <div class="col-xl-3 pb-3 pt-5">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/SP3PMHs/img11.jpg" alt="img11" class="card mx-auto d-block"   height="170" width="200">
                 <div class="card-body">
@@ -159,7 +161,7 @@
             </div>
         </div>
         <!-- tarjeta3 -->
-        <div class="col-md-3 p-5">
+        <div class="col-xl-3 pb-3 pt-5">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/vZMtf2v/img9.jpg" alt="img9"  class="card mx-auto d-block"   height="170" width="200">
                 <div class="card-body">
@@ -176,7 +178,7 @@
             </div>
         </div>
         <!-- tarjeta4 -->
-        <div class="col-md-3 p-5">
+        <div class="col-xl-3 pb-3 pt-5">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/9yFDpGf/img10.jpg" alt="img10"   class="card mx-auto d-block"   height="170" width="200">
                 <div class="card-body">
@@ -195,7 +197,7 @@
         <!-- tarjeta5 -->
         <div class="container-fluid">
             <div class="row" style="background: #bce0ee">
-                <div class="col-md-3 p-5">
+                <div class="col-xl-3 pb-3  pt-5">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img  src="https://i.ibb.co/k4nc06d/img7.jpg" alt="img7"  class="card mx-auto d-block"  height="170" width="200">
                         <div class="card-body">
@@ -221,7 +223,7 @@
                     </div>
                 </div>
                 <!-- tarjeta6 -->
-                <div class="col-md-3 p-5">
+                <div class="col-xl-3 pb-3  pt-5">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/wSLRsk1/img6.jpg" alt="img6"  class="card mx-auto d-block"   height="170" width="200">
                         <div class="card-body">
@@ -238,7 +240,7 @@
                     </div>
                 </div>
                 <!-- tarjeta7 -->
-                <div class="col-md-3 p-5">
+                <div class="col-xl-3 pb-3  pt-5">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/KwqKcVB/img5.jpg" alt="img5"  class="card mx-auto d-block"  height="170" width="200">
                         <div class="card-body">
@@ -255,7 +257,7 @@
                     </div>
                 </div>
                 <!-- tarjeta8 -->
-                <div class="col-md-3 p-5">
+                <div class="col-xl-3 pb-3  pt-5">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img  src="https://i.ibb.co/72TKSbB/img4.jpg" alt="img4" class="card mx-auto d-block"  height="170" width="200">
                         <div class="card-body">
@@ -288,7 +290,7 @@
         <div class="container-fluid">
             <!-- tarjeta9 -->
             <div class="row" style="background: #bce0ee">
-                <div class="col-md-3 p-5">
+                <div class="col-xl-3 pb-3  pt-5">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img  src="https://i.ibb.co/f1jph6x/img3.jpg" alt="img3" class="card mx-auto d-block"   height="170" width="200">
                         <div class="card-body">
@@ -305,7 +307,7 @@
                     </div>
                 </div>
                 <!-- tarjeta10 -->
-                <div class="col-md-3 p-5" >
+                <div class="col-xl-3 pb-3  pt-5" >
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/qMb0ksP/img2.jpg" alt="img2"  class="card mx-auto d-block"  height="170" width="200">
                         <div class="card-body">
@@ -322,7 +324,7 @@
                     </div>
                 </div>
                 <!-- tarjeta11 -->
-                <div class="col-md-3 p-5">
+                <div class="col-xl-3 pb-3  pt-5" >
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img  src="https://i.ibb.co/dBQmq7L/img1.jpg" alt="img1"  class="card mx-auto d-block"   height="170" width="200">
                         <div class="card-body">
@@ -346,7 +348,7 @@
                     </div>
                 </div>
                 <!-- tarjeta12 -->
-                <div class="col-md-3 p-5">
+                <div class="col-xl-3 pb-3  pt-5">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img  src="https://i.ibb.co/jv2B4kP/img8.jpg" alt="img8"class="card mx-auto d-block"  height="170" width="200">
                         <div class="card-body">

@@ -65,7 +65,7 @@
         }
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
             margin-left: -5px;
             border-bottom-right-radius: 50%;
