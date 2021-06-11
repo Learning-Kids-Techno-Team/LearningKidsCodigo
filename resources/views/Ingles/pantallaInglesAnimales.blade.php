@@ -89,6 +89,10 @@
         li{
             text-align: justify;
         }
+        #player{
+            width: 100%;
+
+        }
 
 
 
@@ -163,23 +167,27 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/phWTHjF/dibujos-animados-caballo-blanco-43633-7163-removebg-preview-1.png" width="200" />
-                <iframe src="https://drive.google.com/file/d/13V7-Y6r2GJWr1vBSdxgg3BL62CeRsnZ0/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/1.mp3" controls >
+                </audio>
                 <h2>Caballo: horse</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/H2Nng2M/cartoon-vector-illustration-of-hen-removebg-preview.png"  width="300"/>
-                <iframe src="https://drive.google.com/file/d/17WAsQNfcGcumEZReMgjJdrf6Q9j_AzcQ/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/2.mp3" controls >
+                </audio>
                 <h2>Gallina: hen</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/1rfMQTF/pato-dibujos-animados-lindo-160606-389-removebg-preview.png" width="100" />
-                <iframe src="https://drive.google.com/file/d/1j6FcR5LPowUfh2FnRCw4OcydhZX8KZK_/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/3.mp3" controls >
+                </audio>
                 <h2>Pato: duck</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/YhtC68b/conejo-dibujos-animados-zanahoria-29190-5532-removebg-preview.png" width="125" />
-                <iframe src="https://drive.google.com/file/d/1puT4EXTw87bLFh5g-jwpZCQ_XFQ44iEd/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/4.mp3" controls >
+                </audio>
                 <h2>Conejo: rabbit</h2>
             </div>
         </div>
@@ -191,22 +199,26 @@
         <div class="row">
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/M81yLSh/590113bc1998632b4cb01bcce4293fba-removebg-preview.png"  width="150" />
-                <iframe src="https://drive.google.com/file/d/1Bg2z7KIYG2nUKD9Tl4QgEc3V9qhMp5Xq/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/5.mp3" controls >
+                </audio>
                 <h2>Oveja: sheep</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/xmrxcY9/linda-vaca-dibujos-animados-160606-325-removebg-preview.png" width="180"/>
-                <iframe src="https://drive.google.com/file/d/1ux6cwFhGJWaBiWtPKfyuAKH5h_i4_q2X/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/6.mp3" controls >
+                </audio>
                 <h2>Vaca: cow</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/sm8Hp3y/gato-gracioso-dibujos-animados-aislado-29190-4874-removebg-preview.png" width="150" />
-                <iframe src="https://drive.google.com/file/d/1_V0WJ64fSMbx2P_Okk_JOj-tdrF1Yqoo/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/7.mp3" controls >
+                </audio>
                 <h2>Gato: cat</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/YpKdK13/perro-gracioso-dibujos-animados-hueso-29190-1660-removebg-preview.png"  width="145" />
-                <iframe src="https://drive.google.com/file/d/137MjkS9Y_2-N-P5t_6Tcv6hJkramxEPE/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/8.mp3" controls >
+                </audio>
                 <h2>Perro: dog</h2>
             </div>
         </div>
@@ -216,13 +228,15 @@
         <div class="row">
             <div class="col-md-6">
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/NLKdKnR/e1b52378ebe42b1f563131aa19dd9f8d-removebg-preview.png"  width="170"/>
-                <iframe src="https://drive.google.com/file/d/1fEetg47SuhVMQNuP7QdCK0s6ac-YlXyR/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/9.mp3" controls >
+                </audio>
                 <h2>Burro: donkey</h2>
             </div>
             <div class="col-md-6">
                 <br>
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/PZgzwF6/cerdo-feliz-dibujos-animados-aislado-sobre-fondo-blanco-29190-4224-removebg-preview.png" width="160" />
-                <iframe  src="https://drive.google.com/file/d/1x8CTVAgq-a45xnjO2hG__rhXqT9I2rS3/preview" style=" align-content: center; border: none " width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/10.mp3" controls >
+                </audio>
                 <h2>Cerdo: pig</h2>
             </div>
         </div>
@@ -244,23 +258,27 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" src="https://i.ibb.co/8ddTVYJ/5231bafa47dc71365cab071feca3dfa8-removebg-preview.png"  width="155" />
-                <iframe src="https://drive.google.com/file/d/1J6dk9CjoOU3EwwDmscl1HK36gUozsKpc/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/11.mp3" controls >
+                </audio>
                 <h2>Koala: koala</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/5MFFB0X/castor-feliz-dibujos-animados-madera-29190-5280-removebg-preview.png"   width="180"/>
-                <iframe src="https://drive.google.com/file/d/10MkOHxRG8Nga4Io1e9qxixygElBrsvDE/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/12.mp3" controls >
+                </audio>
                 <h2>Castor: beaver</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/TWX2SrP/dibujos-animados-lindo-mapache-29190-4683-removebg-preview.png" width="150" />
-                <iframe src="https://drive.google.com/file/d/1fgVm83mgNtE-tzcxqhdez46Z23cQIGdD/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/13.mp3" controls >
+                </audio>
                 <h2>Mapache: racoon</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"src="https://i.ibb.co/mDvb9c2/depositphotos-19121483-stock-illustration-rainbow-chameleon-removebg-preview.png"  width="180" />
-                <iframe src="https://drive.google.com/file/d/1CrkuJbULlCfXkejqmtYasqVWwyPF8IlM/preview"style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/14.mp3" controls >
+                </audio>
                 <h2>Camaleón: chameleon</h2>
             </div>
         </div>
@@ -272,22 +290,26 @@
         <div class="row">
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/ScD1z0k/raton-feliz-dibujos-animados-agitando-29190-4178-removebg-preview-1.png"   width="150" />
-                <iframe src="https://drive.google.com/file/d/1G_62bFZHwDEV-0MRJnDgjTrl-a7oXMCM/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/15.mp3" controls >
+                </audio>
                 <h2>Ratón: mouse</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/xGhYjrY/caracol-dibujos-animados-lindo-160606-321-removebg-preview-1.png"   width="205"/>
-                <iframe src="https://drive.google.com/file/d/12vh0D_Slfp-tYZPyEHcFqRYU8lt0-n4J/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/16.mp3" controls >
+                </audio>
                 <h2>Caracol: snail</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/jZf8TPS/ardilla-dibujos-animados-sosteniendo-nuez-29190-5533-removebg-preview.png"  width="120" />
-                <iframe src="https://drive.google.com/file/d/15gHltUwvlw-Wy1s6Uiyi-aeytE5kmXr6/preview"style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/17.mp3" controls >
+                </audio>
                 <h2>Ardilla: squirrel</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/Cb2h6CV/png-clipart-giant-panda-bear-cartoon-panda-mammal-animals-removebg-preview.png"  width="150" />
-                <iframe src="https://drive.google.com/file/d/1_7bAROO7MhXgXXmd7tNXmMGn6qAmYW_0/preview"style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/18.mp3" controls >
+                </audio>
                 <h2>Oso panda: panda bear
                 </h2>
             </div>
@@ -311,26 +333,30 @@
                 <br>
                 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/dbhKx5R/dibujos-animados-serpiente-cascabel-49499-246-removebg-preview.png"   width="113" />
-                <iframe src="https://drive.google.com/file/d/17QdWwsZjFBLR2FS39DItq64vEoaFL7E9/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/19.mp3" controls >
+                </audio>
                 <h2>Serpiente: snake</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/4ThmJGz/murcielago-dibujos-animados-volando-aislado-blanco-29190-4922-removebg-preview.png"   width="180"/>
-                <iframe src="https://drive.google.com/file/d/1QfC4b7-TaTWrtQiUmaHPLbZXqyPdoReA/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/20.mp3" controls >
+                </audio>
                 <h2>Murciélago: bat</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/wg4hpM8/dibujos-animados-leopardo-caminando-43633-3051-removebg-preview.png"  width="188" />
-                <iframe src="https://drive.google.com/file/d/1psXReODt1ca8DqQMNO-w7eccceW_KAJe/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/21.mp3" controls >
+                </audio>
                 <h2>Leopardo: leopard</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <BR>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/nzS53cR/parrot-cartoon-vector-removebg-preview.png"   width="210" />
-                <iframe src="https://drive.google.com/file/d/1hZ8GNSTBWY-rqUtTv59AueqaCAriEpEd/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/22.mp3" controls >
+                </audio>
                 <h2>Loro: parrot</h2>
             </div>
         </div>
@@ -354,25 +380,29 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/mDrybc2/escarabajo-ciervo-dibujos-animados-33070-2355-removebg-preview-1.png" width="150" />
-                <iframe src="https://drive.google.com/file/d/1X8quovBD7ghyU40Y6XhNbSI0tplTo_Sj/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/23.mp3" controls >
+                </audio>
                 <h2>Escarabajo : beetle</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/tcHWgMv/gratis-png-dibujos-animados-de-abejorro-abeja-volando-de-dibujos-animados-removebg-preview.png"   width="150"/>
-                <iframe src="https://drive.google.com/file/d/1eEpM7yRRtEyQXFJOoCXNdnhisWSfhY9G/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/24.mp3" controls >
+                </audio>
                 <h2>Abeja: bee</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/ZzYFpzq/dibujos-animados-hormiga-linda-50699-290-removebg-preview.png"  width="138" />
-                <iframe src="https://drive.google.com/file/d/1nnSTBc16Vq2AjpfLFEwl8H-UE3tYVCdI/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/25.mp3" controls >
+                </audio>
                 <h2>Hormiga: ant</h2>
 
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/xg3Cwyt/781-7817992-mariposas-animadas-hd-png-download-removebg-preview.png"   width="140" />
-                <iframe src="https://drive.google.com/file/d/1yxFY4ZbKiuQMMRZTM1HTMPcSsPXRDZYX/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/26.mp3" controls >
+                </audio>
                 <h2>Mariposa: butterfly</h2>
             </div>
         </div>
@@ -382,23 +412,27 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" src="https://i.ibb.co/TtSH976/dfbfab067594efcd1af2ddb1ed8d5bb2-removebg-preview.png" width="190" />
-                <iframe src="https://drive.google.com/file/d/1nJDvxXon1SJ6eKHF3iNlKNOIx6dIBMP-/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/27.mp3" controls >
+                </audio>
                 <h2>Mosca: fly</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/YTWW8Fx/kisspng-cockroach-cartoon-clip-art-cockroach-5abc67f3365a60-8510294915222968192226-removebg-preview.png"   width="215"/>
-                <iframe src="https://drive.google.com/file/d/1AfCMKGsF4AAECZZJvMVNLJl2_igtsr_I/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/28.mp3" controls >
+                </audio>
                 <h2>Cucaracha: cockroach</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/SfCtq6p/depositphotos-46608589-stock-illustration-cartoon-grasshopper-removebg-preview.png"  width="188" />
-                <iframe src="https://drive.google.com/file/d/1TucwJsKYGRuUS29yatawtnFzQ-2rVd2n/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/29.mp3" controls >
+                </audio>
                 <h2>Saltamontes: grasshopper</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/sRmkVjP/grillo-divertido-historieta-33070-2349-removebg-preview.png"  width="180" />
-                <iframe src="https://drive.google.com/file/d/1rAiGEMtD5teX3HVkGK4ppJSaYRfKqkhP/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/animales/30.mp3" controls >
+                </audio>
                 <h2>Grillo: cricket</h2>
             </div>
         </div>

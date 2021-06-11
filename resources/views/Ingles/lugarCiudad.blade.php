@@ -71,6 +71,10 @@
             border-top-right-radius: 10px;
 
         }
+        #player{
+            width: 100%;
+
+        }
 
 
 
@@ -128,8 +132,9 @@
                 <div class="card ml-0" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Supermercado <br> Supermarket</em></h2>
+                    <audio  id="player" src="AudioIngles/lugares/superem.mp3" controls >
+                    </audio>
 
-                    <iframe src="https://drive.google.com/file/d/1MA08lrhRn8YpIPqQMLcAwRcDv9nTgz9i/preview" width="318" height="60"></iframe>
                 </div>
             </div>
 
@@ -140,7 +145,8 @@
                 <div class="card ml-3" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Escuela <br> School</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1p7q5fR3FdM-i6Jh6l5ami6l96xzGuEdQ/preview" width=318 height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/escu.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br><br>
@@ -148,7 +154,8 @@
                 <div class="card ml-4  " style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Mercado<br> Market</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1T-4wI_vBibdn4u2dN6O1G3NMjsOL_v8e/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/mer.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -165,7 +172,8 @@
                 <div class="card ml-0" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Catedral <br> Cathedral </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1-jZtrOgGNchXWsmlrZq6YbsqprEKWL0q/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/cate.mp3" controls >
+                    </audio>
                 </div>
             </div>
 
@@ -176,7 +184,8 @@
                 <div class="card ml-3" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Cementerio <br> Cemetery </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1fqj2TzOaCxi-ZnFhy0W0bsG6LT1SFqur/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/cem.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
@@ -184,7 +193,8 @@
                 <div class="card ml-4  " style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Monumento<br> Monument</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1OP4Y0JDE7EZuPhy-9dd8PLI8Vb2A2nrA/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/monu.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -200,7 +210,8 @@
                 <div class="card ml-0" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Asilo de ancianos <br> Old people’s home  </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1Jaj0KcZXoVVvk03kqIACPWe8XyhbAHvg/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/anci.mp3" controls >
+                    </audio>
                 </div>
             </div>
 
@@ -211,7 +222,8 @@
                 <div class="card ml-3" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Parque <br> Park </em></h2>
-                    <iframe src="https://drive.google.com/file/d/11ZO9kf4FhJLlBSqkl0XUU_i2X7kNihuT/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/par.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
@@ -219,7 +231,8 @@
                 <div class="card ml-4  " style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Cárcel<br> Prison</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1OEYuFqglnk9a3EgiKlb08tiecfuGQE3x/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/pri.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -236,7 +249,8 @@
                 <div class="card ml-0" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Plaza <br> Square </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1ag__Okncgx7uINmvnP6wkLaw6NKKoCah/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/plaza.mp3" controls >
+                    </audio>
                 </div>
             </div>
 
@@ -247,7 +261,8 @@
                 <div class="card ml-3" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Estadio <br> Stadium </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1YgFbcel7-thI_wgTNZscZplGjfv4CH_N/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/estadio.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
@@ -255,7 +270,8 @@
                 <div class="card ml-4  " style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Zona Residencial<br> Residential area</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1f-a1l9vBBZ9sAy5Cw4y6WIQVEBfp9ww8/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/resi.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -286,7 +302,8 @@
                 <div class="card ml-0" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Panaderia <br> Bakery </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1vpWgXVcObhFmX7odtKfk6YhV5AoBl_Sx/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/pana.mp3" controls >
+                    </audio>
                 </div>
             </div>
 
@@ -297,7 +314,8 @@
                 <div class="card ml-3" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Banco <br> Bank</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1D1W5WIGa6KOEHUB0aPRJyeA6dRHALzxM/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/banco.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
@@ -305,7 +323,8 @@
                 <div class="card ml-4  " style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Cine<br>Cinema</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1ux1pcT_TREb1O23y7yuqujcJw8p5YVCZ/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/cine.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -321,7 +340,8 @@
                 <div class="card ml-0" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Hotel<br> Hotel</em></h2>
-                    <iframe src="https://drive.google.com/file/d/10i22aMPaJhaQwAcfurlmvpJeizjoTj2n/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/hotel.mp3" controls >
+                    </audio>
                 </div>
             </div>
 
@@ -332,7 +352,8 @@
                 <div class="card ml-3" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Hospital <br>Hospital</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1bxVvcxCbYy87-OMjPfLkW2g4m62xJrZD/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/hos.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
@@ -340,7 +361,8 @@
                 <div class="card ml-4  " style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Farmacia<br>Pharmacy</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1xPzsOJ98DNgiQaOx5J0n80hQt3x8qU4w/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/far.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -357,7 +379,8 @@
                 <div class="card ml-0" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Restaurante<br> Restaurant</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1RCTsejmb2LSyxHk9iOp54oPs5aeZOmq1/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/rest.mp3" controls >
+                    </audio>
                 </div>
             </div>
 
@@ -368,7 +391,8 @@
                 <div class="card ml-3" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Tienda <br> Store</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1DdYiIrFHjLRwkC8hZz_b4zDC6TjW9tgW/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/tienda.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
@@ -376,7 +400,8 @@
                 <div class="card ml-4  " style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Circo<br>Circus</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1EXKRev0lDHLTwt-E5M8U_cPHQJ2xFcMn/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/circo.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -405,7 +430,8 @@
                 <div class="card ml-0" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Basura<br> Litter </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1xPHqAarZbrj26QWpQIrZmQzhZ7SSqA4K/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/basura.mp3" controls >
+                    </audio>
                 </div>
             </div>
 
@@ -416,7 +442,8 @@
                 <div class="card ml-3" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Agente de Polícia<br> Policeman </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1c2wcGTTwBsN_GLd7CAA5ichrlztjs0Jj/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/poli.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
@@ -424,7 +451,8 @@
                 <div class="card ml-4  " style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Cabina telefónica<br>Telephone kiosk</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1UH7W7ZV4Rd_kP0T4RTb1KdHdJnkflisV/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/cabina.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -439,7 +467,8 @@
                 <div class="card ml-0" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Turista <br> Tourist </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1BL9qVRKBUiEnXSuSrlVvvfRb2Ecz-NQs/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/turis.mp3" controls >
+                    </audio>
                 </div>
             </div>
 
@@ -450,7 +479,8 @@
                 <div class="card ml-3" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Arboles<br>Trees </em></h2>
-                    <iframe src="https://drive.google.com/file/d/1jf8f3alCspBsDTtvPtYzHLhllsj5fBKq/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/arbol.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
@@ -458,7 +488,8 @@
                 <div class="card ml-4  " style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Teléfonos<br>Telephones</em></h2>
-                    <iframe src="https://drive.google.com/file/d/1FINNLVVZcGHqQrfnCvCoVqbciTjogehZ/preview" width="318" height="60"></iframe>
+                    <audio  id="player" src="AudioIngles/lugares/tele.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>

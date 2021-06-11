@@ -25,14 +25,54 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/Rondas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/Rondas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaDeBombas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaDeBombas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaDeLaClaseDeEspañolChistes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaDeLaClaseDeEspañolChistes.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaTrabalenguas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaTrabalenguas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint 12 Daniela Mazzoni">
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/anci.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/banco.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/basura.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/cabina.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/cate.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/ceme.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/cine.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/circo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/escu.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/estadio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/far.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/hos.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/hotel.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/mer.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/monu.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/pana.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/par.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/plaza.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/poli.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/pri.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/resi.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/rest.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/superme.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/tele.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/tienda.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/turis.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Apri.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Dic.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Feb.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Jul.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Jun.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Lun.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Nov.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Oct.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Sep.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/agos.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/domingo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/ene.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/jueves.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/martes.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/marz.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/mayo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/miercoles.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/sabado.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/viernes.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/diasSemana.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/diasSemana.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/meses.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/meses.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +211,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../probarplantilla" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/AudioIngles" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -179,16 +219,17 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\LearningKidsCodigo\public\AudioIngles" />
       <recent name="C:\laragon\www\LearningKidsCodigo\resources\views\Matematicas" />
       <recent name="C:\laragon\www\LearningKidsCodigo\resources\views" />
       <recent name="C:\laragon\www\LearningKidsCodigo\resources\views\Español" />
       <recent name="C:\wamp64\www\LearningKidsCodigo\resources\views\Español" />
-      <recent name="C:\laragon\www\LearningKids-TechnoTeam\resources\views\Español" />
     </key>
   </component>
   <component name="RunManager">
@@ -229,14 +270,29 @@
       <workItem from="1613863803558" duration="4105000" />
       <workItem from="1615159385455" duration="194000" />
       <workItem from="1618285597202" duration="370000" />
-      <workItem from="1618937842113" duration="614000" />
-      <workItem from="1619531898752" duration="273000" />
-      <workItem from="1621888582304" duration="1237000" />
-      <workItem from="1622613556187" duration="1401000" />
-      <workItem from="1622692597786" duration="4240000" />
-      <workItem from="1622696953975" duration="4356000" />
-      <workItem from="1623286295395" duration="1655000" />
-      <workItem from="1623425945084" duration="7399000" />
+      <workItem from="1619142257578" duration="2375000" />
+      <workItem from="1623367762994" duration="6483000" />
+    </task>
+    <task id="LOCAL-00015" summary="Sprint Techno Team">
+      <created>1604982966578</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1604982966578</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Sprint4 Sindy G.">
+      <created>1605845522357</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605845522357</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Sprint 5 Hector.">
+      <created>1607557332463</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607557332463</updated>
     </task>
     <task id="LOCAL-00018" summary="Sprint5 Sindy G.">
       <created>1607846660514</created>
@@ -511,77 +567,56 @@
       <option name="project" value="LOCAL" />
       <updated>1618280846937</updated>
     </task>
-    <task id="LOCAL-00057" summary="Sprint 11 Hector Lopez">
-      <created>1618540290952</created>
+    <task id="LOCAL-00057" summary="Sprint 11 Daniela Mazzoni">
+      <created>1619120215817</created>
       <option name="number" value="00057" />
       <option name="presentableId" value="LOCAL-00057" />
       <option name="project" value="LOCAL" />
-      <updated>1618540290956</updated>
+      <updated>1619120215818</updated>
     </task>
-    <task id="LOCAL-00058" summary="Sprint 11 Hector Lopez">
-      <created>1618540745536</created>
+    <task id="LOCAL-00058" summary="Sprint 11 Daniela Mazzoni">
+      <created>1619121211098</created>
       <option name="number" value="00058" />
       <option name="presentableId" value="LOCAL-00058" />
       <option name="project" value="LOCAL" />
-      <updated>1618540745536</updated>
+      <updated>1619121211098</updated>
     </task>
-    <task id="LOCAL-00059" summary="Sprint 11 Hector Lopez">
-      <created>1618894784704</created>
+    <task id="LOCAL-00059" summary="Sprint 11 Daniela Mazzoni">
+      <created>1619121932992</created>
       <option name="number" value="00059" />
       <option name="presentableId" value="LOCAL-00059" />
       <option name="project" value="LOCAL" />
-      <updated>1618894784704</updated>
+      <updated>1619121932992</updated>
     </task>
-    <task id="LOCAL-00060" summary="Sprint 11 Hector Lopez">
-      <created>1618895243190</created>
+    <task id="LOCAL-00060" summary="Sprint 11 Daniela Mazzoni">
+      <created>1619143250336</created>
       <option name="number" value="00060" />
       <option name="presentableId" value="LOCAL-00060" />
       <option name="project" value="LOCAL" />
-      <updated>1618895243190</updated>
+      <updated>1619143250336</updated>
     </task>
-    <task id="LOCAL-00061" summary="Sprint 11 Hector Lopez">
-      <created>1618895781118</created>
+    <task id="LOCAL-00061" summary="Sprint 11 Daniela Mazzoni">
+      <created>1619143436902</created>
       <option name="number" value="00061" />
       <option name="presentableId" value="LOCAL-00061" />
       <option name="project" value="LOCAL" />
-      <updated>1618895781119</updated>
+      <updated>1619143436902</updated>
     </task>
-    <task id="LOCAL-00062" summary="Sprint 11 Hector Lopez">
-      <created>1618896100225</created>
+    <task id="LOCAL-00062" summary="Sprint 11 Daniela Mazzoni">
+      <created>1619146221390</created>
       <option name="number" value="00062" />
       <option name="presentableId" value="LOCAL-00062" />
       <option name="project" value="LOCAL" />
-      <updated>1618896100225</updated>
+      <updated>1619146221390</updated>
     </task>
-    <task id="LOCAL-00063" summary="Sprint 12 Hector Lopez">
-      <created>1622698505796</created>
+    <task id="LOCAL-00063" summary="Sprint 12 Daniela Mazzoni">
+      <created>1623388070025</created>
       <option name="number" value="00063" />
       <option name="presentableId" value="LOCAL-00063" />
       <option name="project" value="LOCAL" />
-      <updated>1622698505798</updated>
+      <updated>1623388070025</updated>
     </task>
-    <task id="LOCAL-00064" summary="Sprint 12 Hector Lopez">
-      <created>1622699575170</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1622699575170</updated>
-    </task>
-    <task id="LOCAL-00065" summary="Sprint 12 Hector Lopez">
-      <created>1622700616134</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1622700616134</updated>
-    </task>
-    <task id="LOCAL-00066" summary="Sprint 13 Hector Lopez">
-      <created>1623388835897</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1623388835897</updated>
-    </task>
-    <option name="localTasksCounter" value="67" />
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,9 +655,9 @@
     <MESSAGE value="Sprint 9 Daniela Mazzoni" />
     <MESSAGE value="Sprint 9 Hector Lopez" />
     <MESSAGE value="Sprint 10 Hector Lopez" />
-    <MESSAGE value="Sprint 11 Hector Lopez" />
-    <MESSAGE value="Sprint 12 Hector Lopez" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 12 Hector Lopez" />
+    <MESSAGE value="Sprint 11 Daniela Mazzoni" />
+    <MESSAGE value="Sprint 12 Daniela Mazzoni" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 12 Daniela Mazzoni" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
