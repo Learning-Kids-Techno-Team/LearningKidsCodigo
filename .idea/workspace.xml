@@ -25,10 +25,36 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint 11 Daniela Mazzoni">
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/A..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/B.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/C..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/D..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/E..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/F.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/G.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/H..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/I.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/J.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/K.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/L..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/M..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/N..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/O.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/P,.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/Q.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/R..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/S..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/T..mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/U.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/V.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/W.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/X.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/Y.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/Z..mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosAventuras.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosAventuras.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosPoliciales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosPoliciales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/alfabeto.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/alfabeto.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
