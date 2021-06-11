@@ -88,6 +88,7 @@
         <div class="col-md-8 " >
             <br>
             <h2 id="color" class="text-center">Cuentos De Navidad</h2>
+            <br>
             <p ><strong>
                 Los cuentos de Navidad son aquellos en los que el contexto de la historia se desarrollan en esta época del año. Normalmente hace una reflexión sobre el sentido de esta festividad y sobre los valores cristianos más relevantes como son el amor, el perdón, la esperanza o la caridad.
 
@@ -115,7 +116,7 @@
             <div class="card" style="width: 30rem">
                 <img  src="https://i.ibb.co/9cH6ncj/cachorro-regalo.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">El perrito</h5>
+                    <h5 class="card-title; text-center">El perrito</h5>
                     <p class="card-text">“Había una vez un perrito abandonado que vivía muy triste y solito porque nadie le quería.<br>
                         Era el más feo de sus hermanos y ningún niño le había querido adoptar.
                         Comía lo que encontraba por la calle y siempre tenía miedo porque a veces los niños le tiraban piedras.<br>
@@ -144,7 +145,7 @@
             <div class="card" style="width: 30rem;">
                 <img  src="https://i.ibb.co/C5rCxjR/63-navidad.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">El Arbolito de Navidad</h5>
+                    <h5 class="card-title; text-center">El Arbolito de Navidad</h5>
                     <p class="card-text">
                         “Erase una vez, hace mucho tiempo, una isla en la que había un pueblecito. <br>
                         En ese pueblecito vivía una familia muy pobre. <br>
@@ -185,7 +186,7 @@
         <div class="card" style="width: 30rem">
             <img src="https://i.ibb.co/Hh1kXMv/10.jpg"   class="card-img-top" alt="..." height="300">
             <div class="card-body">
-                <h5 class="card-title">El mejor Regalo de Santa</h5>
+                <h5 class="card-title; text-center">El mejor Regalo de Santa</h5>
                 <p class="card-text">“Este era un niño que vivía muy feliz y cada año recibía los mejores regalos de Santa.
                     Sin embargo tenía un amigo que nunca tenía una sonrisa en su cara, siempre andaba callado y pensativo. En una ocasión le preguntó qué juguetes le había traído Santa en Navidad, pensando que así se animaría, y cuando vio la tristeza en su rostro supo la respuesta.
 
@@ -212,7 +213,7 @@
         <div class="card" style="width: 30rem;">
             <img   src="https://i.ibb.co/7SrFbzb/raton.png"  class="card-img-top" alt="..." height="300">
             <div class="card-body">
-                <h5 class="card-title">Un Viaje increíble</h5>
+                <h5 class="card-title; text-center">Un Viaje increíble</h5>
                 <p class="card-text">“Esta es la historia de Carlos, un ratón que vivía en la punta de un cerro. <br>
                     <br>Carlos trabajaba día y noche para limpiar el polvo a una bota que hace años atrás le había
                     regalado su amigo, el viejito Michel.<br>
@@ -253,11 +254,12 @@
     <div class="row m-5" >
         <div class="col-md-6">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem">
+            <div class="card " style="width: 30rem">
                 <img   src="https://i.ibb.co/rshrLyW/reno.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">El plan de Alonso</h5>
-                    <p class="card-text">“Por fin había llegado el 24 de diciembre.<br>
+                    <br>
+                    <h5 class="card-title; text-center">El plan de Alonso</h5>
+                    <p class="card-text"><br>“Por fin había llegado el 24 de diciembre.<br>
                         Era el día más frío del año y Papá Noel ya se estaba preparando para repartir los regalos.<br>
                         Todo el mundo estaba nervioso, trabajaba sin parar para tenerlo todo preparado para esa noche mágica. <br>
                         Sin embargo, a Papá Noel llevaban toda la mañana sin verle, hasta que de repente apareció con la cara muy blanca y muy serio.<br>
@@ -287,7 +289,7 @@
             <div class="card" style="width: 30rem;">
                 <img  src="https://i.ibb.co/G0YZZ9g/aranas.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">La Leyenda de la araña de la navidad</h5>
+                    <h5 class="card-title; text-center">La Leyenda de la araña de la navidad</h5>
                     <p class="card-text">
                         “Hubo una vez hace mucho, mucho tiempo, un hogar alemán en el que la madre se encargaba de limpiar la casa para celebrar el día más maravilloso del año.
 
@@ -303,9 +305,12 @@
                         Desde entonces, en Alemania, todos los años, los abuelos les cuentan a sus nietos la leyenda de las Arañas de Navidad, y colocan con ellos las guirnaldas brillantes de colores en el árbol.
 
                         Y cuenta la tradición que siempre hay que incluir una araña en medio de cada decoración”.
+
                     </p>
+
                     <audio  id="player" src="AudiosEspañol/cuentos/La leyenda de la araña de navidad.mp3" controls >
                     </audio>
+
                 </div>
             </div>
         </div>
