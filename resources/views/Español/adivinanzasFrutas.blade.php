@@ -54,9 +54,8 @@
 
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
-            margin-left: -5px;
             background: #3B5686;
             border-top-left-radius: 50%;
             border-top-right-radius:50%;
@@ -87,11 +86,15 @@
 
         #color{
             color: navy;
+            text-align: center;
 
         }
         #player{
             width: 100%;
 
+        }
+        p{
+            text-align: justify;
         }
 
     </style>
@@ -138,14 +141,14 @@
 @section('content')
 
 <!-- contenedor-->
-<div class="container-fluid" id="h">
+<div class="container-fluid">
     <div class="row ">
-        <div class="col-md-4 " >
+        <div class="col-md-3" >
             <img class="mx-auto d-block" src="https://i.ibb.co/s5yCnjB/99528630-removebg-preview-1.png" width="250" />
 
         </div>
-        <div class="col-md-8 " >
-            <h2 id="color"><em><br>Adivinanzas de Frutas o Verduras!</em></h2>
+        <div class="col-md-9 " >
+            <h2 id="color"><em><br>¡Adivinanzas de Frutas o Verduras!</em></h2>
             <p><em><br>
                     Las adivinanzas de futas o verduras ayudan al niño a pensar y ejercitar la mente de forma entretenida. Debido a que, se muestran como un divertido juego para el pequeño. Aprovecha los acertijos y realiza actividades didácticas y alegres donde el niño aprenda los nombres y características de cada fruta y verdura.
                 </em></p>
@@ -156,9 +159,9 @@
 
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid d-flex justify-content-center" >
     <div  class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 mb-2">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
@@ -174,7 +177,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 mb-2">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -188,7 +191,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 mb-2">
             <div id="tar3" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -207,29 +210,32 @@
 
 
 <!-- contenedor 2 -->
-<div class="container-fluid   center-block pl-5  " >
+<div class="container-fluid   d-flex justify-content-center  " >
     <div class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 mb-2">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- No toma té, ni toma café, y está colorado,¿sabes quién es?</p>
+                    <br><br>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/Frut4.mp3" controls >
                     </audio>
                     <h6 id="demo4"></h6>
                     <button class="btn" onclick="resu4()">Respuesta</button>
+
                 </div>
             </div>
         </div>
         <!-- tarjeta 2 btn-primary-->
-        <div class="col-md-4  ">
+        <div class="col-xl-4  mb-2">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img  src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Es alargada y naranja, se la comen los conejos para así llegar a viejos. ¿Quién soy?</p>
+                    <br>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/Frut5.mp3" controls >
                     </audio>
                     <h6 id="demo5"></h6>
@@ -238,7 +244,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 mb-2">
             <div id="tar3" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -256,9 +262,9 @@
 </div>
 
 <!-- contenedor3 -->
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid  d-flex justify-content-center " >
     <div class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 mb-2">
             <!-- tarjeta 7 -->
             <div id="tar1" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
@@ -273,7 +279,7 @@
             </div>
         </div>
         <!-- tarjeta 8 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 mb-2 ">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -287,7 +293,7 @@
             </div>
         </div>
         <!-- tarjetas9 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 mb-2">
             <div id="tar3" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/zZpFNst/Kids-and-Fruits-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">

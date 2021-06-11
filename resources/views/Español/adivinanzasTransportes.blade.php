@@ -82,6 +82,7 @@
 
         #color{
             color: navy;
+            text-align: center;
 
         }
 
@@ -93,6 +94,9 @@
         #player{
             width: 100%;
 
+        }
+        p{
+            text-align: justify;
         }
 
     </style>
@@ -145,7 +149,7 @@
 
         </div>
         <div class="col-md-8 " >
-            <h2 id="color"><em><br>Adivinanzas de Transportes!</em></h2>
+            <h2 id="color"><em><br>¡Adivinanzas de Transportes!</em></h2>
             <p><em><br>
                     Las adivinanzas de transportes son una forma entretenida y educativa para pasar el rato con los niños. Reta
                     tu mente y pon a prueba tus conocimientos acerca de los medios de transporte respondiendo estos divertidos acertijos.
@@ -157,9 +161,9 @@
 
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid  d-flex justify-content-center" >
     <div  class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-2">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
@@ -174,12 +178,13 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-2">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- Llevo a la familia y a su equipaje. Paso todas las noches en el garaje. ¿Quién soy?</p>
+                    <br>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer2.mp3" controls >
                     </audio>
                     <h6 id="demo2"></h6>
@@ -188,7 +193,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-2">
             <div id="tar3" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -207,9 +212,9 @@
 
 
 <!-- contenedor 2 -->
-<div class="container-fluid   center-block pl-5  " >
+<div class="container-fluid   d-flex justify-content-center  " >
     <div class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-2">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
@@ -224,12 +229,13 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4  ">
+        <div class="col-xl-4 pb-2  ">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png"  class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Tengo seis ruedas y a veces más. Llevo la carga donde deba llegar. ¿Quién soy?</p>
+                   <br>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer5.mp3" controls >
                     </audio>
                     <h6 id="demo5"></h6>
@@ -238,7 +244,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-2">
             <div id="tar3" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -256,15 +262,16 @@
 </div>
 
 <!-- contenedor3 -->
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid  d-flex justify-content-center" >
     <div class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-2">
             <!-- tarjeta 7 -->
             <div id="tar1" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Si por el mar quieres viajar, ¿dónde te vas a montar? ¿Quién soy?</p>
+                    <br><br>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer7.mp3" controls >
                     </audio>
                     <h6 id="demo7"></h6>
@@ -273,7 +280,7 @@
             </div>
         </div>
         <!-- tarjeta 8 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 pb-2 ">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -287,12 +294,13 @@
             </div>
         </div>
         <!-- tarjetas9 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-2">
             <div id="tar3" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/pKc2Q0X/ilu2895-removebg-preview.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- Vehículo soy, hago muchísimo ruido, pero sólo dos viajan conmigo. ¿Quién soy?</p>
+                   <br><br>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer9.mp3" controls >
                     </audio>
                     <h6 id="demo9"></h6>

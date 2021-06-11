@@ -90,6 +90,7 @@
 
         #color{
             color: navy;
+            text-align: center;
 
 
 
@@ -97,6 +98,9 @@
         #player{
             width: 100%;
 
+        }
+        p{
+            text-align: justify;
         }
 
     </style>
@@ -150,7 +154,7 @@
 
         </div>
         <div class="col-md-8 " >
-            <h2 id="color"><em><br>Adivinanzas Cortas!</em></h2>
+            <h2 id="color"><em><br>¡Adivinanzas Cortas!</em></h2>
             <p><em><br>
                     Las adivinanzas cortas ayudan al niño a pensar y ejercitar la mente de forma entretenida. Debido a que, se muestran como un divertido juego para el pequeño. Aprovecha los acertijos y realiza actividades didácticas y alegres.
                 </em></p>
@@ -161,15 +165,16 @@
 
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid  d-flex justify-content-center" >
     <div  class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">1- Es pequeña como una pera, pero alumbra la casa entera. ¿Qué es?</p>
+                   <br>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/cort1.mp3" controls >
 
                     </audio>
@@ -179,7 +184,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 ">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -194,12 +199,13 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <div id="tar3" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Tiene dientes, pero no puede comer. ¿Qué es?</p>
+                    <br><br>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/cort3.mp3" controls >
 
                     </audio>
@@ -215,15 +221,16 @@
 
 
 <!-- contenedor 2 -->
-<div class="container-fluid   center-block pl-5  " >
+<div class="container-fluid   d-flex justify-content-center  " >
     <div class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-2" >
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Bonita flor que gira buscando el sol. ¿Qué es?</p>
+                    <br>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/cort4.mp3" controls >
 
                     </audio>
@@ -233,7 +240,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4  ">
+        <div class="col-xl-4 pb-2  ">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -248,12 +255,13 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-2">
             <div id="tar3" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- Es puma y no es animal; vuela y flota. ¿Qué será?</p>
+                   <br>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/corta6.mp3" controls >
 
                     </audio>
@@ -267,15 +275,16 @@
 </div>
 
 <!-- contenedor3 -->
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid  d-flex justify-content-center" >
     <div class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-2">
             <!-- tarjeta 7 -->
             <div id="tar1" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Tiene cuello, pero no cabeza. ¿Sabes qué es?</p>
+                   <br>
                     <audio  id="player" src="AudiosEspañol/Adivinanzas/cort7.mp3" controls >
 
                     </audio>
@@ -285,7 +294,7 @@
             </div>
         </div>
         <!-- tarjeta 8 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 pb-2 ">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
@@ -300,7 +309,7 @@
             </div>
         </div>
         <!-- tarjetas9 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-2">
             <div id="tar3" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/0sTwb87/la-gota-que-queria-s.png" class="card-img-top" alt="..." id="im">
                 <div class="card-body">
