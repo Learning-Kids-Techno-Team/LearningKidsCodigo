@@ -25,36 +25,54 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/A..mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/B.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/C..mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/D..mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/E..mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/F.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/G.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/H..mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/I.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/J.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/K.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/L..mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/M..mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/N..mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/O.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/P,.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/Q.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/R..mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/S..mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/T..mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/U.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/V.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/W.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/X.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/Y.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/Abecedario/Z..mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/alfabeto.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/alfabeto.blade.php" afterDir="false" />
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint 12 Daniela Mazzoni">
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/anci.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/banco.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/basura.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/cabina.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/cate.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/ceme.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/cine.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/circo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/escu.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/estadio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/far.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/hos.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/hotel.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/mer.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/monu.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/pana.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/par.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/plaza.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/poli.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/pri.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/resi.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/rest.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/superme.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/tele.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/tienda.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/turis.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Apri.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Dic.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Feb.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Jul.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Jun.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Lun.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Nov.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Oct.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Sep.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/agos.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/domingo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/ene.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/jueves.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/martes.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/marz.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/mayo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/miercoles.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/sabado.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/viernes.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/diasSemana.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/diasSemana.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/meses.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/meses.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -254,13 +272,6 @@
       <workItem from="1618285597202" duration="370000" />
       <workItem from="1619142257578" duration="2375000" />
       <workItem from="1623367762994" duration="6483000" />
-    </task>
-    <task id="LOCAL-00014" summary="Sprint2 Sindy G.">
-      <created>1603573936512</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1603573936512</updated>
     </task>
     <task id="LOCAL-00015" summary="Sprint Techno Team">
       <created>1604982966578</created>
@@ -598,7 +609,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619146221390</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Sprint 12 Daniela Mazzoni">
+      <created>1623388070025</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1623388070025</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -638,7 +656,8 @@
     <MESSAGE value="Sprint 9 Hector Lopez" />
     <MESSAGE value="Sprint 10 Hector Lopez" />
     <MESSAGE value="Sprint 11 Daniela Mazzoni" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 11 Daniela Mazzoni" />
+    <MESSAGE value="Sprint 12 Daniela Mazzoni" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 12 Daniela Mazzoni" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
