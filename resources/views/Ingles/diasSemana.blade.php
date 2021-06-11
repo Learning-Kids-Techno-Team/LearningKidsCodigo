@@ -97,6 +97,9 @@
             background: lightblue;
             border: #fff6af 15px dashed;
         }
+        #play{
+            width: 100%;
+        }
 
     </style>
 
@@ -143,7 +146,8 @@
                         Lunes:
                     </h2>
                     <h3> Monday - (Mon.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1NjXxzXaTYNjVSI2ZHrMLNnyb073RHMRw/preview" width="300" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/tiempo/Lun.mp3" controls >
+                    </audio>
                     <p>
                         <br>Tanto en español como en inglés, el nombre de este día significa «día de la Luna», o <strong>«Moon’s Day».</strong>
                         <br>
@@ -166,7 +170,8 @@
                         Martes:
                     </h2>
                     <h3>Tuesday - (Tue.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1njEKjZObnMh2xXK__vjAFvJJfsfsExOP/preview" width="300" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/tiempo/martes.mp3" controls >
+                    </audio>
                     <p>
                         <br>En inglés, el nombre de este día proviene del dios nórdico Týr, mientras que en
                         español se asocia a al <strong>dios romano Marte.</strong>
@@ -190,7 +195,8 @@
                         Miércoles:
                     </h2>
                     <h3>Wednesday – (Wed.)</h3>
-                    <iframe src="https://drive.google.com/file/d/14cm1GonhtSnD7VOzuTrwM1IFz8V-8Ixv/preview" width="300" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/tiempo/miercoles.mp3" controls >
+                    </audio>
                     <p>
                         <br>Toma su nombre en inglés del dios nórdico Odín.
                         En español, es el <strong>«día de Mercurio»,</strong> el dios romano.
@@ -216,7 +222,8 @@
                         Jueves:
                     </h2>
                     <h3>Thursday – (Thu.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1lcGV47hSs5xhuqJvRUTJ4Q1-a9BJIx76/preview" width="300" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/tiempo/jueves.mp3" controls >
+                    </audio>
                     <p>
                         <br>Nombrado en inglés <strong>«día de Thor»,</strong> por el dios nórdico.
                         En español se relaciona con Júpiter.
@@ -240,7 +247,8 @@
                         Viernes:
                     </h2>
                     <h3>Friday – (Fri.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1sT0k8tbVZcwgEk1DccSxjGMsczB8MERe/preview" width="300" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/tiempo/viernes.mp3" controls >
+                    </audio>
                     <p>
                         <br>Es el <strong>«día de Venus»,</strong> la diosa romana de la belleza,
                         cuyo equivalente nórdico «Frigg», le da el nombre en inglés.
@@ -264,7 +272,8 @@
                         Sábado:
                     </h2>
                     <h3>Saturday – (Sat.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1rvxHftoockJN3UGAr6MSl6TdoOY41wNR/preview" width="300" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/tiempo/sabado.mp3" controls >
+                    </audio>
                     <p>
                         <br>En inglés significa <strong>«día de Saturno»,</strong> mientras que su nombre en español significa «día de reposo».
                         <br>
@@ -287,7 +296,8 @@
                         Domingo:
                     </h2>
                     <h3>Sunday- (Sun.)</h3>
-                    <iframe src="https://drive.google.com/file/d/1Xt9K6vzvPPJc1PqWLXwfklcC52gsZU1t/preview" width="300" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/tiempo/domingo.mp3" controls >
+                    </audio>
                     <p>
                         <br>Llamado <strong>«día del Sol»</strong> en inglés, en honor al más brillante astro de nuestro Sistema Solar.
                         <br>
