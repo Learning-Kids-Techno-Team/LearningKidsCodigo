@@ -59,8 +59,7 @@
             background: url("https://i.ibb.co/3YKyZjR/Captura-de-pantalla-216-removebg-preview.png");
             margin-top: auto;
 
-
-            height: 300px;
+            height: 250px;
 
         }
         #color{
@@ -86,13 +85,13 @@
 
 <!-- contenedor del gif-->
 <div class="container-fluid" id="h">
-    <div class="row ">
+    <div class="row">
         <div class="col-md-4 " >
             <img class="mx-auto d-block" src="https://i.ibb.co/QYjDf00/dibujos-removebg-preview.png"    width="300" />
 
         </div>
-        <div class="col-md-8 " >
-            <h2 id="color">Cuentos Policiales</h2>
+        <div class="col-md-8 "  >
+            <h2 id="color" align="center">Cuentos Policiales</h2>
             <p ><strong>
                     Dentro de este género de cuentos se narran hechos relacionados con la delincuencia y justicia.
                     Por norma general tienen que ver con la resolución de un delito.
@@ -108,7 +107,7 @@
 
 <!-- contenedor de la estrella-->
 <div class="container-fluid " id="banderin" >
-    <div class="row " >
+    <div class="row" >
         <div class="col-md-12">
 
         </div>
@@ -116,11 +115,12 @@
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid" >
+    <div class="row " >
+
+        <div class="col-md-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem">
+            <div class="card mx-auto d-block" style="width: 30rem">
                 <img src="https://i.ibb.co/Z6kh8X2/sacerdote.jpg"    class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">La Muerte del Obispo</h5>
@@ -166,8 +166,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-5">
+            <div class="card  mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/F6zrhv7/manzana.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">La manzana Asesina</h5>
@@ -219,11 +219,11 @@
     </div>
 </div>
 <!-- contenedor 2 -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-md-6 p-5">
 
-            <div class="card" style="width: 30rem">
+            <div class="card mx-auto d-block" style="width: 30rem">
                 <img src="https://i.ibb.co/rshx7tK/dormilo.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">El Policia Dormilon</h5>
@@ -283,8 +283,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-5 ">
+            <div class="card card mx-auto d-block" style="width: 30rem;">
                 <img    src="https://i.ibb.co/VLkWn7s/descarga2.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">El extraño caso del ladrón de bicicletas que calzaba chancletas</h5>
@@ -332,11 +332,11 @@
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid " >
+    <div class="row" >
+        <div class="col-md-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem">
+            <div class="card mx-auto d-block" style="width: 30rem">
                 <img src="https://i.ibb.co/Mp0DnQx/uvas.jpg"   class="card-img-top" alt="..." height="250">
                 <div class="card-body">
                     <h5 class="card-title">El ladrón de uvas</h5>
@@ -382,8 +382,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 ">
-            <div class="card" style="width: 30rem;">
+        <div class="col-md-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/BKK6hty/libro.jpg"  class="card-img-top" alt="..." height="250">
                 <div class="card-body">
                     <h5 class="card-title">El Ladrón de libros viejos</h5>
