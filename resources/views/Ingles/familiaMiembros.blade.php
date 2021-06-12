@@ -101,6 +101,10 @@
             background:#DCFECB;
             border: #fff6af 15px dashed;
         }
+        #play{
+            width: 100%;
+        }
+
 
     </style>
 
@@ -147,13 +151,15 @@
                 <h2 class="mt-5">
                     Madre: <strong>mother</strong>
                 </h2>
-                    <iframe src="https://drive.google.com/file/d/1ZTKEwGXA0_xRJhBWn2TOJXPDEvV06eZu/preview" width="300" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/miembro/madre.mp3" controls >
+                    </audio>
             </div>
                 <div class="col-md-4">
                     <img class="mx-auto d-block" src="https://i.ibb.co/k14MGmK/papa-removebg-preview.png" width="350" height="250">
                     <h2 class="mt-5">
                         Padre: <strong>father</strong>
-                        <iframe src="https://drive.google.com/file/d/1GxFHZGIt92FE-W_Ja-9zSTdrVysfjFQi/preview" width="300" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/miembro/padre.mp3" controls >
+                        </audio>
                     </h2>
 
                 </div>
@@ -161,7 +167,8 @@
                     <img class="mx-auto d-block" src="https://i.ibb.co/Sv31ckh/tni-a3-removebg-preview.png" width="350" height="250">
                     <h2 class="mt-5">
                         Hija: <strong>daughter</strong>
-                        <iframe src="https://drive.google.com/file/d/1hg512iRwU-agSZiGxOXMnVmKBuhZS1GB/preview" width="300" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/miembro/hija.mp3" controls >
+                        </audio>
                     </h2>
 
                 </div>
@@ -176,21 +183,24 @@
                 <h2 class="mt-5">
                    Hijo: <strong>son</strong>
                 </h2>
-                <iframe src="https://drive.google.com/file/d/1uHRfjbTclSpNkAdicOF1qERWuB22Gx9k/preview" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/miembro/hijo.mp3" controls >
+                </audio>
             </div>
             <div class="col-md-4">
                 <img class="mx-auto d-block" src="https://i.ibb.co/S6b3kwX/bebe-removebg-preview.png" width="230" height="170">
                 <h2 class="mt-5">
                     Bebé: <strong>baby</strong>
                 </h2>
-                <iframe src="https://drive.google.com/file/d/1iwtkNp1A7I4KQ5XJp-H4221IleEIHrVe/preview" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/miembro/bebe.mp3" controls >
+                </audio>
             </div>
             <div class="col-md-4">
                 <img class="mx-auto d-block" src="https://i.ibb.co/rZrw3jM/abu-removebg-preview.png" width="300" height="250">
                 <h2 class="mt-5">
                     Abuela: <strong>grandmother</strong>
                 </h2>
-                <iframe src="https://drive.google.com/file/d/1n0tM8DyCzqbw4bfZNMudjQSRhtED3XjQ/preview" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/miembro/abuela.mp3" controls >
+                </audio>
             </div>
         </div>
     </div>
@@ -203,21 +213,24 @@
                 <h2 class="mt-5">
                     Nieta: <strong>granddaughter</strong>
                 </h2>
-                <iframe src="https://drive.google.com/file/d/1BcPThCJWy4soR3xwKFYupoBOywyk3gpq/preview" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/miembro/nieta.mp3" controls >
+                </audio>
             </div>
             <div class="col-md-4">
                 <img class="mx-auto d-block" src="https://i.ibb.co/hmZ1LB1/abue-removebg-preview.png"  width="350" height="250">
                 <h2 class="mt-5" >
                     Abuelo: <strong>grandfather</strong>
                 </h2>
-                <iframe src="https://drive.google.com/file/d/1t9_wckFGtEHhrnC4wUN3MVc-aYmbKYsK/preview" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/miembro/abuelo.mp3" controls >
+                </audio>
             </div>
             <div class="col-md-4">
                 <img class="mx-auto d-block" src="https://i.ibb.co/x8rLVB7/ni-ofeliz-removebg-preview.png" width="300" height="220">
                 <h2 class="mt-5">
                     Nieto: <strong>grandson</strong>
                 </h2>
-                <iframe src="https://drive.google.com/file/d/1wJ4TKXbDIAkNUdOOguKMXJoieD0J_bpw/preview" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/miembro/nieto.mp3" controls >
+                </audio>
             </div>
         </div>
     </div>
@@ -231,21 +244,24 @@
                 <h2 class="mt-5">
                     Tia: <strong>aunt</strong>
                 </h2>
-                <iframe src="https://drive.google.com/file/d/13pLTPgtsTHEH-HAYT1onJOvebMqZvE4N/preview" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/miembro/tia.mp3" controls >
+                </audio>
             </div>
             <div class="col-md-4">
                 <img class="mx-auto d-block" src="https://i.ibb.co/LgZzHyN/tio-removebg-preview.png" width="350" height="250">
                 <h2 class="mt-5">
                     Tio: <strong>uncle</strong>
                 </h2>
-                <iframe src="https://drive.google.com/file/d/1uiM2qdpwHjlSskS8CkJ9u1Zc7KrKY64-/preview" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/miembro/tio.mp3" controls >
+                </audio>
             </div>
             <div class="col-md-4">
                 <img class="mx-auto d-block" src="https://i.ibb.co/hfJfc7x/prii-removebg-preview.png" width="350" height="250">
                 <h2 class="mt-5">
                     Primo/a: <strong>cousin</strong>
                 </h2>
-                <iframe src="https://drive.google.com/file/d/1zzZ8sPPyWx_Bnal0xRvY4yZfMgSKVGun/preview" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/miembro/primo.mp3" controls >
+                </audio>
             </div>
         </div>
     </div>
@@ -295,7 +311,8 @@
             <div class="col-md-6 mb-5">
                 <img class="rounded-circle mx-auto d-block bg-info mt-5" src="https://i.ibb.co/2ctGX3w/app-removebg-preview.png" width="400" height="300">
                 <h2><em>Audio pronunciación en inglés</em></h2><br>
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1u00DW7e8T1IE2Hk78gJVWWfRJm7uRBtY/preview" width="400" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/miembro/vocabulario.mp3" controls >
+                </audio>
             </div>
         </div>
     </div>

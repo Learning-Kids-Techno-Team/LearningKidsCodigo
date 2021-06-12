@@ -25,54 +25,51 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="Sprint 12 Daniela Mazzoni">
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/anci.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/banco.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/basura.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/cabina.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/cate.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/ceme.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/cine.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/circo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/escu.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/estadio.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/far.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/hos.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/hotel.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/mer.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/monu.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/pana.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/par.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/plaza.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/poli.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/pri.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/resi.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/rest.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/superme.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/tele.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/tienda.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/lugares/turis.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Apri.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Dic.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Feb.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Jul.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Jun.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Lun.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Nov.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Oct.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/Sep.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/agos.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/domingo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/ene.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/jueves.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/martes.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/marz.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/mayo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/miercoles.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/sabado.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/tiempo/viernes.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/diasSemana.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/diasSemana.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/meses.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/meses.blade.php" afterDir="false" />
+    <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/boca.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/brazo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/cabeza.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/ceja.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/cintura.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/codo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/columna.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/corazon.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/costilla.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/dedo pie.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/dedo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/espalda.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/higado.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/hueso.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/musculo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/nariz.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/ojo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/ombligo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/pecho.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/pelo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/pie.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/pierna.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/pies.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/pulmon.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/rodilla.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/tobillo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/vena.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/abuela.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/abuelo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/bebe.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/hija.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/hijo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/madre.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/nieta.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/nieto.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/padre.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/primo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/tia.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/tio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/vocabulario.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/familiaMiembros.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/familiaMiembros.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/numeros.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/numeros.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/partes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/partes.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,10 +223,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\laragon\www\LearningKidsCodigo\public\AudioIngles" />
+      <recent name="C:\laragon\www\LearningKidsCodigo\public\AudioIngles\miembro" />
       <recent name="C:\laragon\www\LearningKidsCodigo\resources\views\Matematicas" />
       <recent name="C:\laragon\www\LearningKidsCodigo\resources\views" />
       <recent name="C:\laragon\www\LearningKidsCodigo\resources\views\Español" />
-      <recent name="C:\wamp64\www\LearningKidsCodigo\resources\views\Español" />
     </key>
   </component>
   <component name="RunManager">
