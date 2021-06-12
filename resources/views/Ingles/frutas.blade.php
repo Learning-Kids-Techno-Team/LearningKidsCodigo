@@ -120,6 +120,10 @@
 
         }
 
+        #play{
+            width: 100%;
+        }
+
 
 
     </style>
@@ -180,7 +184,8 @@
                         <h2 class="mt-5">
                             Uvas: <strong>Grapes</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1T9gTtw4QaRmoU2PRPzSRoU1yKHUpjRXQ/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/uva.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -192,7 +197,8 @@
                         <h2 class="mt-5">
                             Cereza: <strong>Cherry</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1tPRriDWt3Otl_hIuWE8SG9Qkrsd8cseX/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/cerez.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -204,7 +210,8 @@
                         <h2 class="mt-5">
                             Arándano: <strong>Blueberry</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/19clwyP2cCaygguUH2b9mDlpTHJgQlp7f/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/aranda.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -224,7 +231,8 @@
                         <h2 class="mt-5">
                             Lima: <strong>Lime</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1MhY_K4Iuo9NYW0WR1JZwqKfLoviF70-t/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/lima.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -236,7 +244,8 @@
                         <h2 class="mt-5">
                             Limón: <strong>Lemon</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1fHdx8dyALpDlFvMYRde1qOAvddViMizi/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/limon.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -248,7 +257,8 @@
                         <h2 class="mt-5">
                             Plátano: <strong>Banana</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1ZhNoX7VuVneU7jhTG0OcNpAMnbDKUaWu/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/banan.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -268,7 +278,8 @@
                         <h2 class="mt-5">
                             Manzana: <strong>Apple</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1-TULYmIL5b569OpzmE3Lj1dW_LDM4SlZ/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/manza.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -280,7 +291,8 @@
                         <h2 class="mt-5">
                             Sandia: <strong>Watermelon</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1VLux1FEqUywa9vC_9G-gRb_X1SCTZfU1/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/sandi.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -292,7 +304,8 @@
                         <h2 class="mt-5">
                             Melocotón: <strong>Peach</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1GsCdvFx1zg3q1HFGzOrRpsoTpe5tINtM/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/melon.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -312,7 +325,8 @@
                         <h2 class="mt-5">
                             Piña: <strong>Pineapple</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1h7LgbwWdxaY46Gl4SH7g6TD17BuZHHXI/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/piña.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -324,7 +338,8 @@
                         <h2 class="mt-5">
                             Fresa: <strong>Strawberry</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1roDyRSxu3uCwJnHpxrq-kz2vULIEUC42/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/fresa.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -336,7 +351,8 @@
                         <h2 class="mt-5">
                            Naranja: <strong>Orange</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1qiiI-PxFzQKUSqMixEn7ky0mPTotEULj/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/naranj.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -356,7 +372,8 @@
                         <h2 class="mt-5">
                            Coco: <strong>Coconut</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1qzKiioDH-KFs2D6BLHHsYdW6LHFzZ_hy/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/coco.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -368,7 +385,8 @@
                         <h2 class="mt-5">
                             Pera: <strong>Pear</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1Nyojju9yfmFmopk9kaSlSkQ3ZtKjVyPg/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/pera.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -380,7 +398,8 @@
                         <h2 class="mt-5">
                             Aguacate: <strong>Avocado</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1zuz6iGFYeeRWxS4fdGuE4jofbVrvj5xd/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/aguaca.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -400,7 +419,8 @@
                         <h2 class="mt-5">
                             Pomelo: <strong>Grapefruit</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/13qa5cLArFC__sOzmXLWjSkYxg1A0kBiB/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/pomel.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -412,7 +432,8 @@
                         <h2 class="mt-5">
                             Kiwi: <strong>Kiwi</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/12aHUdq7-44DZ81bgtqEsMqhmBJ_w0q7N/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/kiw.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -424,7 +445,8 @@
                         <h2 class="mt-5">
                             Mango: <strong>Mango</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1vet9gfvyhF8HZpe5KW9CyhxJ3RmTNrK9/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/mang.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -444,7 +466,8 @@
                         <h2 class="mt-5">
                             Higo: <strong>Fig</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1fSmj-HfMbxXE4FxStA8HyvXu0prsQye4/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/higo.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -456,7 +479,8 @@
                         <h2 class="mt-5">
                             Ciruela: <strong>Plum</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/18vi7EXmtvAeYy7e-B7-L_vCQVqlqpY95/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/ciruel.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -468,7 +492,8 @@
                         <h2 class="mt-5">
                             Mandarina: <strong>Tangerine</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1LR1VvYyXk7iDb9EKEEBKiWpVycmr7hJr/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/mandar.mp3" controls >
+                        </audio>
 
                     </div>
                 </div>
@@ -489,7 +514,8 @@
                         <h2 class="mt-5">
                             Maracuyá: <strong>Passion fruit</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1HOgQ8GsD78hMTn76rM_72VsTPMvyDNsy/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/maracu.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -501,7 +527,8 @@
                         <h2 class="mt-5">
                              Granada: <strong>Pomegranate</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1tqzxMZuCx-mp2kLrBeGxVPHElakfAdBT/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/granad.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -513,7 +540,8 @@
                         <h2 class="mt-5">
                             Frambuesa: <strong>Raspberry</strong>
                         </h2>
-                        <iframe src="https://drive.google.com/file/d/1j9ZAN3KfFIuQ_ReGOOYJ9aQDS5uonxim/preview" width="250" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/frut-ver/framb.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
