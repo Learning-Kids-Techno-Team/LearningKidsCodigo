@@ -82,23 +82,19 @@
 <div class="container-fluid" id="h">
     <div class="row ">
         <div class="col-md-4 " >
-            <img class="mx-auto d-block pt-5"   src="https://i.ibb.co/x20mBCr/gif-unscreen.gif"    width="200"/>
+            <img class="mx-auto d-block pt-5"   src="https://i.ibb.co/x20mBCr/gif-unscreen.gif"    width="250"/>
 
         </div>
-        <div class="col-md-8 " >
+        <div class="col-md-8 " style="text-align: center"><br>
             <h2 id="color" >Cuentos Fantásticos</h2>
-            <p >
+            <p  style="text-align: center">
                 <strong><em>
                 Estos cuentos se caracterizan por estar impregnados de elementos fantásticos.<br>
-                Son cuentos de hechos insólitos que escapan a la realidad, pero siempre tienen <br>
-                        una explicación lógica y,
-                pese a incluir datos fantásticos, no suelen salirse de la<br>
-                        racionalidad.<br>
-                        <br>
-                    Este tipo de cuentos tiene personajes que se perciben como normales a lo largo<br>
-                        de toda la historia, como brujas, dragones, hadas.<br>
+                Son cuentos de hechos insólitos que escapan a la realidad, pero siempre tienen una explicación lógica y,
+                pese a incluir datos fantásticos, no suelen salirse de la racionalidad.<br><br>
+                    Este tipo de cuentos tiene personajes que se perciben como normales a lo largo
+                        de toda la historia, como brujas, dragones, hadas.
                         Utiliza expresiones imprecisas para determinar la época y el lugar.<br>
-
 
                     </em></strong>
             </p>
@@ -117,11 +113,11 @@
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/pzh3rRG/mago.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">El Mago Magú</h5>
@@ -162,8 +158,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-5 ">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/wLJJLX0/bruja.jpg" class="card-img-top " alt="..." height="350" >
                 <div class="card-body">
                     <h5 class="card-title">El Traje de la bruja Petra</h5>
@@ -210,14 +206,15 @@
                 </div>
             </div>
         </div>
+
     </div>
 </div>
-        <div class="container-fluid  center-block pl-5" >
-            <div class="row m-5" >
-                <div class="col-md-6">
-        <!-- tarjetas3 -->
+<!-- tarjetas3 -->
+        <div class="container-fluid">
+            <div class="row">
 
-            <div class="card" style="width: 30rem;">
+                <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/r4CMrX3/mariposas.jpg"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">La Mariposa Presumida</h5>
@@ -257,13 +254,13 @@
                     </p>
 
                     <audio  id="player" src="AudiosEspañol/cuentos/La mariposa presumida.mp3" controls >
-                    </audio></div>
+                    </audio>
+                </div>
             </div>
         </div>
 
-
-                <div class="col-md-6">
-                <div class="card" style="width: 30rem;">
+                <div class="col-xl-6 p-5">
+                <div class="card mx-auto d-block" style="width: 30rem;">
                     <img  src="https://i.ibb.co/L1ZsX4z/cordero.jpg"  class="card-img-top" alt="..." height="380">
                     <div class="card-body">
                         <h5 class="card-title">El cordero y el pececito</h5>
@@ -322,20 +319,17 @@
                 </div>
             </div>
 
-
     </div>
 </div>
 
 
 <!-- contenedor 2 -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-
+<div class="container-fluid">
+    <div class="row" >
 
         <!-- tarjeta 2 -->
-
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/4fBg0BT/rana.jpg"  class="card-img-top" alt="..." height="350">
                 <div class="card-body">
                     <h5 class="card-title">Cuentos del Sapo</h5>
@@ -385,8 +379,8 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/gw2C8ZY/gallina.jpg"  class="card-img-top" alt="..." height="350">
                 <div class="card-body">
                     <h5 class="card-title">Lua, la Gallina enamorada</h5>
