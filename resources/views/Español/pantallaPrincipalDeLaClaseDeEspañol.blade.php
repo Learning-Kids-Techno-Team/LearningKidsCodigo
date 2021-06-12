@@ -117,10 +117,10 @@
         <div class="col-md-4">
             <img class="mx-auto d-block" src="https://i.ibb.co/5h5mBC2/nino-chico-llevando-dibujos-animados-libro-33070-1881-removebg-preview-1.png" width="400">
         </div>
-        <div class="col-md-8" >
+        <div class="col-md-8">
             <h3><br>Español</h3>
-            <p>
 
+            <p style="text-align: center">
                 <strong><br>
                     <br>
                     En esta asignatura  desarrollarás habilidades hablar, escuchar, escribir y leer; es decir, tenemos que dominar las cuatro habilidades lingüísticas: expresión oral, comprensión auditiva, expresión escrita y comprensión lectora que son parte de este proceso para que nuestros niños
