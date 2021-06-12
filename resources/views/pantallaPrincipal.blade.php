@@ -157,7 +157,7 @@
                 enseñanza y aprendizaje para sus niños. Este espacio es una herramienta
                 útil para reforzar el conocimiento no solo de nuestros niños sino también
                 permite una mayor didáctica si eres educador o maestro; es por ello que
-                la información de esta pagina web esta abierta para todo tipo de usuario.
+                la información de esta página web esta abierta para todo tipo de usuario.
             </p>
 
         </div>

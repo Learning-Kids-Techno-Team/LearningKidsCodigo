@@ -123,7 +123,7 @@
 
                 <strong><br>
                     <br>
-                    En esta asignatura  desarrollaras habilidades hablar, escuchar, escribir y leer; es decir, tenemos que dominar las cuatro habilidades lingüísticas: expresión oral, comprensión auditiva, expresión escrita y comprensión lectora que son parte de este proceso para que nuestros niños
+                    En esta asignatura  desarrollarás habilidades hablar, escuchar, escribir y leer; es decir, tenemos que dominar las cuatro habilidades lingüísticas: expresión oral, comprensión auditiva, expresión escrita y comprensión lectora que son parte de este proceso para que nuestros niños
                 fomenten la lectura.<br>
                 <br>
                 </strong></p></div>
@@ -131,7 +131,7 @@
     </div>
     <!-- titulo de las categorias-->
     <div style="color: #D8E2F3;">
-        <h1>Categorias de la clase de español</h1>
+        <h1>Categorías de la clase de español</h1>
     </div>
 
     <!-- botones-->

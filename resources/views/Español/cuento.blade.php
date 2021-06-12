@@ -42,22 +42,24 @@
     }
 
 
-    #separadorInferior .content{
+    .content{
+
+        width: 100%;
+        height: 100px;
+        margin-left: 0px;
+        border-top-left-radius: 80%;
+        border-top-right-radius:80%;
+
+    }
+
+    #separadorInferior{
 
         width: 100%;
         height: 100px;
         margin-left: 0px;
         border-top-left-radius: 50%;
         border-top-right-radius:50%;
-    }
-    #separadorInferior2 .content{
-
-        width: 100%;
-        height: 100px;
-        margin-left: 0px;
-        border-bottom-left-radius:80%;
-        border-top-right-radius: 80%;
-        background: #B8DA97;
+        background: #3B5686;
     }
 
     .navbar{
@@ -79,17 +81,24 @@
 
     }
 
+    body{
+        background: #bce0ee;
+    }
+
+    #clr {
+        background: #3B5686;
+    }
 
 </style>
 </head>
-<body style="background: #3B5686;">
+<body>
 
 <!-- navbar-->
 @section('content')
 
 
 <!-- iamgen -->
-<div class="container-fluid">
+<div class="container-fluid" id="clr">
     <div class="row">
         <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
             <img src="https://i.ibb.co/vB0Z4vy/cx-removebg-preview.png"  width="600"  class=" mx-auto d-block"/>
@@ -124,23 +133,23 @@
         </div>
     </div>
 </div>
+
 <!-- titulo -->
-<div class="row" style="background: #bce0ee";>
+<div class="row" style="background: #bce0ee">
     <div class="col-md-12">
         <h3 align="center " >
             <br>Tipos de Cuentos <br>
         </h3>
     </div>
 </div>
-</div>
-</div>
 
 
 <!-- tarjetas tipos de cuentos -->
-<div class="row "  style="background: #bce0ee" >
+<div class="container-fluid center-block pl-5 d-flex justify-content-center">
+<div class="row">
     <!-- tarjeta 1 -->
-    <div class="col-md-3 pb-3" >
-        <div class="card"  style="width: 18rem;" >
+    <div class="col-xl-3 pb-5" >
+        <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img   src="https://i.ibb.co/CmNZfRq/descarga.jpg"  class=" mx-auto d-block" alt="rondas"  height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Fantásticos</h5>
@@ -148,9 +157,10 @@
             </div>
         </div>
     </div>
+
     <!-- tarjeta2 -->
-    <div class="col-md-3 pb-3" >
-        <div class="card"  style="width: 18rem;" >
+    <div class="col-xl-3 pb-5" >
+        <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img   src="https://i.ibb.co/xmC8SJL/maxresdefault.jpg"  class=" mx-auto d-block" alt="rondas"  height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Infantiles</h5>
@@ -158,9 +168,10 @@
             </div>
         </div>
     </div>
+
     <!-- tarjeta3 -->
-    <div class="col-md-3 pb-3" >
-        <div class="card"  style="width: 18rem;" >
+    <div class="col-xl-3 pb-5" >
+        <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img   src="https://i.ibb.co/fDZPYF8/real.jpg"   class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Realistas</h5>
@@ -168,9 +179,10 @@
             </div>
         </div>
     </div>
+
     <!-- tarjeta4 -->
-    <div class="col-md-3 pb-3" >
-        <div class="card"  style="width: 18rem;" >
+    <div class="col-xl-3 pb-5" >
+        <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img   src="https://i.ibb.co/GRwk26w/terror.jpg"   class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Terror</h5>
@@ -178,9 +190,16 @@
             </div>
         </div>
     </div>
+
+</div>
+</div>
+
 <!-- tarjeta5 -->
-    <div class="col-md-3 pb-3" >
-        <div class="card"  style="width: 18rem;" >
+<div class="container-fluid center-block pl-5 d-flex justify-content-center">
+    <div class="row">
+
+    <div class="col-xl-3 pb-5" >
+        <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img    src="https://i.ibb.co/BBcqQ4f/feliz-navidad.jpg"    class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Navidad</h5>
@@ -188,9 +207,10 @@
             </div>
         </div>
     </div>
+
     <!-- tarjeta6 -->
-    <div class="col-md-3 pb-3" >
-        <div class="card"  style="width: 18rem;" >
+    <div class="col-xl-3 pb-5" >
+        <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img     src="https://i.ibb.co/nbCwrYv/aventura.jpg"    class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Aventuras</h5>
@@ -199,8 +219,8 @@
         </div>
     </div>
     <!-- tarjeta7 -->
-    <div class="col-md-3 pb-3" >
-        <div class="card"  style="width: 18rem;" >
+    <div class="col-xl-3 pb-5" >
+        <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img  src="https://i.ibb.co/qBGp3t3/policiales.jpg" class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Policiales</h5>
@@ -209,8 +229,8 @@
         </div>
     </div>
     <!-- tarjeta8 -->
-    <div class="col-md-3 pb-3" >
-        <div class="card"  style="width: 18rem;" >
+    <div class="col-xl-3 pb-5" >
+        <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img   src="https://i.ibb.co/421Xxcm/dormir.jpg"  class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Para Dormir</h5>
@@ -223,9 +243,8 @@
 </div>
 
 <!-- separador -->
-<div id="separadorInferior2">
+<div id="separadorInferior">
     <div class="content ">
-
     </div>
 </div>
 
