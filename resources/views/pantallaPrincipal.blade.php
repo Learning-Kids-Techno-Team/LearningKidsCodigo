@@ -148,7 +148,7 @@
         </div>
         <div class="col-md-4">
 
-            <p>
+            <p style="text-align: center"><br>
                 Es una forma divertida y gratuita para que tus hijos aprendan,
                 refuercen y/o desarrollen hábilidades sobre cuatro materias básicas
                 (matemáticas, español,ciencias naturales y ciencias sociales). Todo
