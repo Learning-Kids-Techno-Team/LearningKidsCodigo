@@ -87,10 +87,11 @@
             <img class="mx-auto d-block pb-5"    src="https://i.ibb.co/GktxP5F/3b84ed5c38c4ee30bc6401d69db56578-removebg-preview.png"   width="300" />
 
         </div>
-        <div class="col-md-8 " >
+        <div class="col-md-8" style="text-align: center">
             <br>
-            <h2 id="color" class="text-center">Cuentos Infantiles</h2>
-            <p ><strong><em>
+            <h2 id="color">Cuentos Infantiles</h2>
+            <p  style="text-align: center">
+                <strong><em>
                 Estos cuentos están dedicados al público infantil, por lo que suelen contar historias fantásticas y felices.<br>
 
                 Se distinguen de los libros fantásticos porque el lenguaje es mucho más simple, y muchos de ellos se utilizan<br>
@@ -178,9 +179,8 @@
                 </div>
             </div>
         </div>
+
         <!-- tarjeta 2 -->
-
-
 
         <div class="col-xl-6 p-5 ">
             <div class="card mx-auto d-block" style="width: 30rem;">
@@ -251,8 +251,8 @@
         </div>
     </div>
 </div>
-        <!-- tarjetas3 -->
 
+<!-- tarjetas3 -->
 <div class="container-fluid " >
     <div class="row " >
         <div class="col-xl-6 p-5">
@@ -298,6 +298,8 @@
             </div>
     </div>
 </div>
+
+        <!-- tarjeta4 -->
         <div class="col-xl-6  p-5">
         <div class="card mx-auto d-block" style="width: 30rem;">
             <img src="https://i.ibb.co/wwzjzvT/gigante.jpg"  class="card-img-top" alt="..." height="330">
@@ -361,7 +363,7 @@
 
 
 <!-- contenedor 2 -->
-
+<!-- tarjeta 5 -->
 <div class="container-fluid " >
     <div class="row " >
         <div class="col-xl-6 p-5">
@@ -421,7 +423,9 @@
                 </div>
             </div>
         </div>
-        <!-- tarjetas3 -->
+
+        <!-- tarjeta 6 -->
+
         <div class="col-xl-6 p-5">
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/WF5wrgD/cenicienta.jpg" class="card-img-top" alt="..." height="300">

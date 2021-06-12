@@ -259,6 +259,7 @@
             </div>
         </div>
 
+                <!-- tarjeta 4 -->
                 <div class="col-xl-6 p-5">
                 <div class="card mx-auto d-block" style="width: 30rem;">
                     <img  src="https://i.ibb.co/L1ZsX4z/cordero.jpg"  class="card-img-top" alt="..." height="380">
@@ -327,7 +328,7 @@
 <div class="container-fluid">
     <div class="row" >
 
-        <!-- tarjeta 2 -->
+        <!-- tarjeta 5-->
         <div class="col-xl-6 p-5">
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/4fBg0BT/rana.jpg"  class="card-img-top" alt="..." height="350">
@@ -378,7 +379,7 @@
                 </div>
             </div>
         </div>
-        <!-- tarjetas3 -->
+        <!-- tarjetas 6 -->
         <div class="col-xl-6 p-5">
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/gw2C8ZY/gallina.jpg"  class="card-img-top" alt="..." height="350">
