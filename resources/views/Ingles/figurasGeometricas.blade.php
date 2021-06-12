@@ -95,6 +95,9 @@
             background:#DCFECB;
             border: #fff6af 15px dashed;
         }
+        #play{
+            width: 100%;
+        }
 
     </style>
 
@@ -144,24 +147,28 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/3BNMwnZ/ef4548d1309854ac3bb1ad6b582a4b38-removebg-preview.png"  width="180" />
-                <iframe src="https://drive.google.com/file/d/1aUWQaMV4Sa2e86yLqsEejGDExXyu7Ssi/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/figura/1.mp3" controls >
+                </audio>
                 <h2>Circle – círculo</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/1QSkMZN/istockphoto-1208851179-170667a-removebg-preview.png" alt="istockphoto-1208851179-170667a-removebg-preview"    width="220"/>
-                <iframe src="https://drive.google.com/file/d/1lcVyXLRkBpR9Kb3haoFgi1-faJSqET71/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/figura/2.mp3" controls >
+                </audio>
                 <h2>Diamond – diamante</h2>
             </div>
             <div class="col-md-3">
 
                 <img  class="mx-auto d-block" src="https://i.ibb.co/9ty9vLZ/vector-plano-del-dise-o-del-amor-del-emoticon-del-coraz-n-del-personaje-de-dibujos-animados-del-kawa.png"    width="168" />
-                <iframe src="https://drive.google.com/file/d/12-ykd_HMF5wrl9TG2zZc_6kjpz76iroL/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/figura/3.mp3" controls >
+                </audio>
                 <h2>Heart – corazón</h2>
 
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/f2BBjMB/png-clipart-hexagon-cartoon-drawing-hexagon-shape-smiley-polygon-removebg-preview.png"    width="200" />
-                <iframe src="https://drive.google.com/file/d/1I5yYWaULsvdyRLGLQ2578JbKTfdHJClw/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/figura/4.mp3" controls >
+                </audio>
                 <h2>Hexagon - hexágono</h2>
             </div>
         </div>
@@ -173,25 +180,29 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" src="https://i.ibb.co/wKZ2rQ5/13f2f7d681f293147cd203c43ff8b230-removebg-preview.png"   width="185" />
-                <iframe src="https://drive.google.com/file/d/1hkBqGyAuxlcASPSOfM2b2_KfwhSvBWME/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/figura/5.mp3" controls >
+                </audio>
                 <h2>Rectangle – rectángulo</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/2738FZL/png-transparent-geometric-shape-disk-rectangle-geometry-emoticon-square-angle-text-triangle-removebg.png"     width="145"/>
-                <iframe src="https://drive.google.com/file/d/1-Tt7WV_L3nT-Z2_Igz-jAjrSItZtUmMA/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/figura/6.mp3" controls >
+                </audio>
                 <h2>Square – cuadrado</h2>
             </div>
             <div class="col-md-3">
 
                 <img  class="mx-auto d-block" src="https://i.ibb.co/X5SwPDQ/png-clipart-cartoon-stars-cartoon-star-removebg-preview.png"   width="115" />
-                <iframe src="https://drive.google.com/file/d/1mulYdLe3bQAKBegHDTQR1ZpQld4STe-i/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/figura/7.mp3" controls >
+                </audio>
                 <h2>Star – estrella</h2>
 
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/N3d7WCP/02811416b8649deb6acb07722f826382-removebg-preview.png"    width="150"/>
-                <iframe src="https://drive.google.com/file/d/1t8kvgnH3LBvylVWedHWiKjQW53pUcE-K/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/figura/8.mp3" controls >
+                </audio>
                 <h2>Trapezoid – trapezoide</h2>
             </div>
         </div>
@@ -204,27 +215,31 @@
             <div class="col-md-3">
 
                 <img class="mx-auto d-block"  src="https://i.ibb.co/cx7S72V/triangle-5258735-960-720-removebg-preview.png"  width="155" />
-                <iframe src="https://drive.google.com/file/d/1MOK4RfQIOsWB_ceITlq7_IsvimYRACQf/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/figura/9.mp3" controls >
+                </audio>
                 <h2>Triangle – triángulo</h2>
             </div>
             <div class="col-md-3">
 
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/v1K69nt/depositphotos-205275746-stock-illustration-two-finger-parallelogram-character-cartoon-removebg-previ.png"  width="192"/>
-                <iframe src="https://drive.google.com/file/d/17gjgtoEeJKzg1eoNJIHexGf8-aE-uwg7/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/figura/10.mp3" controls >
+                </audio>
                 <h2>Parallelogram - paralelogramo</h2>
             </div>
             <div class="col-md-3">
 
 
                 <img  class="mx-auto d-block" src="https://i.ibb.co/3BkL6Nz/2dce1ec378f622f7936e77a72cef76da-removebg-preview.png"  width="165" />
-                <iframe src="https://drive.google.com/file/d/1IV8svbt2zHXTnJqhJ2BCOYdg4By6BMQB/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/figura/11.mp3" controls >
+                </audio>
                 <h2>Diamond – rombo</h2>
 
             </div>
             <div class="col-md-3">
                 <br><br>
                 <img  class="mx-auto d-block"  img src="https://i.ibb.co/189nK8x/png-transparent-oval-blog-oval-s-smiley-website-emoticon-removebg-preview.png"   width="175" />
-                <iframe src="https://drive.google.com/file/d/14Z_ONhcqD0FPHskpfQvEf0fWzNjNbTvP/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/figura/12.mp3" controls >
+                </audio>
                 <h2>Oval - ovalo</h2>
             </div>
         </div>
