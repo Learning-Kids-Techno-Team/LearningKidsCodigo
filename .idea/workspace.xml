@@ -26,51 +26,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/baño.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/cochera.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/cocina.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/comedor.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/dormitorio.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/dormitorioPrincipal.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/escaleras.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/jardin.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/pared.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/piso.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/piso2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/puertaPrincipal.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/sala.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/techo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/casa/ventana.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/Aburrimiento.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/Alegría.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/Asombro.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/Asustado.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/Confusión.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/Enojado.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/Enojo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/Envidia.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/Miedo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/Simpatía.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/felicidad.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/feliz.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/triste.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/emo/tristeza.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/figura/1.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/figura/10.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/figura/11.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/figura/12.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/figura/2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/figura/3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/figura/4.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/figura/5.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/figura/6.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/figura/7.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/figura/8.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/figura/9.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/emociones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/emociones.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/figurasGeometricas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/figurasGeometricas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/partesDeLaCasa.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/partesDeLaCasa.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosInfantiles.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosInfantiles.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosRealistas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosRealistas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,13 +229,6 @@
       <workItem from="1618285597202" duration="370000" />
       <workItem from="1619142257578" duration="2375000" />
       <workItem from="1623367762994" duration="6483000" />
-    </task>
-    <task id="LOCAL-00018" summary="Sprint5 Sindy G.">
-      <created>1607846660514</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1607846660514</updated>
     </task>
     <task id="LOCAL-00019" summary="Sprint5 Sindy G.">
       <created>1607904029572</created>
@@ -614,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623476249533</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Sprint 12 Daniela Mazzoni">
+      <created>1623478031726</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1623478031726</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

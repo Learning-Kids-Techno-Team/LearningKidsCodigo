@@ -112,11 +112,11 @@
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/F8kT0c2/osos.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">Ricitos de Oro</h5>
@@ -179,8 +179,11 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 justify-content-center pl-5">
-            <div class="card" style="width: 30rem;">
+
+
+
+        <div class="col-xl-6 p-5 ">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/zrjqkS3/Caperucita.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">Caperucita Roja</h5>
@@ -250,10 +253,11 @@
 </div>
         <!-- tarjetas3 -->
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-        <div class="card" style="width: 30rem;">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
+            <!-- tarjeta 1 -->
+            <div class="card mx-auto d-block" style="width: 30rem;">
             <img  src="https://i.ibb.co/sbc7xVb/patito-feo.jpg" class="card-img-top" alt="..." width="280">
             <div class="card-body">
                 <h5 class="card-title">El Patito Feo</h5>
@@ -294,8 +298,8 @@
             </div>
     </div>
 </div>
-        <div class="col-md-6 justify-content-center pl-5">
-        <div class="card" style="width: 30rem;">
+        <div class="col-xl-6  p-5">
+        <div class="card mx-auto d-block" style="width: 30rem;">
             <img src="https://i.ibb.co/wwzjzvT/gigante.jpg"  class="card-img-top" alt="..." height="330">
             <div class="card-body">
                 <h5 class="card-title">El gigante Egoista</h5>
@@ -358,10 +362,11 @@
 
 <!-- contenedor 2 -->
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
+            <!-- tarjeta 1 -->
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/4P4dnDN/bella.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">La bella Durmiente</h5>
@@ -417,8 +422,8 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4 justify-content-center pl-5">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/WF5wrgD/cenicienta.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">La Cenicienta</h5>
