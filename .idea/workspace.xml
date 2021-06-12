@@ -26,50 +26,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/boca.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/brazo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/cabeza.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/ceja.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/cintura.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/codo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/columna.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/corazon.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/costilla.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/dedo pie.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/dedo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/espalda.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/higado.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/hueso.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/musculo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/nariz.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/ojo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/ombligo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/pecho.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/pelo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/pie.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/pierna.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/pies.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/pulmon.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/rodilla.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/tobillo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/cuerpo/vena.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/abuela.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/abuelo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/bebe.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/hija.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/hijo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/madre.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/nieta.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/nieto.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/padre.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/primo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/tia.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/tio.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/AudioIngles/miembro/vocabulario.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/abrigo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/anillo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/billetera.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/blusa.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/botas.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/braalete.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/bragas.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/calzoncillos.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/calzoneta.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/camisa de tirantes.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/camisa.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/camiseta.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/cartera.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/cañsetines.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/chaleco.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/chaqueta.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/cinturon.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/collar.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/corbata.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/corbatin.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/falda.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/gabardina.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/gafas.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/gorra.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/gorro de lana.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/jeans.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/jersey.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/medias.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/pendientes.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/pijama.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/reloj.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/sandalia.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/sombrero.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/sujetador.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/tacones.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/traje.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/vestido.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/zapatos.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/AudioIngles/prenda/zzapato deportivo.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/familiaMiembros.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/familiaMiembros.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/numeros.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/numeros.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/partes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/partes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/vestimenta.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/vestimenta.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,13 +266,6 @@
       <workItem from="1618285597202" duration="370000" />
       <workItem from="1619142257578" duration="2375000" />
       <workItem from="1623367762994" duration="6483000" />
-    </task>
-    <task id="LOCAL-00015" summary="Sprint Techno Team">
-      <created>1604982966578</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1604982966578</updated>
     </task>
     <task id="LOCAL-00016" summary="Sprint4 Sindy G.">
       <created>1605845522357</created>
@@ -613,7 +603,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623388070025</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Sprint 12 Daniela Mazzoni">
+      <created>1623470784635</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1623470784743</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
