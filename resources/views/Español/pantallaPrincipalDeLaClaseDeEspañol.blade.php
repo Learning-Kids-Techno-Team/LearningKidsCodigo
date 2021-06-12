@@ -64,9 +64,9 @@
 <div class="row">
     <!-- contenedor-->
     <div class="col-md-12">
-        <div class="carousel slide" id="carousel-896190">
+        <div class="carousel slide" id="carousel-896190" >
             <ol class="carousel-indicators">
-                <li data-slide-to="0" data-target="#carousel-896190" class="active">
+                <li data-slide-to="0" data-target="#carousel-896190" class="active" data-interval="100">
                 </li>
                 <li data-slide-to="1" data-target="#carousel-896190" >
                 </li>

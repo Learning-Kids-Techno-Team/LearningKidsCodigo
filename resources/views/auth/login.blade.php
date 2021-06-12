@@ -51,15 +51,29 @@
                     <i class="material-icons">lock_outline</i>
                   </span>
                                     </div>
-                                    <input type="password" name="password" id="password" class="form-control" value="{{ !$errors->has('password') ? "secret" : "" }}" required>
+                                <!--
+ <input type="password" name="password" id="password" class="form-control" value="{{ !$errors->has('password') ? "secret": "" }}" required>
                                 </div>
                                 @if ($errors->has('password'))
                                     <div id="password-error" class="error text-danger pl-3" for="password" style="display: block;">
                                         <strong>{{ $errors->first('password') }}</strong>
                                     </div>
                                 @endif
+                                </div> -->
+
+                                            <input id="password" placeholder="Contraseña"  type="password" class="form-control @error('password') is-invalid @enderror" name="password" required autocomplete="current-password">
+
+                                            @error('password')
+                                            <span class="invalid-feedback" role="alert">
+                                        <strong>Datos Incorrectos</strong>
+                                    </span>
+                                            @enderror
+
+                                    </div>
+
                             </div>
-                            <div class="form-check mr-auto ml-3 mt-3">
+
+                                    <div class="form-check mr-auto ml-3 mt-3">
                                 <label class="form-check-label">
                                     <input class="form-check-input" type="checkbox" name="remember" {{ old('remember') ? 'checked' : '' }}> {{ __('Recordar contraseña') }}
                                     <span class="form-check-sign">
@@ -73,6 +87,7 @@
                         </div>
                     </div>
                 </form>
+
                 <div class="row">
                     <div class="col-6">
                         @if (Route::has('password.request'))
@@ -88,6 +103,7 @@
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
 @endsection
