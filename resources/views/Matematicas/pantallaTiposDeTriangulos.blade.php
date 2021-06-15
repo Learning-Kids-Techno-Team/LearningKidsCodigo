@@ -70,6 +70,10 @@
             border-top-right-radius: 50%;
 
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 </head>
@@ -112,7 +116,8 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1UuvcBPHxH4aFVbc3gri24tyHEBdjEoGz/preview"  width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/Triangulos/triangulo1.mp3" controls >.mp
+                </audio>
             </div>
         </div>
         <!-- tarjeta2 -->
@@ -126,7 +131,8 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1RgvTEhlU1jW7tkv2LglQfvZgLxisBVZJ/preview" width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/Triangulos/triangulo2.mp3" controls >.mp
+                </audio>
             </div>
         </div>
         <!-- tarjeta3 -->
@@ -138,7 +144,8 @@
                     <h5 class="card-title" align="center">Un triángulo isósceles tiene dos lados y dos ángulos iguales(de igual longitud) y otro no.
                         <br><br>La manera de calcular su perímetro <br>es: <br>P = 2 l + b.</h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/17OJWl1w6E_Zx7jOMWwLIUs6ic_KvfEU0/preview" width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/Triangulos/triangulo3.mp3" controls >.mp
+                </audio>
             </div>
         </div>
 
@@ -160,7 +167,8 @@
                             <h5 class="card-title" align="center">Se caracterizan por tener un ángulo interior recto, con un valor de 90º.
                                 Los catetos son los lados que conforman este ángulo, mientras que la hipotenusa corresponde al lado opuesto. </h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1K9Bi_1XB-fcU4pn7vlcvHVyLMBL69ei5/preview" width="280" height="100"></iframe>
+                        <audio  id="player" src="Matematica/Triangulos/triangulo4.mp3" controls >.mp
+                        </audio>
                     </div>
                 </div>
                 <!-- tarjeta6 -->
@@ -172,7 +180,8 @@
                             <h5 class="card-title" align="center"><br>Este tipo de triángulo tiene un ángulo mayor a 90° pero menos de 180º <br>que recibe el nombre “obtuso”,
                                 y dos ángulos agudos,los cuales son menores a 90°.<br></h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1L3DjgkihS0EVF9Az0RWObqINC4rhAqU5/preview"  width="280" height="100"></iframe>
+                        <audio  id="player" src="Matematica/Triangulos/triangulo5.mp3" controls >.mp
+                        </audio>
                     </div>
                 </div>
                 <!-- tarjeta7 -->
@@ -183,7 +192,8 @@
                             <h1> Triángulo Acutángulo:</h1>
                             <h5 class="card-title" align="center"> <br>Este tipo de triángulo se caracteriza porque <br>tiene sus tres <br>ángulos que son <br>menores a 90°<br></h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1hvIYsHbN59vfW7idrOsBlpe2gW8vIdrH/preview"  width="280" height="100"></iframe>
+                        <audio  id="player" src="Matematica/Triangulos/triangulo6.mp3" controls >.mp
+                        </audio>
                     </div>
                 </div>
                 <!-- tarjeta8 -->
@@ -194,7 +204,8 @@
                             <h1>Triángulo equiángulo</h1>
                             <h5 class="card-title" align="center"> <br><br>Es el triángulo equilátero, puesto que sus ángulos internos <br>son iguales a 60°. </h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1LEIdhTZTRnT_tl3M_2gYJvaTXTtE_3C8/preview" width="280" height="100"></iframe>
+                        <audio  id="player" src="Matematica/Triangulos/triangulo7.mp3" controls >.mp
+                        </audio>
                     </div>
                 </div>
             </div>

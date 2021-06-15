@@ -72,6 +72,10 @@
             border-top-right-radius: 50%;
 
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 </head>
@@ -109,7 +113,7 @@
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
         <div class="col-md-3 p-3" >
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/vHq1X2C/cuadrado-removebg-preview.png" alt="cuadrado-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>Cuadrado:</h1>
@@ -117,12 +121,13 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1dk2zFbduJza1JbVtZ9l4nLYZ43pne4yl/preview" width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/cuadrado/cuadrado1.mp3" controls >.mp
+                </audio>
             </div>
         </div>
         <!-- tarjeta2 -->
         <div class="col-md-3 p-3">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/ysH26t9/rectangulos.png" alt="rectangulos"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>  Rectángulo:</h1>
@@ -130,29 +135,32 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1AQtaS9tjUf9OcI_HJbeYeE5gB4jcTOhA/preview"  width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/cuadrado/cuadrado2.mp3" controls >.mp
+                </audio>
             </div>
         </div>
         <!-- tarjeta3 -->
         <div class="col-md-3 p-3">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/fG59kgj/rombo3-removebg-preview.png" alt="rombo3-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>Rombo: </h1>
                     <h5 class="card-title" align="center">Todos los lados son iguales pero los ángulos son diferentes dos a dos, de manera que los ángulos adyacentes son diferentes y cada ángulo es igual al ángulo no adyacente.</h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/17tFZqB1VZfuVtLL6cnBHGGKqbBgBLCrj/preview" width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/cuadrado/cuadrado3.mp3" controls >.mp
+                </audio>
             </div>
         </div>
         <!-- tarjeta4 -->
         <div class="col-md-3 p-3">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/xM0PmKt/romboide2-removebg-preview.png" alt="romboide2-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>Romboide: </h1>
                     <h5 class="card-title" align="center"><br><br>Tiene sus lados y ángulos iguales dos a dos. <br><br>El romboide también es denominado paralelogramo no regular.</h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1dY5pv8vA0QUFAF2aBj0eJmYuXPuQyrCy/preview" width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/cuadrado/cuadrado4.mp3" controls >.mp
+                </audio>
             </div>
         </div>
 
@@ -167,36 +175,39 @@
                         </em></strong> </p>
             </div>
             <div class="row" style="background: #FFCDA0">
-                <div class="col-md-4 pb-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-4 pb-3 p-3">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/JBRYSgP/tescaleno-removebg-preview.png" alt="tescaleno-removebg-preview"  class="card mx-auto d-block"  height="150" width="200">
                         <div class="card-body">
                             <h1> Trapecio rectángulo: </h1>
                             <h5 class="card-title" align="center"><br>Se caracteriza por tener dos lados paralelos y dos ángulos consecutivos rectos (de 90º).</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/17gmAOp91uh0PhXr7mK_9JcG9j2W5IwDD/preview" width="280" height="100"></iframe>
-                    </div>
+                        <audio  id="player" src="Matematica/cuadrado/cuadrado5.mp3" controls >.mp
+                        </audio>
+                       </div>
                 </div>
                 <!-- tarjeta6 -->
-                <div class="col-md-4">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-4 p-3">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/VtPK1Gv/tisocel-removebg-preview.png" alt="tisocel-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">
                             <h1>Trapecio isósceles: </h1>
                             <h5 class="card-title" align="center">Los ángulos son iguales dos a dos. Tiene dos lados paralelos y dos oblicuos y de igual longitud.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1hFi3hgSrPfxW89ZVX8uQkUyCh65ziOUy/preview" width="280" height="100"></iframe>
+                        <audio  id="player" src="Matematica/cuadrado/cuadrado6.mp3" controls >.mp
+                        </audio>
                     </div>
                 </div>
                 <!-- tarjeta7 -->
-                <div class="col-md-3">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-4 p-3">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/wd7CNDc/escat-removebg-preview.png" alt="escat-removebg-preview"class="card mx-auto d-block"  height="150" width="200">
                         <div class="card-body">
                             <h1> Trapecio escaleno: </h1>
                             <h5 class="card-title" align="center">  <br><br>Los cuatro ángulos interiores <br>son desiguales.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1GVFp6TY53MVWGU6tJSNEWc_cSTio5_Eb/preview" width="280" height="100"></iframe>
+                        <audio  id="player" src="Matematica/cuadrado/cuadrado7.mp3" controls >.mp
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -208,7 +219,7 @@
                 <div class="container-fluid">
                     <div class="row"  style="background: #FFCDA0" >
                         <!-- tarjeta1 -->
-                        <div class="col-md-12 pb-3" >
+                        <div class="col-md-12 pb-3 p-3" >
                             <div class="card mx-auto d-block" style="width: 18rem;">
                                 <img src="https://i.ibb.co/thQrnPr/traprezoide3-removebg-preview-1.png" alt="traprezoide3-removebg-preview-1"   class="card mx-auto d-block"   height="150" width="200">
                                 <div class="card-body">
@@ -217,7 +228,8 @@
                                         <br>
                                     </h5>
                                 </div>
-                                <iframe src="https://drive.google.com/file/d/14Z7ERg0whhTm0gl1S5ZF1HGk59if7OIn/preview" width="280" height="100"></iframe>
+                                <audio  id="player" src="Matematica/cuadrado/cuadrado8.mp3" controls >.mp
+                                </audio>
                             </div>
                         </div>
                 </div>

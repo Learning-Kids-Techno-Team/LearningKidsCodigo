@@ -71,6 +71,10 @@
             border-top-right-radius: 50%;
 
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 </head>
@@ -112,7 +116,8 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1A_VFgN5JT986bmbT2c4YseteL2mVmDfT/preview"  width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/Lineas Rectas/linea1.mp3" controls >.mp
+                </audio>
             </div>
         </div>
         <!-- tarjeta2 -->
@@ -125,7 +130,8 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1h6zgl6Y676ALRm1Rfptnmkjs4HKdjHv0/preview" width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/Lineas Rectas/linea2.mp3" controls >.mp
+                </audio>
             </div>
         </div>
 
@@ -146,7 +152,8 @@
                             <h2>Perpendicular:</h2>
                             <h5 class="card-title" align="center">Es cuando una línea corta a otra por la mitad formando un ángulo recto el cual mide 90°. </h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1u626hiA6zH0MT89eB8h3yUMs5bGmluly/preview" width="280" height="100"></iframe>
+                        <audio  id="player" src="Matematica/Lineas Rectas/linea3.mp3" controls >.mp
+                        </audio>
                     </div>
                 </div>
                 <!-- tarjeta4 -->
@@ -157,7 +164,8 @@
                             <h2>Perpendicular:</h2>
                             <h5 class="card-title" align="center">Es cuando una línea corta a otra por la mitad formando un ángulo recto el cual mide 90°.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1u626hiA6zH0MT89eB8h3yUMs5bGmluly/preview" width="280" height="100"></iframe>
+                        <audio  id="player" src="Matematica/Lineas Rectas/linea3.mp3" controls >.mp
+                        </audio>
                     </div>
                 </div>
                 <!-- tarjeta5 -->
@@ -177,7 +185,8 @@
                                     <h1>Secante:</h1>
                                     <h5 class="card-title" align="center">Es aquella que corta otra recta o una curva. Puede decirse que dos rectas son secantes cuando disponen de un punto en común (aquel en el que se cruzan).  </h5>
                                 </div>
-                                <iframe src="https://drive.google.com/file/d/1Vx-qkfT0HBgFQJgM7YrU2WBou0r2cey8/preview" width="280" height="100"></iframe>
+                                <audio  id="player" src="Matematica/Lineas Rectas/linea4.mp3" controls >.mp
+                                </audio>
                             </div>
                         </div>
                         <!-- tarjeta6 -->
@@ -188,7 +197,8 @@
                                     <h1>Secante:</h1>
                                     <h5 class="card-title" align="center">Es aquella que corta otra recta o una curva. Puede decirse que dos rectas son secantes cuando disponen de un punto en común (aquel en el que se cruzan). </h5>
                                 </div>
-                                <iframe src="https://drive.google.com/file/d/1Vx-qkfT0HBgFQJgM7YrU2WBou0r2cey8/preview"  width="280" height="100"></iframe>
+                                <audio  id="player" src="Matematica/Lineas Rectas/linea4.mp3" controls >.mp
+                                </audio>
                             </div>
                         </div>
                     </div>

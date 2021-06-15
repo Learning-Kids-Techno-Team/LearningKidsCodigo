@@ -124,9 +124,9 @@
                 <h3>Figuras Geometricas</h3>
             </div>
         </div>
-        <div class="row mx-auto">
-            <div class="col-md-4 d-flex justify-content-center">
-                <div class="card" style="width: 18rem;">
+        <div class="row">
+            <div class="col-md-4 pb-4 ">
+                <div class="card mx-auto d-block" style="width: 18rem;">
                     <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/triangle-5258735_960_720.png" width="210" >
                     <div class="card-body">
                         <h5 class="card-title">Triangulo</h5>
@@ -135,8 +135,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 d-flex justify-content-center">
-                <div class="card" style="width: 18rem;">
+            <div class="col-md-4 pb-4">
+                <div class="card mx-auto d-block" style="width: 18rem;">
                     <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/square-5258734_960_720.png" width="300" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Cuadrado</h5>
@@ -144,8 +144,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 d-flex justify-content-center">
-                <div class="card" style="width: 18rem;">
+            <div class="col-md-4 pb-4">
+                <div class="card mx-auto d-block" style="width: 18rem;">
                     <img src="https://i.ibb.co/4YyK2hd/conjunto-formas-geometria-matematica-1639-6401-removebg-preview.png"   class="card-img-top" alt="...">
                     <div class="card-body">
                         <br>

@@ -70,6 +70,10 @@
             border-top-right-radius: 50%;
 
         }
+        #player{
+            width: 100%;
+
+        }
 
     </style>
 </head>
@@ -113,7 +117,8 @@
                         <br>
                     </h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/12IgiEjUGVatSSBX-cQ-gtNClGDlWMHxg/preview" width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/otras figuras/otra.mp3" controls >.mp
+                </audio>
             </div>
         </div>
         <!-- tarjeta2 -->
@@ -127,7 +132,8 @@
                     </h5>
                 </div>
 
-                <iframe src="https://drive.google.com/file/d/1CWpIJZqxQBYVrrKv2UhA8wNzj1atV6pw/preview"  width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/otras figuras/otra1.mp3" controls >.mp
+                </audio>
             </div>
         </div>
         <!-- tarjeta3 -->
@@ -138,7 +144,8 @@
                     <h1>Octágono: </h1>
                     <h5 class="card-title" align="center">Es una figura geométrica compuesta por ocho lados y ocho ángulos.</h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1X9HQnnU3lX-8j-bOpA7mmi8LySCTSNHO/preview" width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/otras figuras/otra3.mp3" controls >.mp
+                </audio>
             </div>
         </div>
         <!-- tarjeta4 -->
@@ -149,13 +156,14 @@
                     <h1>Círculo: </h1>
                     <h5 class="card-title" align="center">Figura geométrica delimitada por una circunferencia.</h5>
                 </div>
-                <iframe src="https://drive.google.com/file/d/1HqVFOcKI_p4vA-I3iiIcP3XwfJbRJ71f/preview"  width="280" height="100"></iframe>
+                <audio  id="player" src="Matematica/otras figuras/otra4.mp3" controls >.mp
+                </audio>
             </div>
         </div>
 
         <!-- tarjeta5 -->
         <div class="container-fluid">
-            <div class="row pt-5" style="background: #FFCDA0">
+            <div class="row pt-3" style="background: #FFCDA0">
                 <div class="col-md-3 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/JQvrX1c/Estrella-removebg-preview.png" alt="Estrella-removebg-preview"   class="card mx-auto d-block"  height="150" width="180">
@@ -163,7 +171,8 @@
                             <h1> Estrella: </h1>
                             <h5 class="card-title" align="center"><br><br>Es cualquier objeto con rayos <br>que parten de un centro común.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1o15BCyxhiXV4sfJOXYm1dNd09trQDhoS/preview" width="280" height="100"></iframe>
+                        <audio  id="player" src="Matematica/otras figuras/otra5.mp3" controls >.mp
+                        </audio>
                     </div>
                 </div>
                 <!-- tarjeta6 -->
@@ -174,7 +183,8 @@
                             <h1>Óvalo: </h1>
                             <h5 class="card-title" align="center">Figura geométrica,con dos ejes de simetría perpendiculares, compuesta de varios arcos de circunferencia tangentes entre sí.</h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1tGDPn2U7nscsNahQPEbxrfDuuR-NcYnF/preview" width="280" height="100"></iframe>
+                        <audio  id="player" src="Matematica/otras figuras/otra6.mp3" controls >.mp
+                        </audio>
                     </div>
                 </div>
                 <!-- tarjeta7 -->
@@ -186,7 +196,8 @@
                             <h5 class="card-title" align="center">  <br><br> Consiste en dos líneas o barras <br>que se cruzan en un ángulo recto.
                                 <br></h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1wceWbzswd3NYuTQsWiCREpA1J32BUOl6/preview" width="280" height="100"></iframe>
+                        <audio  id="player" src="Matematica/otras figuras/otra7.mp3" controls >.mp
+                        </audio>
                     </div>
                 </div>
                 <!-- tarjeta8 -->
@@ -198,7 +209,8 @@
                             <h5 class="card-title" align="center">  <br><br>Un Corazón tiene un total de <br>2 vértices, 2 ángulos y 2 lados.
                                 <br></h5>
                         </div>
-                        <iframe src="https://drive.google.com/file/d/1ZFqMywtik4tjj6Dv0G2YJ8SAv5LpOyqU/preview"  width="280" height="100"></iframe>
+                        <audio  id="player" src="Matematica/otras figuras/otra8.mp3" controls >.mp
+                        </audio>
                     </div>
                 </div>
 
