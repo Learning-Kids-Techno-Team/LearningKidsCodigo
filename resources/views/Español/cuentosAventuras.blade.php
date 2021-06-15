@@ -113,11 +113,11 @@
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/HF5bCH3/pirata.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">Las Aventuras del pirata Caraderrata</h5>
@@ -155,7 +155,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 justify-content-center pl-5">
+        <div class="col-xl-6 p-5">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/pXwpyyX/hadas.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
@@ -214,11 +214,11 @@
     </div>
 </div>
 <!-- contenedor 2 -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-
-            <div class="card" style="width: 30rem">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
+            <!-- tarjeta 1 -->
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/f9ZJRpW/ovejas.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">Las tres Ovejas </h5>
@@ -256,8 +256,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 justify-content-center pl-5">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/GQB2b6k/sapo.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">Lupo y sus Hermanos </h5>
@@ -285,11 +285,11 @@
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/YT4JsMV/e42e7303268ad9b434097a4f6e30449c.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">El troll que quería volar</h5>
@@ -345,8 +345,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 justify-content-center pl-5">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/VY1CjrF/globos.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">El viejo en globo de Loreto</h5>

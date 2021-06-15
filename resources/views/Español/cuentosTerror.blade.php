@@ -125,11 +125,11 @@
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  justify-content-center pl-5" >
-    <div class="row m-5   " >
-        <div class="col-md-6  ">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/X4WXTB6/fantasma.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">Los Calzoncillos del Fantasma</h5>
@@ -169,8 +169,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6  justify-content-center pl-5 ">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6  p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/5RcYXzc/dientes.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">Los Dientes</h5>
@@ -225,12 +225,11 @@
         </div>
     </div>
 </div>
-        <div class="container-fluid  center-block pl-5" >
-            <div class="row m-5" >
-                <div class="col-md-6">
-        <!-- tarjetas3 -->
-
-            <div class="card" style="width: 30rem;" >
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
+            <!-- tarjeta 1 -->
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/zxMbXrr/payaso.png" class="card-img-top" alt="..." >
                 <div class="card-body">
                     <h5 class="card-title">La Estatua del Payaso</h5>
@@ -252,15 +251,15 @@
 
                         <br>Por unos cuantos segundos hubo un silencio incómodo. Con voz de terror, el doctor Reyes dijo:
 
-                        —¡Despierta a los niños y salgan inmediatamente de la casa! NO TENEMOS NINGUNA ESTATUA DE UN PAYASO.</p>
+                        —¡Despierta a los niños y salgan inmediatamente de la casa! NO TENEMOS NINGUNA ESTATUA DE UN PAYASO.<br></p>
                     <audio  id="player" src="AudiosEspañol/cuentos/La estatua del payaso.mp3" controls >
                     </audio>
                 </div>
             </div>
         </div>
-                <div class="col-md-4 justify-content-center pl-5">
-                    <div class="card" style="width: 30rem;">
-                        <img  src="https://i.ibb.co/KbRq6hD/Senor-salcedo-thumb.png" class="card-img-top" alt="...">
+                <div class="col-xl-6 p-5 ">
+                    <div class="card mx-auto d-block" style="width: 30rem;">
+                        <img  src="https://i.ibb.co/KbRq6hD/Senor-salcedo-thumb.png" class="card-img-top" height="276">
                         <div class="card-body">
                             <h5 class="card-title">El Señor Salcedo</h5>
                             <p class="card-text">En una tarde de lluvia desaforada, el señor Salcedo se detuvo al borde de una solitaria carretera, sin memoria de cómo ni cuándo había llegado a este lugar. Continuó caminando apresuradamente con la esperanza de encontrar resguardo, pero solo se encontró con el vacío de una carretera que ahora parecía interminable.
@@ -287,7 +286,8 @@
 
                                 El señor Salcedo cortó la llamada sin decir una palabra y acercó el celular a su rostro como si fuera a tomarse una foto.
 
-                                Lo que vió en la pantalla fue espeluznante, su rostro era una máscara de humo negro y de su imagen ya no quedaba nada.</p>
+                                Lo que vió en la pantalla fue espeluznante, su rostro era una
+                                máscara de humo negro y de su imagen ya no quedaba nada.</p>
                            </div>
                         <audio  id="player" src="AudiosEspañol/cuentos/El señor salcedo.mp3" controls >
                         </audio>
@@ -299,11 +299,11 @@
 
 
 <!-- contenedor 2 -->
-<div class="container-fluid   center-block pl-5  " >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/jvRLPfc/Casa.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">La Casa a Oscuras</h5>
@@ -342,8 +342,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6  justify-content-center pl-5 ">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6  p-5 ">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/g4bWLNK/Dedo-peludo-thumb.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">El Dedo Gordo Peludo</h5>

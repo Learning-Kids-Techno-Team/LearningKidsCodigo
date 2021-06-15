@@ -385,7 +385,6 @@
                         </strong></p>
 
                 </div>
-
             </div>
         </div>
         <div class="col-xl-6 p-3">

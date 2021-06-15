@@ -64,9 +64,9 @@
 <div class="row">
     <!-- contenedor-->
     <div class="col-md-12">
-        <div class="carousel slide" id="carousel-896190">
+        <div class="carousel slide" id="carousel-896190" >
             <ol class="carousel-indicators">
-                <li data-slide-to="0" data-target="#carousel-896190" class="active">
+                <li data-slide-to="0" data-target="#carousel-896190" class="active" data-interval="100">
                 </li>
                 <li data-slide-to="1" data-target="#carousel-896190" >
                 </li>
@@ -117,13 +117,13 @@
         <div class="col-md-4">
             <img class="mx-auto d-block" src="https://i.ibb.co/5h5mBC2/nino-chico-llevando-dibujos-animados-libro-33070-1881-removebg-preview-1.png" width="400">
         </div>
-        <div class="col-md-8" >
+        <div class="col-md-8">
             <h3><br>Español</h3>
-            <p>
 
+            <p style="text-align: center">
                 <strong><br>
                     <br>
-                    En esta asignatura  desarrollaras habilidades hablar, escuchar, escribir y leer; es decir, tenemos que dominar las cuatro habilidades lingüísticas: expresión oral, comprensión auditiva, expresión escrita y comprensión lectora que son parte de este proceso para que nuestros niños
+                    En esta asignatura  desarrollarás habilidades hablar, escuchar, escribir y leer; es decir, tenemos que dominar las cuatro habilidades lingüísticas: expresión oral, comprensión auditiva, expresión escrita y comprensión lectora que son parte de este proceso para que nuestros niños
                 fomenten la lectura.<br>
                 <br>
                 </strong></p></div>
@@ -131,7 +131,7 @@
     </div>
     <!-- titulo de las categorias-->
     <div style="color: #D8E2F3;">
-        <h1>Categorias de la clase de español</h1>
+        <h1>Categorías de la clase de español</h1>
     </div>
 
     <!-- botones-->

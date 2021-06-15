@@ -87,10 +87,11 @@
             <img class="mx-auto d-block pb-5"    src="https://i.ibb.co/GktxP5F/3b84ed5c38c4ee30bc6401d69db56578-removebg-preview.png"   width="300" />
 
         </div>
-        <div class="col-md-8 " >
+        <div class="col-md-8" style="text-align: center">
             <br>
-            <h2 id="color" class="text-center">Cuentos Infantiles</h2>
-            <p ><strong><em>
+            <h2 id="color">Cuentos Infantiles</h2>
+            <p  style="text-align: center">
+                <strong><em>
                 Estos cuentos están dedicados al público infantil, por lo que suelen contar historias fantásticas y felices.<br>
 
                 Se distinguen de los libros fantásticos porque el lenguaje es mucho más simple, y muchos de ellos se utilizan<br>
@@ -112,11 +113,11 @@
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/F8kT0c2/osos.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">Ricitos de Oro</h5>
@@ -178,9 +179,11 @@
                 </div>
             </div>
         </div>
+
         <!-- tarjeta 2 -->
-        <div class="col-md-6 justify-content-center pl-5">
-            <div class="card" style="width: 30rem;">
+
+        <div class="col-xl-6 p-5 ">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/zrjqkS3/Caperucita.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">Caperucita Roja</h5>
@@ -248,12 +251,13 @@
         </div>
     </div>
 </div>
-        <!-- tarjetas3 -->
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-        <div class="card" style="width: 30rem;">
+<!-- tarjetas3 -->
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
+            <!-- tarjeta 1 -->
+            <div class="card mx-auto d-block" style="width: 30rem;">
             <img  src="https://i.ibb.co/sbc7xVb/patito-feo.jpg" class="card-img-top" alt="..." width="280">
             <div class="card-body">
                 <h5 class="card-title">El Patito Feo</h5>
@@ -294,8 +298,10 @@
             </div>
     </div>
 </div>
-        <div class="col-md-6 justify-content-center pl-5">
-        <div class="card" style="width: 30rem;">
+
+        <!-- tarjeta4 -->
+        <div class="col-xl-6  p-5">
+        <div class="card mx-auto d-block" style="width: 30rem;">
             <img src="https://i.ibb.co/wwzjzvT/gigante.jpg"  class="card-img-top" alt="..." height="330">
             <div class="card-body">
                 <h5 class="card-title">El gigante Egoista</h5>
@@ -357,11 +363,12 @@
 
 
 <!-- contenedor 2 -->
-
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+<!-- tarjeta 5 -->
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
+            <!-- tarjeta 1 -->
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/4P4dnDN/bella.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">La bella Durmiente</h5>
@@ -416,9 +423,11 @@
                 </div>
             </div>
         </div>
-        <!-- tarjetas3 -->
-        <div class="col-md-4 justify-content-center pl-5">
-            <div class="card" style="width: 30rem;">
+
+        <!-- tarjeta 6 -->
+
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/WF5wrgD/cenicienta.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">La Cenicienta</h5>

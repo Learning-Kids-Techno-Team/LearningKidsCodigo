@@ -77,6 +77,10 @@
             text-align: justify;
 
         }
+        #play{
+            width: 100%;
+        }
+
 
 
 
@@ -120,7 +124,11 @@
 
                         <br><br>
                         <p>
-                           <em> <strong>Estos son parte de los números cardinales, que son aquellos que expresan cantidades y sirven para contar en inglés. Tienen muchos usos, como hablar sobre la edad de una persona, o quizás mencionar la cantidad de personas en su familia. </em></p>
+                           <em> <strong>Estos son parte de los números cardinales,
+                                   que son aquellos que expresan cantidades y sirven
+                                   para contar en inglés. Tienen muchos usos, como hablar sobre
+                                   la edad de una persona, o quizás mencionar la cantidad de personas en
+                                   su familia.</strong> </em></p>
                         <h2 style="text-align: center">¡Comencemos!</h2>
 
                     </div>
@@ -147,21 +155,24 @@
                 <div class="card" >
 
                     <img class="mx-auto d-block" src="https://i.ibb.co/nRwsv5g/Captura-de-pantalla-495-removebg-preview.png"   width="200" height="200">
-                    <iframe src="https://drive.google.com/file/d/1dgm484RCNQP0JbTnJnexLpcpPkn8KqLD/preview"  width="310" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/numeros/1.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
                     <img class="mx-auto d-block" src="https://i.ibb.co/C2PTpNw/Captura-de-pantalla-496-removebg-preview.png"   width="200" height="200">
-                    <iframe src="https://drive.google.com/file/d/1W-3JeWfQL1yNIUYItwLDyqS4jgMTJIv8/preview" width="310" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/numeros/2.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
                     <img class="mx-auto d-block" src="https://i.ibb.co/g4RgpsV/Captura-de-pantalla-497-removebg-preview.png"  width="200" height="200">
-                    <iframe src="https://drive.google.com/file/d/1jRMhuayqNT4PBxGVNa5AtAbXHeesMO_J/preview" width="310" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/numeros/3.mp3" controls >
+                    </audio>
                 </div>
             </div>
 
@@ -175,21 +186,24 @@
 
                     <img class="mx-auto d-block" src="https://i.ibb.co/dM6fvTV/Captura-de-pantalla-498-removebg-preview.png"   width="200" height="200">
 
-                    <iframe src="https://drive.google.com/file/d/13P_eLLlO7qgHCxNdS7Lq6L8hb-b32336/preview" width="310" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/numeros/4.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
                     <img class="mx-auto d-block"  src="https://i.ibb.co/ZKyz8Sz/Captura-de-pantalla-499-removebg-preview.png" width="200" height="200">
-                    <iframe src="https://drive.google.com/file/d/1XEuvOe4-avO6Q9wlI2SLDwImt69UELXb/preview" width="310" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/numeros/5.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
                     <img class="mx-auto d-block" src="https://i.ibb.co/h1dkNWr/Captura-de-pantalla-500-removebg-preview.png"  width="200" height="200">
-                    <iframe src="https://drive.google.com/file/d/1UDKKMJuJ1UTQojsr5RFlYmP9n6p4pKpW/preview" width="310" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/numeros/6.mp3" controls >
+                    </audio>
                 </div>
             </div>
 
@@ -203,21 +217,24 @@
                 <div class="card" style="width: 20rem;">
 
                     <img class="mx-auto d-block"  src="https://i.ibb.co/m6pxPSG/Captura-de-pantalla-501-removebg-preview.png"    width="200" height="200">
-                    <iframe src="https://drive.google.com/file/d/1c5hMn5AzC_-Tqqf3NMgHHyA8_B1G2Svk/preview" width="310" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/numeros/7.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
                     <img class="mx-auto d-block"    src="https://i.ibb.co/XxYNFs3/Captura-de-pantalla-502-removebg-preview.png"    width="200" height="200">
-                    <iframe src="https://drive.google.com/file/d/1-PgHIXfiOw8gUhvbCUoNqqveNwBJPEUN/preview" width="310" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/numeros/8.mp3" controls >
+                    </audio>
                 </div>
             </div>
             <div class="col-md-4">
 
                 <div class="card" style="width: 20rem;">
                     <img class="mx-auto d-block"  src="https://i.ibb.co/xMrBnpH/Captura-de-pantalla-503-removebg-preview.png"   width="200" height="200">
-                    <iframe src="https://drive.google.com/file/d/1dTMRkXIYnRmzFceiun3LslhTEwXTAZnS/preview" width="310" height="80"></iframe>
+                    <audio  id="player" src="AudioIngles/numeros/9.mp3" controls >
+                    </audio>
                 </div>
             </div>
         </div>
@@ -227,7 +244,8 @@
         <div class="col-md-4">
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"    src="https://i.ibb.co/TBNM53s/Captura-de-pantalla-504-removebg-preview.png"   width="200" height="200">
-                <iframe src="https://drive.google.com/file/d/1R6fIqDMtjJhX8rDhQMyD-1AP-0Zt5Ogt/preview" width="310" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/numeros/10.mp3" controls >
+                </audio>
             </div>
         </div>
         </div>
@@ -274,7 +292,8 @@
 
                         <img class="mx-auto d-block" src="https://i.ibb.co/xHGm1L7/285227de039749550860eb8c369b4935-removebg-preview.png"    width="130" height="130">
                         <h3>First – primero</h3>
-                        <iframe src="https://drive.google.com/file/d/1TE3vI7qdCHyKS3dnWOMhWyZuv5Yu-oU2/preview" width="295" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/numeros/11.mp3" controls >
+                        </audio>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -282,7 +301,8 @@
                     <div class="card" style="width: 20rem;">
                         <img class="mx-auto d-block" src="https://i.ibb.co/d4xdwTq/numero2-removebg-preview.png"    width="130" height="130">
                         <h3>Second – segundo </h3>
-                        <iframe src="https://drive.google.com/file/d/1F1jHK9hs_FXN2y-VD61i9YgjUhXUdCda/preview"width="310" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/numeros/12.mp3" controls >
+                        </audio>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -290,7 +310,8 @@
                     <div class="card" style="width: 20rem;">
                         <img class="mx-auto d-block"  src="https://i.ibb.co/DVc6Pds/numero3-removebg-preview.png"  width="130" height="130">
                         <h3>Third – tercero </h3>
-                        <iframe src="https://drive.google.com/file/d/1C9RfPRDj6b35De0Z94lHCN-n5hOJ7A0d/preview" width="310" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/numeros/13.mp3" controls >
+                        </audio>
                     </div>
                 </div>
 
@@ -305,7 +326,8 @@
                         <img class="mx-auto d-block"   src="https://i.ibb.co/rkLdKdG/numero4-removebg-preview.png"  width="130" height="130">
 
                         <h3>Fourth – cuarto </h3>
-                        <iframe src="https://drive.google.com/file/d/1dVB-tqS-9ribZ3UwylU6_B20AytXgXSK/preview" width="310" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/numeros/14.mp3" controls >
+                        </audio>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -313,7 +335,8 @@
                     <div class="card" style="width: 20rem;">
                         <img class="mx-auto d-block"  src="https://i.ibb.co/4tXRWB9/numero5-removebg-preview.png"  width="130" height="130">
                         <h3>Fifth – quinto </h3>
-                        <iframe src="https://drive.google.com/file/d/1re5qlztSS-xig0vIEtzONdTveuXFlHpq/preview" width="310" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/numeros/15.mp3" controls >
+                        </audio>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -321,7 +344,8 @@
                     <div class="card" style="width: 20rem;">
                         <img class="mx-auto d-block"   src="https://i.ibb.co/stfH4Wz/fb3c7cda93ef5c384bf4290b71fcee9b-removebg-preview.png"  width="130" height="130">
                         <h3>Sixth – sexto </h3>
-                        <iframe src="https://drive.google.com/file/d/1zG1m4xd-Qcpk-6vB5ABoWVyU1PHRmm_E/preview" width="310" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/numeros/16.mp3" controls >
+                        </audio>
                     </div>
                 </div>
 
@@ -336,7 +360,8 @@
 
                         <img class="mx-auto d-block"  src="https://i.ibb.co/Hh91RLf/numero7-removebg-preview.png"    width="130" height="130">
                         <h3>Seventh – séptimo</h3>
-                        <iframe src="https://drive.google.com/file/d/1ySCd3VXabShkS2i_f3rWiL2yTLnjNVAF/preview" width="310" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/numeros/17.mp3" controls >
+                        </audio>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -344,7 +369,8 @@
                     <div class="card" style="width: 20rem;">
                         <img class="mx-auto d-block"    src="https://i.ibb.co/7V11c5b/numero8-removebg-preview.png"      width="130" height="130">
                         <h3>Eighth – octavo </h3>
-                        <iframe src="https://drive.google.com/file/d/1BF1BfG8OYLITEWi0uA4VU14u9kF9gbmK/preview" wwidth="310" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/numeros/18.mp3" controls >
+                        </audio>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -352,7 +378,8 @@
                     <div class="card" style="width: 20rem;">
                         <img class="mx-auto d-block"  src="https://i.ibb.co/89NXfQh/78d944e2b65596a06335b51dc93aea22-removebg-preview.png"    width="130" height="130">
                         <h3>Ninth – noveno</h3>
-                        <iframe src="https://drive.google.com/file/d/17wMdNUP_cVXQJ2WhIHRCTb2wvi3HOmO8/preview" width="310" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/numeros/19.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -363,7 +390,8 @@
                     <div class="card" style="width: 20rem;">
                         <img class="mx-auto d-block"   src="https://i.ibb.co/ns8j1bv/numero10-removebg-preview.png"   width="130" height="130">
                        <h3>Tenth – décimo</h3>
-                        <iframe src="https://drive.google.com/file/d/1kX2wb-5DCiNMGjSFRJQZmd3O9gaFuBHv/preview" width="310" height="80"></iframe>
+                        <audio  id="player" src="AudioIngles/numeros/20.mp3" controls >
+                        </audio>
                     </div>
                 </div>
             </div>
@@ -386,7 +414,8 @@
 
                             <img class="mx-auto d-block" src="https://i.ibb.co/h7v2gTq/Captura-de-pantalla-509-removebg-preview.png"     width="200" height="200">
                             <h3>Cien - hundred</h3>
-                            <iframe src="https://drive.google.com/file/d/1oPQTpfO2nDF4TXYgxSEzL3u_H6_zQ3sE/preview" width="295" height="80"></iframe>
+                            <audio  id="player" src="AudioIngles/numeros/21.mp3" controls >
+                            </audio>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -394,7 +423,8 @@
                         <div class="card" style="width: 20rem;">
                             <img class="mx-auto d-block" src="https://i.ibb.co/bW7V8zH/Captura-de-pantalla-510-removebg-preview.png"    width="200" height="200">
                             <h3>Mil - one thousand </h3>
-                            <iframe src="https://drive.google.com/file/d/1YMXm_qEmkFtDkXGNtr2-QiEaNs7n_WJB/preview" width="310" height="80"></iframe>
+                            <audio  id="player" src="AudioIngles/numeros/22.mp3" controls >
+                            </audio>
                         </div>
                     </div>
                     <div class="col-md-4">
@@ -402,18 +432,20 @@
                         <div class="card" style="width: 20rem;">
                             <img class="mx-auto d-block" src="https://i.ibb.co/tCJjQHP/Captura-de-pantalla-512-removebg-preview.png"    width="200" height="200">
                             <h3>Un millon  - one million</h3>
-                            <iframe src="https://drive.google.com/file/d/1W66GsrV93OwmRoRzCxb1jhxTVGgwH2Qe/preview" width="310" height="80"></iframe>
+                            <audio  id="player" src="AudioIngles/numeros/23.mp3" controls >
+                            </audio>
                         </div>
                     </div>
                 </div>
-
+        </div>
+    </div>
+        </div>
 
                     <!-- separador -->
     <div id="separadorInferior">
         <div class="content">
         </div>
     </div>
-
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>

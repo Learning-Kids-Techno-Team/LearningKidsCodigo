@@ -89,6 +89,9 @@
         li{
             text-align: justify;
         }
+        #play{
+            width: 100%;
+        }
 
 
 
@@ -164,25 +167,29 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/wd3b4KN/dormitorio-Principal.jpg"  width="280" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1LUYdOPu2xJLjwgJrBGu8b6IUc-kj00C9/preview"  style="border: none" width="280" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/dormitorioPrincipal.mp3" controls >
+                </audio>
                 <h2>Dormitorio principal:
                     Master bedroom
                 </h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/7JMZn67/dormitorio.jpg"   width="260"/>
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1O5Ze5XQpag0nlGeXY19C0G6_t7f9Y1Kt/preview"  style="border: none" width="260" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/dormitorio.mp3" controls >
+                </audio>
                 <h2>Dormitorio: Bedroom</h2>
             </div>
             <div class="col-md-3">
 
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"   src="https://i.ibb.co/r61tSWp/banio.jpg"   width="300" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/18gmIZcZf6Q4ybfxuJM9kFQiKW54v-ktO/preview" style="border: none" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/baño.mp3" controls >
+                </audio>
                 <h2>Cuarto de baño: Bathroom</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/qrth15K/sala.png"  width="278" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1TNu3KyhFOz_WXlGYwXZt_6bdKhUjFiSf/preview"  style="border: none" width="278" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/sala.mp3" controls >
+                </audio>
                 <h2>Sala: Living room</h2>
             </div>
         </div>
@@ -194,22 +201,26 @@
         <div class="row">
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/G3vF3Kn/comedor.jpg" width="300" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1bNH3htmTyqjQrSmvpU2DcWwttu8ibxdC/preview"  style="border: none" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/comedor.mp3" controls >
+                </audio>
                 <h2>Comedor: Dinning room</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/k4HFRSM/Kitchen-interior-witn-furniture-cartoon-vector-illustration-Home-cooking-room-with-wooden-dining-tab.jpg"  width="300"/>
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1bBKW-c73ZykXrAfEnzk1GEZtWV4FoFWu/preview"  style="border: none" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/cocina.mp3" controls >
+                </audio>
                 <h2>Cocina: Kitchen room</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/m5qYYrd/jardin.jpg" width="300" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1xtZ5_goJvOdQhzQeJYETGQieszKwmfz5/preview" style="border: none" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/jardin.mp3" controls >
+                </audio>
                 <h2>Jardin: Garden</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/vctZnZZ/cochera.jpg"   width="355" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/17-3qtk0hUxD6zoURo6JrOWWEA1YopxTN/preview"   style="border: none" width="355" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/cochera.mp3" controls >
+                </audio>
                 <h2>Cochera: Garage</h2>
             </div>
         </div>
@@ -219,22 +230,26 @@
         <div class="row">
             <div class="col-md-3">
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/PjxXsnT/ventana2.jpg"   width="250"/>
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1fuUDTUvu5EsVuSJnWyMedE0hp6jjiVUX/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/ventana.mp3" controls >
+                </audio>
                 <h2>Ventana: Window</h2>
             </div>
             <div class="col-md-3">
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/s1kDMDz/puerta-Principal.jpg"  width="250" />
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1PPcvK9YhiR2DVBd6MzF9f6hSYNTG2U8v/preview"  style=" align-content: center; border: none " width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/puertaPrincipal.mp3" controls >
+                </audio>
                 <h2>Puerta principal: Front door</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"   src="https://i.ibb.co/zHzWqWL/techo3-removebg-preview.png"   width="250" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1Jpmi_Q2vlfoQuiCopdkVNRRU3M2Rlqv-/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/techo.mp3" controls >
+                </audio>
                 <h2>Techo: Roof</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/nz7kghC/piso.jpg"    width="355" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1A3T46aYuKtmQ00G_f9iWgmR0s-mfTuiJ/preview" style="border: none" width="355" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/piso.mp3" controls >
+                </audio>
                 <h2>Piso: Floor</h2>
             </div>
         </div>
@@ -244,12 +259,14 @@
         <div class="row mb-5">
             <div class="col-md-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/nCLk7Yy/pared.jpg"   width="300" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1DDCOYf1pu0oYuNzpzWpE8bxJCBHoAyl_/preview" style="border: none" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/pared.mp3" controls >
+                </audio>
                 <h2>Pared: Wall</h2>
             </div>
             <div class="col-md-6">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/HxSxZdF/escalera.jpg"    width="300"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1mMtI6veiO_BdX2TidV9bxbjL4tWEb9wp/preview"  style="border: none" width="300" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/casa/escaleras.mp3" controls >
+                </audio>
                 <h2>escaleras: Stairs</h2>
             </div>
         </div>

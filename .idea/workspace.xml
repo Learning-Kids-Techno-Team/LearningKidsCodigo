@@ -27,11 +27,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/lineasRectas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/lineasRectas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaFigurasGeometricas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaFigurasGeometricas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaOtrasFiguras.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaOtrasFiguras.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaTipoDeCuadrilatero.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaTipoDeCuadrilatero.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaTiposDeTriangulos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaTiposDeTriangulos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/Adivinanzas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/Rondas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/Rondas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaDeBombas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaDeBombas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaDeLaClaseDeEspañolChistes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaDeLaClaseDeEspañolChistes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaTrabalenguas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaTrabalenguas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,8 +236,14 @@
       <workItem from="1622692597786" duration="4240000" />
       <workItem from="1622696953975" duration="4356000" />
       <workItem from="1623286295395" duration="1655000" />
-      <workItem from="1623425945084" duration="7717000" />
-      <workItem from="1623731425581" duration="3255000" />
+      <workItem from="1623425945084" duration="7399000" />
+    </task>
+    <task id="LOCAL-00018" summary="Sprint5 Sindy G.">
+      <created>1607846660514</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607846660514</updated>
     </task>
     <task id="LOCAL-00019" summary="Sprint5 Sindy G.">
       <created>1607904029572</created>
@@ -574,14 +581,7 @@
       <option name="project" value="LOCAL" />
       <updated>1623388835897</updated>
     </task>
-    <task id="LOCAL-00067" summary="Sprint 12 Hector Lopez">
-      <created>1623434579599</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1623434579599</updated>
-    </task>
-    <option name="localTasksCounter" value="68" />
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

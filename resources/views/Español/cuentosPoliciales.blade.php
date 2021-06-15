@@ -118,7 +118,6 @@
 <!-- contenedor de las tarjetas -->
 <div class="container-fluid" >
     <div class="row " >
-
         <div class="col-md-6 p-5">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 30rem">

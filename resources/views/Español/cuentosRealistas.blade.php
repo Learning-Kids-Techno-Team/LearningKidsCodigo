@@ -95,7 +95,7 @@
 <div class="container-fluid" id="h">
     <div class="row ">
         <div class="col-md-4 " >
-            <img src="https://i.ibb.co/gZPMphS/29ac203abaa0491a297d4a29567f2e6e-removebg-preview.png"   width="400" />
+            <img class="mx-auto d-block" src="https://i.ibb.co/gZPMphS/29ac203abaa0491a297d4a29567f2e6e-removebg-preview.png"   width="400" />
 
         </div>
         <div class="col-md-8 " >
@@ -123,11 +123,11 @@
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem;" >
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/JyTH8yz/familia.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Familias Felices</h5>
@@ -161,8 +161,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 justify-content-center pl-5">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6  p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/sVCT6mp/periodista.jpg" class="card-img-top" alt="..." height="250">
                 <div class="card-body">
                     <h5 class="card-title">La Periodista</h5>
@@ -184,12 +184,11 @@
         </div>
     </div>
 </div>
-        <div class="container-fluid  center-block pl-5" >
-            <div class="row m-5" >
-                <div class="col-md-6">
-        <!-- tarjetas3 -->
-
-            <div class="card" style="width: 30rem;">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
+            <!-- tarjeta 1 -->
+            <div class="card mx-auto d-block" style="width: 30rem;">
               <img src="https://i.ibb.co/ykfJr9W/ninos-dibujos-animados-jugando-parque-ciudad-43633-6341.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Juan y la Ciudad</h5>
@@ -216,8 +215,8 @@
                 </div>
             </div>
         </div>
-                <div class="col-md-4 justify-content-center pl-5 ">
-                    <div class="card" style="width: 30rem;">
+                <div class="col-xl-6 p-5 ">
+                    <div class="card mx-auto d-block" style="width: 30rem;">
                         <img src="https://i.ibb.co/xSC9VTz/juego.jpg"  class="card-img-top" alt="..." height="330">
                         <div class="card-body">
                             <h5 class="card-title">El Gran Partido</h5>
@@ -256,11 +255,11 @@
 
 
 <!-- contenedor 2 -->
-<div class="container-fluid   center-block pl-5  " >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/hR6QNGh/portada.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">El Divorcio de mis padres</h5>
@@ -281,9 +280,9 @@
 
 
         <!-- tarjetas3 -->
-        <div class="col-md-6 justify-content-center pl-5">
-            <div class="card" style="width: 30rem;">
-                <img src="https://i.ibb.co/0rSQFtN/valle-de-mariposas.jpg"  class="card-img-top" alt="..." height="300">
+        <div class="col-xl-6  p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
+                <img src="https://i.ibb.co/0rSQFtN/valle-de-mariposas.jpg"  class="card-img-top" alt="..." height="310">
                 <div class="card-body">
                     <h5 class="card-title">Rosalina y el Valle de Mariposas</h5>
                     <p class="card-text">Rosalina llegó a un valle dónde había muchas mariposas,

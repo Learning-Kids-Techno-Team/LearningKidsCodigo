@@ -167,8 +167,7 @@
                 <img alt="Bootstrap Image Preview"  src="https://i.ibb.co/BsZbtb6/tigatelu151000413-removebg-preview.png"  height="300" class="mx-auto d-block pt-1 pb-3"/>
             </div>
             <div class="col-md-4">
-
-                <p>
+                <p style="text-align: center"><strong><br>
                     Es una forma divertida y gratuita para que tus hijos aprendan,
                     refuercen y/o desarrollen hábilidades sobre cuatro materias básicas
                     (matemáticas, español,ciencias naturales y ciencias sociales). Todo
@@ -177,8 +176,8 @@
                     enseñanza y aprendizaje para sus niños. Este espacio es una herramienta
                     útil para reforzar el conocimiento no solo de nuestros niños sino también
                     permite una mayor didáctica si eres educador o maestro; es por ello que
-                    la información de esta pagina web esta abierta para todo tipo de usuario.
-                </p>
+                    la información de esta página web esta abierta para todo tipo de usuario.
+                    </strong></p><br>
 
             </div>
             <div class="col-md-4">
@@ -204,7 +203,7 @@
                 <div class="col-md-4 ">
                     <a href="{{ url('/pantallaIngles') }}">
                         <img  id="image" alt="Bootstrap Image Preview"   src="https://i.ibb.co/5TdFMQp/51982314-ni-o-que-tiene-una-bandera-de-ingl-s-removebg-preview.png"    class=" img-fluid  img-thumbnail  mx-auto d-block bg-info rounded-circle" width="150"/>
-                        <h3>Ingles</h3>
+                        <h3>Inglés</h3>
                     </a>
                 </div>
                 <div class="col-md-4">

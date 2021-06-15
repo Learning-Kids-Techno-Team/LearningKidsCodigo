@@ -99,6 +99,9 @@
             margin-right: 20px;
 
         }
+        #play{
+            width: 100%;
+        }
 
 
 
@@ -174,8 +177,8 @@
                             <br>
                             <br>
                             <br>
-
-                                <iframe src="https://drive.google.com/file/d/12-_ytOuE9XKG2uSmgK0qq3AzvkdtAjyA/preview" width="318" height="55"></iframe>
+                                <audio  id="player" src="AudioIngles/emo/feliz.mp3" controls >
+                                </audio>
 
                         </h3>
 
@@ -194,7 +197,8 @@
                             <br>
                             <br>
 
-                            <iframe src="https://drive.google.com/file/d/1LsqtAqdrlcEk27G29zqeYskxM_ejKRAZ/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/felicidad.mp3" controls >
+                            </audio>
 
                         </h3>
 
@@ -224,7 +228,8 @@
                             <br>
                             <br>
 
-                            <iframe src="https://drive.google.com/file/d/1HelLl1IKu5eC8z0zh3L0Xf95ImXOvS2w/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/triste.mp3" controls >
+                            </audio>
                         </h3>
 
                     </div>
@@ -241,7 +246,8 @@
                             <br>
                             <br>
 
-                            <iframe src="https://drive.google.com/file/d/1i9DZd3b9nuF-1ohvBe7M75FgfeD9Q6BS/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/tristeza.mp3" controls >
+                            </audio>
 
                         </h3>
 
@@ -271,7 +277,8 @@
                             <br>
                             <br>
                             <br>
-                            <iframe src="https://drive.google.com/file/d/1qo6LkSfLAC5Q3BsCKY78tRZCPTdgj7Tl/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/Enojado.mp3" controls >
+                            </audio>
                         </h3>
 
                     </div>
@@ -289,7 +296,8 @@
                             <br>
 
 
-                            <iframe src="https://drive.google.com/file/d/1LuSw_nOQZX8LqwDMXIDDtxEUajMOiaHf/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/Enojo.mp3" controls >
+                            </audio>
 
                         </h3>
 
@@ -319,7 +327,8 @@
                             <br>
                             <br>
 
-                            <iframe src="https://drive.google.com/file/d/1wzx4Acp4UD1GM5a_Z-W8p5nOc0ipC5VC/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/Asustado.mp3" controls >
+                            </audio>
 
                         </h3>
 
@@ -338,7 +347,8 @@
                             <br>
 
 
-                            <iframe src="https://drive.google.com/file/d/1pKKaZKyxRQeCH0wG4_9lIXle2SNc2alZ/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/Miedo.mp3" controls >
+                            </audio>
 
 
                         </h3>
@@ -405,7 +415,8 @@
                             <br>
                             <br>
 
-                            <iframe src="https://drive.google.com/file/d/1h6da1r_aXDWGKySs2SmWCqwyqllhg2wa/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/Alegría.mp3" controls >
+                            </audio>
                         </h3>
 
                     </div>
@@ -423,7 +434,8 @@
                             <br>
                             <br>
 
-                            <iframe src="https://drive.google.com/file/d/1QndeCEQuOMBACvANtZg0qp61oLfxacri/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/Confusión.mp3" controls >
+                            </audio>
 
 
                         </h3>
@@ -451,7 +463,8 @@
                             <br>
                             <br>
 
-                            <iframe src="https://drive.google.com/file/d/1xxPin1Jo08liQFB-AMP7cpUV_MCUVolJ/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/Aburrimiento.mp3" controls >
+                            </audio>
 
                         </h3>
 
@@ -470,7 +483,8 @@
                             <br>
                             <br>
 
-                            <iframe src="https://drive.google.com/file/d/1AwzJzFUThS4dckp-2_AKWe2xTIZWcMd0/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/Simpatía.mp3" controls >
+                            </audio>
 
                         </h3>
 
@@ -497,7 +511,8 @@
                             <br>
                             <br>
                             <br>
-                            <iframe src="https://drive.google.com/file/d/1rpma8GB5UmbvgKJ9Y3ykTGuC3_7DN1eB/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/Asombro.mp3" controls >
+                            </audio>
 
                         </h3>
 
@@ -515,7 +530,8 @@
                             <br>
                             <br>
                             <br>
-                            <iframe src="https://drive.google.com/file/d/1NDMhqHN2d5eWmXBVug5jvofPbPaylkjE/preview" width="318" height="55"></iframe>
+                            <audio  id="player" src="AudioIngles/emo/Envidia.mp3" controls >
+                            </audio>
 
                         </h3>
 

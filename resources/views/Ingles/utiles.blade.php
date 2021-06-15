@@ -95,6 +95,10 @@
             background:#DCFECB;
             border: #fff6af 15px dashed;
         }
+        #play{
+            width: 100%;
+        }
+
 
     </style>
 
@@ -145,25 +149,29 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/CtZcH14/png-clipart-compass-compas-compass-cartoon-removebg-preview.png" width="150" />
-                <iframe src="https://drive.google.com/file/d/1DCRXrRwKfxJe7mxl35Y23v4o8OU91JSC/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/1.mp3" controls >
+                </audio>
                 <h2>Compás: compass</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/HdGZLbV/kisspng-stopwatch-cartoon-clip-art-protactor-5b320e4fac4a96-0558369415300071197057-removebg-preview.png"    width="365"/>
-                <iframe src="https://drive.google.com/file/d/1XctexSi9t3d8ZMUUWT6cZbSFjYS58g5_/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/2.mp3" controls >
+                </audio>
                 <h2>Transportador: protractor</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/N9MCfBy/49509-3-removebg-preview.png"   width="165" />
-                <iframe src="https://drive.google.com/file/d/14DuAv97t4Gp-X-7RfpJI509EWuo8E0cj/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/3.mp3" controls >
+                </audio>
                 <h2>Marcador: marker</h2>
 
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/ZfSD9rz/66-662806-papel-hojas-madera-escribir-plantilla-patrn-paper-hd-removebg-preview.png"    width="250" />
-                <iframe src="https://drive.google.com/file/d/1Eli5QNCmye2SsD64uqiON2rvQSl9wwwD/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/4.mp3" controls >
+                </audio>
                 <h2>Papel: paper</h2>
             </div>
         </div>
@@ -175,25 +183,29 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/h7hjcDc/image-processing20200511-32371-69nvlc-removebg-preview.png"  width="140" />
-                <iframe src="https://drive.google.com/file/d/1oy812texheoLiY5DyO8EFj7WtjQwSrPk/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/5.mp3" controls >
+                </audio>
                 <h2>Carpeta: folder</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/1R2NdCZ/image-processing20200511-25230-703d5g-removebg-preview.png"    width="145"/>
-                <iframe src="https://drive.google.com/file/d/1wmvvpj0l8caFTXl2VuSkCgRHpXFnErxI/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/6.mp3" controls >
+                </audio>
                 <h2>Mapa: map</h2>
             </div>
             <div class="col-md-3">
 
                 <img  class="mx-auto d-block" src="https://i.ibb.co/JdbbXC9/grapadora-oficina-plana-color-azul-72147494939-removebg-preview.png"   width="148" />
-                <iframe src="https://drive.google.com/file/d/1GuW0_DKqr4g3Vu1SNPlAUhEZ0VfgHm6b/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/7.mp3" controls >
+                </audio>
                 <h2>Grapadora: stapler</h2>
 
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/HthcZ2w/aplicar-pegamento-removebg-preview.png"   width="180"/>
-                <iframe src="https://drive.google.com/file/d/1mjC17WJIi5vfhX3ULsjZLiapo6OihK2O/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/8.mp3" controls >
+                </audio>
                 <h2>Pegamento: glue</h2>
             </div>
         </div>
@@ -206,26 +218,30 @@
             <div class="col-md-3">
 
                 <img class="mx-auto d-block"   src="https://i.ibb.co/rfYfqfC/estuche-infantil-colegio-9970866-removebg-preview.png"  width="155" />
-                <iframe src="https://drive.google.com/file/d/1za3N0y4WQaAoR0oMzmfWDI3iklYRfztM/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/9.mp3" controls >
+                </audio>
                 <h2>Estuche: pencil case</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/wyzMTBf/Paperclip-01-xndr-removebg-preview.png"  width="155"/>
-                <iframe src="https://drive.google.com/file/d/1038WeuhiXeLSCZvcq5_EMj9TgbP9qFmY/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/10.mp3" controls >
+                </audio>
                 <h2>Sujetapapeles/clip: clip</h2>
             </div>
             <div class="col-md-3">
 
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/3MYjdLn/depositphotos-11908678-stock-illustration-eraser-removebg-preview.png" width="153" />
-                <iframe src="https://drive.google.com/file/d/1CA5VRfwOjmazto5TEfvy1v4v7sJRZ-Z5/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/11.mp3" controls >
+                </audio>
                 <h2>Borrador/goma de borrar: eraser/rubber</h2>
 
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/3r6cPJ6/pngtree-brown-computer-desk-cartoon-table-cabinet-illustration-table-illustration-png-image-449705-r.png"   width="140" />
-                <iframe src="https://drive.google.com/file/d/1EVLDqLKBJK8TZtTZDgJKouv_YGRjQGSz/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/12.mp3" controls >
+                </audio>
                 <h2>Escritorio: desk</h2>
             </div>
         </div>
@@ -239,26 +255,30 @@
             <div class="col-md-3">
 
                 <img class="mx-auto d-block"   src="https://i.ibb.co/VjyVt5z/png-clipart-carteira-escolar-chair-furniture-table-desk-chair-angle-office-removebg-preview.png"  width="150" />
-                <iframe src="https://drive.google.com/file/d/1ofEUxV-nsMwQWt5qKExAgti1Zcl7kuUL/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/13.mp3" controls >
+                </audio>
                 <h2>Silla: chair</h2>
             </div>
             <div class="col-md-3">
                 <br><br><br>
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/R9zXH2h/10e9aac158c97c8e420f32c500b61b35-removebg-preview.png"    width="160"/>
-                <iframe src="https://drive.google.com/file/d/12l9FRCdq5oxFGTLYyINaN-zPHkn3xVYF/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/14.mp3" controls >
+                </audio>
                 <h2>Tijeras: scissors</h2>
             </div>
             <div class="col-md-3">
                 <br><br><br><br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/1QTKTk5/istockphoto-942881434-170667a-removebg-preview.png"   width="145" />
-                <iframe src="https://drive.google.com/file/d/1HlAmKZP3RyhcRhxzrvC2Ep03-vOAcbGi/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/15.mp3" controls >
+                </audio>
                 <h2>Regla: ruler</h2>
 
             </div>
             <div class="col-md-3">
                 <br><br><br><br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/M7Cq1Fr/png-transparent-harold-and-the-purple-crayon-crayola-crayola-s-pencil-text-color-removebg-preview.png"  width="140" />
-                <iframe src="https://drive.google.com/file/d/1c-0pnLu3ddEMe9DvBILAtsVNm6FXkn7v/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/16.mp3" controls >
+                </audio>
                 <h2>Crayones: crayons</h2>
             </div>
         </div>
@@ -269,26 +289,30 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/sv0MHWw/3125-removebg-preview.png"  width="150" />
-                <iframe src="https://drive.google.com/file/d/1vpMs7gxZ6fhdE-a-xmxwJWF7oVs6aZn4/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/17.mp3" controls >
+                </audio>
                 <h2>Lápiz: pencil</h2>
             </div>
             <div class="col-md-3">
                 <br><br>
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/j8xjxQz/png-transparent-cartoon-book-closed-book-perfect-comic-book-yellow-material-rectangle-removebg-previ.png"    width="180"/>
-                <iframe src="https://drive.google.com/file/d/1eeJx2r7rxlMKk_YjAaSfBaDN5svQMh1N/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/18.mp3" controls >
+                </audio>
                 <h2>libro: book</h2>
             </div>
             <div class="col-md-3">
                 <br>
 
                 <img  class="mx-auto d-block" src="https://i.ibb.co/Qv1WT6M/dibujos-animados-mochila-escolar-24640-54592-removebg-preview.png"   width="140" />
-                <iframe src="https://drive.google.com/file/d/1uAuovAAXCcm9UD94IqVm-hoChG4rEfYf/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/19.mp3" controls >
+                </audio>
                 <h2>Mochila: backpack</h2>
 
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/FW0dxnj/istockphoto-1085027454-170667a-removebg-preview.png"    width="165" />
-                <iframe src="https://drive.google.com/file/d/1bsbAQiaUILOjQaLLbPNDzld4sBG-TD6z/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/utiles/20.mp3" controls >
+                </audio>
                 <h2>Computadora: computer</h2>
             </div>
         </div>

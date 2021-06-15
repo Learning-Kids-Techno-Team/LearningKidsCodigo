@@ -109,14 +109,14 @@
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 30rem">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/9cH6ncj/cachorro-regalo.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title; text-center">El perrito</h5>
+                    <h5 class="card-title; text-center" id="color">El perrito</h5>
                     <p class="card-text">“Había una vez un perrito abandonado que vivía muy triste y solito porque nadie le quería.<br>
                         Era el más feo de sus hermanos y ningún niño le había querido adoptar.
                         Comía lo que encontraba por la calle y siempre tenía miedo porque a veces los niños le tiraban piedras.<br>
@@ -141,11 +141,11 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 justify-content-center pl-5 ">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/C5rCxjR/63-navidad.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title; text-center">El Arbolito de Navidad</h5>
+                    <h5 class="card-title; text-center" id="color">El Arbolito de Navidad</h5>
                     <p class="card-text">
                         “Erase una vez, hace mucho tiempo, una isla en la que había un pueblecito. <br>
                         En ese pueblecito vivía una familia muy pobre. <br>
@@ -179,14 +179,14 @@
     </div>
 </div>
 <!-- contenedor 2 -->
-<div class="container-fluid  center-block pl-5" >
-<div class="row m-5" >
-    <div class="col-md-6">
-
-        <div class="card" style="width: 30rem">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
+            <!-- tarjeta 1 -->
+            <div class="card mx-auto d-block" style="width: 30rem;">
             <img src="https://i.ibb.co/Hh1kXMv/10.jpg"   class="card-img-top" alt="..." height="300">
             <div class="card-body">
-                <h5 class="card-title; text-center">El mejor Regalo de Santa</h5>
+                <h5 class="card-title; text-center" id="color">El mejor Regalo de Santa</h5>
                 <p class="card-text">“Este era un niño que vivía muy feliz y cada año recibía los mejores regalos de Santa.
                     Sin embargo tenía un amigo que nunca tenía una sonrisa en su cara, siempre andaba callado y pensativo. En una ocasión le preguntó qué juguetes le había traído Santa en Navidad, pensando que así se animaría, y cuando vio la tristeza en su rostro supo la respuesta.
 
@@ -209,11 +209,11 @@
         </div>
     </div>
     <!-- tarjeta 2 -->
-    <div class="col-md-6 justify-content-center pl-5 ">
-        <div class="card" style="width: 30rem;">
+    <div class="col-xl-6 p-5 ">
+        <div class="card mx-auto d-block" style="width: 30rem;">
             <img   src="https://i.ibb.co/7SrFbzb/raton.png"  class="card-img-top" alt="..." height="300">
             <div class="card-body">
-                <h5 class="card-title; text-center">Un Viaje increíble</h5>
+                <h5 class="card-title; text-center" id="color">Un Viaje increíble</h5>
                 <p class="card-text">“Esta es la historia de Carlos, un ratón que vivía en la punta de un cerro. <br>
                     <br>Carlos trabajaba día y noche para limpiar el polvo a una bota que hace años atrás le había
                     regalado su amigo, el viejito Michel.<br>
@@ -250,15 +250,15 @@
     </div>
 </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card " style="width: 30rem">
-                <img   src="https://i.ibb.co/rshrLyW/reno.jpg"   class="card-img-top" alt="..." height="300">
+            <div class="card mx-auto d-block" style="width: 30rem;">
+                <img   src="https://i.ibb.co/rshrLyW/reno.jpg"   class="card-img-top" alt="..." height="323">
                 <div class="card-body">
-                    <br>
-                    <h5 class="card-title; text-center">El plan de Alonso</h5>
+
+                    <h5 class="card-title; text-center" id="color">El plan de Alonso</h5>
                     <p class="card-text"><br>“Por fin había llegado el 24 de diciembre.<br>
                         Era el día más frío del año y Papá Noel ya se estaba preparando para repartir los regalos.<br>
                         Todo el mundo estaba nervioso, trabajaba sin parar para tenerlo todo preparado para esa noche mágica. <br>
@@ -277,7 +277,9 @@
 
                         No se atrevían pero no había otra solución, lo importante era estar muy unidos. Con mucho cuidado cargaron los regalos en el trineo y se colocaron cada uno en su posición. Con un poco de dificultad llegaron a la primera casa, bajaron por la primera chimenea y dejaron los regalos debajo del árbol, después lo demás fue coser y cantar.
 
-                        Por la mañana todos los niños tenían sus regalos debajo del árbol y los elfos fueron a devolver el trineo y los renos. Papá Noel se acercó a la fábrica y al ver que estaban todos los regalos repartidos se puso muy contento y comprendió que lo más importante de esa noche había sido el compañerismo”.
+                        Por la mañana todos los niños tenían sus regalos debajo del árbol y los elfos
+                        fueron a devolver el trineo y los renos. Papá Noel se acercó a la fábrica y al ver que estaban todos los regalos repartidos se puso muy contento y comprendió que lo más importante de esa noche había sido el compañerismo”.
+                    <br>
                     </p>
                     <audio  id="player" src="AudiosEspañol/cuentos/El plan de alonso.mp3" controls >
                     </audio>
@@ -285,11 +287,11 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 justify-content-center pl-5">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img  src="https://i.ibb.co/G0YZZ9g/aranas.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title; text-center">La Leyenda de la araña de la navidad</h5>
+                    <h5 class="card-title; text-center" id="color">La Leyenda de la araña de la navidad</h5>
                     <p class="card-text">
                         “Hubo una vez hace mucho, mucho tiempo, un hogar alemán en el que la madre se encargaba de limpiar la casa para celebrar el día más maravilloso del año.
 

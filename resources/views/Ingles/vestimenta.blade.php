@@ -89,6 +89,9 @@
         li{
             text-align: justify;
         }
+        #play{
+            width: 100%;
+        }
 
 
 
@@ -163,23 +166,27 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/zbQFbsj/camiseta-removebg-preview.png"  width="220" />
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1lleqKu2lVzJfqZmCoDkzY8haMCt-n8_F/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/camiseta.mp3" controls >
+                </audio>
                 <h2>Camiseta: T-shirt</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/q0wVdCx/jersey-removebg-preview.png"   width="150"/>
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1YtNwnTpLL-4yCAHmVvDNpUcwIAxO7Lxm/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/jersey.mp3" controls >
+                </audio>
                 <h2>Jersey: Sweater</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/c6jK138/chaqueta-removebg-preview.png" width="200" />
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1KSJzqspU-FU9mAU5tP1989RoGHdN-U-5/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/chaqueta.mp3" controls >
+                </audio>
                 <h2>chaqueta: Jacket</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/163M1nH/abrigo-removebg-preview.png"  width="225" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1l9qe7cR_eiQHaR-NsS7qXX1rXzocSUt9/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/abrigo.mp3" controls >
+                </audio>
                 <h2>Abrigo: Coat</h2>
             </div>
         </div>
@@ -191,17 +198,20 @@
         <div class="row">
             <div class="col-md-4">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/Ns3FSZf/tirantes-removebg-preview.png"   width="195" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1m2l0Uec2PuzZ5eofd0tmaha4IyUG9TwU/preview"  style="border: none" width="280" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/camisa de tirantes.mp3" controls >
+                </audio>
                 <h2>Camiseta de tirantes:<br> Tanktop</h2>
             </div>
             <div class="col-md-4">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/4mLvNBs/gabardina-removebg-preview.png"  width="135"/>
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1Tz5xfgH_ar0C3B4CEalLOUOGsDNsGzW_/preview"  style="border: none" width="280" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/gabardina.mp3" controls >
+                </audio>
                 <h2>Gabardina:trench coat</h2>
             </div>
             <div class="col-md-4">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/Dbz28bf/chaleco-removebg-preview.png"  width="200" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1trDHQy0qSvEEbHaVW5fe46aWEeGiBnLQ/preview"  style="border: none" width="280" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/chaleco.mp3" controls >
+                </audio>
                 <h2>Chaleco: Vest</h2>
             </div>
         </div>
@@ -222,23 +232,27 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" src="https://i.ibb.co/1GJDpBr/falda-removebg-preview.png"  width="185" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1WTTsFFe3wN4hwL5BvAsEDb6LOX_MvaA2/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/falda.mp3" controls >
+                </audio>
                 <h2>Falda: Skirt</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/h842WJ4/vestido-removebg-preview.png"   width="160"/>
-                <iframe  class="mx-auto d-block"  src="https://drive.google.com/file/d/1YJDRm-QkYs7rGGXVCQbt1m3H5J9bfHsA/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/vestido.mp3" controls >
+                </audio>
                 <h2>Vestido: Dress</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/jWFNGpN/tacones-removebg-preview.png"  width="160" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1HCqg-_uTwlcXBfb_qqHhnLfuo-W3YbmJ/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/tacones.mp3" controls >
+                </audio>
                 <h2>Tacones: Heels</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/s1zqjQs/blusa-removebg-preview.png"  width="180" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/12kDykIQSjLxVH8XL7qhZrm3reuiTWYj2/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/blusa.mp3" controls >
+                </audio>
                 <h2>Blusa: Blouse</h2>
             </div>
         </div>
@@ -250,22 +264,26 @@
         <div class="row">
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/Cby97m6/sujetador-removebg-preview.png"    width="195" />
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1iwAL_4EOKEfwPdXDsrGOdB0TD0I3NzS8/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/sujetador.mp3" controls >
+                </audio>
                 <h2>Sujetador/sostén:Bra</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/nfphMDb/bragas-removebg-preview.png"    width="160"/>
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1TURoycjoNOwBhoLLqoJJJSO5rAQmf3od/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/bragas.mp3" controls >
+                </audio>
                 <h2>Bragas/pantis:panties</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/M1FsD9S/medias-removebg-preview.png"   width="197" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1LYHf1X_L-YhzVFoitJzQz2Jaev1AwcUd/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/medias.mp3" controls >
+                </audio>
                 <h2>Medias: stockings</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/YXS0fkD/pijama-removebg-preview.png"   width="170" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1DPO--jEYz5CQ_pnhxCjRsfsUwiZyScgM/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/pijama.mp3" controls >
+                </audio>
                 <h2>Pijama / ropa de dormir: pajamas
                 </h2>
             </div>
@@ -289,26 +307,30 @@
                 <br>
                 <br>
                 <img class="mx-auto d-block"  src="https://i.ibb.co/sKJht5S/zapatos-removebg-preview.png"    width="250" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1-aKcZLwx4YStymNZ3YTBaOycIDVv-y-m/preview"  style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/zapatos.mp3" controls >
+                </audio>
                 <h2>Zapatos: shoes</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/6Xn1LKc/botas-removebg-preview.png"    width="200"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1F8lQcERuAAzkdl9VeKnOBlFE1rybf6bN/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/botas.mp3" controls >
+                </audio>
                 <h2>Botas: boots</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/xmPV0Hf/tenis-removebg-preview.png"  width="150" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1FQyJwsQHUeKd4i0hEdTQI-JNXE6wLAd4/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/zzapato deportivo.mp3" controls >
+                </audio>
                 <h2>zapato deportivo:  sports shoe</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <BR>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/Kr5s2cK/sandalia-removebg-preview.png"   width="147" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/107WeM_U31CLkR73e8IRyjQOX9rW3xSf8/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/sandalia.mp3" controls >
+                </audio>
                 <h2>Sandalia: sandal</h2>
             </div>
         </div>
@@ -332,25 +354,29 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block"    src="https://i.ibb.co/cbFB5qB/trajes-removebg-preview.png"  width="150" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1xwQESvDJTfpgKZWNoCoS0v8-7cjaU333/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/traje.mp3" controls >
+                </audio>
                 <h2>traje: suit</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"    src="https://i.ibb.co/c1HTJLW/camisa-removebg-preview.png"    width="185"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1AbubIamSXWzKbhlBgJIawzGNXW3MFse9/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/camisa.mp3" controls >
+                </audio>
                 <h2>camisa: shirt</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/kB8QgWj/corbatas-removebg-preview-2.png"   width="138" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/16ZbHF1dHirqFPA7XS-fctv2pomMcKXt3/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/corbata.mp3" controls >
+                </audio>
                 <h2>Corbata: tie</h2>
 
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/1ZdyM6L/corbatin-removebg-preview.png"   width="250" />
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/13G051HWJKKaS97RQ_99uuw-lVzyolxFT/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/corbatin.mp3" controls >
+                </audio>
                 <h2>Corbatín / pajarita: bow-tie</h2>
             </div>
         </div>
@@ -360,23 +386,27 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" src="https://i.ibb.co/w7M9yw1/calzoncillo-removebg-preview.png"  width="215" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/14-Gn9CuMwgu55K9ZCp0nAjeY4wCQEfhb/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/calzoncillos.mp3" controls >
+                </audio>
                 <h2>Calzoncillos: briefs</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/NsbwGg4/calsetines-removebg-preview.png"   width="215"/>
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1nGX-aYv13LcwRz8sDKuYQMcChbePYb1s/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/cañsetines.mp3" controls >
+                </audio>
                 <h2>calcetines / medias: socks</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/tcbZdrK/calzoneta-removebg-preview.png"   width="188" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1P7cZ6LmYNGuDnJolvqniBCoWMozN9G8t/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/calzoneta.mp3" controls >
+                </audio>
                 <h2>Calzoneta: underpants</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/7CPXBz0/jeans-removebg-preview.png"   width="320" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1nNtqDup8Jle_ls2MtX49R8EBm0VN9RPv/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/jeans.mp3" controls >
+                </audio>
                 <h2>Pantalones: Jeans</h2>
             </div>
         </div>
@@ -395,25 +425,29 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/LSZ21PB/sombrero-removebg-preview.png"  width="150" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/1dg8XlmfOh5dmQY8_Q0gNeBSZlSuW6B8k/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/sombrero.mp3" controls >
+                </audio>
                 <h2>Sombrero:Sun hat</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/BtbTNHG/gorro-removebg-preview.png"  width="150"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/13PvFix6KS6qQ-5-xToTb94ogtW571lgT/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/gorro de lana.mp3" controls >
+                </audio>
                 <h2>Gorro de lana:Wool hat</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/mTt4YYm/gafas-removebg-preview.png"   width="100" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1ewocEgqnt2lXo_Ig4sba09FXUaQ7coyk/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/gafas.mp3" controls >
+                </audio>
                 <h2>Gafas / lentes: glasses</h2>
 
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/FDvJhR0/pendientes-removebg-preview.png"    width="150" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/16-jeFwZwaCOBtgGdY2MQ7IFKWSrnvTyv/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/pendientes.mp3" controls >
+                </audio>
                 <h2>Pendientes / zarcillos: Earrings</h2>
             </div>
         </div>
@@ -423,22 +457,26 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" src="https://i.ibb.co/cCZ8ZVh/braslete-removebg-preview.png" width="170" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1wgg4TZszNOulNcHFeyF3rY5WCCfdC4Zh/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/braalete.mp3" controls >
+                </audio>
                 <h2>Pulsera / brazalete: Bracelet</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/hLTCDxX/cinturon-removebg-preview.png"   width="218"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1ticqPivyP78QtcI5B-cXNLgCAXLtvNzx/preview"style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/cinturon.mp3" controls >
+                </audio>
                 <h2>Cinturón: Belt</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/tC1y23t/collar-removebg-preview.png"  width="170" />
-                <iframe class="mx-auto d-block"  src="https://drive.google.com/file/d/185S4WUJYQTGITH58g8FFGq4m9b75QirS/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/collar.mp3" controls >
+                </audio>
                 <h2>collar: Necklace</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/HgS9hSN/cartera-removebg-preview.png"   width="200" />
-                <iframe  class="mx-auto d-block" src="https://drive.google.com/file/d/1jw1Ru6Drk-PrcANSNCqyrOyM7nMiFUXJ/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/cartera.mp3" controls >
+                </audio>
                 <h2>cartera: Purse</h2>
             </div>
         </div>
@@ -447,23 +485,27 @@
         <div class="row mb-5">
             <div class="col-md-3">
                 <img class="mx-auto d-block" src="https://i.ibb.co/f0JPt8L/billetera-removebg-preview.png"  width="155" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1uu_miY3WLw05-bI_wJ5XBL5Rs3OMYUhQ/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/billetera.mp3" controls >
+                </audio>
                 <h2>Billetera: Wallet</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/z4M7bdX/gorra-removebg-preview.png"   width="210"/>
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1R9xMZ8t8MnClemdMIhv5_SYjvrSw_MSG/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/gorra.mp3" controls >
+                </audio>
                 <h2>Gorra: Cap</h2>
             </div>
             <div class="col-md-3">
                 <br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/X3pQjB2/anillo-removebg-preview.png"  width="157" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1-DuSSs5Rrof8GG4jDJ8j09IhowenzCpH/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/anillo.mp3" controls >
+                </audio>
                 <h2>Anillo: Ring</h2>
             </div>
             <div class="col-md-3">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/WPwgQgv/reloj-removebg-preview.png"   width="248" />
-                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1U5NaobAFFhn37TITupi6X_37wa-SzRM2/preview" style="border: none" width="250" height="80"></iframe>
+                <audio  id="player" src="AudioIngles/prenda/reloj.mp3" controls >
+                </audio>
                 <h2>Reloj de pulsera: Watch</h2>
             </div>
         </div>
