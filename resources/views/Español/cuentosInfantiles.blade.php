@@ -92,9 +92,9 @@
             <h2 id="color">Cuentos Infantiles</h2>
             <p  style="text-align: center">
                 <strong><em>
-                Estos cuentos están dedicados al público infantil, por lo que suelen contar historias fantásticas y felices.<br>
+                Estos cuentos están dedicados al público infantil, por lo que suelen contar historias fantásticas y felices.
 
-                Se distinguen de los libros fantásticos porque el lenguaje es mucho más simple, y muchos de ellos se utilizan<br>
+                Se distinguen de los libros fantásticos porque el lenguaje es mucho más simple, y muchos de ellos se utilizan
                 como material pedagógico para introducir valores sociales, morales o religiosos.
 
                     </em></strong></p>
