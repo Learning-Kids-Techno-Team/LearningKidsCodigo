@@ -68,13 +68,9 @@
     #separadorDePagina{
         background: #B8DA97;
     }
-    p{
-        margin-left:15%;
-        margin-right: 15%;
-        text-align: justify;
-        font-style: italic;
 
-    }
+
+
     #fondo{
         border-bottom-left-radius:50%;
         border-top-right-radius: 50%;
@@ -107,38 +103,60 @@
 </div>
 
 
-<!-- descrpcion -->
-<div id="separadorDePagina" class="container-fluid" >
+
+
+<div class="container-fluid" style="background: aquamarine">
     <div class="row">
-        <div class=" mx-auto d-block">
-            <img src="https://i.ibb.co/JtrPsnW/24b5560ad1536680ad12973aa1bc3fe7-removebg-preview-1.png" alt="24b5560ad1536680ad12973aa1bc3fe7-removebg-preview-1" height="100" class="mx-auto d-block "/>
+        <div class="col-md-4">
+
+            <br>
+            <img src="https://i.ibb.co/JtrPsnW/24b5560ad1536680ad12973aa1bc3fe7-removebg-preview-1.png" alt="24b5560ad1536680ad12973aa1bc3fe7-removebg-preview-1" height="250" class="mx-auto d-block "/>
+
+        </div>
+        <div class="col-md-8">
             <h2 class="text-center" id="cuento">
+                <br>
                 ¿Qué son los Cuentos?
             </h2>
-
-            <p class="">
+            <p style="text-align: justify">
                 <strong><em>
-                        <br>Los cuentos son breves narraciones que se pueden expresar tanto de manera oral
-                        como escrita y suceden en un tiempo y un lugar dispuesto por el autor.<br>
-                        Un cuento es una narración que puede ser de episodios tomados exclusivamente de
-                        la vida real o de hechos de ficción.<br>
-                        La estructura del cuento posee ciertas características como por ejemplo,
-                        lo narrado, el tema a desarrollar,<br>
-                        luego el contenido que aporta la novedad y finalmente la expresión.<br>
-                        <br>Se compone de tres partes:
-                        <br>Introducción: Parte principal donde se presenta los personajes y sus propositos.
-                        <br>Nudo: Se presenta el conflicto o el problema de la historia; aquí suceden los hechos mas importantes.
-                        <br>Desenlace:Es la parte donde da la solución al problema y donde finaliza la narración.
+
+                        <br> Los cuentos son breves narraciones que se pueden expresar tanto de manera oral
+                        como escrita y suceden en un tiempo y un lugar dispuesto por el autor. Un cuento
+                        es una narración que puede ser de episodios tomados exclusivamente de la vida real
+                        o de hechos de ficción. La estructura del cuento posee ciertas características
+                        como por ejemplo, lo narrado, el tema a desarrollar, luego el contenido que aporta
+                        la novedad y finalmente la expresión.
+                        <br> Se compone de tres partes:<br>
+                        Introducción: Parte principal donde se presenta los personajes y sus propositos.<br>
+                        Nudo: Se presenta el conflicto o el problema de la historia; aquí suceden los hechos
+                        mas importantes.<br>
+                        Desenlace:Es la parte donde da la solución al problema y donde finaliza la narración.
                     </em></strong> </p>
         </div>
     </div>
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!-- titulo -->
 <div class="row" style="background: #bce0ee">
     <div class="col-md-12">
         <h3 align="center " >
+
             <br>Tipos de Cuentos <br>
+            <br>
         </h3>
     </div>
 </div>
