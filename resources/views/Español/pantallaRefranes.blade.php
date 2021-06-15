@@ -110,9 +110,9 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid  center-block pl-5 " >
     <div class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <!-- tarjeta 1 -->
             <div class="card" style="width: 18rem;">
                 <img src="https://cdn5.dibujos.net/dibujos/pintados/201631/hora-de-levantarse-la-casa-la-habitacion-10758156.jpg" width="280" height="200" class="card-img-top"  alt="...">
@@ -127,7 +127,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 pb-5">
             <div class="card" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/nino-lupa-buscando-algo_7710-97.jpg" width="280" height="200" alt="...">
                 <div class="card-body">
@@ -142,7 +142,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <div class="card" style="width: 18rem;">
                 <img src="https://i.pinimg.com/originals/4c/0a/8e/4c0a8e4a542c70990621b2c10e1e46a5.jpg"  width="280" height="200" alt="...">
                 <div class="card-body">
@@ -161,7 +161,7 @@
 
 <div class="container-fluid  center-block pl-5" >
     <div class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <!-- tarjeta 1 -->
             <div class="card" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/pareja-ninos-hablando-ellos_7710-121.jpg"   width="280" height="200"  alt="...">
@@ -176,7 +176,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 pb-5">
             <div class="card" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/nino-tiene-monedas_160901-1500.jpg" width="280" height="200" alt="...">
                 <div class="card-body">
@@ -190,7 +190,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <div class="card" style="width: 18rem;">
                 <img src="https://img.freepik.com/vector-gratis/feliz-nino-lindo-nino-hacer-proceso-vestir_97632-1134.jpg?size=626&ext=jpg"  width="280" height="200" alt="...">
                 <div class="card-body">
@@ -211,7 +211,7 @@
 
 <div class="container-fluid  center-block pl-5" >
     <div class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <!-- tarjeta 1 -->
             <div class="card" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/nino-pensando-mientras-escribe-algo-papel_7710-167.jpg"   width="280" height="200" class="card-img-top"  alt="...">
@@ -226,7 +226,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 pb-5 ">
             <div class="card" style="width: 18rem;">
                 <img src="https://i.pinimg.com/originals/3c/92/2d/3c922d45aea03fd4a9eb2e534e0c9acd.jpg" width="280" height="200" alt="...">
                 <div class="card-body">
@@ -240,7 +240,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <div class="card" style="width: 18rem;">
                 <img src="https://www.pekelandia.com/wp-content/uploads/2011/03/mas-vale-mana-que-fuerza.jpg"  width="280" height="200" alt="...">
                 <div class="card-body">
@@ -261,7 +261,7 @@
 
 <div class="container-fluid  center-block pl-5" >
     <div class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <!-- tarjeta 1 -->
             <div class="card" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/nino-tapandose-oidos-ruido_7710-138.jpg"  class="card-img-top" width="280" height="200" alt="...">
@@ -276,7 +276,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 pb-5 ">
             <div class="card" style="width: 18rem;">
                 <img src="https://i.pinimg.com/474x/2f/3b/c5/2f3bc5166d54d4610bff98b05d07dacc.jpg" width="280" height="200" alt="...">
                 <div class="card-body">
@@ -290,7 +290,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <div class="card" style="width: 18rem;">
                 <img src="https://previews.123rf.com/images/yupiramos/yupiramos1709/yupiramos170927441/87020359-reloj-de-alarma-kawaii-hora-de-alerta-hora-de-dibujos-animados-vector-ilustraci%C3%B3n-de-dibujos-animados.jpg"  width="280" height="200" alt="...">
                 <div class="card-body">
@@ -310,7 +310,7 @@
 
 <div class="container-fluid  center-block pl-5" >
     <div class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <!-- tarjeta 1 -->
             <div class="card" style="width: 18rem;">
                 <img src="https://previews.123rf.com/images/lenm/lenm1503/lenm150300111/37686359-ilustraci%C3%B3n-de-un-ni%C3%B1o-que-pone-dinero-sobre-la-mesa.jpg"  class="card-img-top"  width="280" height="200" alt="...">
@@ -325,7 +325,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 pb-5 ">
             <div class="card" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/escena-nina-triste-llorando-habitacion_1308-43362.jpg" width="280" height="200" alt="...">
                 <div class="card-body">
@@ -339,7 +339,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <div class="card" style="width: 18rem;">
                 <img src="https://www.pngkit.com/png/detail/160-1608359_dibujo-de-molino-de-agua.png"  width="280" height="200" alt="...">
                 <div class="card-body">
@@ -359,7 +359,7 @@
 
 <div class="container-fluid  center-block pl-5" >
     <div class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <!-- tarjeta 1 -->
             <div class="card" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/dibujos-animados-nina-nino-sonriendo_24911-13695.jpg"  class="card-img-top" width="280" height="200" alt="...">
@@ -374,7 +374,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 pb-5 ">
             <div class="card" style="width: 18rem;">
                 <img src="https://img.freepik.com/vector-gratis/personajes-nino-nina-ojos-vendados-jugar-juegos-infantiles_124715-4.jpg?size=626&ext=jpg" width="280" height="200" alt="...">
                 <div class="card-body">
@@ -388,7 +388,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <div class="card" style="width: 18rem;">
                 <img src="https://us.123rf.com/450wm/lenm/lenm1002/lenm100200010/6437488-muchacho-meti%C3%A9ndose-boca-.jpg?ver=6"  width="280" height="200" alt="...">
                 <div class="card-body">
