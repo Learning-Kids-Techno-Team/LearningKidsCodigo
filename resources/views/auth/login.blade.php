@@ -59,7 +59,8 @@
                                         <strong>{{ $errors->first('password') }}</strong>
                                     </div>
                                 @endif
-                                </div> -->
+                                </div>
+-->
 
                                             <input id="password" placeholder="Contraseña"  type="password" class="form-control @error('password') is-invalid @enderror" name="password" required autocomplete="current-password">
 
@@ -79,8 +80,13 @@
                                     <span class="form-check-sign">
                   <span class="check"></span>
                 </span>
+
                                 </label>
                             </div>
+
+
+
+
                         </div>
                         <div class="card-footer justify-content-center">
                             <button type="submit" class="btn btn-info btn-link btn-lg">{{ __('Ingresar') }}</button>
@@ -96,6 +102,8 @@
                             </a>
                         @endif
                     </div>
+
+
                     <div class="col-6 text-right">
                         <a href="{{ route('register') }}" class="text-light">
                             <small>{{ __('Crear nuevo usuario') }}</small>

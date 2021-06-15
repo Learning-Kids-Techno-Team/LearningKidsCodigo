@@ -58,11 +58,11 @@
         margin-left: 0px;
         border-top-left-radius: 50%;
         border-top-right-radius:50%;
-        background: #3B5686;
+        background: #4aa0e6;
     }
 
     .navbar{
-        background: #3B5686;
+        background: #4aa0e6;
     }
 
     #separadorDePagina{
@@ -92,7 +92,7 @@
     }
 
     #dif {
-        background: #3B5686;
+        background: #4aa0e6;
     }
 
 </style>

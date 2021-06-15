@@ -31,7 +31,7 @@
 
     <style>
         .navbar{
-            background:#3B5686;
+            background:#4aa0e6;
         }
 
         body{
@@ -156,7 +156,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-6 p-5">
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/pXwpyyX/hadas.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">Las Hadas traviesas</h5>

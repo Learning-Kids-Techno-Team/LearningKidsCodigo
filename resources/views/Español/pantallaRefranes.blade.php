@@ -26,7 +26,7 @@
 
     <style>
         .navbar{
-            background:#3B5686;
+            background:#4aa0e6;
         }
 
         body{
@@ -64,7 +64,7 @@
             margin-left: 0px;
             border-bottom-left-radius:80%;
             border-top-right-radius: 80%;
-            background:#3B5686;
+            background:#4aa0e6;
         }
 
         #h{

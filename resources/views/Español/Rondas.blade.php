@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <style>
         .navbar{
-            background:#3B5686;
+            background:#4aa0e6;
         }
 
         body{
@@ -88,7 +88,7 @@
             height: 100px;
             border-top-left-radius:80%;
             border-top-right-radius: 80%;
-            background: #3B5686;
+            background: #4aa0e6;
         }
 
 
