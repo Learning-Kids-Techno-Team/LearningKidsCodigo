@@ -22,7 +22,7 @@
 
     <style>
         .navbar{
-            background: #3B5686;
+            background: #4aa0e6;
         }
 
         h3{
@@ -55,7 +55,7 @@
     </style>
 
 </head>
-<body style=" background: #3B5686;">
+<body style=" background: #4aa0e6;">
 
 <!-- Navbar-->
 @section('content')

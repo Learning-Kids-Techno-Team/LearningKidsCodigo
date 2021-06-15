@@ -32,7 +32,7 @@
 
     <style>
         .navbar{
-            background:#3B5686;
+            background:#4aa0e6;
         }
 
         body{
