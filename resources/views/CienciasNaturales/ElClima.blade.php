@@ -41,9 +41,8 @@
 
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
-            margin-left: -5px;
             background: #FDFD96;
             border-top-left-radius: 50%;
             border-top-right-radius:50%;
@@ -92,12 +91,12 @@
 <div class="container-fluid  center-block pl-5">
     <div class="row" >
         <div class="col-md-4">
-            <h2 class="text-center" id="color"><strong><em>Fenómeno natural de la atmósfera que es el resultado de la interacción de
+            <h2  id="color"><strong><em>Fenómeno natural de la atmósfera que es el resultado de la interacción de
                         elementos como la lluvia, la presión, la humedad, la temperatura, entre otros.<br>
                         Esa suma de variables atmosféricas y que afectan a una zona geográfica dada se conoce como: ¡clima!</em></strong></h2>
         </div>
         <div class="col-md-8">
-            <img id="bor" src="https://i.ibb.co/JypHQj9/unnamed-1.jpg" width="700" height="450"/>
+            <img id="bor" class="mx-auto d-block " src="https://i.ibb.co/JypHQj9/unnamed-1.jpg" width="550"/>
         </div>
     </div>
 </div>

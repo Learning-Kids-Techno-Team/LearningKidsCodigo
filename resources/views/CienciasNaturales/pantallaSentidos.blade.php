@@ -111,9 +111,9 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-md-12 bg-info ">
-            <div class="row ml-5 mr-5 ">
+            <div class="row">
                 <div class="col-md-7  mt-5 mx-auto d-block" style="background: #FDFD96;">
-                    <img src="https://i.ibb.co/gv5GxKb/sen-removebg-preview-1-removebg-preview-2.png"  height="500" width="600" class="mx-auto d-block" >
+                    <img src="https://i.ibb.co/gv5GxKb/sen-removebg-preview-1-removebg-preview-2.png"   width="430" class="mx-auto d-block" >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: #D8E2F3;"  >
                     <h4>Ciencias Naturales</h4>
@@ -133,9 +133,9 @@
 <div class="container-fluid d-flex justify-content-center p-5" >
     <div class="row " >
         <div class="col-md-12 ">
-            <div class="card" style="width: 40rem;">
-                <iframe src="https://drive.google.com/file/d/1EX7dI9gQnsMVVUKymOA9iwh9iOkdvGhH/preview"  width="628" height="300"></iframe>
-                <div class="card-body" id="im">
+            <div class="card mx-auto d-block" >
+                <iframe src="https://drive.google.com/file/d/1EX7dI9gQnsMVVUKymOA9iwh9iOkdvGhH/preview"  width="400" height="350"></iframe>
+
                     <h5 class="card-title">Los sentidos</h5>
                 </div>
             </div>
@@ -215,9 +215,9 @@
                     <div class="container-fluid d-flex justify-content-center p-5" >
                         <div class="row " >
                             <div class="col-md-12 ">
-                                <div class="card" style="width: 40rem;">
-                                    <iframe src="https://drive.google.com/file/d/1KLbqQmGZ6K2mpG6Y-dorjwkGVi5yHnVl/preview"  width="628" height="300"></iframe>
-                                    <div class="card-body" id="im">
+                                <div class="card" >
+                                    <iframe src="https://drive.google.com/file/d/1KLbqQmGZ6K2mpG6Y-dorjwkGVi5yHnVl/preview"  width="400" height="350"></iframe>
+
                                         <h5 class="card-title">Identificó los sonidos</h5>
                                     </div>
                                 </div>
@@ -233,9 +233,9 @@
                         <div class="container-fluid d-flex justify-content-center p-5" >
                             <div class="row " >
                                 <div class="col-md-12 ">
-                                    <div class="card" style="width: 40rem;">
-                                        <iframe src="https://drive.google.com/file/d/1jkC6A-mE7lMExmtwBEjD2kteoIg89703/preview"   width="628" height="300"></iframe>
-                                        <div class="card-body" id="im">
+                                    <div class="card" >
+                                        <iframe src="https://drive.google.com/file/d/1jkC6A-mE7lMExmtwBEjD2kteoIg89703/preview"  width="400" height="300"></iframe>
+
                                             <h5 class="card-title"> Sentido de la vista </h5>
                                         </div>
                                     </div>
@@ -251,9 +251,8 @@
                             <div class="container-fluid d-flex justify-content-center p-5" >
                                 <div class="row " >
                                     <div class="col-md-12 ">
-                                        <div class="card" style="width: 40rem;">
-                                            <iframe src="https://drive.google.com/file/d/1PhckBpOuYxOfcwN2kvEw64_ML6dpR1Q4/preview"  width="628" height="300"></iframe>
-                                            <div class="card-body" id="im">
+                                        <div class="card">
+                                            <iframe src="https://drive.google.com/file/d/1PhckBpOuYxOfcwN2kvEw64_ML6dpR1Q4/preview"  width="400" height="350"></iframe>
                                                 <h5 class="card-title">Texturas</h5>
                                             </div>
                                         </div>
@@ -320,9 +319,9 @@
                                                     <div class="card mx-auto d-block" style="width: 18rem;">
                                                         <img src="https://i.ibb.co/whXf9r5/acidos.jpg" alt="acidos"  class="card mx-auto d-block"   height="180" width="280">
                                                         <div class="card-body">
-                                                            <h1 style="text-align: center">Acídos</h1>
+                                                            <h1 style="text-align: center">Ácidos</h1>
                                                             <h5 class="card-title" align="center">
-                                                                Limóm<br>
+                                                                Limón<br>
                                                                 Naranja<br>
                                                                 Toronja<br>
                                                                 Mandarina <br>

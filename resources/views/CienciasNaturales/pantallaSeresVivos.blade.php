@@ -109,7 +109,7 @@
 <div class="container-fluid" id="dif">
     <div class="row" >
         <div class="col-md-12" id="fondo">
-            <img src="https://i.ibb.co/qMPwxZL/prin-Seres-removebg-preview.png" alt="prin-Seres-removebg-preview"   class=" mx-auto d-block"/>
+            <img src="https://i.ibb.co/qMPwxZL/prin-Seres-removebg-preview.png"  class=" mx-auto d-block" width="430" />
         </div>
     </div>
 </div>
@@ -132,20 +132,20 @@
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" style="background: #FFEECC"><h2 align="center"><em><br>¡Tipos de ser!</em></h2>
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
-                <img src="https://i.ibb.co/R9GLKGT/no-vivos-removebg-preview.png" alt="no-vivos-removebg-preview" class="mx-auto d-block"   width="400" height="280">
+<div class="container-fluid  center-block" style="background: #FFEECC"><h2 align="center"><em><br>¡Tipos de ser!</em></h2>
+    <div class="row" >
+        <div class="col-md-6 pb-4">
+            <div class="card mx-auto d-block" >
+                <img src="https://i.ibb.co/R9GLKGT/no-vivos-removebg-preview.png" alt="no-vivos-removebg-preview" class="mx-auto d-block"   width="300"  >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Seres no vivos!</h5>
                     <a href="http://learningkidscodigo.test/seresNoVivos" class="btn">Leer</a>
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
-                <img src="https://i.ibb.co/mBBqQ71/ser-Vivos-removebg-preview.png" alt="ser-Vivos-removebg-preview" class="mx-auto d-block"  width="400" height="280">
+        <div class="col-md-6 pb-4">
+            <div class="card mx-auto d-block" >
+                <img src="https://i.ibb.co/mBBqQ71/ser-Vivos-removebg-preview.png" alt="ser-Vivos-removebg-preview" class="mx-auto d-block"  width="300">
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Seres Vivos!</h5>
                     <a href="http://learningkidscodigo.test/seresVivos"  class="btn">Leer</a>
