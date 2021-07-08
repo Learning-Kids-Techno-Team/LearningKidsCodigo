@@ -84,6 +84,7 @@
         }
         h3{
             font-style:italic;
+            text-align: center;
 
 
         }
@@ -138,7 +139,7 @@
         <div class="col-md-12"  >
             <div class="row ml-5 mr-5" id="borde">
                 <div class="col-md-4  " style="background: lightgreen" >
-                    <img class="mt-5 mx-auto d-block"   src="https://i.ibb.co/BsjWJ7K/nin-removebg-preview.png" width="350"  >
+                    <img class=" mx-auto d-block"   src="https://i.ibb.co/BsjWJ7K/nin-removebg-preview.png" width="340"  >
                 </div>
                 <div class="col-xl-8 " style=" background: #D2FFB5;" >
 
@@ -170,46 +171,28 @@
     </div>
 </div>
 
-<div class="container-fluid   pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-4">
 
-            <div id="tar1" class="card" style="width: 18rem;">
-                <h2>Las plantas</h2>
+<div class="container-fluid pb-5" >
+    <div  class="row" >
+        <div class="col-md-4 pb-4">
 
-            </div>
-        </div>
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
+                <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
+                    <h2>Las plantas</h2>
 
-        <div class="col-md-4 ">
-            <div id="tar2" class="card" style="width: 18rem;">
-                <h2>Animales</h2>
-
-
-            </div>
-        </div>
-
-        <div class="col-md-4">
-            <div id="tar3" class="card" style="width: 18rem;">
-                <h2>Personas</h2>
-
-            </div>
-        </div>
-
-    </div>
-</div>
-
-<div class="container-fluid   pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-4">
-
-            <div id="tar1" class="card" style="width: 18rem;">
+                </div>
                <img  src="https://i.ibb.co/sP71K5V/m1.jpg"  width="275" height="200">
 
             </div>
         </div>
 
-        <div class="col-md-4 ">
-            <div id="tar2" class="card" style="width: 18rem;">
+        <div class="col-md-4 pb-4 ">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
+                <h2>Animales</h2>
+
+
+            </div>
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/MCz7bPp/original.jpg"  width="275" height="200">
 
 
@@ -217,7 +200,11 @@
         </div>
 
         <div class="col-md-4">
-            <div id="tar3" class="card" style="width: 18rem;">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
+                <h2>Personas</h2>
+
+            </div>
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://image.freepik.com/vector-gratis/ninos-felices-dibujos-animados-jugando-parque_18591-61445.jpg"  width="275" height="200">
 
             </div>
@@ -226,8 +213,8 @@
     </div>
 </div>
 
-<div class="container-fluid d-flex justify-content-center  " >
-    <div class="row p-5 ">
+<div class="container-fluid d-flex justify-content-center pb-5" >
+    <div class="row ">
         <div class="col-md-12  " id="bor" style="background: yellow">
 
             <h3>Los Seres vivos tienen un ciclo de Vida:
@@ -236,61 +223,34 @@
     </div>
 </div>
 
-<div class="container-fluid   pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-3">
+<div class="container-fluid " >
+    <div  class="row" >
+        <div class="col-md-3 pb-4">
 
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Nacen</h2>
-
             </div>
-        </div>
-
-        <div class="col-md-3 ">
-            <div id="tar2" class="card" style="width: 18rem;">
-                <h2>Crecen</h2>
-
-
-            </div>
-        </div>
-
-        <div class="col-md-3 ">
-            <div id="tar2" class="card" style="width: 18rem;">
-                <h2>Reproducen</h2>
-
-
-            </div>
-        </div>
-        <div class="col-md-3 ">
-            <div id="tar2" class="card" style="width: 18rem;">
-                <h2>Mueren</h2>
-
-
-            </div>
-        </div>
-
-    </div>
-</div>
-
-<div class="container-fluid   pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-3">
-
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/2WndrRJ/po.jpg"   width="275" height="200">
 
             </div>
         </div>
 
-        <div class="col-md-3 ">
-            <div id="tar2" class="card" style="width: 18rem;">
+        <div class="col-md-3 pb-4 ">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
+                <h2>Crecen</h2>
+            </div>
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/wKtb7dv/cut.jpg"   width="275" height="200">
 
 
             </div>
         </div>
-        <div class="col-md-3 ">
-            <div id="tar2" class="card" style="width: 18rem;">
+        <div class="col-md-3 pb-4">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
+                <h2>Reproducen</h2>
+            </div>
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/pnxc8WD/91.jpg"   width="275" height="200">
 
 
@@ -298,8 +258,11 @@
         </div>
 
 
-        <div class="col-md-3">
-            <div id="tar3" class="card" style="width: 18rem;">
+        <div class="col-md-3 pb-4">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
+                <h2>Mueren</h2>
+            </div>
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/q7vSJFB/a3.jpg"  width="275" height="200">
 
             </div>

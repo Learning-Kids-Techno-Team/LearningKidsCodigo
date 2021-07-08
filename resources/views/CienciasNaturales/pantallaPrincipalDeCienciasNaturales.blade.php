@@ -32,9 +32,8 @@
 
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
-            margin-left: -5px;
             background: #FDFD96;
             border-top-left-radius: 50%;
             border-top-right-radius:50%;
@@ -82,18 +81,18 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://i.ibb.co/GW9ck76/animals.jpg" height="650">
+                    <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://i.ibb.co/GW9ck76/animals.jpg">
                     <div class="carousel-caption">
                     </div>
                 </div>
                 <div class="carousel-item ">
-                    <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://i.ibb.co/3SL5yHT/happy-s.jpg"  height="650" >
+                    <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://i.ibb.co/3SL5yHT/happy-s.jpg">
                     <div class="carousel-caption">
 
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" alt="Carousel Bootstrap Third" src="https://i.ibb.co/Zm87WQ5/maxresdefault-2.jpg"  height="750">
+                    <img class="d-block w-100" alt="Carousel Bootstrap Third" src="https://i.ibb.co/Zm87WQ5/maxresdefault-2.jpg">
                     <div class="carousel-caption">
                     </div>
                 </div>
@@ -130,57 +129,57 @@
 
     <!-- botones-->
     <div class="container-fluid">
-        <div class="row mb-n5">
-            <div class="col-md-12">
+        <div class="row">
+            <div class="col-xl-12">
                 <a href=" {{ url('/cuerpo') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/myQDSJG/dibujos-anima-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info" width="150"/><h3><em>Cuerpo humano</em></h3>
                 </a>
             </div>
         </div>
         <div  class="row pb-5">
-            <div class="col-md-4">
+            <div class="col-xl-4">
                 <a href=" {{ url('/sentidos') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/Rjxb9LB/senyi.jpg" class="rounded-circle mx-auto d-block  bg-info " width="160" height="150"/><h3><em>Los sentidos</em></h3>
                 </a>
             </div>
-            <div class="col-md-4">
+            <div class="col-xl-4">
 
             </div>
-            <div class="col-md-4">
+            <div class="col-xl-4">
                 <a href=" {{ url('/planta') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/HqPhHxk/planta-119-removebg-preview-1.png"  class="rounded-circle mx-auto d-block bg-info " width="150" height="150"/><h3><em>Partes de las plantas</em></h3>
                 </a>
             </div>
         </div>
         <div  class="row">
-            <div class="col-md-4">
+            <div class="col-xl-4">
                 <a href=" {{ url('/PseresVivos') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/xSgSCvL/descarga-removebg-preview.png" class="rounded-circle mx-auto d-block  bg-info" width="150" height="150"/><h3><em>Los seres vivos<br>y no vivos</em></h3>
                 </a>
             </div>
             <!-- imagen del centro de todos los botones-->
-            <div class="col-4">
-                <img alt="Bootstrap Image Preview" src="https://i.ibb.co/3NBd0DK/together-removebg-preview.png" class=" mx-auto d-block" width="400" />
+            <div class="col-xl-4">
+                <img alt="Bootstrap Image Preview" src="https://i.ibb.co/3NBd0DK/together-removebg-preview.png" class="mx-auto d-block" width="400" />
             </div>
-            <div  class="col-md-4">
+            <div  class="col-xl-4">
                 <a href=" {{ url('/LaSalud') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/6YQrwZK/hhjojih-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150" height="150"/><h3><em>La salud</em></h3>
                 </a>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <a href=" {{ url('/LosAnimales') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/261nY4f/Animales-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info" width="150"/><h3><em>Los animales</em> </h3>
                 </a>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <a href=" {{ url('/ElClima') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/wBgnRwC/ilus-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150"><h3><em>El clima</em></h3>
                 </a>
             </div>
         </div>
-            <div class="col-md-12">
+            <div class="col-xl-12">
                 <a href=" {{ url('/actividadesC') }}">
                     <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/7YkMQwS/observacion.jpg"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Actividades</h3>
                 </a>

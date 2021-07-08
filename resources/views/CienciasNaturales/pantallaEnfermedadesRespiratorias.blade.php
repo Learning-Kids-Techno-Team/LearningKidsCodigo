@@ -135,75 +135,84 @@
 <!-- contenedor-->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12" style="background: yellow">
+        <div class="col-xl-12" style="background: yellow">
             <div class="row ml-5 mr-5">
                 <div class="col-md-7  mt-5" style="background: #CCDDCC">
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/mF1cv9n/chico-divertidos-dibujos-animados-mascara-medica-proteccion-enfermedades-respiratorias-icono-diseno.png"   width="450"  >
+                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/mF1cv9n/chico-divertidos-dibujos-animados-mascara-medica-proteccion-enfermedades-respiratorias-icono-diseno.png"   width="300"  >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                     <h4  class="mt-5" style="color: #3B5686">Ciencias Naturales</h4>
                     <h3 class="mt-5" style="text-align: center">Enfermedades Respiratorias</h3>
                     <p class="" id="pa">
-                        <em>Las enfermedades respiratorias afectan a las vías respiratorias, incluidas las vías nasales, los bronquios y los pulmones. Incluyen desde infecciones agudas como la neumonía y la bronquitis a enfermedades crónicas como el asma y la enfermedad pulmonar obstructiva crónica.</em><br>
+                        <em>Las enfermedades respiratorias afectan a las vías respiratorias, incluidas las vías nasales, los bronquios y los pulmones. Incluyen desde infecciones agudas cómo la neumonía y la bronquitis a enfermedades crónicas cómo el asma y la enfermedad pulmonar obstructiva crónica.</em><br>
                         <br> <em>Las infecciones respiratorias, en particular las de origen viral, son el grupo de enfermedades que con mayor frecuencia afectan al hombre. Los resfriados, catarros, gripes … en la mayoría de los casos evolucionan favorablemente en pocos días. Las enfermedades respiratorias agudas se contagian por contacto directo con el virus cuando las personas enfermas no toman las precauciones necesarias.</em>
                     </p>
                 </div>
             </div>
         </div>
-    </div>
-</div>
 
 
 
 
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-md-6 mt-5">
-            <h2>
-                ¿Cómo te sientes cuando tienes gripe?
-            </h2>
-            <p>
-                Cuando tengo gripe, me siento débil y sin ganas de comer!
-                Cuando nos enfermamos, nuestro cuerpo no funciona bien. Las enfermedades provocan
-                debilidad, sueño, dolor, molestias y fiebre.<br>
-                <br>El resfriado o la gripe es una enfermedad común. Se
-                contagia cuando una persona enferma estornuda o tose. Cuando padecemos estas
-                enfermedades sentimos:
-               <br> • dolor de cabeza
-                <br>• tos y nariz tapada
-                <br>  • fiebre
-                <br>  • estornudos frecuentes
-                <br> • mucosidad liquida</p>
+        <div class="container-fluid">
+            <div class="row">
 
+                <div class="col-xl-6 mt-5">
+                    <h2>
+                        ¿Cómo te sientes cuando tienes gripe?
+                    </h2>
+                    <p>
+                        Cuando tengo gripe, me siento débil y sin ganas de comer!
+                        Cuando nos enfermamos, nuestro cuerpo no funciona bien. Las enfermedades provocan
+                        debilidad, sueño, dolor, molestias y fiebre.<br>
+                        <br>El resfriado o la gripe es una enfermedad común. Se
+                        contagia cuando una persona enferma estornuda o tose. Cuando padecemos estas
+                        enfermedades sentimos:
+                        <br> • dolor de cabeza
+                        <br>• tos y nariz tapada
+                        <br>  • fiebre
+                        <br>  • estornudos frecuentes
+                        <br> • mucosidad liquida</p>
+
+                </div>
+
+                <div class="col-xl-6">
+                    <img  src="https://i.ibb.co/FYc60r1/nino-fiebre-gripe-icono-ilustracion-personajes-dibujos-animados-corona-mascota-persona-icono-concept.png" width="400" class="mx-auto d-block" >
+                </div>
+            </div>
         </div>
 
-        <div class="col-md-4 ">
-            <img  src="https://i.ibb.co/FYc60r1/nino-fiebre-gripe-icono-ilustracion-personajes-dibujos-animados-corona-mascota-persona-icono-concept.png" >
-       </div>
-       <div class="row">
-        <div class="col-md-8">
-            <h2>
-                ¿como prevenir infecciones respiratorias?
-            </h2>
+        <div class="container-fluid">
+            <div class="row">
+                    <div class="col-xl-8">
+                        <h2>
+                            ¿cómo prevenir infecciones respiratorias?
+                        </h2>
 
-                <ul>
-                Las infecciones respiratorias se pueden prevenir siguiendo unos consejos básicos: <br>
+                        <ul>
+                            Las infecciones respiratorias se pueden prevenir siguiendo unos consejos básicos: <br>
 
-              <li><strong>Lávase las manos </strong> frecuentemente con agua y jabón o toallitas húmedas de alcohol; especialmente después de estornudar, cuando se haya tenido contacto con alguna persona enferma o si toca objetos que pudieran estar contaminados.</li>
-                    <li><strong> Ventile </strong> bien las habitaciones y deje entrar el sol. Limpie bien la casa y el área de trabajo. Con especial atención a mesas, teléfonos, teclados de ordenador, juguetes, interruptores, pomos de puertas, grifos y objetos de uso común.</li>
-               <li><strong> Beba abundante líquido</strong>  (agua, zumos de frutas frescas o sopas calientes) y lleve una alimentación equilibrada, que incluya frutas y verduras (ricos en vitaminas y minerales) pues ayuda a que el sistema inmune del organismo funcione mejor.</li>
-                <li><strong>Protéjase del frío</strong> , abríguese bien (lleve ropa adecuada y vístase por capas), evite corrientes, cambios bruscos de temperatura, exponerse al frío con el pelo mojado … Evite ambientes cargados (Cuidado con el exceso de calefacción y aires acondicionados).</li>
-                    <li><strong>Evite particularmente ambientes fríos o muy secos</strong> , con humo o donde se encuentren personas tosiendo o con otros síntomas respiratorios.</li>
-                    <li><strong> Cuide la higiene personal </strong> y evite compartir comidas, vasos, platos, cubiertos…</li>
-                    <li><strong>Lave con frecuencia</strong> la ropa incluidas bufandas, gorras, guantes y abrigos.</li>
-            </ul>
+                            <li><strong>Lávase las manos </strong> frecuentemente con agua y jabón o toallitas húmedas de alcohol; especialmente después de estornudar, cuando se haya tenido contacto con alguna persona enferma o si toca objetos que pudieran estar contaminados.</li>
+                            <li><strong> Ventile </strong> bien las habitaciones y deje entrar el sol. Limpie bien la casa y el área de trabajo. Con especial atención a mesas, teléfonos, teclados de ordenador, juguetes, interruptores, pomos de puertas, grifos y objetos de uso común.</li>
+                            <li><strong> Beba abundante líquido</strong>  (agua, zumos de frutas frescas o sopas calientes) y lleve una alimentación equilibrada, que incluya frutas y verduras (ricos en vitaminas y minerales) pues ayuda a que el sistema inmune del organismo funcione mejor.</li>
+                            <li><strong>Protéjase del frío</strong> , abríguese bien (lleve ropa adecuada y vístase por capas), evite corrientes, cambios bruscos de temperatura, exponerse al frío con el pelo mojado … Evite ambientes cargados (Cuidado con el exceso de calefacción y aires acondicionados).</li>
+                            <li><strong>Evite particularmente ambientes fríos o muy secos</strong> , con humo o donde se encuentren personas tosiendo o con otros síntomas respiratorios.</li>
+                            <li><strong> Cuide la higiene personal </strong> y evite compartir comidas, vasos, platos, cubiertos…</li>
+                            <li><strong>Lave con frecuencia</strong> la ropa incluidas bufandas, gorras, guantes y abrigos.</li>
+                        </ul>
+                </div>
+
+                <div class="col-xl-4 mt-5">
+                    <img class=" mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/SwC7cqs/nino-chico-llevando-dibujos-animados-libro-33070-1881-removebg-preview-2.png" width="300"/>
+                </div>
+            </div>
         </div>
-        <div class="col-md-4">
-            <img class=" mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/SwC7cqs/nino-chico-llevando-dibujos-animados-libro-33070-1881-removebg-preview-2.png" />
-        </div>
-    </div>
-</div>
+
+
+
+
+
 
 
 
@@ -211,7 +220,7 @@
 
     <div  class="container-fluid">
         <div class="row">
-            <div class="col-md-12  mb-5" style="background: #FDFD96">
+            <div class="col-xl-12  mb-5" style="background: #FDFD96">
                 <h1 style="text-align: center">Algunas enfermedades respiratorias</h1>
             </div>
         </div>
@@ -220,7 +229,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     La bronquitis
 
@@ -231,7 +240,7 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/cTk1bZB/depositphotos-127911988-stock-illustration-boy-cartoon-coughing-for-you-removebg-preview.png" width="300" >
             </div>
         </div>
@@ -243,7 +252,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     El asma
 
@@ -252,7 +261,7 @@
                     El asma es una enfermedad que afecta los pulmones. Es una de las enfermedades de duración prolongada más comunes en los niños, aunque los adultos también pueden padecerla. El asma causa sibilancias, dificultad para respirar, opresión en el pecho y tos durante la noche o temprano por la mañana.
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/XbHBMxW/png-clipart-pustulosis-palmaris-et-plantaris-asthma-therapy-disease-nose-child-face-removebg-preview.png"  width="300" >
             </div>
         </div>
@@ -262,7 +271,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Amigdalitis
 
@@ -270,7 +279,7 @@
                 <p>
                     Es la inflamación de las amígdalas, un órgano constituido por numerosos nódulos linfáticos ubicado en la garganta. Las amígdalas ayudan a eliminar gérmenes y bacterias, pero cuando se inflaman causan dificultad para deglutir, dolor de oído, fiebre, dolor de cabeza y de garganta.</p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/XVL1z0g/depositphotos-164509284-stock-illustration-illustration-depicts-a-child-character-removebg-preview.png"   width="300" >
             </div>
         </div>
@@ -282,24 +291,23 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Neumonía
 
                 </h2>
-                <p>Es una de las enfermedades respiratorias más graves que existen. Esta enfermedad aparece como consecuencia de una infección viral, bacteriológica o por hongos, y sus síntomas más significativos son la fiebre, los escalofríos, el dolor en el tórax, la pérdida del apetito, la respiración rápida y la tos.</p>
+                <p>Es una de las enfermedades respiratorias más graves que existen. Esta enfermedad aparece cómo consecuencia de una infección viral, bacteriológica o por hongos, y sus síntomas más significativos son la fiebre, los escalofríos, el dolor en el tórax, la pérdida del apetito, la respiración rápida y la tos.</p>
             </div>
-            <div class="col-md-6">
-                <img class="mx-auto d-block" src="https://i.ibb.co/qyJR7tj/a-vector-of-girl-lung-infection-removebg-preview.png"    width="300" >
+            <div class="col-xl-6">
+                <img class="mx-auto d-block" src="https://i.ibb.co/qyJR7tj/a-vector-of-girl-lung-infection-removebg-preview.png"    width="300"  >
             </div>
         </div>
     </div>
-</div>
+
 
 
     <div id="separadorInferior2">
     <div class="content ">
-
     </div>
 </div>
 

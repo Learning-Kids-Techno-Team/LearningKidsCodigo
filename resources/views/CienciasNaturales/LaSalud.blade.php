@@ -87,6 +87,7 @@
             border-top-right-radius: 50%;
             background: #FFEECC;
 
+
         }
 
         #dif {
@@ -97,6 +98,10 @@
             border: gold 5px dotted;
 
         }
+        h3{
+            text-align: center;
+        }
+
 
 
     </style>
@@ -108,8 +113,8 @@
 <!-- imagen -->
 <div class="container-fluid" id="dif">
     <div class="row" >
-        <div class="col-md-12" id="fondo">
-            <img src="https://i.ibb.co/B4VjgMc/uno-removebg-preview.png" class=" mx-auto d-block"/>
+        <div class="col-xl-12" id="fondo">
+            <img src="https://i.ibb.co/B4VjgMc/uno-removebg-preview.png" class=" mx-auto d-block" width="430"/>
         </div>
     </div>
 </div>
@@ -136,9 +141,10 @@
 </div>
 
 <!-- titulo -->
-<div  class="row" style="background: #FFEECC">
-    <div class="col-md-12">
-        <h3 align="center">
+<div class="container-fluid  center-block ">
+    <div  class="row" style="background: #FFEECC">
+    <div class="col-xl-12">
+        <h3>
             <br><em><br>¡Nuestra Salud!</em><br><br>
         </h3>
     </div>
@@ -146,11 +152,11 @@
 
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5">
+<div class="container-fluid  center-block ">
     <div class="row " >
 
-        <div class="col-md-4">
-            <div class="card" style="width: 21rem;">
+        <div class="col-xl-4 pb-4">
+            <div class="card mx-auto d-block" style="width: 21rem;">
 
                 <img id="im" src="https://i.ibb.co/RBx52LQ/hb1-removebg-preview-1.png" width="300" height="230" class="mx-auto d-block" >
                 <div class="card-body">
@@ -160,8 +166,8 @@
             </div>
         </div>
 
-        <div class="col-md-4">
-            <div class="card" style="width: 21rem;">
+        <div class="col-xl-4 pb-4">
+            <div class="card mx-auto d-block" style="width: 21rem;">
                 <img id="im" src="https://i.ibb.co/rwCtZPy/resp-removebg-preview-1.png" width="300" height="230" class="mx-auto d-block" >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Enfermedades Respiratorias!</h5>
@@ -170,8 +176,8 @@
             </div>
         </div>
 
-        <div class="col-md-4">
-            <div class="card" style="width: 21rem;">
+        <div class="col-xl-4 pb-4">
+            <div class="card mx-auto d-block" style="width: 21rem;">
                 <img id="im" src="https://i.ibb.co/dWw7M81/intes-removebg-preview-1.png" width="300" height="230" class="mx-auto d-block" >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Enfermedades Intestinales!</h5>

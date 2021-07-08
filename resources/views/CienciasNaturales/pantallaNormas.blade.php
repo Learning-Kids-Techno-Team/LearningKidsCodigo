@@ -134,7 +134,7 @@
         <div class="col-md-12" style="background: yellow">
             <div class="row ml-5 mr-5">
                 <div class="col-md-7  mt-5" style="background: #CCDDCC">
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/HHtkZLB/Normas-de-Higiene-Personal-removebg-preview-1.png"    width="450"  >
+                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/HHtkZLB/Normas-de-Higiene-Personal-removebg-preview-1.png"    width="400"  >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                     <h4  class="mt-5" style="color: #3B5686">Ciencias Naturales</h4>
@@ -162,7 +162,7 @@
         </div>
 
         <div class="col-md-6 mt-n5">
-            <img class="mx-auto d-block"  src="https://i.ibb.co/9yn2xJY/nino-apuntando-ilustracion-vector-plano-dedo-indice-71593-566-removebg-preview.png"   >
+            <img class="mx-auto d-block"  src="https://i.ibb.co/9yn2xJY/nino-apuntando-ilustracion-vector-plano-dedo-indice-71593-566-removebg-preview.png" width="420"   >
         </div>
 
 

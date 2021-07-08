@@ -142,7 +142,7 @@
         <div class="col-md-12" style="background: yellow">
             <div class="row ml-5 mr-5">
                 <div class="col-md-7  mt-5" style="background: #CCDDCC">
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/hKFctFG/joven-enfermo-dolor-estomago-intoxicacion-alimentaria-problemas-estomacales-dolor-abdominal-ilustrac.png"    width="450"  >
+                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/hKFctFG/joven-enfermo-dolor-estomago-intoxicacion-alimentaria-problemas-estomacales-dolor-abdominal-ilustrac.png"    width="380"  >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                     <h4  class="mt-5" style="color: #3B5686">Ciencias Naturales</h4>
@@ -157,9 +157,14 @@
     </div>
 </div>
 
-<div class="container-fluid  mb-5 mt-5 ">
+
+
+
+
+
+<div class="container-fluid pt-5">
     <div class="row">
-        <div class="col-md-6 ">
+        <div class="col-md-6">
             <h2>
                 ¡Me duele el estómago!
             </h2>
@@ -178,32 +183,46 @@
 
 
         </div>
-
-        <div class="col-md-6 ">
+        <div class="col-md-6">
             <img class="mx-auto d-block"  src="https://i.ibb.co/9cpPRTf/boy-suffering-stomach-painful-acid-260nw-1315503887-removebg-preview.png"  >
-        </div>
 
-
-        <div class="row">
-            <div class="col-md-4">
-                <img class=" mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/sbhG4Xf/lindo-nino-mirando-arriba-43633-2766-removebg-preview.png" width="250" />
-            </div>
-            <div class="col-md-8">
-
-                <h2 class="mt-5">
-                    ¿como prevenir enfermedades intestinales?
-                </h2>
-
-                <ul>
-                    <li><strong>No a la comida de la calle</strong> La higiene es sin duda el paso principal para evitar cualquier infección estomacal. La comida debe estar siempre bien lavada y se debe preparar bajo condiciones higiénicas. Por esto, lo principal es evitar comida de la calle o puestos en los que no sepas cómo preparan los alimentos, si desinfectan las frutas o verduras, si utilizan agua del grifo o si las moscas u otros animales han pasado por encima.</li>
-                    <li><strong>  Prepara correctamente tus alimentos </strong> También es importante que mantengas la misma higiene en casa. Procura lavar bien y desinfectar las frutas y verduras; ten una tabla para cortar frutas y verduras y una distinta para la carne y asegúrate de cocer bien el pollo y la carne para las comidas.</li>
-                    <li><strong>  Mantén un horario regular de comidas</strong>  Otras enfermedades estomacales como la gastritis se pueden dar por no tener un horario establecido de comidas. Así que procura comer de forma ordenada, saludable y con horarios establecidos que puedas respetar para que tu estómago se acostumbre y no pase hambre.</li>
-
-                </ul>
-
-            </div>
         </div>
     </div>
+</div>
+
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6">
+            <img class=" mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/sbhG4Xf/lindo-nino-mirando-arriba-43633-2766-removebg-preview.png" width="250" />
+
+        </div>
+        <div class="col-md-6">
+
+            <h2 class="mt-5">
+                ¿cómo prevenir enfermedades intestinales?
+            </h2>
+
+            <ul>
+                <li><strong>No a la comida de la calle</strong> La higiene es sin duda el paso principal para evitar cualquier infección estomacal. La comida debe estar siempre bien lavada y se debe preparar bajo condiciones higiénicas. Por esto, lo principal es evitar comida de la calle o puestos en los que no sepas cómo preparan los alimentos, si desinfectan las frutas o verduras, si utilizan agua del grifo o si las moscas u otros animales han pasado por encima.</li>
+                <li><strong>  Prepara correctamente tus alimentos </strong> También es importante que mantengas la misma higiene en casa. Procura lavar bien y desinfectar las frutas y verduras; ten una tabla para cortar frutas y verduras y una distinta para la carne y asegúrate de cocer bien el pollo y la carne para las comidas.</li>
+                <li><strong>  Mantén un horario regular de comidas</strong>  Otras enfermedades estomacales cómo la gastritis se pueden dar por no tener un horario establecido de comidas. Así que procura comer de forma ordenada, saludable y con horarios establecidos que puedas respetar para que tu estómago se acostumbre y no pase hambre.</li>
+
+            </ul>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
 
     <div  class="container-fluid mt-5">
         <div class="row">

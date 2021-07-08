@@ -131,26 +131,26 @@
 <!-- contenedor-->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12" style="background: yellow">
-            <div class="row ml-5 mr-5">
-                <div class="col-md-7  mt-5" style="background: #CCDDCC">
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/VSyKtkY/cuerpo-humano-nino-scaled-removebg-preview.png"     width="500"  >
+        <div class="col-md-12 " style="background: yellow">
+            <div class="row">
+                <div class="col-md-4  mt-5" style="background: #CCDDCC">
+                    <img class="m-5 mx-auto d-block" src="https://i.ibb.co/VSyKtkY/cuerpo-humano-nino-scaled-removebg-preview.png"     width="430"  >
                 </div>
-                <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
+                <div class="col-xl-8  mt-5 " style=" background: lightyellow"  >
                     <h4  class="mt-5" style="color: #3B5686">Ciencias Naturales</h4>
                     <h3 class="mt-5" style="text-align: center">El cuerpo humano</h3>
                     <p class="" id="pa">
                        <br> El cuerpo humano realiza muchas funciones, unas son más importantes que otras.
-                        <br>Se pueden dividir en dos grandes grupos: funciones vitales y funciones no vitales.
+                        Se pueden dividir en dos grandes grupos: funciones vitales y funciones no vitales.
 
-                        <br>Funciones vitales son aquellas que son necesarias para vivir, sin ellas moriríamos.
-                        <br>Se dividen en funciones : de nutrición, de relación y de reproducción.
+                        Funciones vitales son aquellas que son necesarias para vivir, sin ellas moriríamos.
+                        Se dividen en funciones : de nutrición, de relación y de reproducción.<br>
 
-                        <br>De nutrición: son las relacionadas con la respiración y alimentación de las células: respiración, alimentación, circulación de la sangre y excreción.
+                        <br>De nutrición: son las relacionadas con la respiración y alimentación de las células: respiración, alimentación, circulación de la sangre y excreción.<br>
 
-                        <br>De relación: son las relacionadas con el control del cuerpo por parte del cerebro y sistema nervioso.
+                        <br>De relación: son las relacionadas con el control del cuerpo por parte del cerebro y sistema nervioso.<br>
 
-                        <br>De reproducción: no es vital para un individuo pero la reproducción es necesaria para la conservación de la especie.
+                        <br>De reproducción: no es vital para un individuo pero la reproducción es necesaria para la conservación de la especie.<br>
 
                         <br>Funciones no vitales son aquellas que siendo importantes no son vitales, no nos morimos si no las hacemos.
                         Por ejemplo el movernos. Hay gente que puede vivir pero no puede andar.
@@ -161,6 +161,8 @@
         </div>
     </div>
 </div>
+
+
 
 
 <div class="container-fluid mt-5 ">
@@ -179,7 +181,7 @@
         </div>
 
         <div class="col-md-6 mb-5">
-            <img class="mx-auto d-block"  src="https://i.ibb.co/3dBBJq3/lucia-presentacin-cuerpo-humano-2-728-removebg-preview.png"   >
+            <img class="mx-auto d-block"  src="https://i.ibb.co/3dBBJq3/lucia-presentacin-cuerpo-humano-2-728-removebg-preview.png"  width="430" >
         </div>
 
 
@@ -246,7 +248,7 @@
                     </p>
                 </div>
                 <div class="col-md-6">
-                    <img src="https://i.ibb.co/gry068Y/etapas-del-desarrollo-humano-lifeder-2-removebg-preview.png">
+                    <img src="https://i.ibb.co/gry068Y/etapas-del-desarrollo-humano-lifeder-2-removebg-preview.png" width="430">
 
                 </div>
 
@@ -260,13 +262,13 @@
                     Los huesos de nuestro cuerpo
 
                 </h2>
-                <p> <br>Toca tu cuerpo y responde.
-                    <br>¿Dónde hay huesos? ¿cómo son?
+                <p> <br><strong>Toca tu cuerpo y responde.</strong><br>
+                    <br><strong>¿Dónde hay huesos? ¿cómo son?</strong><br>
                     <br>Los huesos son las partes duras de nuestro cuerpo. El conjunto de huesos se llama
-                    <br>esqueleto
-                    <br>El esqueleto sostiene el cuerpo, le da forma y, además, protege los
+                    <br>esqueleto.
+                    El esqueleto sostiene el cuerpo, le da forma y, además, protege los
                     <br>órganos internos
-                    <br>Nuestro cuerpo tiene 206 huesos diferentes. Algunos son planos, otros cortos, y otros
+                    Nuestro cuerpo tiene 206 huesos diferentes. Algunos son planos, otros cortos, y otros
                     <br>largos.
                     <br><strong>Los huesos principales son:</strong>
                     <ul>
@@ -280,7 +282,7 @@
                 </p>
             </div>
             <div class="col-md-6 mt-5">
-                <img class="mx-auto d-block" src="https://i.ibb.co/ws9Kdn6/hqdefault-removebg-preview.png"      width="500" >
+                <img class=" mt-5 mx-auto d-block" src="https://i.ibb.co/ws9Kdn6/hqdefault-removebg-preview.png"      width="420" >
             </div>
         </div>
     </div>
