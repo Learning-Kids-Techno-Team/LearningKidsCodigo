@@ -120,9 +120,9 @@
 </div>
 
 <!-- contenedor de la estrella-->
-<div class="container-fluid p-5 " id="titulo" >
+<div class="container-fluid  " id="titulo" >
     <div class="row " >
-        <div class="col-md-12">
+        <div class="col-xl-12 p-5">
         <h1 >Aprendamos Cantando</h1>
 
             </div>

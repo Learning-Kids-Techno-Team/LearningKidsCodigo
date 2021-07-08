@@ -150,7 +150,7 @@
                     <img class="mt-5" src="https://i.ibb.co/SfTfKWb/ninos-aprendiendo-matematicas-abaco-1308-15835-removebg-preview.png">
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: #fcebcb"  >
-                    <h4>Matematica</h4>
+                    <h4>Matemática</h4>
                     <h3 class="mt-5" style="text-align: center">Resta</h3>
                    <p class="" id="pa">
                        <em>Aprender a restar es una de las habilidades que más necesitamos tener para poder realizar nuestras actividades cotidianas. La resta es la inversa de la suma porque en esta, dados los sumandos, hay que hallar la suma de los mismos, mientras que en la resta, dada la suma de dos sumandos y uno de ellos, se halla el otro sumando.
