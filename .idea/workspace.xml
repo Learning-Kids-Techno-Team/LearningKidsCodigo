@@ -27,8 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaAnimalesInvertebrados.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaAnimalesInvertebrados.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaAnimalesVertebrados.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaAnimalesVertebrados.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/ElClima.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/ElClima.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -249,14 +248,7 @@
       <workItem from="1625627464660" duration="11726000" />
       <workItem from="1625709981870" duration="7792000" />
       <workItem from="1625718696099" duration="246000" />
-      <workItem from="1625718955135" duration="3557000" />
-    </task>
-    <task id="LOCAL-00024" summary="Sprint 6 Luz Bonilla">
-      <created>1612671772073</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1612671772073</updated>
+      <workItem from="1625718955135" duration="4539000" />
     </task>
     <task id="LOCAL-00025" summary="Sprint 6 Luz Bonilla">
       <created>1612674476968</created>
@@ -594,7 +586,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625717561799</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Sprint 14 Hector Lopez">
+      <created>1625722576131</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1625722576131</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

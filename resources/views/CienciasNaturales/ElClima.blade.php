@@ -60,6 +60,9 @@
             color: #3B5686;
 
         }
+        h2{
+            text-align: center;
+        }
 
     </style>
 </head>
@@ -88,15 +91,15 @@
 
 
 <!-- contenedor clima-->
-<div class="container-fluid  center-block pl-5">
+<div class="container-fluid mt-5 ">
     <div class="row" >
-        <div class="col-md-4">
+        <div class="col-md-6 pb-4">
             <h2  id="color"><strong><em>Fenómeno natural de la atmósfera que es el resultado de la interacción de
                         elementos como la lluvia, la presión, la humedad, la temperatura, entre otros.<br>
                         Esa suma de variables atmosféricas y que afectan a una zona geográfica dada se conoce como: ¡clima!</em></strong></h2>
         </div>
-        <div class="col-md-8">
-            <img id="bor" class="mx-auto d-block " src="https://i.ibb.co/JypHQj9/unnamed-1.jpg" width="550"/>
+        <div class="col-md-6">
+            <img id="bor" class="mx-auto d-block " src="https://i.ibb.co/JypHQj9/unnamed-1.jpg" width="460"/>
         </div>
     </div>
 </div>
@@ -125,7 +128,7 @@
     <div class="row">
         <div class="col-md-6"><br>
             <img class="mx-auto d-block " src="https://i.ibb.co/G7mrZcb/vient-removebg-preview.png" width="260" height="200"/>
-            <h5 align="center">Viento frio</h5>
+            <h5 align="center">Viento frío</h5>
         </div>
         <div class="col-md-6"><br>
             <img class="mx-auto d-block " src="https://i.ibb.co/nBj21zj/neva-removebg-preview.png" width="260" height="200"/>
@@ -135,11 +138,11 @@
 </div>
 
 <!-- contenedor text-->
-<div class="container-fluid  center-block pl-5" id="color">
+<div class="container-fluid" id="color">
     <div class="card">
         <div class="row m-3" >
             <div class="col-md-4">
-                <img id="bor" src="https://i.ibb.co/KhXk4TZ/met.jpg" width="350" height="250"/>
+                <img  class="mx-auto d-block" id="bor" src="https://i.ibb.co/KhXk4TZ/met.jpg" width="350" height="250"/>
             </div>
             <div class="col-md-8">
                 <h2 class="text-center" id="color"><strong><em>La meteorología, es la ciencia que estudia y predice
@@ -152,22 +155,22 @@
 
 
 <!-- contenedor sug-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>Observo y aprendo:</em></h2>
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+<div class="container-fluid" id="color"><h2><em><br>Observo y aprendo:</em></h2>
+    <div class="row " >
+        <div class="col-md-4 pb-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/wCTtRbH/tropical.jpg" width="300" height="240">
                 <h5 class="card-title" align="center">¡Tropical!</h5>
             </div>
         </div>
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+        <div class="col-md-4 pb-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/xgR9zYK/unnamed-removebg-preview-2.png" width="300" height="240">
                 <h5 class="card-title" align="center">¡Lluvioso! ¡Soleado!</h5>
             </div>
         </div>
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+        <div class="col-md-4 pb-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/cxrTRNk/nev.jpg" width="300" height="240">
                 <h5 class="card-title" align="center">¡Nieve (Frío)!</h5>
             </div>
