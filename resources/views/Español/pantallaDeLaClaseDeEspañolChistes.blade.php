@@ -101,13 +101,13 @@
         ¿Qué son los Chistes?
     </h2>
 
-            <p class="text-justify">
+            <p class="text-center">
                 <strong><em>
-                        <br> <br>Un chiste o chascarrillo es una narración oral o escrita breve, ficticia y humorística que es graciosa y suscita a la risa.
-                        A veces también puede ser satírico, irónico, crítico o burlesco.<br>
-                        Contiene un juego verbal o conceptual capaz de mover a risa y fundado en el humor.Muchas veces se presenta ilustrado por un dibujo (chiste gráfico) y constituye uno de los principales géneros jocosos.
+                        <br>Un chiste o chascarrillo es una narración oral o escrita breve, ficticia y humorística que es graciosa y suscita a la risa.
+                        A veces también puede ser satírico, irónico, crítico o burlesco.
+                        Contiene un juego verbal o conceptual capaz de mover a risa y fundado en el humor. Muchas veces se presenta ilustrado por un dibujo (chiste gráfico) y constituye uno de los principales géneros jocosos.
                         Se debe distinguir de la broma, que consiste en crear una situación cómica a partir de una persona, una situación o un evento real.
-                    </em></strong> </p>
+                    </em></strong> </p><br>
         </div>
     </div>
 </div>

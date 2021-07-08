@@ -47,6 +47,16 @@
         }
 
 
+        #banderin{
+
+            background: url("https://i.ibb.co/KVn23q7/Captura-de-pantalla-230-removebg-preview.png");
+            margin-top: auto;
+
+
+            height: 250px;
+
+        }
+
         .card{
             background:aliceblue;
             border:blue 5px  solid;

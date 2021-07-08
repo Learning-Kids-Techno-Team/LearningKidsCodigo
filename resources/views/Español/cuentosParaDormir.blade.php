@@ -236,7 +236,7 @@
             <div class="card mx-auto d-block" style="width: 30rem">
                 <img src="https://i.ibb.co/9tzrSMV/Tio.png"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">Tio Tigre y tío Conejo </h5>
+                    <h5 class="card-title">Tío Tigre y tío Conejo </h5>
                     <p class="card-text">Una calurosa mañana, se encontraba Tío Conejo recolectando zanahorias para el almuerzo. De repente, escuchó un rugido aterrador: ¡era Tío Tigre!
 
                         —¡Ajá, Tío Conejo! —dijo el felino—. No tienes escapatoria, pronto te convertirás en un delicioso bocadillo.
@@ -270,7 +270,7 @@
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <img src="https://i.ibb.co/zrMngyv/leon.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title">El León y el Raton </h5>
+                    <h5 class="card-title">El León y el Ratón </h5>
                     <p class="card-text">
                         En un día muy soleado, dormía plácidamente un león cuando un
                         pequeño ratón pasó por su lado y lo despertó. <br>
