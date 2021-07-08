@@ -27,15 +27,12 @@
   <component name="ChangeListManager">
     <list default="true" id="d12242a2-e73d-4acb-8be6-1a43953a38f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/lineaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/lineaActividad.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/ElClima.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/ElClima.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPartesDelCuerpo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPartesDelCuerpo.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPrincipalDeCienciasNaturales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaPrincipalDeCienciasNaturales.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaSentidos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaSentidos.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaSeresVivos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaSeresVivos.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/partesDeLaPlanta.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/partesDeLaPlanta.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/seresNoVivos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/seresNoVivos.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaRefranes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaRefranes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/LaSalud.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/LaSalud.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/LosAnimales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/LosAnimales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaEnfermedadesIntestinales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaEnfermedadesIntestinales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaEnfermedadesRespiratorias.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaEnfermedadesRespiratorias.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaNormas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaNormas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/CienciasNaturales/seresVivos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/CienciasNaturales/seresVivos.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -253,14 +250,8 @@
       <workItem from="1625021165037" duration="598000" />
       <workItem from="1625030132094" duration="1704000" />
       <workItem from="1625613546953" duration="5401000" />
-      <workItem from="1625627464660" duration="10147000" />
-    </task>
-    <task id="LOCAL-00022" summary="Sprint 6 Daniela Mazzoni">
-      <created>1612578587323</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1612578587323</updated>
+      <workItem from="1625627464660" duration="11726000" />
+      <workItem from="1625709981870" duration="6768000" />
     </task>
     <task id="LOCAL-00023" summary="Sprint 6 Luz Bonilla">
       <created>1612658344586</created>
@@ -598,7 +589,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625008351999</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Sprint 14 Hector Lopez">
+      <created>1625638069661</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1625638069661</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -650,6 +648,11 @@
           <url>file://$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php</url>
           <line>143</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/CienciasNaturales/pantallaSeresVivos.blade.php</url>
+          <line>72</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
