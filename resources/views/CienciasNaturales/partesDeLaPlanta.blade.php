@@ -129,7 +129,7 @@
 @section('content')
 
 <!-- contenedor-->
-<div class="container-fluid " >
+<div class="container-fluid justify-content-center" >
     <div class="row" >
         <div class="col-md-12" >
             <div class="row ml-5 mr-5"  >
@@ -165,10 +165,10 @@
     </div>
 </div>
 
-<div class="container-fluid justify-content-center  pl-5" >
-    <div class="row m-5 pl-5"  >
-        <div class="col-md-6 pb-3 pl-5" >
-            <div class="card" style="width: 25rem;">
+<div class="container-fluid justify-content-center  " >
+    <div class="row"  >
+        <div class="col-md-6 pb-4" >
+            <div class="card mx-auto d-block" style="width: 25rem;">
                 <img   src="https://i.ibb.co/DDLjysP/flores.jpg" width="385" height="300">
                 <div class="card-body">
                     <h5 class="card-title">La Flor</h5>
@@ -178,8 +178,8 @@
         </div>
 
 
-        <div class="col-md-4 justify-content-center pl-5">
-            <div class="card" style="width: 25rem;">
+        <div class="col-md-6 pb-4 justify-content-center ">
+            <div class="card mx-auto d-block" style="width: 25rem;">
                 <img  src="https://i.ibb.co/10Tg7Y2/un.jpg"   width="385" height="300">
                 <div class="card-body">
                     <h5 class="card-title">Fruto</h5>
@@ -192,10 +192,10 @@
     </div>
 </div>
 
-<div class="container-fluid justify-content-center  pl-5" >
-    <div class="row m-5 pl-5"  >
-        <div class="col-md-6 pb-3 pl-5" >
-            <div class="card" style="width: 25rem;">
+<div class="container-fluid justify-content-center" >
+    <div class="row"  >
+        <div class="col-md-6 pb-4" >
+            <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/gTkcg5m/bon.jpg"    class=" mx-auto d-block" width="385" height="300" >
                 <div class="card-body">
                     <h5 class="card-title">Hoja</h5>
@@ -204,8 +204,8 @@
             </div>
         </div>
 
-        <div class="col-md-4 justify-content-center pl-5">
-            <div class="card" style="width: 25rem;">
+        <div class="col-md-6 pb-4">
+            <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/RpdwNY6/cone.jpg"   width="385" height="300">
                 <div class="card-body">
                     <h5 class="card-title">Tallo</h5>
@@ -217,9 +217,9 @@
 
     </div>
 </div>
-<div class="container-fluid d-flex justify-content-center  pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-12 pb-3">
+<div class="container-fluid d-flex justify-content-center  " >
+    <div class="row" >
+        <div class="col-md-12 pb-4">
             <div class="card" style="width: 25rem;">
                 <img src="https://i.ibb.co/2PTfHgB/o.jpg"    class=" mx-auto d-block" width="380" height="300" >
                 <div class="card-body">

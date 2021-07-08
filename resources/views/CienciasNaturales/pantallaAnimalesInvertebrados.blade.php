@@ -142,7 +142,7 @@
         <div class="col-md-12" style="background: yellow">
             <div class="row ml-5 mr-5">
                 <div class="col-md-7  mt-5" style="background: #CCDDCC">
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/QFzthKr/05aa418c4249670739ebf93cb0608c4a-removebg-preview.png"    width="500"  >
+                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/QFzthKr/05aa418c4249670739ebf93cb0608c4a-removebg-preview.png"    width="300"  >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                     <h4 style="color: #3B5686">Ciencias Naturales</h4>
@@ -180,11 +180,11 @@
 </div>
 
 
-<div class="container-fluid d-flex justify-content-center p-5" >
+<div class="container-fluid d-flex justify-content-center pt-5 pb-4" >
     <div class="row" >
         <div class="col-md-12 ">
 
-            <img class="mx-auto db-block" src="https://www.retina21.com/media/2012/09/mariposas_animadas.gif" >
+            <img class="mx-auto db-block" src="https://www.retina21.com/media/2012/09/mariposas_animadas.gif" width="400" >
         </div>
     </div>
 </div>
@@ -234,30 +234,30 @@
 </div>
     <!-- tarjetas de los animales -->
 
-<div class="container-fluid  d-flex justify-content-center pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid pt-5" >
+    <div  class="row" >
+        <div class="col-md-4 pb-4">
 
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Abeja</h2>
-                <img src="https://i.ibb.co/TbPbYsD/3f5ce78f9d0cd5587cdebd8be6533247-removebg-preview.png"  height="180">
+                <img class="mx-auto d-block" src="https://i.ibb.co/TbPbYsD/3f5ce78f9d0cd5587cdebd8be6533247-removebg-preview.png"  height="180">
 
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
-            <div id="tar2" class="card" style="width: 18rem;">
+        <div class="col-md-4 pb-4 ">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Mariposa</h2>
-                <img src="https://i.ibb.co/Xkm0tRJ/dibujos-animados-mariposa-119631-99-removebg-preview.png"  height="180">
+                <img class="mx-auto d-block" src="https://i.ibb.co/Xkm0tRJ/dibujos-animados-mariposa-119631-99-removebg-preview.png"  height="180">
 
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div id="tar3" class="card" style="width: 18rem;">
+        <div class="col-md-4 pb-4">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Escarabajo</h2>
-                <img src="https://i.ibb.co/8zRF0TR/escarabajo-ciervo-dibujos-animados-33070-2355-removebg-preview.png" height="180">
+                <img class="mx-auto d-block" src="https://i.ibb.co/8zRF0TR/escarabajo-ciervo-dibujos-animados-33070-2355-removebg-preview.png" height="180">
 
             </div>
         </div>
@@ -268,30 +268,30 @@
 
 
 
-<div class="container-fluid  d-flex justify-content-center pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid" >
+    <div  class="row" >
+        <div class="col-md-4 pb-4">
 
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Mosquito</h2>
-                <img src="https://i.ibb.co/LnD0vHx/depositphotos-53337739-stock-illustration-angry-mosquito-cartoon-removebg-preview.png"   height="180">
+                <img class="mx-auto d-block" src="https://i.ibb.co/LnD0vHx/depositphotos-53337739-stock-illustration-angry-mosquito-cartoon-removebg-preview.png"   height="180">
 
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
-            <div id="tar2" class="card" style="width: 18rem;">
+        <div class="col-md-4 pb-4">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Hormiga</h2>
-                <img src="https://i.ibb.co/n8YxRLN/e39b0f222d1f2c0110a1420e2b7d8a14-removebg-preview.png"     height="180">
+                <img class="mx-auto d-block" src="https://i.ibb.co/n8YxRLN/e39b0f222d1f2c0110a1420e2b7d8a14-removebg-preview.png"     height="180">
 
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div id="tar3" class="card" style="width: 18rem;">
+        <div class="col-md-4 pb-4">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Mosca</h2>
-                <img src="https://i.ibb.co/1Tky0YM/png-clipart-trachoma-fly-blindness-eye-what-can-i-help-you-with-cartoon-fictional-character-removebg.png"   class="card-img-top" height="180">
+                <img src="https://i.ibb.co/1Tky0YM/png-clipart-trachoma-fly-blindness-eye-what-can-i-help-you-with-cartoon-fictional-character-removebg.png"   class="card-img-top " height="180">
 
 
             </div>
@@ -322,30 +322,30 @@
 
 
 
-        <div class="container-fluid  d-flex justify-content-center pl-5" >
-            <div  class="row m-5" >
-                <div class="col-md-4">
+        <div class="container-fluid pt-5" >
+            <div  class="row" >
+                <div class="col-md-4 pb-4">
 
                     <!-- tarjeta 1 -->
-                    <div id="tar1" class="card" style="width: 18rem;">
+                    <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                         <h2>Garrapata</h2>
-                        <img src="https://i.ibb.co/PjCGbhF/depositphotos-74794459-stock-photo-tick-insect-removebg-preview.png" height="180">
+                        <img class="mx-auto d-block" src="https://i.ibb.co/PjCGbhF/depositphotos-74794459-stock-photo-tick-insect-removebg-preview.png" height="160">
 
                     </div>
                 </div>
                 <!-- tarjeta 2 -->
-                <div class="col-md-4 ">
-                    <div id="tar2" class="card" style="width: 18rem;">
+                <div class="col-md-4 pb-4">
+                    <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                         <h2>Escorpión</h2>
-                        <img src="https://i.ibb.co/sQBG901/escorpion-dibujos-animados-aislado-29190-4770-removebg-preview.png"  height="180">
+                        <img class="mx-auto d-block" src="https://i.ibb.co/sQBG901/escorpion-dibujos-animados-aislado-29190-4770-removebg-preview.png"  height="160">
 
                     </div>
                 </div>
                 <!-- tarjetas3 -->
-                <div class="col-md-4">
-                    <div id="tar3" class="card" style="width: 18rem;">
+                <div class="col-md-4 pb-4">
+                    <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                         <h2>Araña</h2>
-                        <img src="https://i.ibb.co/R7NLdpb/f51e0647579d60a8b44920bac099d735-removebg-preview.png" height="180">
+                        <img class="mx-auto d-block" src="https://i.ibb.co/R7NLdpb/f51e0647579d60a8b44920bac099d735-removebg-preview.png" height="160">
 
                     </div>
                 </div>
@@ -371,19 +371,19 @@
         </div>
 
             <!-- tarjetas de los animales -->
-        <div class="container-fluid d-flex justify-content-center pl-5 pt-5 ">
+        <div class="container-fluid d-flex justify-content-center  pt-5 ">
                     <div class="row">
-                        <div class="col-md-6">
-                            <div id="tar1" class="card" style="width: 18rem;">
+                        <div class="col-md-6 pb-4">
+                            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                                 <h2>1000 pies</h2>
-                                <img src="https://i.ibb.co/m6N9Bkm/54954875-ilustraci-n-del-milpi-s-ciempi-s-ciempi-s-de-dibujos-animados-presentaci-n-aislada-de-insec.png" height="180">
+                                <img class="mx-auto d-block" src="https://i.ibb.co/m6N9Bkm/54954875-ilustraci-n-del-milpi-s-ciempi-s-ciempi-s-de-dibujos-animados-presentaci-n-aislada-de-insec.png" height="180">
 
                             </div>
                         </div>
-                        <div class="col-md-6">
-                            <div id="tar2" class="card" style="width: 18rem;">
+                        <div class="col-md-6 pb-4">
+                            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                                 <h2>100 pies</h2>
-                                <img src="https://i.ibb.co/ZV5CrdY/70147842-cute-ciempi-s-animal-vector-de-personaje-de-dibujos-animados-removebg-preview.png"  height="180">
+                                <img class="mx-auto d-block" src="https://i.ibb.co/ZV5CrdY/70147842-cute-ciempi-s-animal-vector-de-personaje-de-dibujos-animados-removebg-preview.png"  height="180">
 
                             </div>
                         </div>
@@ -410,30 +410,30 @@
 
 
 
-                    <div class="container-fluid  d-flex justify-content-center  pl-5" >
-                        <div  class="row m-5" >
-                            <div class="col-md-4">
+                    <div class="container-fluid pt-5" >
+                        <div  class="row" >
+                            <div class="col-md-4 pb-4">
 
                                 <!-- tarjeta 1 -->
-                                <div id="tar1" class="card" style="width: 18rem;">
+                                <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                                     <h2>Camaron</h2>
                                     <img src="https://i.ibb.co/0hJN2T2/camarones-dibujos-animados-lindo-29190-3514-removebg-preview.png" height="180">
 
                                 </div>
                             </div>
                             <!-- tarjeta 2 -->
-                            <div class="col-md-4 ">
-                                <div id="tar2" class="card" style="width: 18rem;">
+                            <div class="col-md-4 pb-4 ">
+                                <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                                     <h2>Langosta</h2>
-                                    <img src="https://i.ibb.co/Y4Sfxn3/3338-removebg-preview.png"   height="180">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/Y4Sfxn3/3338-removebg-preview.png"   height="180">
 
                                 </div>
                             </div>
                             <!-- tarjetas3 -->
-                            <div class="col-md-4">
-                                <div id="tar3" class="card" style="width: 18rem;">
+                            <div class="col-md-4 pb-4">
+                                <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                                     <h2>Cangrejo</h2>
-                                    <img src="https://i.ibb.co/NtcJN7M/dibujos-animados-cangrejo-119631-101-removebg-preview.png" height="180">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/NtcJN7M/dibujos-animados-cangrejo-119631-101-removebg-preview.png" height="180">
 
                                 </div>
                             </div>
@@ -457,29 +457,29 @@
                     </div>
 
 
-                    <div class="container-fluid  d-flex justify-content-center pl-5" >
-                        <div  class="row m-5" >
-                            <div class="col-md-4">
+                    <div class="container-fluid pt-5" >
+                        <div  class="row" >
+                            <div class="col-md-4 pb-4">
 
                                 <!-- tarjeta 1 -->
-                                <div id="tar1" class="card" style="width: 18rem;">
+                                <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                                     <h2>Pulpo</h2>
-                                    <img src="https://i.ibb.co/s6pMvFL/cute-dibujos-animados-pulpo-33070-3430-removebg-preview.png"  height="180">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/s6pMvFL/cute-dibujos-animados-pulpo-33070-3430-removebg-preview.png"  height="180">
 
                                 </div>
                             </div>
                             <!-- tarjeta 2 -->
-                            <div class="col-md-4 ">
-                                <div id="tar2" class="card" style="width: 18rem;">
+                            <div class="col-md-4 pb-4 ">
+                                <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                                     <h2>Calamar</h2>
-                                    <img src="https://i.ibb.co/g388pKR/dibujos-animados-calamar-22350-414-removebg-preview.png" height="180">
+                                    <img  class="mx-auto d-block" src="https://i.ibb.co/g388pKR/dibujos-animados-calamar-22350-414-removebg-preview.png" height="180">
                                 </div>
                             </div>
                             <!-- tarjetas3 -->
-                            <div class="col-md-4">
-                                <div id="tar3" class="card" style="width: 18rem;">
+                            <div class="col-md-4 pb-4">
+                                <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                                     <h2>Babosa</h2>
-                                    <img src="https://i.ibb.co/SQv1mSp/25726188-slug-removebg-preview.png" height="180">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/SQv1mSp/25726188-slug-removebg-preview.png" height="180">
 
                                 </div>
                             </div>
@@ -487,30 +487,30 @@
                         </div>
                     </div>
 
-                    <div class="container-fluid  d-flex justify-content-center  pl-5" >
-                        <div  class="row m-5" >
-                            <div class="col-md-4">
+                    <div class="container-fluid " >
+                        <div  class="row" >
+                            <div class="col-md-4 pb-4">
 
                                 <!-- tarjeta 1 -->
-                                <div id="tar1" class="card" style="width: 18rem;">
+                                <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                                     <h2>Caracol</h2>
-                                    <img src="https://i.ibb.co/WgmFgdg/caracol-dibujos-animados-lindo-160606-321-removebg-preview.png"  height="180">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/WgmFgdg/caracol-dibujos-animados-lindo-160606-321-removebg-preview.png"  height="180">
 
                                 </div>
                             </div>
                             <!-- tarjeta 2 -->
-                            <div class="col-md-4 ">
-                                <div id="tar2" class="card" style="width: 18rem;">
+                            <div class="col-md-4 pb-4">
+                                <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                                     <h2>Almeja</h2>
-                                    <img src="https://i.ibb.co/W31WZvt/76151747-mejillones-en-c-scara-ilustraci-n-aislada-de-mariscos-sobre-fondo-blanco-removebg-preview.png"  height="180">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/W31WZvt/76151747-mejillones-en-c-scara-ilustraci-n-aislada-de-mariscos-sobre-fondo-blanco-removebg-preview.png"  height="180">
 
                                 </div>
                             </div>
                             <!-- tarjetas3 -->
-                            <div class="col-md-4">
-                                <div id="tar3" class="card" style="width: 18rem;">
+                            <div class="col-md-4 pb-4">
+                                <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                                     <h2>Ostra</h2>
-                                    <img src="https://i.ibb.co/HPP7NRW/274-2741355-full-resolution-ostra-de-mar-animado-png-removebg-preview.png" height="180">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/HPP7NRW/274-2741355-full-resolution-ostra-de-mar-animado-png-removebg-preview.png" height="180">
 
                                 </div>
                             </div>
@@ -533,20 +533,20 @@
                         </div>
                     </div>
 
-                        <div class="container-fluid  d-flex justify-content-center pb-5 pt-5">
+                        <div class="container-fluid pt-5">
                             <div class="row">
-                                <div class="col-md-6">
-                                    <div id="tar1" class="card" style="width: 18rem;">
+                                <div class="col-md-6 pb-4">
+                                    <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                                         <h2>Estrella de mar</h2>
-                                        <img src="https://i.ibb.co/MhDvgkK/dibujos-animados-estrellas-mar-119631-114-removebg-preview.png"   height="180">
+                                        <img class="mx-auto d-block" src="https://i.ibb.co/MhDvgkK/dibujos-animados-estrellas-mar-119631-114-removebg-preview.png"   height="180">
 
                                     </div>
                                 </div>
-                                <div class="col-md-6">
-                                    <div id="tar2" class="card" style="width: 18rem;">
+                                <div class="col-md-6 pb-4">
+                                    <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
 
                                         <h2>Erizo de mar</h2>
-                                        <img src="https://i.ibb.co/gDyprXM/dibujos-animados-erizo-119631-33-removebg-preview.png" height="180">
+                                        <img class="mx-auto d-block" src="https://i.ibb.co/gDyprXM/dibujos-animados-erizo-119631-33-removebg-preview.png" height="180">
 
                                     </div>
                                 </div>
@@ -578,30 +578,30 @@
                         </div>
 
 
-            <div class="container-fluid  d-flex justify-content-center pl-5" >
-                            <div  class="row m-5" >
-                                <div class="col-md-4">
+            <div class="container-fluid pt-5" >
+                            <div  class="row " >
+                                <div class="col-md-4 pb-4">
 
                                     <!-- tarjeta 1 -->
-                                    <div id="tar1" class="card" style="width: 18rem;">
+                                    <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                                         <h2>Tenia (solitaria).</h2>
-                                        <img src="https://i.ibb.co/V2qBm3f/66857749-2d-ilustraci-n-de-dibujos-animados-de-la-tenia-removebg-preview.png"  height="180">
+                                        <img class="mx-auto d-block" src="https://i.ibb.co/V2qBm3f/66857749-2d-ilustraci-n-de-dibujos-animados-de-la-tenia-removebg-preview.png"  height="180">
 
                                     </div>
                                 </div>
                                 <!-- tarjeta 2 -->
-                                <div class="col-md-4 ">
-                                    <div id="tar2" class="card" style="width: 18rem;">
+                                <div class="col-md-4 pb-4 ">
+                                    <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                                         <h2>Sanguijuela.</h2>
-                                        <img src="https://i.ibb.co/9nqwR05/16533204-dibujos-animados-sanguijuela-removebg-preview.png" height="180">
+                                        <img class="mx-auto d-block" src="https://i.ibb.co/9nqwR05/16533204-dibujos-animados-sanguijuela-removebg-preview.png" height="180">
 
                                     </div>
                                 </div>
                                 <!-- tarjetas3 -->
-                                <div class="col-md-4">
-                                    <div id="tar3" class="card" style="width: 18rem;">
+                                <div class="col-md-4 pb-4">
+                                    <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                                         <h2>Lombriz</h2>
-                                        <img src="https://i.ibb.co/4dgTs4h/png-clipart-cartoon-earthworm-cartoon-earthworm-thumbnail-removebg-preview.png" height="180">
+                                        <img class="mx-auto d-block" src="https://i.ibb.co/4dgTs4h/png-clipart-cartoon-earthworm-cartoon-earthworm-thumbnail-removebg-preview.png" height="180">
 
                                     </div>
                                 </div>
@@ -627,30 +627,30 @@
 
 
 
-                        <div class="container-fluid  d-flex justify-content-center pl-5" >
-                            <div  class="row m-5" >
-                                <div class="col-md-4">
+                        <div class="container-fluid pt-5 " >
+                            <div  class="row " >
+                                <div class="col-md-4 pb-4">
 
                                     <!-- tarjeta 1 -->
-                                    <div id="tar1" class="card" style="width: 18rem;">
+                                    <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                                         <h2>Coral</h2>
-                                        <img src="https://i.ibb.co/1dZRqSz/depositphotos-138676666-stock-illustration-different-colors-of-coral-reef-removebg-preview.png"  height="180">
+                                        <img class="mx-auto d-block" src="https://i.ibb.co/QrFCtht/jellyfish-shrimp-life-coral-reef-cartoon-under-the-sea-vector-removebg-preview.png"  height="180">
 
                                     </div>
                                 </div>
                                 <!-- tarjeta 2 -->
-                                <div class="col-md-4 ">
-                                    <div id="tar2" class="card" style="width: 18rem;">
+                                <div class="col-md-4 pb-4 ">
+                                    <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                                         <h2>Anemona</h2>
-                                        <img src="https://i.ibb.co/nPMwnth/an-mona-de-mar-anaranjada-18233426-removebg-preview.png" height="180">
+                                        <img class="mx-auto d-block" src="https://i.ibb.co/nPMwnth/an-mona-de-mar-anaranjada-18233426-removebg-preview.png" height="180">
 
                                     </div>
                                 </div>
                                 <!-- tarjetas3 -->
-                                <div class="col-md-4">
-                                    <div id="tar3" class="card" style="width: 18rem;">
+                                <div class="col-md-4 pb-4">
+                                    <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                                         <h2>Medusa</h2>
-                                        <img src="https://i.ibb.co/5M54XQr/d9d60cb38388b44d033c01373c9bee75-removebg-preview.png" height="180">
+                                        <img class="mx-auto d-block" src="https://i.ibb.co/5M54XQr/d9d60cb38388b44d033c01373c9bee75-removebg-preview.png" height="180">
 
                                     </div>
                                 </div>
@@ -677,13 +677,13 @@
                         </div>
 
 
-                        <div class="container-fluid  d-flex justify-content-center pl-5" >
-                            <div  class="row m-5" >
-                                <div class="col-md-12">
+                        <div class="container-fluid pt-5" >
+                            <div  class="row " >
+                                <div class="col-md-12 pb-4">
                                     <!-- tarjeta 1 -->
-                                    <div id="tar1" class="card" style="width: 18rem;">
+                                    <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                                         <h2>Esponja Tubular</h2>
-                                        <img src="https://i.pinimg.com/originals/15/6a/c9/156ac957edcb29fc3e649afaafa2aed1.jpg"  height="180">
+                                        <img class="mx-auto d-block" src="https://i.pinimg.com/originals/15/6a/c9/156ac957edcb29fc3e649afaafa2aed1.jpg"  height="180">
 
                                     </div>
                                 </div>

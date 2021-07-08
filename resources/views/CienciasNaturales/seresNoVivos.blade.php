@@ -83,6 +83,7 @@
         }
         h3{
             font-style:italic;
+            text-align: center;
 
 
         }
@@ -160,7 +161,7 @@
 </div>
 
 <div class="container-fluid d-flex justify-content-center  " >
-    <div class="row p-5 ">
+    <div class="row p-4 ">
         <div class="col-md-12  " id="bor" style="background: yellow">
 
             <h3>Objetos no vivos naturales:
@@ -169,72 +170,49 @@
     </div>
 </div>
 
-<div class="container-fluid   pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-3">
 
-            <div id="tar1" class="card" style="width: 18rem;">
+
+<div class="container-fluid " >
+    <div  class="row" >
+
+        <div class="col-md-3 pb-4">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>El Agua</h2>
 
             </div>
-        </div>
-
-        <div class="col-md-3 ">
-            <div id="tar2" class="card" style="width: 18rem;">
-                <h2>La Tierra</h2>
-
-
-            </div>
-        </div>
-
-        <div class="col-md-3">
-            <div id="tar3" class="card" style="width: 18rem;">
-                <h2>El Aire</h2>
-
-
-            </div>
-        </div>
-
-        <div class="col-md-3">
-            <div id="tar3" class="card" style="width: 18rem;">
-                <h2>Las Rocas</h2>
-
-
-            </div>
-        </div>
-
-
-    </div>
-</div>
-
-<div class="container-fluid   pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-3">
-
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/dtRyLjv/r.jpg"   width="275" height="200">
 
             </div>
         </div>
 
-        <div class="col-md-3">
+        <div class="col-md-3 pb-4">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
+                <h2>La Tierra</h2>
 
-            <div id="tar1" class="card" style="width: 18rem;">
+            </div>
+                <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/JzJJpgB/orig.jpg"   width="275" height="200">
 
             </div>
         </div>
 
-        <div class="col-md-3 ">
-            <div id="tar2" class="card" style="width: 18rem;">
+
+        <div class="col-md-3 pb-4">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
+                <h2>El Aire</h2>
+            </div>
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/3SJCpJw/h.jpg"   width="275" height="200">
 
 
             </div>
         </div>
 
-        <div class="col-md-3">
-            <div id="tar3" class="card" style="width: 18rem;">
+        <div class="col-md-3 pb-4">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
+                <h2>Las Rocas</h2>
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/34GdL1v/unn.jpg"  width="275" height="200">
 
             </div>
@@ -243,8 +221,8 @@
     </div>
 </div>
 
-<div class="container-fluid d-flex justify-content-center  " >
-    <div class="row p-5 ">
+<div class="container-fluid d-flex justify-content-center  pb-4" >
+    <div class="row  ">
         <div class="col-md-12  " id="bor" style="background: yellow">
 
             <h3> Objetos no Vivos Artificiales:
@@ -253,61 +231,39 @@
     </div>
 </div>
 
-<div class="container-fluid   pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-3">
 
-            <div id="tar1" class="card" style="width: 18rem;">
+<div class="container-fluid  " >
+    <div  class="row" >
+        <div class="col-md-3 pb-4">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Casa</h2>
 
             </div>
-        </div>
-
-        <div class="col-md-3 ">
-            <div id="tar2" class="card" style="width: 18rem;">
-                <h2>Puente</h2>
-
-
-            </div>
-        </div>
-
-        <div class="col-md-3 ">
-            <div id="tar2" class="card" style="width: 18rem;">
-                <h2>Ropa</h2>
-
-
-            </div>
-        </div>
-        <div class="col-md-3 ">
-            <div id="tar2" class="card" style="width: 18rem;">
-                <h2>Carretera</h2>
-
-
-            </div>
-        </div>
-
-    </div>
-</div>
-
-<div class="container-fluid   pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-3">
-
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/TbDNQsd/cas1.jpg"   width="275" height="200">
 
             </div>
         </div>
 
-        <div class="col-md-3 ">
-            <div id="tar2" class="card" style="width: 18rem;">
+        <div class="col-md-3 pb-4 ">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
+                <h2>Puente</h2>
+
+
+            </div>
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/61MWJx2/l20.jpg"    width="275" height="200">
 
 
             </div>
         </div>
-        <div class="col-md-3 ">
-            <div id="tar2" class="card" style="width: 18rem;">
+        <div class="col-md-3 pb-4">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
+                <h2>Ropa</h2>
+
+
+            </div>
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/Zz8bwnQ/ropa.jpg"    width="275" height="200">
 
 
@@ -315,8 +271,13 @@
         </div>
 
 
-        <div class="col-md-3">
-            <div id="tar3" class="card" style="width: 18rem;">
+        <div class="col-md-3 pb-4">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
+                <h2>Carretera</h2>
+
+
+            </div>
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/DW6rdY3/road.jpg"   width="275" height="200">
 
             </div>

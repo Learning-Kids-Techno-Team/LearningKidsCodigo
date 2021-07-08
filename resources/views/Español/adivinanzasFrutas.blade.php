@@ -122,7 +122,7 @@
         document.getElementById("demo6").innerHTML = "<h4>Los Ajos</h4>"
     }
     function resu7() {
-        document.getElementById("demo7").innerHTML = "<h4>La Sandia</h4>"
+        document.getElementById("demo7").innerHTML = "<h4>La Sandía</h4>"
     }
     function resu8() {
         document.getElementById("demo8").innerHTML = "<h4>La Manzana</h4>"

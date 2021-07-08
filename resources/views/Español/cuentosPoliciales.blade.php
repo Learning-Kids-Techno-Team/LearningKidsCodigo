@@ -227,7 +227,7 @@
             <div class="card mx-auto d-block" style="width: 30rem">
                 <img src="https://i.ibb.co/rshx7tK/dormilo.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
-                    <h5 class="card-title; text-center" id="color">El Policia Dormilon</h5>
+                    <h5 class="card-title; text-center" id="color">El Policía Dormilón</h5>
                     <p class="card-text">Había una vez un policía al que le gustaba mucho dormir.
                         Por eso se quedaba dormido en cualquier parte.
                         Lo mismo le daba dormir sobre la mesa de su oficina en la comisaría que en el coche patrulla mientras estaba estacionado vigilando. <br>

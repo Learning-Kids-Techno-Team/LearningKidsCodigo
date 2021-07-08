@@ -111,7 +111,7 @@
         document.getElementById("demo2").innerHTML = "<h4>El Carro</h4>"
     }
     function resu3() {
-        document.getElementById("demo3").innerHTML = "<h4>El El Avión</h4>"
+        document.getElementById("demo3").innerHTML = "<h4>El Avión</h4>"
     }
     function resu4() {
         document.getElementById("demo4").innerHTML = "<h4>El Helicóptero</h4>"
@@ -185,7 +185,7 @@
                     <h5 class="card-title"></h5>
                     <p class="card-text">2- Llevo a la familia y a su equipaje. Paso todas las noches en el garaje. ¿Quién soy?</p>
                     <br>
-                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer2.mp3" controls >
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/tra2.mp3" controls >
                     </audio>
                     <h6 id="demo2"></h6>
                     <button class="btn" onclick="resu2()">Respuesta</button>
@@ -199,7 +199,7 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">3- Soy pájaro sin nido con las alas de metal, las ruedas tengo de goma y los ojitos de cristal. ¿Quién soy?</p>
-                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer3.mp3" controls >
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/tra3.mp3" controls >
                     </audio>
                     <h6 id="demo3"></h6>
                     <button class="btn" onclick="resu3()">Respuesta</button>
@@ -221,7 +221,7 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">4- Encima de la cabeza gira mi gran abanico y en la punta de la cola gira otro pequeñito. ¿Quién soy?</p>
-                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer4.mp3" controls >
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/tra4.mp3" controls >
                     </audio>
                     <h6 id="demo4"></h6>
                     <button class="btn" onclick="resu4()">Respuesta</button>
@@ -236,7 +236,7 @@
                     <h5 class="card-title"></h5>
                     <p class="card-text">5- Tengo seis ruedas y a veces más. Llevo la carga donde deba llegar. ¿Quién soy?</p>
                    <br>
-                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer5.mp3" controls >
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/tra5.mp3" controls >
                     </audio>
                     <h6 id="demo5"></h6>
                     <button class="btn" onclick="resu5()">Respuesta</button>
@@ -250,7 +250,7 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">6- Camino sobre las olas y tengo vestidos blancos. Si el viento me empuja fuerte mucho más rápido ando. ¿Quién soy?</p>
-                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer6.mp3" controls >
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/tra6.mp3" controls >
                     </audio>
                     <h6 id="demo6"></h6>
                     <button class="btn" onclick="resu6()">Respuesta</button>
@@ -272,7 +272,7 @@
                     <h5 class="card-title"></h5>
                     <p class="card-text">7- Si por el mar quieres viajar, ¿dónde te vas a montar? ¿Quién soy?</p>
                     <br><br>
-                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer7.mp3" controls >
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/tra7.mp3" controls >
                     </audio>
                     <h6 id="demo7"></h6>
                     <button class="btn" onclick="resu7()">Respuesta</button>
@@ -286,7 +286,7 @@
                 <div class="card-body">
                     <h5 class="card-title"></h5>
                     <p class="card-text">8- Mi misión es transportar y en la parada debo parar. Vengo de muchos colores, pero si te llevo a la escuela, mi color es amarillo. ¿Quién soy?</p>
-                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer8.mp3" controls >
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/tra8.mp3" controls >
                     </audio>
                     <h6 id="demo8"></h6>
                     <button class="btn" onclick="resu8()">Respuesta</button>
@@ -301,7 +301,7 @@
                     <h5 class="card-title"></h5>
                     <p class="card-text">9- Vehículo soy, hago muchísimo ruido, pero sólo dos viajan conmigo. ¿Quién soy?</p>
                    <br><br>
-                    <audio  id="player" src="AudiosEspañol/Adivinanzas/Nmer9.mp3" controls >
+                    <audio  id="player" src="AudiosEspañol/Adivinanzas/tra9.mp3" controls >
                     </audio>
                     <h6 id="demo9"></h6>
                     <button class="btn" onclick="resu9()">Respuesta</button>

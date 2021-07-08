@@ -102,11 +102,23 @@
 
 </head>
 <body >
+<script>
+
+
+
+
+
+
+        alert("Hola ¡Binevnido(a) las actividades, en la parte inferior de la pantalla se mostrara un mensaje ¿deseas continuar por donde dejaste el juego? tendras dos opciones SI Y NO")
+
+
+
+
+</script>
 @section('content')
 
 
-
-<div class="container-fluid">
+    <div class="container-fluid">
     <div class="row">
         <div class="col-m-12">
             <div>
@@ -128,8 +140,6 @@
 
     </div>
 </div>
-
-
 
 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
