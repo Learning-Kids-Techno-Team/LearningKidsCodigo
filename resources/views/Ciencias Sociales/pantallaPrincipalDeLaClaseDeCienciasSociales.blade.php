@@ -132,12 +132,12 @@
     </div>
     <!-- titulo de las categorias-->
     <div style="color: #B8DA97;">
-        <h1>Categorias de la clase de Ciencias Sociales</h1>
+        <h1>Categorías de la clase de Ciencias Sociales</h1>
     </div>
 
     <!-- botones-->
     <div class="container-fluid" style="background: #B8DA97">
-        <div class="row  pb-5">
+        <div class="row  p-5">
             <div class="col-md-12">
                 <a href=" {{ url('/familia')}}">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/bmXKXbm/familia-removebg-preview-1.png" class="rounded-circle mx-auto d-block bg-info" width="150"><h3>La Familia</h3>

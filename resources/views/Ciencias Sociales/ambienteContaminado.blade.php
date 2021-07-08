@@ -79,9 +79,9 @@
             <img class="mx-auto d-block" src="https://i.ibb.co/3sgdbRQ/original-removebg-preview.png" width="400" />
 
         </div>
-        <div class="col-md-8">
+        <div class="col-md-8" style="text-align: justify;">
             <h2 id="color"><em><br>¡El Medio Ambiente!</em></h2>
-            <h3 id="color"><em><br>Ambiente Contaminado</em></h3>
+            <h3 id="color" style="text-align: center "><em><br>Ambiente Contaminado</em></h3>
             <p id="color"><em><strong>Contaminación ambiental a la presencia de componentes nocivos
                         (ya sean químicos, físicos o biológicos) en el medio ambiente (entorno natural y artificial),
                         que supongan un perjuicio para los seres vivos que lo habitan, incluyendo a los seres humanos
@@ -97,10 +97,13 @@
 <!-- contenedor ambient-->
 <div class="container-fluid center-block pl-5">
     <div class="row" >
-        <div class="col-md-4">
-            <h2 class="text-center" id="color"><strong><em><br>La contaminación es la presencia o acumulación de sustancias
+        <div class="col-md-4" >
+            <h2 id="color" style="text-align: justify">
+                <strong><em><br>
+                        La contaminación es la presencia o acumulación de sustancias
                         en el medio ambiente que afectan negativamente el entorno y las condiciones de vida,
-                        así como la salud o la higiene de los seres vivos.</em></strong></h2>
+                        así como la salud o la higiene de los seres vivos.
+                    </em></strong></h2>
         </div>
         <div class="col-md-8">
             <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/ZSYk69d/cote.jpg"  width="700" height="450"/>
@@ -111,9 +114,9 @@
 <!-- contenedor text-->
 <div class="container-fluid  center-block pl-5" id="color"><h2><em><br></em></h2>
     <div class="card">
-        <div class="row m-5" >
+        <div class="row m-5" style="text-align: justify" >
             <div class="col-md-12">
-                <h2 class="text-center" id="color"><strong><em>Si nosotros echamos basura en las calles, esa basura es arrastrada
+                <h2 id="color"><strong><em>Si nosotros echamos basura en las calles, esa basura es arrastrada
                         por las corrientes y obstruyen los tragantes; entonces, el agua corre por las calles y se
                         producen inundaciones.</em></strong></h2>
             </div>

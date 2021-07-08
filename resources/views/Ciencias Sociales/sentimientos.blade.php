@@ -58,7 +58,7 @@
         }
 
         #color{
-            color: tomato;
+            color: black;
 
         }
 
@@ -89,8 +89,8 @@
                 <div class="col-xl-6  mt-5"
                      style=" background: #B4F97B" id="borde">
 
-                    <h3 class="mt-5" style="text-align: center; color: tomato">Los Sentimientos</h3>
-                    <p class="" id="pa">
+                    <h3 class="mt-5" style="text-align: center; color: black">Los Sentimientos</h3>
+                    <p class="" id="pa" style="text-align: justify">
                         <strong><br><br>
                             Las personas a lo largo de nuestra vida experimentamos infinitos sentimientos,
                             que tienden a manifestarse en las polaridades de sentimientos positivos o

@@ -132,7 +132,7 @@
 
         }
         function resu5(){
-            document.getElementById("demo5").innerHTML="<h4> <strong>70 centavos</h4>"
+            document.getElementById("demo5").innerHTML="<h4> <strong> 70 centavos</h4>"
 
         }
         function resu6(){
@@ -352,12 +352,9 @@
                 <div class="card-body">
                     <h6 id="demo3"></h6>
                     <button  class="btn btn-danger" onclick="resu3()">Resultado</button>
-
-
                 </div>
             </div>
         </div>
-
     </div>
 </div>
 
@@ -373,9 +370,7 @@
                 <img src="https://i.ibb.co/3NS5Wzd/Captura-de-pantalla-413.png"    class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo4"></h6>
-                    <button class="btn btn-danger" onclick="resu4()">Resultado</button>
-
-
+                    <button class="btn btn-danger" onclick="resu4()"<br>Resultado</button>
                 </div>
             </div>
         </div>

@@ -25,11 +25,16 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 13 Luz Bonilla">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
+    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 15 Luz Bonilla">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/Rondas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/Rondas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/monedas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/monedas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambienteContaminado.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/ambienteContaminado.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/cicloAgua.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/cicloAgua.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/derechosYDeberes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/derechosYDeberes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/familia.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/familia.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/sentimientos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/sentimientos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaBilletes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaBilletes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaMonedas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaMonedas.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,14 +234,7 @@
       <workItem from="1619300353989" duration="965000" />
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
-      <workItem from="1625767340468" duration="4161000" />
-    </task>
-    <task id="LOCAL-00012" summary="Sprint2 Sindy">
-      <created>1603534953720</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1603534953720</updated>
+      <workItem from="1625767340468" duration="12572000" />
     </task>
     <task id="LOCAL-00013" summary="Sindy G. Sprint1">
       <created>1603535608588</created>
@@ -574,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625021313890</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Sprint 15 Luz Bonilla">
+      <created>1625771945770</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1625771946105</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -615,7 +620,8 @@
     <MESSAGE value="Sprint 10 Hector Lopez" />
     <MESSAGE value="Sprint 11 Luz Bonilla" />
     <MESSAGE value="Sprint 13 Luz Bonilla" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 13 Luz Bonilla" />
+    <MESSAGE value="Sprint 15 Luz Bonilla" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Luz Bonilla" />
   </component>
   <component name="WindowStateProjectService">
     <state x="313" y="117" key="MultipleFileMergeDialog" timestamp="1625767413982">
@@ -626,14 +632,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="283" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1618974942310" />
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1619231390779">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1625772025695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1619231390779" />
-    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625771286086">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1625772025695" />
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625781490558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1625771286086" />
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1625781490558" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

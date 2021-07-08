@@ -62,6 +62,7 @@
         }
         h3{
             font-style:italic;
+            color:#3B5686
 
 
         }
@@ -159,7 +160,7 @@
     <div  class="container-fluid">
         <div class="row">
             <div class="col-md-12  mb-5" style="background: #B4F97B">
-                <h1 style="text-align: center">Tipos de familias</h1>
+                <h3 style="text-align: center">Tipos de familias</h3>
             </div>
         </div>
     </div>

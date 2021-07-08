@@ -142,7 +142,7 @@
 
                     <h3 class="mt-5" style="text-align: center; color: magenta">Ciclo del agua</h3>
                     <p class="" id="pa">
-                        <strong><br><br>El ciclo del agua describe la presencia y el movimiento del agua en la Tierra y sobre ella. El agua de la Tierra esta siempre en movimiento y constantemente cambiando de estado, desde líquido, a vapor, a hielo, y viceversa. El ciclo del agua ha estado ocurriendo por billones de años, y la vida sobre la Tierra depende de él; la Tierra sería un sitio inhóspito si el ciclo del agua no tuviese lugar.
+                        <strong><br>El ciclo del agua describe la presencia y el movimiento del agua en la Tierra y sobre ella. El agua de la Tierra esta siempre en movimiento y constantemente cambiando de estado, desde líquido, a vapor, a hielo, y viceversa. El ciclo del agua ha estado ocurriendo por billones de años, y la vida sobre la Tierra depende de él; la Tierra sería un sitio inhóspito si el ciclo del agua no tuviese lugar.
 
                         </strong>
                     </p>

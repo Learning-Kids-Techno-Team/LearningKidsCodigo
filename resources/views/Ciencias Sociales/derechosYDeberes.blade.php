@@ -82,7 +82,7 @@
                 <img src="https://i.ibb.co/yF8rLXw/prof-removebg-preview.png" width="350" height="250"/>
             </div>
             <div class="col-md-8">
-                <h2 class="text-center" id="color"><br><em>Todas y todos tenemos derechos, pero los niños y las niñas tienen derechos
+                <h2 class="text-justify" id="color"><br><em>Todas y todos tenemos derechos, pero los niños y las niñas tienen derechos
                         especiales. Sus derechos son muchos, y han sido agrupados así: <strong><em>supervivencia, desarrollo,
                             protección y participación.</em></strong></em></h2><br>
             </div>

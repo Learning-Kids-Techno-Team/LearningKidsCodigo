@@ -208,7 +208,7 @@
                 <h2>1 Lempira</h2>
 
                 <img  src="https://i.ibb.co/wrL9ynM/billete-1-lempira-honduras-D-NQ-NP-740341-MLM27600813056-062018-F-removebg-preview.png"    height="400" >
-                <h5><em>En su parte de enfrente lleva la cara de El Cacique lempira, Y su reverso una foto de Copan ruinas</em></h5>
+                <h5><em>En su parte de enfrente lleva la cara de El Cacique lempira, Y su reverso una foto de Copán ruinas</em></h5>
             </div>
         </div>
         <div class="col-md-6">
@@ -255,7 +255,7 @@
             <div class="card" style="width: 30rem;">
                 <h2>20 lempiras</h2>
                 <img   src="https://i.ibb.co/N3pYM22/20-lempiras-own.jpg"       height="400" >
-                <h5><em>En su parte de enfrente lleva la cara de Dionisio de Herrera, Y su reverso una foto de La Casa Presidencial.
+                <h5><em><br>En su parte de enfrente lleva la cara de Dionisio de Herrera, Y su reverso una foto de La Casa Presidencial.
 
                     </em></h5>
             </div>
@@ -285,7 +285,7 @@
             <div class="card" style="width: 30rem;">
                 <h2>500 lempiras</h2>
                 <img   src="https://i.ibb.co/qYJBrCR/500-lempiras-own.jpg"    height="400">
-                <h5><em>En su parte de enfrente lleva la cara de Ramón Rosa, Y su reverso una foto de las Minas de San Juancito.</em></h5>
+                <h5><em><br>En su parte de enfrente lleva la cara de Ramón Rosa, Y su reverso una foto de las Minas de San Juancito.</em></h5>
             </div>
         </div>
     </div>
