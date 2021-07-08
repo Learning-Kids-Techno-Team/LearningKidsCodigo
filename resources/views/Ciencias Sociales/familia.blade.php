@@ -34,7 +34,6 @@
 
         }
 
-
         p{
             text-align: justify;
             font-family: bold, Georgia;

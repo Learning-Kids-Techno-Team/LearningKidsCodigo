@@ -74,6 +74,7 @@
 <!-- navbar-->
 @section('content')
 
+
 <!-- contenedor text-->
 <div class="container-fluid center-block pl-5" id="color"><br><br><br><h2 class="text-center"><strong><em>DERECHOS Y DEBERES DE LOS NIÑOS Y NIÑAS.</em></strong></h2><br><br><br>
     <div class="card">

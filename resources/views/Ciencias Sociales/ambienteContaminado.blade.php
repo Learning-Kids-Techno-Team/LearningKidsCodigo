@@ -76,6 +76,7 @@
 <div class="container-fluid" id="color">
     <div class="row">
         <div class="col-md-4"><br>
+
             <img class="mx-auto d-block" src="https://i.ibb.co/3sgdbRQ/original-removebg-preview.png" width="400" />
 
         </div>
