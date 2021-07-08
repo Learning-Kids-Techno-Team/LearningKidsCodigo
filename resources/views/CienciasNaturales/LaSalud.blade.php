@@ -156,7 +156,7 @@
     <div class="row " >
 
         <div class="col-xl-4 pb-4">
-            <div class="card mx-auto d-block" style="width: 21rem;">
+            <div  class="card mx-auto d-block" style="width: 21rem;">
 
                 <img id="im" src="https://i.ibb.co/RBx52LQ/hb1-removebg-preview-1.png" width="300" height="230" class="mx-auto d-block" >
                 <div class="card-body">

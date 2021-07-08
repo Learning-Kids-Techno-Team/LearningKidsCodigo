@@ -110,7 +110,7 @@
     <div class="row">
         <div class="col-xl-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/VQP4vNb/nublad-removebg-preview.png" width="260" height="200"/>
-            <h5  align="center">Nublado</h5>
+            <h5   align="center">Nublado</h5>
         </div>
         <div class="col-xl-4"><br>
             <img class="mx-auto d-block " src="https://i.ibb.co/HTSsmc6/dibujos-de-soles-removebg-preview.png" width="260" height="200"/>

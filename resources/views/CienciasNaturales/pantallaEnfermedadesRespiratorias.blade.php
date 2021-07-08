@@ -141,7 +141,7 @@
                     <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/mF1cv9n/chico-divertidos-dibujos-animados-mascara-medica-proteccion-enfermedades-respiratorias-icono-diseno.png"   width="300"  >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
-                    <h4  class="mt-5" style="color: #3B5686">Ciencias Naturales</h4>
+                     <h4  class="mt-5" style="color: #3B5686">Ciencias Naturales</h4>
                     <h3 class="mt-5" style="text-align: center">Enfermedades Respiratorias</h3>
                     <p class="" id="pa">
                         <em>Las enfermedades respiratorias afectan a las vías respiratorias, incluidas las vías nasales, los bronquios y los pulmones. Incluyen desde infecciones agudas cómo la neumonía y la bronquitis a enfermedades crónicas cómo el asma y la enfermedad pulmonar obstructiva crónica.</em><br>

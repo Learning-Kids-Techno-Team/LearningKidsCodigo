@@ -546,7 +546,7 @@
                                     <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
 
                                         <h2>Erizo de mar</h2>
-                                        <img class="mx-auto d-block" src="https://i.ibb.co/gDyprXM/dibujos-animados-erizo-119631-33-removebg-preview.png" height="180">
+                                         <img class="mx-auto d-block" src="https://i.ibb.co/gDyprXM/dibujos-animados-erizo-119631-33-removebg-preview.png" height="180">
 
                                     </div>
                                 </div>

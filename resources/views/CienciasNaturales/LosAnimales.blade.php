@@ -83,7 +83,7 @@
         }
 
         #dif {
-            background: #FDFD96;
+             background: #FDFD96;
         }
 
         #im {

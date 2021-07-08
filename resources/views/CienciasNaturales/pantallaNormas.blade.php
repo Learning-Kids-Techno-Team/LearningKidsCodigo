@@ -140,7 +140,7 @@
                     <h4  class="mt-5" style="color: #3B5686">Ciencias Naturales</h4>
                     <h3 class="mt-5" style="text-align: center">Normas de Higiene</h3>
                     <p class="" id="pa">
-                        <em>Las actividades relacionadas con la higiene y cuidados del cuerpo durante la niñez permiten que se conviertan en hábitos que de adultos debemos realizar, por eso es necesario que conozcas tu cuerpo, sus funciones, y la rutina que debes mantener para tener un buen estado de salud.</em><br>
+                         <em>Las actividades relacionadas con la higiene y cuidados del cuerpo durante la niñez permiten que se conviertan en hábitos que de adultos debemos realizar, por eso es necesario que conozcas tu cuerpo, sus funciones, y la rutina que debes mantener para tener un buen estado de salud.</em><br>
                       <br>  <em>La higiene de la piel, las axilas, pies y genitales es indispensable para tu salud personal, por lo que se deben conocer y practicar normas de higiene personal en el hogar, la escuela y la comunidad. La falta de estas medidas puede causar enfermedades. Los hongos y otros microorganismos que invaden la piel se alojan principalmente en las axilas, las ingles, entre los muslos y otras zonas del cuerpo donde hay humedad. </em>
                     </p>
                 </div>
