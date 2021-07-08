@@ -131,9 +131,9 @@
 <!-- contenedor-->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12 " style="background: yellow">
+        <div class="col-xl-12 " style="background: yellow">
             <div class="row">
-                <div class="col-md-4  mt-5" style="background: #CCDDCC">
+                <div class="col-xl-4  mt-5" style="background: #CCDDCC">
                     <img class="m-5 mx-auto d-block" src="https://i.ibb.co/VSyKtkY/cuerpo-humano-nino-scaled-removebg-preview.png"     width="430"  >
                 </div>
                 <div class="col-xl-8  mt-5 " style=" background: lightyellow"  >
@@ -167,7 +167,7 @@
 
 <div class="container-fluid mt-5 ">
     <div class="row">
-        <div class="col-md-6 ">
+        <div class="col-xl-6 ">
             <h2 class="mt-5">
                 Nuestro cuerpo
             </h2>
@@ -180,14 +180,14 @@
 
         </div>
 
-        <div class="col-md-6 mb-5">
+        <div class="col-xl-6 mb-5">
             <img class="mx-auto d-block"  src="https://i.ibb.co/3dBBJq3/lucia-presentacin-cuerpo-humano-2-728-removebg-preview.png"  width="430" >
         </div>
 
 
         <div  class="container-fluid mt-5">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-xl-12">
                 <img class=" mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/1QpW3D5/e8464e67-ad99-4864-8e0f-5cadadee9728-removebg-preview-1.png"  width="400" />
             </div>
 
@@ -196,7 +196,7 @@
 
     <div class="container-fluid mb-5 mt-5">
         <div class="row">
-            <div style="text-align: center" class="col-md-12">
+            <div style="text-align: center" class="col-xl-12">
                 <h2 class="mb-5">
                     ¿Qué habilidades tengo?
 
@@ -212,16 +212,16 @@
 
         <div class="container-fluid mb-5">
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-xl-3">
                     <img class="mx-auto d-block" src="https://i.ibb.co/9cbGs3Y/ilustracion-dibujos-animados-nino-atar-cordones-zapatos-24381-49-removebg-preview.png" width="200">
                 </div>
-                <div class="col-md-3">
+                <div class="col-xl-3">
                     <img class="mx-auto d-block" src="https://i.ibb.co/zbsC4N0/nino-sentado-piso-61103-141-removebg-preview.png" width="400">
                 </div>
-                <div class="col-md-3">
+                <div class="col-xl-3">
                     <img class="mx-auto d-block" src="https://i.ibb.co/Q83tvkK/dibujos-animados-nino-africano-caminando-61103-294-removebg-preview.png" width="400">
                 </div>
-                <div class="col-md-3">
+                <div class="col-xl-3">
                     <img class="mx-auto d-block" src="https://i.ibb.co/GQVZYNB/nino-feliz-saltando-cuerda-29937-4007-removebg-preview.png" width="300">
                 </div>
             </div>
@@ -229,7 +229,7 @@
 
         <div class="container-fluid mb-5 mt-5">
             <div class="row">
-                <div style="text-align: center" class="col-md-6">
+                <div style="text-align: center" class="col-xl-6">
                     <h2 class="mb-5">
                         ¡Todos crecemos y cambiamos!
 
@@ -247,7 +247,7 @@
                     </ul>
                     </p>
                 </div>
-                <div class="col-md-6">
+                <div class="col-xl-6">
                     <img src="https://i.ibb.co/gry068Y/etapas-del-desarrollo-humano-lifeder-2-removebg-preview.png" width="430">
 
                 </div>
@@ -257,7 +257,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6 mt-5">
+            <div class="col-xl-6 mt-5">
                 <h2>
                     Los huesos de nuestro cuerpo
 
@@ -281,7 +281,7 @@
 
                 </p>
             </div>
-            <div class="col-md-6 mt-5">
+            <div class="col-xl-6 mt-5">
                 <img class=" mt-5 mx-auto d-block" src="https://i.ibb.co/ws9Kdn6/hqdefault-removebg-preview.png"      width="420" >
             </div>
         </div>

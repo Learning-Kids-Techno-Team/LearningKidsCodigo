@@ -139,9 +139,9 @@
 <!-- contenedor-->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12" style="background: yellow">
+        <div class="col-xl-12" style="background: yellow">
             <div class="row ml-5 mr-5">
-                <div class="col-md-7  mt-5" style="background: #CCDDCC">
+                <div class="col-xl-7  mt-5" style="background: #CCDDCC">
                     <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/hKFctFG/joven-enfermo-dolor-estomago-intoxicacion-alimentaria-problemas-estomacales-dolor-abdominal-ilustrac.png"    width="380"  >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
@@ -164,7 +164,7 @@
 
 <div class="container-fluid pt-5">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <h2>
                 ¡Me duele el estómago!
             </h2>

@@ -134,9 +134,9 @@
 <!-- contenedor del gif-->
 <div class="container-fluid mt-5"  >
     <div class="row">
-        <div class="col-md-12"  >
+        <div class="col-xl-12"  >
             <div class="row ml-5 mr-5" id="borde">
-                <div class="col-md-4  " style="background: mediumspringgreen" >
+                <div class="col-xl-4  " style="background: mediumspringgreen" >
                     <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/5M7yWtd/e9a-removebg-preview.png"  width="300"  >
                 </div>
                 <div class="col-xl-8 " style=" background: #DCFECB;" >
@@ -162,7 +162,7 @@
 
 <div class="container-fluid d-flex justify-content-center  " >
     <div class="row p-4 ">
-        <div class="col-md-12  " id="bor" style="background: yellow">
+        <div class="col-xl-12  " id="bor" style="background: yellow">
 
             <h3>Objetos no vivos naturales:
             </h3>
@@ -175,7 +175,7 @@
 <div class="container-fluid " >
     <div  class="row" >
 
-        <div class="col-md-3 pb-4">
+        <div class="col-xl-3 pb-4">
             <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>El Agua</h2>
 
@@ -186,7 +186,7 @@
             </div>
         </div>
 
-        <div class="col-md-3 pb-4">
+        <div class="col-xl-3 pb-4">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>La Tierra</h2>
 
@@ -198,7 +198,7 @@
         </div>
 
 
-        <div class="col-md-3 pb-4">
+        <div class="col-xl-3 pb-4">
             <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>El Aire</h2>
             </div>
@@ -209,7 +209,7 @@
             </div>
         </div>
 
-        <div class="col-md-3 pb-4">
+        <div class="col-xl-3 pb-4">
             <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Las Rocas</h2>
             <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
@@ -223,7 +223,7 @@
 
 <div class="container-fluid d-flex justify-content-center  pb-4" >
     <div class="row  ">
-        <div class="col-md-12  " id="bor" style="background: yellow">
+        <div class="col-xl-12  " id="bor" style="background: yellow">
 
             <h3> Objetos no Vivos Artificiales:
             </h3>
@@ -234,7 +234,7 @@
 
 <div class="container-fluid  " >
     <div  class="row" >
-        <div class="col-md-3 pb-4">
+        <div class="col-xl-3 pb-4">
             <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Casa</h2>
 
@@ -245,7 +245,7 @@
             </div>
         </div>
 
-        <div class="col-md-3 pb-4 ">
+        <div class="col-xl-3 pb-4 ">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Puente</h2>
 
@@ -257,7 +257,7 @@
 
             </div>
         </div>
-        <div class="col-md-3 pb-4">
+        <div class="col-xl-3 pb-4">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Ropa</h2>
 
@@ -271,7 +271,7 @@
         </div>
 
 
-        <div class="col-md-3 pb-4">
+        <div class="col-xl-3 pb-4">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Carretera</h2>
 
@@ -288,7 +288,7 @@
 
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-warning mt-1">
+        <div class="col-xl-12 bg-warning mt-1">
             <h1 style="text-align: center"></h1>
 
         </div>
@@ -296,7 +296,7 @@
 </div>
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-warning mt-1">
+        <div class="col-xl-12 bg-warning mt-1">
             <h1 style="text-align: center"></h1>
         </div>
     </div>

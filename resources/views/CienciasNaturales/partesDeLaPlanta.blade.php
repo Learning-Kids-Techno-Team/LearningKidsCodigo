@@ -131,9 +131,9 @@
 <!-- contenedor-->
 <div class="container-fluid justify-content-center" >
     <div class="row" >
-        <div class="col-md-12" >
+        <div class="col-xl-12" >
             <div class="row ml-5 mr-5"  >
-                <div class="col-md-6" >
+                <div class="col-xl-6" >
                     <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/KrFBwKR/a5.gif"  width="300"  >
                 </div>
                 <div class="col-xl-6  mt-5" style=" background: #FDC7FF" id="borde">
@@ -158,7 +158,7 @@
 </div>
 <div  class="container-fluid mt-5">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-xl-12">
             <img class=" mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/93dtH1w/Captura-de-pantalla-345-removebg-preview-1.png"    width="400" />
         </div>
 
@@ -167,7 +167,7 @@
 
 <div class="container-fluid justify-content-center  " >
     <div class="row"  >
-        <div class="col-md-6 pb-4" >
+        <div class="col-xl-6 pb-4" >
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img   src="https://i.ibb.co/DDLjysP/flores.jpg" width="385" height="300">
                 <div class="card-body">
@@ -178,7 +178,7 @@
         </div>
 
 
-        <div class="col-md-6 pb-4 justify-content-center ">
+        <div class="col-xl-6 pb-4 justify-content-center ">
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img  src="https://i.ibb.co/10Tg7Y2/un.jpg"   width="385" height="300">
                 <div class="card-body">
@@ -194,7 +194,7 @@
 
 <div class="container-fluid justify-content-center" >
     <div class="row"  >
-        <div class="col-md-6 pb-4" >
+        <div class="col-xl-6 pb-4" >
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/gTkcg5m/bon.jpg"    class=" mx-auto d-block" width="385" height="300" >
                 <div class="card-body">
@@ -204,7 +204,7 @@
             </div>
         </div>
 
-        <div class="col-md-6 pb-4">
+        <div class="col-xl-6 pb-4">
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/RpdwNY6/cone.jpg"   width="385" height="300">
                 <div class="card-body">
@@ -219,7 +219,7 @@
 </div>
 <div class="container-fluid d-flex justify-content-center  " >
     <div class="row" >
-        <div class="col-md-12 pb-4">
+        <div class="col-xl-12 pb-4">
             <div class="card" style="width: 25rem;">
                 <img src="https://i.ibb.co/2PTfHgB/o.jpg"    class=" mx-auto d-block" width="380" height="300" >
                 <div class="card-body">
@@ -234,7 +234,7 @@
 
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-warning mt-1">
+        <div class="col-xl-12 bg-warning mt-1">
             <h1 style="text-align: center"></h1>
 
         </div>
@@ -242,7 +242,7 @@
 </div>
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-warning mt-1">
+        <div class="col-xl-12 bg-warning mt-1">
             <h1 style="text-align: center"></h1>
         </div>
     </div>

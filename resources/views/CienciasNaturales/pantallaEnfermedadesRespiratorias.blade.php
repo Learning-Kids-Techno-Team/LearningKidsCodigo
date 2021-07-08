@@ -137,7 +137,7 @@
     <div class="row">
         <div class="col-xl-12" style="background: yellow">
             <div class="row ml-5 mr-5">
-                <div class="col-md-7  mt-5" style="background: #CCDDCC">
+                <div class="col-xl-7  mt-5" style="background: #CCDDCC">
                     <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/mF1cv9n/chico-divertidos-dibujos-animados-mascara-medica-proteccion-enfermedades-respiratorias-icono-diseno.png"   width="300"  >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
