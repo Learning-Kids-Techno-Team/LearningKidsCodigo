@@ -103,7 +103,7 @@
 </div>
 
 <!-- tarjetas tipos de triangulo-->
-<div class="container-fluid">
+<div class="container-fluid ">
     <div class="row pt-5"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
         <div class="col-md-4 p-4" >
@@ -144,20 +144,22 @@
                     <h5 class="card-title" align="center">Un triángulo isósceles tiene dos lados y dos ángulos iguales(de igual longitud) y otro no.
                         <br><br>La manera de calcular su perímetro <br>es: <br>P = 2 l + b.</h5>
                 </div>
-                <audio  id="player" src="Matematica/Triangulos/triangulo3.mp3" controls >.mp
+                <audio  id="player" src="Matematica/Triangulos/triangulo3.mp3" controls >
                 </audio>
-            </div>
+            </div><br>
         </div>
 
         <!-- tarjeta5 -->
         <div  class="container-fluid">
             <div class="row ">
-                <div class="col-md-12 bg-danger ">
-                    <h1 style="text-align: center">Tipos de Triángulo según sus angulos: </h1>
+                <div class="col-md-12">
+                    <h1 style="text-align: center">Tipos de Triángulo según sus ángulos: </h1><br>
                 </div>
             </div>
         </div>
 
+        <!-- tarjeta5 -->
+        <div  class="container-fluid center-block pl-5 d-flex justify-content-center"">
             <div class="row" style="background: #FFCDA0">
                 <div class="col-md-3 p-4">
                     <div class="card mx-auto d-block " style="width: 18rem;">
@@ -210,7 +212,6 @@
                 </div>
             </div>
         </div>
-    </div>
 
 
     <!-- separador -->
@@ -220,12 +221,14 @@
         </div>
     </div>
 
-</div>
+
+
+
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
 </body>
 </html>
-
 @endsection

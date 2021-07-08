@@ -99,7 +99,7 @@
             </div>
             <div class="col-md-8">
             <h2 class="text-center" id="cuento">
-                ¿Que son las figuras geometricas?
+                ¿Qué son las figuras geométricas?
             </h2>
             <p >
                 <strong><em>
@@ -120,8 +120,8 @@
 <!-- tarjetas de tipos de figuras geometricas -->
     <div class="container-fluid pb-5 " style="background: #f8cfc6 ">
         <div class="row">
-            <div class="col-md-12 pb-3">
-                <h3>Figuras Geometricas</h3>
+            <div class="col-md-12 pb-3"><br>
+                <h3>Figuras Geométricas</h3>
             </div>
         </div>
         <div class="row">
@@ -129,7 +129,7 @@
                 <div class="card mx-auto d-block" style="width: 18rem;">
                     <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/triangle-5258735_960_720.png" width="210" >
                     <div class="card-body">
-                        <h5 class="card-title">Triangulo</h5>
+                        <h5 align="center">Triángulo</h5>
 
                         <a style=" background: #FF7800" href=" {{ url('/TiposDeTriangulos') }}" class="btn btn-primary">Leer</a>
                     </div>
@@ -139,7 +139,7 @@
                 <div class="card mx-auto d-block" style="width: 18rem;">
                     <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/square-5258734_960_720.png" width="300" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">Cuadrado</h5>
+                        <h5 align="center">Cuadrado</h5>
                         <a href=" {{ url('/TipoDeCuadrilatero') }}" style=" background: #FF7800" class="btn btn-primary">Leer</a>
                     </div>
                 </div>
@@ -151,7 +151,7 @@
                         <br>
                         <br>
                         <br>
-                        <h5 class="card-title">Otras Figuras</h5>
+                        <h5 align="center">Otras Figuras</h5>
 
                         <a href=" {{ url('/OtrasFiguras') }}" style=" background: #FF7800" class="btn btn-primary">Leer</a>
                     </div>

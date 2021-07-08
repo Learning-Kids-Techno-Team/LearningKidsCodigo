@@ -100,7 +100,7 @@
     </div>
 </div>
     <div style="color: #D8E2F3;">
-        <h1>Otras fíguras geométricas </h1>
+        <h1>Otras figuras geométricas </h1>
         <p><strong>Definimos las figuras geométricas como el conjunto de puntos unidos que forman un lugar geométrico, como un punto, una línea, un círculo, un polígono, etc</strong> </p>
     </div>
 <!-- tarjetas tipos de triangulo-->
@@ -117,7 +117,7 @@
                         <br>
                     </h5>
                 </div>
-                <audio  id="player" src="Matematica/otras figuras/otra.mp3" controls >.mp
+                <audio  id="player" src="Matematica/otras figuras/otra1.mp3" controls >.mp
                 </audio>
             </div>
         </div>
@@ -132,7 +132,7 @@
                     </h5>
                 </div>
 
-                <audio  id="player" src="Matematica/otras figuras/otra1.mp3" controls >.mp
+                <audio  id="player" src="Matematica/otras figuras/otra.mp3" controls >.mp
                 </audio>
             </div>
         </div>

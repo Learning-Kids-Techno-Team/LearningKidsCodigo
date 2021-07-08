@@ -121,12 +121,12 @@
                 ¿Qué son las adivinanzas?
                 </em></h2>
 
-            <p class="">
+            <p class="text-center">
                 <strong><em>
                         <br>Una adivinanza es una pregunta ingeniosa que se presenta como un juego de palabras en un enunciado,
                         por lo general en forma de rima y plantea un componente educativo. Muchas adivinanzas infantiles
                         cortas tienen el objetivo de transmitir un concepto como pueden ser las de animales o las de frutas y otros objetos.<br>
-                    </em></strong> </p>
+                    </em></strong> </p><br>
         </div>
     </div>
 </div>
