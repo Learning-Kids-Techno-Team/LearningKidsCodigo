@@ -157,7 +157,7 @@
                    <br><br> Tengo una muñeca vestida de azul,<br>
                     zapatitos blancos y gorro de tul.<br><br><bR><bR>
 
-                   <br><br> La llevé a paseo y se me constipo,
+                   <br><br><br> La llevé a paseo y se me constipo,
                     <br>la tengo en la cama con un gran dolor.<br><br><br>
 
                   <br> <br><br><br> Dos y dos son cuatro, cuatro y dos son seis,<br>
@@ -189,7 +189,7 @@
                         Matarile rile ro.<br>
                         Le pondremos lavandera<br>
                         Matarile rile ro<br>Ese oficio no le gusta<br>
-                        Matarile rile ro<br>
+                        Matarile rile ro<br><br>
 
                         <br><br><br>Le pondremos planchadora<br>
                         Matarile rile ro<br>
@@ -238,7 +238,7 @@
                         El patio de mi casa <br>(Uh-oh, uh-oh).<br>
 
 
-                        <br>El patio de mi casa (Uh-oh, uh-oh)<br>
+                        <br><br>El patio de mi casa (Uh-oh, uh-oh)<br>
                         El patio de mi casa (Uh-oh, uh-oh)<br>
                         Es particular, muy particular<br>
                         El patio de mi casa es particular<br>
@@ -252,27 +252,25 @@
                         Y si lo soy, lo soy de mentiritas.
                         Desde chiquita me quedé, me quedé.<br><br>
                        <br> Padeciendo de este pie<br>
-                        Padeciendo de este pie<br><br>
-                        <br>El patio de mi casa (Uh-oh, uh-oh)<br>
+                        Padeciendo de este pie<br>
+                            <br>El patio de mi casa (Uh-oh, uh-oh)<br>
+                        El patio de mi casa (Uh-oh, uh-oh)
+                            <br>El patio de mi casa (Uh-oh, uh-oh)<br>
                         El patio de mi casa (Uh-oh, uh-oh)<br><br>
 
-                        <br><br>El patio de mi casa (Uh-oh, uh-oh)<br>
-                        El patio de mi casa (Uh-oh, uh-oh)<br><br>
-
-                       <br> El patio de mi casa (Uh-oh, uh-oh)<br>
-                        El patio de mi casa (Uh-oh, uh-oh)<br><br><br>
-
-                        <br><br>El patio de mi casa (Uh-oh, uh-oh)<br>
+                       <br><br>El patio de mi casa (Uh-oh, uh-oh)<br>
+                        El patio de mi casa (Uh-oh, uh-oh)<br>
+                            <br>El patio de mi casa (Uh-oh, uh-oh)<br>
                         El patio de mi casa (Uh-oh, uh-oh)<br>
                         Es particular, muy particular<br>
-                   <br><br>
-                            <br>El patio de mi casa es particular<br>
+                   <br>
+                           <br> <br>El patio de mi casa es particular<br>
                             Se moja y se seca como los demás<br>
                             Agáchense y vuélvanse a agachar<br>
                             Las niñas bonitas se saben agachar.<br>
-                            Chocolate, molinillo<br>
-                            Chocolate, molinillo<br><br><br>
-                            El patio de mi casa (Uh-oh, uh-oh)<br>
+                            <br>Chocolate, molinillo<br>
+                            <br>Chocolate, molinillo<br><br><br>
+                            <br><br><br><br><br>El patio de mi casa (Uh-oh, uh-oh)<br>
                             El patio de mi casa (Uh-oh, uh-oh)<br>
                             Es particular, muy particular<br>
 
@@ -296,7 +294,7 @@
                         <br>Las calaveras se mueren de tos<br>
                         Chúmbala, <br>cachúmbala,<br> cachúmbala
                         Chúmbala,<br> cachúmbala,<br> cachúmbala<br>
-                        <br>Cuando el reloj marca las tres<br>
+                        <br><br>Cuando el reloj marca las tres<br>
                         Las calaveras se paran al revés<br>
                         Chúmbala, cachúmbala, cachúmbala<br> (Yo aquí, y yo allá)
                         Chúmbala, cachúmbala, <br>cachúmbala<br>
@@ -324,7 +322,7 @@
                         Las calaveras se comen su nieve<br>
                         Chúmbala, cachúmbala, cachúmbala<br>
                         Chúmbala, cachúmbala, cachúmbala.<br><br>
-                        <br><br>Cuando el reloj marca las diez<br>
+                        <br><br><br>Cuando el reloj marca las diez<br>
                         Las calaveras cantan en inglés<br>
                         Chúmbala, cachúmbala,<br> cachúmbala
                         Chúmbala, cachúmbala,<br> cachúmbala
@@ -471,7 +469,7 @@
                         <br>Yo ya me voy<br>
                         A mi casita<br>
                         De sololoy<br>
-                      <br>  A comer tacos<br>
+                      <br><br> A comer tacos<br>
                         Y no le doy<br>
                        <br>
 
@@ -498,7 +496,8 @@
                         Ya viene tu marinero,<br>
                         Con ese bonito traje,<br>
                         Que parece un carnicero.<br>
-                       <br> Anoche yo te vi,<br>
+
+                       <br><br> Anoche yo te vi,<br>
                         Bailando el cha cha cha<br>
                         Con las manos en la cintura<br>
                         Para salir a bailar.<br>
