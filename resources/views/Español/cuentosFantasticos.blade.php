@@ -50,10 +50,8 @@
         #banderin{
 
             background: url("https://i.ibb.co/jfW9Wfr/estrella-removebg-preview.png");
-            margin-top: auto;
-
-
-            height: 250px;
+            margin-top: -100px;
+            height: 300px;
 
         }
         #color{
@@ -86,15 +84,15 @@
 
         </div>
         <div class="col-md-8 " style="text-align: center"><br>
-            <h2 id="color" >Cuentos Fantásticos</h2>
-            <p  style="text-align: center">
+            <h2 id="color">Cuentos Fantásticos</h2>
+            <p><br><br>
                 <strong><em>
                 Estos cuentos se caracterizan por estar impregnados de elementos fantásticos.
+
                 Son cuentos de hechos insólitos que escapan a la realidad, pero siempre tienen una explicación lógica y,
+
                 pese a incluir datos fantásticos, no suelen salirse de la racionalidad.
-                    Este tipo de cuentos tiene personajes que se perciben como normales a lo largo
-                        de toda la historia, como brujas, dragones, hadas.
-                        Utiliza expresiones imprecisas para determinar la época y el lugar.
+                        Este tipo de cuentos tiene personajes que se perciben como normales a lo largo de toda la historia, como brujas, dragones, hadas. Utiliza expresiones imprecisas para determinar la época y el lugar.
 
                     </em></strong>
             </p>

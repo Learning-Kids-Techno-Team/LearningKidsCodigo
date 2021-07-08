@@ -90,11 +90,12 @@
         <div class="col-md-8" style="text-align: center">
             <br>
             <h2 id="color">Cuentos Infantiles</h2>
-            <p  style="text-align: center">
+            <p>
                 <strong><em>
                 Estos cuentos están dedicados al público infantil, por lo que suelen contar historias fantásticas y felices.
 
                 Se distinguen de los libros fantásticos porque el lenguaje es mucho más simple, y muchos de ellos se utilizan
+
                 como material pedagógico para introducir valores sociales, morales o religiosos.
 
                     </em></strong></p>
@@ -304,7 +305,7 @@
         <div class="card mx-auto d-block" style="width: 30rem;">
             <img src="https://i.ibb.co/wwzjzvT/gigante.jpg"  class="card-img-top" alt="..." height="330">
             <div class="card-body">
-                <h5 class="card-title">El gigante Egoista</h5>
+                <h5 class="card-title">El gigante Egoísta</h5>
                 <p class="card-text">Todas las tardes, a la salida de la escuela, los niños iban a jugar al jardín del gigante. Este era un gran jardín encantador, cubierto de un césped suave y verde. Por aquí y por allá, había hermosas flores como estrellas, y melocotoneros que en la primavera estallaban en delicadas flores de color rosa y en otoño daban ricos frutos. Los pájaros se posaban en los árboles y cantaban con dulzura.
 
                     Un día, después de siete años de ausencia, el gigante regresó y encontró a los niños jugando en su jardín.
