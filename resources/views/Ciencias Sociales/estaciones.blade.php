@@ -41,7 +41,7 @@
 
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
             margin-left: -5px;
             background: #60A71B;
@@ -79,7 +79,7 @@
         </div>
         <div class="col-md-8">
             <h2 id="color" align="center"><em><br>¡Las estaciones del año!</em></h2>
-            <h3 id="color" align="center"><em><br>Las estaciones del año son los cuatro periodos en los cuales
+            <h3 id="color" align="justify"><em><br>Las estaciones del año son los cuatro periodos en los cuales
                 ciertas condiciones climáticas se mantienen durante aproximadamente
                 tres meses cada una y se denominan: primavera, verano, otoño e invierno.</em></h3>
         </div>
@@ -88,114 +88,109 @@
 
 
 <!-- contenedor images otoño, primaver-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>¡Encuentra diferencias entre las ilustraciones!</em></h2>
+<div class="container-fluid" id="color"><h2><em><br>¡Encuentra diferencias entre las ilustraciones!</em></h2>
     <h3><em>¡Repito en voz alta cual de las ilustraciones se
             parece a estos días!</em></h3>
-        <div class="row m-5">
-            <div class="col-md-6">
+        <div class="row ">
+            <div class="col-mx-6 mx-auto d-block">
                 <h5  align="center">Otoño</h5>
-                <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/g4bRyJP/ninos.jpg"  width="500" height="400"/>
+                <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/g4bRyJP/ninos.jpg"  width="400" height="300"/>
             </div>
-            <div class="col-md-6">
+            <div class="col-mx-6 mx-auto d-block">
                 <h5  align="center">Primavera</h5>
-                <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/MZVPjtW/este.jpg"  width="500" height="400"/>
+                <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/MZVPjtW/este.jpg"  width="400" height="300"/>
             </div>
         </div>
 </div>
 
 <!-- contenedor images verano, invierno-->
-<div class="container-fluid  center-block pl-5" id="color">
-        <div class="row m-5">
-            <div class="col-md-6">
+<div class="container-fluid " id="color">
+        <div class="row ">
+            <div class="col-mx-6 mx-auto d-block">
                 <h5  align="center">Verano</h5>
-                <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/F41J6c4/vera.jpg" width="500" height="400"/>
+                <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/F41J6c4/vera.jpg" width="400" height="300"/>
             </div>
-            <div class="col-md-6">
+            <div class="col-mx-6 mx-auto d-block">
                 <h5  align="center">Invierno</h5>
-                <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/Z2j5fNd/ind.jpg" width="500" height="400"/>
+                <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/Z2j5fNd/ind.jpg" width="400" height="300"/>
             </div>
         </div>
 </div>
 
 <!-- contenedor text-->
-<div class="container-fluid center-block pl-5" id="color">
-    <div class="card">
+<div class="container-fluid " id="color">
+    <div class="card mx-auto d-block">
         <div class="row m-3">
-            <div class="col-md-4">
+            <div class="col-mx-4">
                 <img src="https://i.ibb.co/rcQ5tbq/nnk-removebg-preview.png" width="350" height="250"/>
             </div>
-            <div class="col-md-8">
-                <h2 class="text-center" id="color"><br><strong><em>Clima: </em></strong><em> Es el conjunto de condiciones atmosféricas
+            <div class="col-md-8 mx-auto d-block">
+                <h2 class="text-justify" id="color"><br><strong><em>Clima: </em></strong><em> Es el conjunto de condiciones atmosféricas
                         de una comunidad o región. Se producen cambios en las condiciones del clima que el hombre
                         no puede evitar.</em></h2>
             </div>
         </div>
     </div>
 </div>
-
-
 <!-- contenedor otoño-->
-<div class="container-fluid center-block pl-5">
-    <div class="row" >
-        <div class="col-md-4">
-            <h2 class="text-center" id="color"><em><br><br><br>Hay épocas que no llueve y algunos árboles
+<div class="container-fluid ">
+    <div class="row">
+        <div class="col-mx-6 mx-auto d-block">
+            <h2 class="text-justify mx-auto d-block" id="color"><em><br><br><br>Hay épocas que no llueve y algunos árboles
                     botan sus hojas, entonces es </em><strong><em>otoño.</em></strong></h2>
-            <img class="mx-auto d-block"  src="https://i.ibb.co/9sydVpq/hojasgif.gif" width="250" height="150" />
+            <img class="mx-auto d-block"  src="https://i.ibb.co/9sydVpq/hojasgif.gif" width="200" height="100" />
         </div>
-        <div class="col-md-8"><br><br><br>
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/z70g4w7/qe.jpg" width="450" height="350"/>
+        <div class="col-mx-6 mx-auto d-block"><br><br><br>
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/z70g4w7/qe.jpg" width="350" height="250"/>
         </div>
     </div>
 </div>
-
 <!-- contenedor primave-->
-<div class="container-fluid center-block pl-5">
-    <div class="row" >
-        <div class="col-md-8"><br><br><br>
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/4KX9XVs/pri.jpg" width="450" height="350"/>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-6 mx-auto d-block">
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/4KX9XVs/pri.jpg" width="350" height="250"/>
         </div>
-        <div class="col-md-4">
-            <h2 class="text-center" id="color"><em><br><br><br>Hay un periódo del año en que los árboles empiezan
-                    a renovar sus hojas y florecen, entonces es </em><strong><em>primavera.</em></strong></h2>
-            <img class="mx-auto d-block" src="https://i.ibb.co/YWw4M89/maripgif.gif" width="250" height="150"/>
+        <div class="col-md-6">
+            <h2 class="text-justify" id="color"><em><br><br><br>Hay un periódo del año en que los árboles empiezan a renovar sus hojas y florecen, entonces es </em><strong><em>primavera.</em></strong></h2>
+            <img class="mx-auto d-block" src="https://i.ibb.co/YWw4M89/maripgif.gif" width="200" height="100"/>
         </div>
     </div>
 </div>
-
 <!-- contenedor verano-->
-<div class="container-fluid center-block pl-5">
+<div class="container-fluid">
     <div class="row" >
-        <div class="col-md-4">
-            <h2 class="text-center" id="color"><em><br><br><br>Cuando se produce calor, decimos
+        <div class="col-md-6 mx-auto d-block">
+            <h2 class="text-justify mx-auto d-block" id="color"><em><br><br><br>Cuando se produce calor, decimos
                     que estamos en </em><strong><em>verano.</em></strong></h2>
-            <img class="mx-auto d-block" src="https://i.ibb.co/0yNLdnJ/gif.gif" width="250" height="150"/>
+            <img class="mx-auto d-block" src="https://i.ibb.co/0yNLdnJ/gif.gif" width="200" height="100"/>
         </div>
-        <div class="col-md-8"><br><br><br>
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/nLqH4jL/veran.jpg" width="450" height="350"/>
+        <div class="col-md-6 mx-auto d-block"><br><br><br>
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/nLqH4jL/veran.jpg" width="350" height="250"/>
         </div>
     </div>
 </div>
 
 <!-- contenedor invierno-->
-<div class="container-fluid center-block pl-5">
+<div class="container-fluid  ">
     <div class="row" >
-        <div class="col-md-8"><br><br><br>
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/8PgsYL6/dnn.jpg" width="450" height="350"/>
+        <div class="col-md-6 mx-auto d-block"><br><br><br>
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/8PgsYL6/dnn.jpg" width="350" height="250"/>
         </div>
-        <div class="col-md-4">
-            <h2 class="text-center" id="color"><em><br><br><br>Otras veces llueve mucho, lo que
+        <div class="col-md-6 mx-auto d-block">
+            <h2 class="text-justify" id="color"><em><br><br><br>Otras veces llueve mucho, lo que
                     indica que estamos en </em><strong><em>invierno.</em></strong></h2>
-            <img class="mx-auto d-block" src="https://i.ibb.co/j5VbXWb/gifgotas.gif" width="250" height="150"/>
+            <img class="mx-auto d-block" src="https://i.ibb.co/j5VbXWb/gifgotas.gif" width="200" height="100"/>
         </div>
 
     </div>
 </div>
 
 <!-- contenedor text-->
-<div class="container-fluid center-block pl-5">
+<div class="container-fluid ">
     <div class="row" >
         <div class="col-md-12">
-            <h2 class="text-center" id="color"><br><em>Actualmente el clima ha variado mucho debido a la destrucción
+            <h2 class="text-justify" id="color"><br><em>Actualmente el clima ha variado mucho debido a la destrucción
                     de los bosques, los incendios o por la tala o corte de los árboles, lo cual produce <strong>escasez</strong> de
                     lluvia y aumento de calor. Si las autoridades y todos nosotros no nos preocupamos por evitar
                         la destrucción del bosque, las futuras generaciones no tendrán agua ni para tomar.</em><br></h2>
