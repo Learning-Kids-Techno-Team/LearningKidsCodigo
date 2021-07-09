@@ -167,25 +167,25 @@
 </div>
 
 <div class="container-fluid justify-content-center  pl-5" >
-    <div class="row m-5 pl-5"  >
+    <div class="row m-5 pl-5 ">
         <div class="col-md-6 pb-3 pl-5" >
-            <div class="card" style="width: 25rem;">
+            <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/64vTsX8/ciclo-evaporacion.jpg"  width="388" height="280">
                 <div class="card-body">
                     <h5 class="card-title">Evaporación</h5>
-                    <p><strong><br>El agua cambia de estado líquido a gaseoso.<br> La evaporación es el proceso por la cual el agua líquida de los océanos ingresa a la atmósfera, en forma de vapor, regresando al ciclo del agua. <br>Diversos estudios han demostrado que los océanos, mares, lagos y ríos proveen alrededor del 90% de humedad a la atmósfera vía evaporación; el restante 10% proviene de la transpiración de las plantas.</strong></p>
+                    <p style="text-align: justify"><strong>El agua cambia de estado líquido a gaseoso.<br> La evaporación es el proceso por la cual el agua líquida de los océanos ingresa a la atmósfera, en forma de vapor, regresando al ciclo del agua. <br>Diversos estudios han demostrado que los océanos, mares, lagos y ríos proveen alrededor del 90% de humedad a la atmósfera vía evaporación; el restante 10% proviene de la transpiración de las plantas.</strong></p>
                 </div>
             </div>
         </div>
 
 
         <div class="col-md-4 justify-content-center pl-5">
-            <div class="card" style="width: 25rem;">
+            <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/3W4C1ff/cinfilgracion.jpg"   width="388" height="280">
                 <div class="card-body">
-                    <h5 class="card-title">Infiltración</h5>
+                    <h5 class="card-title ">Infiltración</h5>
 
-                    <p><strong> <br><br> El movimiento descendente del agua desde la superficie de la Tierra hacia el suelo o las rocas porosas. <br><br><br>En cualquier parte del mundo, una porción del agua que cae como precipitación <br>y nieve se infiltra hacia el suelo subsuperficial y hacia las rocas.</strong></p>
+                    <p style="text-align: justify"><strong> El movimiento descendente del agua desde la superficie de la Tierra hacia el suelo o las rocas porosas. <br><br><br>En cualquier parte del mundo, una porción del <br>agua que cae como precipitación <br>y nieve se infiltra hacia el suelo subsuperficial y hacia las rocas.</strong></p>
                 </div>
             </div>
         </div>
@@ -196,37 +196,37 @@
 <div class="container-fluid justify-content-center  pl-5" >
     <div class="row m-5 pl-5"  >
         <div class="col-md-6 pb-3 pl-5" >
-            <div class="card" style="width: 25rem;">
+            <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/71ZjxHn/ciclo-condensacion.jpg"   class=" mx-auto d-block" width="388" height="280" >
                 <div class="card-body">
                     <h5 class="card-title">Condensación</h5>
-                    <p><strong><br>La condensación es el proceso por el cual el vapor de agua del aire se transforma en agua líquida. <br><br>La condensación es importante para el ciclo del agua ya que forma las nubes. <br>Estas nubes pueden producir precipitación, la cual es la principal forma que el agua regresa a la Tierra. La condensación es lo opuesto a la evaporación.</strong></p>
+                    <p style="text-align: justify"><strong>La condensación es el proceso por el cual el vapor de agua del aire se transforma en agua líquida. <br><br>La condensación es importante para el ciclo del agua ya que forma las nubes. <br>Estas nubes pueden producir precipitación, la cual es la principal forma que el agua regresa a la Tierra. La condensación es lo opuesto a la evaporación.</strong></p>
                 </div>
             </div>
         </div>
 
 
         <div class="col-md-4 justify-content-center pl-5">
-            <div class="card" style="width: 25rem;">
+            <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/7WgfdNc/preci.jpg" width="385" height="300">
                 <div class="card-body">
-                    <h5 class="card-title">Precipitación</h5>
+                    <h5 class="card-title">Precipitación<br></h5>
 
-                    <p><strong> <br>La precipitación, es agua liberada desde las nubes en forma de lluvia, aguanieve, nieve o granizo. <br><br>Es el principal proceso por el cual el agua retorna a la Tierra.<br><br> La mayor parte de la precipitación cae como lluvia.</strong></p>
+                    <p style="text-align: justify" ><strong> La precipitación, es agua liberada desde las nubes en forma de lluvia, aguanieve, nieve o granizo. <br><br>Es el principal proceso por el cual el agua retorna a la Tierra.<br><br> La mayor parte de la precipitación cae como lluvia.</strong></p>
                 </div>
             </div>
         </div>
 
     </div>
 </div>
-<div class="container-fluid d-flex justify-content-center  pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6 pb-3">
-            <div class="card" style="width: 25rem;">
+<div class="container-fluid justify-content-center  pl-5" >
+    <div class="row m-5 pl-5">
+        <div class="col-md-12 pb-3 pl-5">
+            <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/pbChrkZ/escorrentia.jpg" class=" mx-auto d-block" width="388" height="300" >
                 <div class="card-body">
                     <h5 class="card-title">Escorrentía</h5>
-                    <p><strong>
+                    <p style="text-align: justify"><strong>
                             La escorrentía superficial describe el flujo del agua, lluvia, nieve, u otras fuentes, sobre la tierra, y es un componente principal del ciclo del agua. <br>Al área de tierra que produce el drenaje de la escorrentía a un punto común se la conoce como línea divisoria de aguas.</strong></p>
                 </div>
             </div>
