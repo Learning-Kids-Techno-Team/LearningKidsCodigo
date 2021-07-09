@@ -60,7 +60,7 @@
     #separadorInferior{
 
         width: 100%;
-        height: 600%;
+        height: 100%;
         margin-left: 0px;
         border-top-left-radius: 50%;
         border-top-right-radius:50%;
@@ -77,38 +77,40 @@
 
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12" style="background:blanchedalmond"  id="fondo" >
-            <img src="https://i.ibb.co/QY8MWGQ/muchos-juguetes-libros-dormitorio-1308-9759-removebg-preview.png"    height="500" class=" mx-auto d-block"/>
+        <div class="col-xl-12 p-5" style="background:blanchedalmond"  id="fondo" >
+            <img src="https://i.ibb.co/QY8MWGQ/muchos-juguetes-libros-dormitorio-1308-9759-removebg-preview.png"    class=" mx-auto d-block"/>
 
         </div>
     </div>
 </div>
-
 <div id="separadorDePagina" class="container-fluid" style="background: #DCFECB">
     <div class="row">
-        <div class="col-md-4 ">
-            <img   src="https://i.ibb.co/C1BndsH/vector-doll-and-ball-on-wooden-shelf-removebg-preview.png" width="300" class="mx-auto d-block "/>
+        <div class="col-xl-4 ">
+            <img src="https://i.ibb.co/C1BndsH/vector-doll-and-ball-on-wooden-shelf-removebg-preview.png" width="300" class="mx-auto d-block "/>
         </div>
         <div class="col-md-8">
             <h2 class="text-center" >
+                <br>
                Relación De Objetos
             </h2>
             <p>
-                <strong><em>
+                <strong>
                        Es la representación y significado de un objeto.
                         En la vida cotidiana los niños al relacionar los objetos que lo rodea y establecer experencias
                         pre-numéricas, como: comparar, clasificar, identificar,
                         reunir, establecer relaciones uno a uno.<br>
-                    </em></strong></p>
+                    </strong></p>
 
     </div>
 </div>
+
 </div>
 
 
 <div  class="container-fluid " style="background: blanchedalmond">
     <div class="row m-4 ">
         <div class="col-md-12 pb-4 ">
+            <br>
             <h3>Distingamos Objetos</h3>
         </div>
     </div>
