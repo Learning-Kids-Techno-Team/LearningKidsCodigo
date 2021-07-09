@@ -139,10 +139,10 @@
 <!-- contenedor-->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12" style="background: yellow">
+        <div class="col-xl-12" style="background: yellow">
             <div class="row ml-5 mr-5">
-                <div class="col-md-7  mt-5" style="background: #CCDDCC">
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/hKFctFG/joven-enfermo-dolor-estomago-intoxicacion-alimentaria-problemas-estomacales-dolor-abdominal-ilustrac.png"    width="380"  >
+                <div class="col-xl-7  mt-5" style="background: #CCDDCC">
+                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/hKFctFG/joven-enfermo-dolor-estomago-intoxicacion-alimentaria-problemas-estomacales-dolor-abdominal-ilustrac.png"    width="348"  >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                     <h4  class="mt-5" style="color: #3B5686">Ciencias Naturales</h4>
@@ -164,7 +164,7 @@
 
 <div class="container-fluid pt-5">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <h2>
                 ¡Me duele el estómago!
             </h2>
@@ -183,7 +183,7 @@
 
 
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <img class="mx-auto d-block"  src="https://i.ibb.co/9cpPRTf/boy-suffering-stomach-painful-acid-260nw-1315503887-removebg-preview.png"  >
 
         </div>
@@ -193,11 +193,11 @@
 
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <img class=" mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/sbhG4Xf/lindo-nino-mirando-arriba-43633-2766-removebg-preview.png" width="250" />
 
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6">
 
             <h2 class="mt-5">
                 ¿cómo prevenir enfermedades intestinales?
@@ -226,7 +226,7 @@
 
     <div  class="container-fluid mt-5">
         <div class="row">
-            <div class="col-md-12  mb-5" style="background: #FDFD96">
+            <div class="col-xl-12  mb-5" style="background: #FDFD96">
                 <h1 style="text-align: center">Algunas enfermedades intestinales</h1>
             </div>
         </div>
@@ -234,7 +234,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Estreñimiento
 
@@ -243,7 +243,7 @@
                     Estreñimiento significa que una persona tiene tres o menos evacuaciones en una semana. Las heces pueden ser duras y secas. Algunas veces la evacuación es dolorosa. Todas las personas tienen estreñimiento alguna vez. La mayoría de los casos, dura poco tiempo y no es serio.
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/BfFjsK6/4c10952bbaf01427d09e9aaaf66072b2-removebg-preview.png"  width="300" >
             </div>
         </div>
@@ -251,7 +251,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Náuseas y vómitos
 
@@ -263,7 +263,7 @@
                     Causas
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/ydwYccz/triste-nino-lindo-sentirse-enfermo-vomitar-97632-1502-removebg-preview.png"   width="300" >
             </div>
         </div>
@@ -273,7 +273,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Acidez gástrica
 
@@ -281,7 +281,7 @@
                 <p>
                     Es una sensación de ardor justo debajo o detrás del esternón. Generalmente proviene del esófago. El dolor suele originarse en el pecho desde el estómago. Puede sentirse en el cuello o la garganta.
                     Causas</p></div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/ZzJnRhn/20190217142803-acidez-estomacal-770x423-removebg-preview.png"    width="300" >
             </div>
         </div>
@@ -289,7 +289,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6 mt-5">
+            <div class="col-xl-6 mt-5">
                 <h2>
                     Distención
 
@@ -298,7 +298,7 @@
 
                 </p>
             </div>
-            <div class="col-md-6 ">
+            <div class="col-xl-6 ">
                 <img class="mx-auto d-block" src="https://i.ibb.co/MGRqMqw/Inflamacio-n-estomacal-estren-imiento-removebg-preview.png"     width="300" >
             </div>
         </div>

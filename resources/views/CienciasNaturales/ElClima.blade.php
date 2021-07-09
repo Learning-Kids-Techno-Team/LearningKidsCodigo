@@ -74,13 +74,13 @@
 <!-- contenedor del concept-->
 <div class="container-fluid" id="color">
     <div class="row">
-        <div class="col-md-4"><br>
+        <div class="col-xl-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/b5wnxrq/ARc-removebg-preview.png" width="400" />
 
         </div>
-        <div class="col-md-8">
+        <div class="col-xl-8">
             <h2 id="color" class="text-center"><em><br>¡El Clima!</em></h2>
-            <h3 id="color" ><em><br>¿Qué es el clima?</em></h3>
+            <h3 id="color" class="text-center mt-5"><em><br>¿Qué es el clima?</em></h3>
             <p id="color" class="text-center"><em><strong>Entendemos por clima a aquel fenómeno natural que se da a
                         nivel atmosférico y que se caracteriza por ser una conjunción de numerosos elementos
                         tales como la temperatura, la humedad, la presión, la lluvia, el viento y otros.
@@ -93,13 +93,13 @@
 <!-- contenedor clima-->
 <div class="container-fluid mt-5 ">
     <div class="row" >
-        <div class="col-md-6 pb-4">
+        <div class="col-xl-6 pb-4">
             <h2  id="color"><strong><em>Fenómeno natural de la atmósfera que es el resultado de la interacción de
                         elementos como la lluvia, la presión, la humedad, la temperatura, entre otros.<br>
                         Esa suma de variables atmosféricas y que afectan a una zona geográfica dada se conoce como: ¡clima!</em></strong></h2>
         </div>
-        <div class="col-md-6">
-            <img id="bor" class="mx-auto d-block " src="https://i.ibb.co/JypHQj9/unnamed-1.jpg" width="460"/>
+        <div class="col-xl-6">
+            <img id="bor" class="mx-auto d-block " src="https://i.ibb.co/JypHQj9/unnamed-1.jpg" width="420"/>
         </div>
     </div>
 </div>
@@ -108,15 +108,15 @@
 <!-- contenedores -->
 <div class="container-fluid" id="color"><h2 align="center"><em><br>¡Tipos de clima!</em></h2>
     <div class="row">
-        <div class="col-md-4"><br>
+        <div class="col-xl-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/VQP4vNb/nublad-removebg-preview.png" width="260" height="200"/>
             <h5  align="center">Nublado</h5>
         </div>
-        <div class="col-md-4"><br>
+        <div class="col-xl-4"><br>
             <img class="mx-auto d-block " src="https://i.ibb.co/HTSsmc6/dibujos-de-soles-removebg-preview.png" width="260" height="200"/>
             <h5 align="center">Soleado Tropical</h5>
         </div>
-        <div class="col-md-4"><br>
+        <div class="col-xl-4"><br>
             <img  class="mx-auto d-block " src="https://i.ibb.co/ZTTsMpp/lluvios-removebg-preview.png" width="260" height="200"/>
             <h5 align="center">Lluvioso</h5>
         </div>
@@ -126,11 +126,11 @@
 <!-- contenedor2 de amb-->
 <div class="container-fluid" id="color">
     <div class="row">
-        <div class="col-md-6"><br>
+        <div class="col-xl-6"><br>
             <img class="mx-auto d-block " src="https://i.ibb.co/G7mrZcb/vient-removebg-preview.png" width="260" height="200"/>
             <h5 align="center">Viento frío</h5>
         </div>
-        <div class="col-md-6"><br>
+        <div class="col-xl-6"><br>
             <img class="mx-auto d-block " src="https://i.ibb.co/nBj21zj/neva-removebg-preview.png" width="260" height="200"/>
             <h5 align="center">Nieve</h5><br><br><br>
         </div>
@@ -141,10 +141,10 @@
 <div class="container-fluid" id="color">
     <div class="card">
         <div class="row m-3" >
-            <div class="col-md-4">
+            <div class="col-xl-4">
                 <img  class="mx-auto d-block" id="bor" src="https://i.ibb.co/KhXk4TZ/met.jpg" width="350" height="250"/>
             </div>
-            <div class="col-md-8">
+            <div class="col-xl-8">
                 <h2 class="text-center" id="color"><strong><em>La meteorología, es la ciencia que estudia y predice
                             el clima de acuerdo a los elementos visibles en numerosos tipos de mapas y sistemas de
                             observación planetaria, pero analizando los valores actuales.</em></strong></h2>
@@ -157,19 +157,19 @@
 <!-- contenedor sug-->
 <div class="container-fluid" id="color"><h2><em><br>Observo y aprendo:</em></h2>
     <div class="row " >
-        <div class="col-md-4 pb-4">
+        <div class="col-xl-4 pb-4">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/wCTtRbH/tropical.jpg" width="300" height="240">
                 <h5 class="card-title" align="center">¡Tropical!</h5>
             </div>
         </div>
-        <div class="col-md-4 pb-4">
+        <div class="col-xl-4 pb-4">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/xgR9zYK/unnamed-removebg-preview-2.png" width="300" height="240">
                 <h5 class="card-title" align="center">¡Lluvioso! ¡Soleado!</h5>
             </div>
         </div>
-        <div class="col-md-4 pb-4">
+        <div class="col-xl-4 pb-4">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/cxrTRNk/nev.jpg" width="300" height="240">
                 <h5 class="card-title" align="center">¡Nieve (Frío)!</h5>

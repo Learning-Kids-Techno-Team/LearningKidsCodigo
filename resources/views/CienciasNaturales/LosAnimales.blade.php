@@ -101,7 +101,7 @@
 <!-- imagen -->
 <div class="container-fluid" id="dif">
     <div class="row" >
-        <div class="col-md-12" id="fondo">
+        <div class="col-xl-12" id="fondo">
             <img src="https://i.ibb.co/wgQ9vgp/bio-removebg-preview.png" class=" mx-auto d-block" width="460"/>
         </div>
     </div>
@@ -130,19 +130,19 @@
 <!-- contenedor de las tarjetas -->
 <div class="container-fluid  center-block" style="background: #FFEECC"><h2 align="center"><em><br>¡Tipos de Animales!</em></h2>
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <div class="card mx-auto d-block" >
-                <img id="im" class="mx-auto d-block" src="https://i.ibb.co/zPdVHCs/et.jpg"  width="300" height="280">
+                <img id="im" class="mx-auto d-block" src="https://i.ibb.co/zPdVHCs/et.jpg"  width="280" height="280">
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Vertebrados!</h5>
                     <a href=" {{ url('/animalesvertebrados') }}" class="btn">Leer</a>
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <h2 ><em><br></em></h2>
             <div class="card mx-auto d-block" >
-                <img id="im" class="mx-auto d-block" src="https://i.ibb.co/8KGQR9w/inv.jpg" width="300" height="280">
+                <img id="im" class="mx-auto d-block" src="https://i.ibb.co/8KGQR9w/inv.jpg" width="280" height="280">
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Invertebrados!</h5>
                     <a href=" {{ url('/animalesinvertebrados') }}" class="btn">Leer</a>

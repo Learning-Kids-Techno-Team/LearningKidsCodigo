@@ -131,10 +131,10 @@
 <!-- contenedor del gif-->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12" style="background: yellow">
+        <div class="col-xl-12" style="background: yellow">
             <div class="row ml-5 mr-5">
-                <div class="col-md-7  mt-5" style="background: #CCDDCC">
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/HHtkZLB/Normas-de-Higiene-Personal-removebg-preview-1.png"    width="400"  >
+                <div class="col-xl-7  mt-5" style="background: #CCDDCC">
+                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/HHtkZLB/Normas-de-Higiene-Personal-removebg-preview-1.png"    width="300"  >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                     <h4  class="mt-5" style="color: #3B5686">Ciencias Naturales</h4>
@@ -151,7 +151,7 @@
 
 <div class="container-fluid  mb-5 mt-5 ">
     <div class="row">
-        <div class="col-md-6 mt-5">
+        <div class="col-xl-6 mt-5">
             <h2>
                 ¡Nos vamos a cuidar!
 
@@ -168,7 +168,7 @@
 
     <div  class="container-fluid mt-5">
         <div class="row">
-            <div class="col-md-12  mb-5" style="background: #FDFD96">
+            <div class="col-xl-12  mb-5" style="background: #FDFD96">
                 <h1 style="text-align: center">Normas de Higiene</h1>
             </div>
         </div>
@@ -177,14 +177,14 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6 mt-5">
+            <div class="col-xl-6 mt-5">
                 <h2>
                     1. Lávate las manos antes de comer y después de usar el baño.
 
                 </h2>
 
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/TbYb5YY/feliz-lindo-nino-nino-lavarse-manos-fregadero-97632-2454-removebg-preview.png"  width="300" >
             </div>
         </div>
@@ -192,7 +192,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6 mt-5">
+            <div class="col-xl-6 mt-5">
                 <h2>
                     2. Come alimentos bien cocinados.
 
@@ -207,13 +207,13 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6 mt-5">
+            <div class="col-xl-6 mt-5">
                 <h2>
                    3. Cepíllate los dientes después de comer.
 
                 </h2>
                 </div>
-            <div class="col-md-6 mb-5">
+            <div class="col-xl-6 mb-5">
                 <img class="mx-auto d-block" src="https://i.ibb.co/MkyTPLk/depositphotos-6902169-stock-illustration-girl-brushing-teeth-removebg-preview.png"    width="300" >
             </div>
         </div>
@@ -221,13 +221,13 @@
 
         <div class="container-fluid mb-5">
             <div class="row">
-                <div class="col-md-6 mt-5">
+                <div class="col-xl-6 mt-5">
                     <h2>
                         4. Lava las frutas y verduras antes de comerlas
 
                     </h2>
                 </div>
-                <div class="col-md-6 mb-5">
+                <div class="col-xl-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/k2hbPPT/feliz-lindo-nino-nina-lavado-vegetal-fruta-limpio-97632-1116-removebg-preview-1.png"    width="300" >
                 </div>
             </div>
@@ -236,14 +236,14 @@
 
         <div class="container-fluid mb-5">
             <div class="row">
-                <div class="col-md-6 mt-5">
+                <div class="col-xl-6 mt-5">
                     <h2>
                         5. Báñate todos los días
 
                     </h2>
 
                 </div>
-                <div class="col-md-6 mb-5">
+                <div class="col-xl-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/BLyxpcQ/nino-banandose-banera-espuma-7710-125-removebg-preview.png"   width="300" >
                 </div>
             </div>
@@ -252,14 +252,14 @@
 
         <div class="container-fluid mb-5">
             <div class="row">
-                <div class="col-md-6 mt-5">
+                <div class="col-xl-6 mt-5">
                     <h2>
                         6. Hierve o clora el agua para beber
 
 
                     </h2>
                 </div>
-                <div class="col-md-6 mb-5">
+                <div class="col-xl-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/swYJ5SL/60046209-hervir-el-agua-en-la-bandeja-olla-negro-en-la-estufa-con-agua-y-vapor-elementos-gr-ficos-de.png"   width="300" >
                 </div>
             </div>
@@ -268,7 +268,7 @@
 
         <div class="container-fluid mb-5">
             <div class="row">
-                <div class="col-md-6 mt-5">
+                <div class="col-xl-6 mt-5">
                     <h2>
                         7. Mantén limpia la casa, el centro educativo
 
@@ -276,7 +276,7 @@
 
                     </h2>
                 </div>
-                <div class="col-md-6 mb-5">
+                <div class="col-xl-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/vx7LQ7T/nino-mantiene-medio-ambiente-limpio-candidiasis-cubo-basura-33070-4882-removebg-preview.png"    width="300" >
                 </div>
             </div>
@@ -285,13 +285,13 @@
 
         <div class="container-fluid mb-5">
             <div class="row">
-                <div class="col-md-6 mt-5">
+                <div class="col-xl-6 mt-5">
                     <h2>
                         8. No tires basura en lugares no adecuados.
 
                     </h2>
                 </div>
-                <div class="col-md-6 mb-5">
+                <div class="col-xl-6 mb-5">
                     <img class="mx-auto d-block" src="https://i.ibb.co/Xy0prmX/depositphotos-144558237-stock-illustration-boy-littering-part-of-bad-removebg-preview.png"     width="300" >
                 </div>
             </div>

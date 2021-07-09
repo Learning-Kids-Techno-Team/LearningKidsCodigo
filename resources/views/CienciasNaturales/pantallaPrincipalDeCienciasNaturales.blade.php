@@ -69,7 +69,7 @@
 <!-- carrousel-->
 <div class="row" >
     <!-- contenedor-->
-    <div class="col-md-12">
+    <div class="col-xl-12">
         <div class="carousel slide" id="carousel-896190">
             <ol class="carousel-indicators">
                 <li data-slide-to="0" data-target="#carousel-896190" class="active">
@@ -104,10 +104,10 @@
 <!-- contenedor-->
 <div class="container-fluid">
     <div class="row" id="color">
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <img class="mx-auto d-block" src="https://i.ibb.co/hR7rTBW/feliz-nino-li-removebg-preview.png"  width="400">
         </div>
-        <div class="col-md-8 ">
+        <div class="col-xl-8 ">
             <h3><br><br><em>Ciencias Naturales</em></h3>
             <p>
                 <br>

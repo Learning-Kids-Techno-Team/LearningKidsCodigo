@@ -110,9 +110,9 @@
 <!-- contenedor-->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-info ">
+        <div class="col-xl-12 bg-info ">
             <div class="row">
-                <div class="col-md-7  mt-5 mx-auto d-block" style="background: #FDFD96;">
+                <div class="col-xl-7  mt-5 mx-auto d-block" style="background: #FDFD96;">
                     <img src="https://i.ibb.co/gv5GxKb/sen-removebg-preview-1-removebg-preview-2.png"   width="430" class="mx-auto d-block" >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: #D8E2F3;"  >
@@ -132,7 +132,7 @@
 
 <div class="container-fluid d-flex justify-content-center p-5" >
     <div class="row " >
-        <div class="col-md-12 ">
+        <div class="col-xl-12 ">
             <div class="card mx-auto d-block" >
                 <iframe src="https://drive.google.com/file/d/1EX7dI9gQnsMVVUKymOA9iwh9iOkdvGhH/preview"  width="400" height="350"></iframe>
 
@@ -145,7 +145,7 @@
 
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 mb-5" style="background: #F79458;">
+        <div class="col-xl-12 mb-5" style="background: #F79458;">
             <h1 style="text-align: center">¿Cuáles son los 5 sentidos?</h1>
         </div>
     </div>
@@ -153,7 +153,7 @@
 <div class="container-fluid">
     <div class="row"  style="background: #F8FEBE" >
         <!-- tarjeta1 -->
-        <div class="col-md-4 p-5" >
+        <div class="col-xl-4 p-5" >
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/NpX0Dmd/oido.jpg" alt="oido" class="card mx-auto d-block"   height="180" width="180">
                 <div class="card-body">
@@ -165,7 +165,7 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-4 p-5">
+        <div class="col-xl-4 p-5">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/27MLMkx/vista.png" alt="vista"  class="card mx-auto d-block"   height="180" width="180">
                 <div class="card-body">
@@ -176,7 +176,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-4 p-5">
+        <div class="col-xl-4 p-5">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/RQ7F6py/olfato.jpg" alt="olfato"   class="card mx-auto d-block"   height="180" width="180">
                 <div class="card-body">
@@ -187,7 +187,7 @@
         </div>
         <div class="container-fluid">
             <div class="row" style="background: #F8FEBE">
-                <div class="col-md-6 p-5">
+                <div class="col-xl-6 p-5">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/xfVwDKk/tacto.jpg" alt="tacto" class="card mx-auto d-block"  height="180" width="180">
                         <div class="card-body">
@@ -197,7 +197,7 @@
                     </div>
                 </div>
                 <!-- tarjeta5-->
-                <div class="col-md-6 p-5">
+                <div class="col-xl-6 p-5">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/ZhkgbKZ/gusto.jpg" alt="gusto" class="card mx-auto d-block"  height="180" width="180">
                         <div class="card-body">
@@ -208,13 +208,13 @@
                 </div>
                 <div  class="container-fluid">
                     <div class="row">
-                        <div class="col-md-12  mb-5" style="background: #F79458;">
+                        <div class="col-xl-12  mb-5" style="background: #F79458;">
                             <h1 style="text-align: center">Desarrollando el sentido del Oído</h1>
                         </div>
                     </div>
                     <div class="container-fluid d-flex justify-content-center p-5" >
                         <div class="row " >
-                            <div class="col-md-12 ">
+                            <div class="col-xl-12 ">
                                 <div class="card" >
                                     <iframe src="https://drive.google.com/file/d/1KLbqQmGZ6K2mpG6Y-dorjwkGVi5yHnVl/preview"  width="400" height="350"></iframe>
 
@@ -226,13 +226,13 @@
                     </div>
                     <div  class="container-fluid">
                         <div class="row">
-                            <div class="col-md-12  mb-5" style="background: #F79458";>
+                            <div class="col-xl-12  mb-5" style="background: #F79458";>
                                 <h1 style="text-align: center">Desarrollando el sentido de la vista</h1>
                             </div>
                         </div>
                         <div class="container-fluid d-flex justify-content-center p-5" >
                             <div class="row " >
-                                <div class="col-md-12 ">
+                                <div class="col-xl-12 ">
                                     <div class="card" >
                                         <iframe src="https://drive.google.com/file/d/1jkC6A-mE7lMExmtwBEjD2kteoIg89703/preview"  width="400" height="300"></iframe>
 
@@ -244,13 +244,13 @@
                         </div>
                         <div  class="container-fluid">
                             <div class="row">
-                                <div class="col-md-12  mb-5" style="background: #F79458";>
+                                <div class="col-xl-12  mb-5" style="background: #F79458";>
                                     <h1 style="text-align: center">Desarrollando el sentido del Tacto</h1>
                                 </div>
                             </div>
                             <div class="container-fluid d-flex justify-content-center p-5" >
                                 <div class="row " >
-                                    <div class="col-md-12 ">
+                                    <div class="col-xl-12 ">
                                         <div class="card">
                                             <iframe src="https://drive.google.com/file/d/1PhckBpOuYxOfcwN2kvEw64_ML6dpR1Q4/preview"  width="400" height="350"></iframe>
                                                 <h5 class="card-title">Texturas</h5>
@@ -261,14 +261,14 @@
                             </div>
                             <div  class="container-fluid">
                                 <div class="row">
-                                    <div class="col-md-12 mb-5" style="background: #F79458";>
+                                    <div class="col-xl-12 mb-5" style="background: #F79458";>
                                         <h1 style="text-align: center">Desarrollando el sentido del Gusto</h1>
                                     </div>
                                 </div>
                                 <div class="container-fluid">
                                     <div class="row"  style="background: #F8FEBE" >
                                         <!-- tarjeta1 -->
-                                        <div class="col-md-6 p-4" >
+                                        <div class="col-xl-6 p-4" >
                                             <div class="card mx-auto d-block" style="width: 18rem;">
                                                 <img src="https://i.ibb.co/6m5RmX1/dulce.jpg" alt="dulce" class="card mx-auto d-block"   height="180" width="180">
                                                 <div class="card-body">
@@ -283,7 +283,7 @@
                                             </div>
                                         </div>
                                         <!-- tarjeta2 -->
-                                        <div class="col-md-6 p-4">
+                                        <div class="col-xl-6 p-4">
                                             <div class="card mx-auto d-block" style="width: 18rem;">
                                                 <img src="https://i.ibb.co/x15yMjK/salados.jpg" alt="salados"  class="card mx-auto d-block"   height="180" width="180">
                                                 <div class="card-body">
@@ -300,7 +300,7 @@
                                         <div class="container-fluid">
                                             <div class="row"  style="background: #F8FEBE" >
                                                 <!-- tarjeta1 -->
-                                                <div class="col-md-6 p-4" >
+                                                <div class="col-xl-6 p-4" >
                                                     <div class="card mx-auto d-block" style="width: 18rem;">
                                                         <img src="https://i.ibb.co/R051KyT/amargos.jpg" alt="amargos"  class="card mx-auto d-block"   height="180" width="280">
                                                         <div class="card-body">
@@ -315,7 +315,7 @@
                                                     </div>
                                                 </div>
                                                 <!-- tarjeta2 -->
-                                                <div class="col-md-6 p-4">
+                                                <div class="col-xl-6 p-4">
                                                     <div class="card mx-auto d-block" style="width: 18rem;">
                                                         <img src="https://i.ibb.co/whXf9r5/acidos.jpg" alt="acidos"  class="card mx-auto d-block"   height="180" width="280">
                                                         <div class="card-body">
@@ -332,14 +332,14 @@
                                             </div>
                                             <div  class="container-fluid">
                                                 <div class="row">
-                                                    <div class="col-md-12  mb-5" style="background: #F79458";>
+                                                    <div class="col-xl-12  mb-5" style="background: #F79458";>
                                                         <h1 style="text-align: center">Desarrollando el sentido del Olfato</h1>
                                                     </div>
                                                 </div>
                                                 <div class="container-fluid">
                                                     <div class="row"  style="background: #F8FEBE" >
                                                         <!-- tarjeta1 -->
-                                                        <div class="col-md-6 p-4" >
+                                                        <div class="col-xl-6 p-4" >
                                                             <div class="card mx-auto d-block" style="width: 18rem;">
                                                                 <img src="https://i.ibb.co/XkwkQVC/agradable1-removebg-preview.png" alt="agradable1-removebg-preview"  class="card mx-auto d-block"   height="180" width="180">
                                                                 <div class="card-body">
@@ -350,7 +350,7 @@
                                                             </div>
                                                         </div>
                                                         <!-- tarjeta2 -->
-                                                        <div class="col-md-6 p-4">
+                                                        <div class="col-xl-6 p-4">
                                                             <div class="card mx-auto d-block" style="width: 18rem;">
                                                                 <img src="https://i.ibb.co/0jhK52Y/agradable2-removebg-preview.png" alt="agradable2-removebg-preview" class="card mx-auto d-block"   height="180" width="180">
                                                                 <div class="card-body">
@@ -363,7 +363,7 @@
                                                         <div class="container-fluid">
                                                             <div class="row"  style="background: #F8FEBE" >
                                                                 <!-- tarjeta1 -->
-                                                                <div class="col-md-6 p-4" >
+                                                                <div class="col-xl-6 p-4" >
                                                                     <div class="card mx-auto d-block" style="width: 18rem;">
                                                                         <img src="https://i.ibb.co/Rbyfw1T/desagradable2.jpg" alt="desagradable2"  class="card mx-auto d-block"   height="180" width="250">
                                                                         <div class="card-body">
@@ -374,7 +374,7 @@
                                                                     </div>
                                                                 </div>
                                                                 <!-- tarjeta2 -->
-                                                                <div class="col-md-6 p-4">
+                                                                <div class="col-xl-6 p-4">
                                                                     <div class="card mx-auto d-block" style="width: 18rem;">
                                                                         <img src="https://i.ibb.co/7nt2mrT/desagradable1-removebg-preview.png" alt="desagradable1-removebg-preview"  class="card mx-auto d-block"   height="180" width="180">
                                                                         <div class="card-body">

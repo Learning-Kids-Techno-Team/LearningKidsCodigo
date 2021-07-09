@@ -136,9 +136,9 @@
 <!-- contenedor-->
 <div class="container-fluid mt-5"  >
     <div class="row">
-        <div class="col-md-12"  >
+        <div class="col-xl-12"  >
             <div class="row ml-5 mr-5" id="borde">
-                <div class="col-md-4  " style="background: lightgreen" >
+                <div class="col-xl-4  " style="background: lightgreen" >
                     <img class=" mx-auto d-block"   src="https://i.ibb.co/BsjWJ7K/nin-removebg-preview.png" width="340"  >
                 </div>
                 <div class="col-xl-8 " style=" background: #D2FFB5;" >
@@ -163,7 +163,7 @@
 
 <div class="container-fluid d-flex justify-content-center  " >
     <div class="row p-5 ">
-        <div class="col-md-12  " id="bor" style="background: yellow">
+        <div class="col-xl-12  " id="bor" style="background: yellow">
 
             <h3>Son Seres Vivos:
             </h3>
@@ -174,7 +174,7 @@
 
 <div class="container-fluid pb-5" >
     <div  class="row" >
-        <div class="col-md-4 pb-4">
+        <div class="col-xl-4 pb-4">
 
             <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
@@ -186,7 +186,7 @@
             </div>
         </div>
 
-        <div class="col-md-4 pb-4 ">
+        <div class="col-xl-4 pb-4 ">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Animales</h2>
 
@@ -199,7 +199,7 @@
             </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Personas</h2>
 
@@ -215,7 +215,7 @@
 
 <div class="container-fluid d-flex justify-content-center pb-5" >
     <div class="row ">
-        <div class="col-md-12  " id="bor" style="background: yellow">
+        <div class="col-xl-12  " id="bor" style="background: yellow">
 
             <h3>Los Seres vivos tienen un ciclo de Vida:
             </h3>
@@ -225,7 +225,7 @@
 
 <div class="container-fluid " >
     <div  class="row" >
-        <div class="col-md-3 pb-4">
+        <div class="col-xl-3 pb-4">
 
             <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Nacen</h2>
@@ -236,7 +236,7 @@
             </div>
         </div>
 
-        <div class="col-md-3 pb-4 ">
+        <div class="col-xl-3 pb-4 ">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Crecen</h2>
             </div>
@@ -246,7 +246,7 @@
 
             </div>
         </div>
-        <div class="col-md-3 pb-4">
+        <div class="col-xl-3 pb-4">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Reproducen</h2>
             </div>
@@ -258,7 +258,7 @@
         </div>
 
 
-        <div class="col-md-3 pb-4">
+        <div class="col-xl-3 pb-4">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <h2>Mueren</h2>
             </div>
@@ -273,7 +273,7 @@
 
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-warning mt-1">
+        <div class="col-xl-12 bg-warning mt-1">
             <h1 style="text-align: center"></h1>
 
         </div>
@@ -281,7 +281,7 @@
 </div>
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-warning mt-1">
+        <div class="col-xl-12 bg-warning mt-1">
             <h1 style="text-align: center"></h1>
         </div>
     </div>
