@@ -87,7 +87,7 @@
 <!-- contenedor del gif-->
 <div class="container-fluid" id="h">
     <div class="row">
-        <div class="col-md-8 ">
+        <div class="col-xl-8 ">
             <h2 id="color">Refranes</h2>
             <p>
                 Los refranes son dichos populares y anónimos pero la finalidad de ellos es transmitir una enseñanza o mensaje instructivo, moral o de sabio estimulando en el individuo la reflexión moral e intelectual. Asimismo, los refranes se caracterizan por estar estructurados en versos y rima en asonancia o consonancia.
@@ -102,7 +102,7 @@
 
 
         </div>
-        <div class="col-md-4 " >
+        <div class="col-xl-4 " >
 
             <img src="https://i.ibb.co/92ptbM5/2c2d6365a017568bc041de51a2aecb0f-removebg-preview.png" width="200" class="mx-auto d-block">
 
@@ -110,11 +110,11 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5 " >
-    <div class="row m-5" >
+<div class="container-fluid pt-4" >
+    <div class="row" >
         <div class="col-xl-4 pb-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://cdn5.dibujos.net/dibujos/pintados/201631/hora-de-levantarse-la-casa-la-habitacion-10758156.jpg" width="280" height="200" class="card-img-top"  alt="...">
                 <div class="card-body">
                     <h5 class="card-title">A quien madruga, Dios le ayuda.</h5>
@@ -128,7 +128,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-4 pb-5">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/nino-lupa-buscando-algo_7710-97.jpg" width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title"><br> El que busca encuentra.</h5>
@@ -143,7 +143,7 @@
         </div>
         <!-- tarjetas3 -->
         <div class="col-xl-4 pb-5">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.pinimg.com/originals/4c/0a/8e/4c0a8e4a542c70990621b2c10e1e46a5.jpg"  width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Más vale pájaro en mano que ciento volando.</h5>
@@ -159,12 +159,12 @@
 </div>
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid  " >
+    <div class="row" >
         <div class="col-xl-4 pb-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
-                <img src="https://image.freepik.com/vector-gratis/pareja-ninos-hablando-ellos_7710-121.jpg"   width="280" height="200"  alt="...">
+            <div class="card mx-auto d-block" style="width: 18rem;">
+                <img src="https://image.freepik.com/vector-gratis/pareja-ninos-hablando-ellos_7710-121.jpg"   width="280" height="200"  >
                 <div class="card-body">
                     <h5 class="card-title"> A buen entendedor pocas palabras bastan.</h5>
                     <p class="card-text"><br> A buen entendedor pocas palabras bastan </p>
@@ -177,7 +177,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-4 pb-5">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/nino-tiene-monedas_160901-1500.jpg" width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">No es oro todo lo que reluce</h5>
@@ -191,7 +191,7 @@
         </div>
         <!-- tarjetas3 -->
         <div class="col-xl-4 pb-5">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://img.freepik.com/vector-gratis/feliz-nino-lindo-nino-hacer-proceso-vestir_97632-1134.jpg?size=626&ext=jpg"  width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Vísteme despacio que tengo prisa</h5>
@@ -209,11 +209,11 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid" >
+    <div class="row" >
         <div class="col-xl-4 pb-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/nino-pensando-mientras-escribe-algo-papel_7710-167.jpg"   width="280" height="200" class="card-img-top"  alt="...">
                 <div class="card-body">
                     <h5 class="card-title"> Rectificar es de sabios.</h5>
@@ -227,7 +227,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-4 pb-5 ">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.pinimg.com/originals/3c/92/2d/3c922d45aea03fd4a9eb2e534e0c9acd.jpg" width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title"> A falta de pan, buenas son tortas.</h5>
@@ -241,7 +241,7 @@
         </div>
         <!-- tarjetas3 -->
         <div class="col-xl-4 pb-5">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://www.pekelandia.com/wp-content/uploads/2011/03/mas-vale-mana-que-fuerza.jpg"  width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Más vale maña que fuerza</h5>
@@ -259,11 +259,11 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid" >
+    <div class="row" >
         <div class="col-xl-4 pb-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/nino-tapandose-oidos-ruido_7710-138.jpg"  class="card-img-top" width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">A palabras necias oídos sordos.</h5>
@@ -277,7 +277,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-4 pb-5 ">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.pinimg.com/474x/2f/3b/c5/2f3bc5166d54d4610bff98b05d07dacc.jpg" width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">En boca cerrada no entran moscas.</h5>
@@ -291,7 +291,7 @@
         </div>
         <!-- tarjetas3 -->
         <div class="col-xl-4 pb-5">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://previews.123rf.com/images/yupiramos/yupiramos1709/yupiramos170927441/87020359-reloj-de-alarma-kawaii-hora-de-alerta-hora-de-dibujos-animados-vector-ilustraci%C3%B3n-de-dibujos-animados.jpg"  width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Más vale tarde que nunca.</h5>
@@ -308,11 +308,11 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid" >
+    <div class="row" >
         <div class="col-xl-4 pb-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://previews.123rf.com/images/lenm/lenm1503/lenm150300111/37686359-ilustraci%C3%B3n-de-un-ni%C3%B1o-que-pone-dinero-sobre-la-mesa.jpg"  class="card-img-top"  width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Cuando más se tiene, más se quiere</h5>
@@ -326,7 +326,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-4 pb-5 ">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/escena-nina-triste-llorando-habitacion_1308-43362.jpg" width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title"> No hay mal que por bien no venga</h5>
@@ -340,7 +340,7 @@
         </div>
         <!-- tarjetas3 -->
         <div class="col-xl-4 pb-5">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://www.pngkit.com/png/detail/160-1608359_dibujo-de-molino-de-agua.png"  width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Agua pasada no mueve molino</h5>
@@ -357,11 +357,11 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid" >
+    <div class="row" >
         <div class="col-xl-4 pb-5">
             <!-- tarjeta 1 -->
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/dibujos-animados-nina-nino-sonriendo_24911-13695.jpg"  class="card-img-top" width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Al mal tiempo, buena cara</h5>
@@ -375,7 +375,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-4 pb-5 ">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://img.freepik.com/vector-gratis/personajes-nino-nina-ojos-vendados-jugar-juegos-infantiles_124715-4.jpg?size=626&ext=jpg" width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title"> No hay más ciego que el que no quiere ver</h5>
@@ -389,7 +389,7 @@
         </div>
         <!-- tarjetas3 -->
         <div class="col-xl-4 pb-5">
-            <div class="card" style="width: 18rem;">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://us.123rf.com/450wm/lenm/lenm1002/lenm100200010/6437488-muchacho-meti%C3%A9ndose-boca-.jpg?ver=6"  width="280" height="200" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">El que calla, otorga</h5>
