@@ -82,14 +82,14 @@
         </div>
         <div class="col-md-8" style="text-align: justify;">
             <h2 id="color"><em><br>¡El Medio Ambiente!</em></h2>
-            <h3 id="color" style="text-align: center "><em><br>Ambiente Contaminado</em></h3>
-            <p id="color"><em><strong>Contaminación ambiental a la presencia de componentes nocivos
+            <h3 id="color" style="text-align: center "><br>Ambiente Contaminado</h3>
+            <p id="color" style="text-align:justify; font-size: large"><strong>Contaminación ambiental a la presencia de componentes nocivos
                         (ya sean químicos, físicos o biológicos) en el medio ambiente (entorno natural y artificial),
                         que supongan un perjuicio para los seres vivos que lo habitan, incluyendo a los seres humanos
                         y animales.<br>
                         La contaminación ambiental está originada principalmente por causas derivadas de la actividad humana.
-
-                    </strong></em></p><br><br>
+                </strong>
+                    </p><br><br>
         </div>
     </div>
 </div>
