@@ -36,7 +36,8 @@
 
         p{
             text-align: justify;
-            font-family: bold, Georgia;
+
+
 
         }
 
@@ -55,12 +56,10 @@
             color: red;
         }
         h1{
-            font-family: Brush Script MT;
             size: 80px;
 
         }
         h3{
-            font-style:italic;
             color:#3B5686
 
 
@@ -72,7 +71,6 @@
         h2{
             text-align: center;
             color: #3B5686;
-            font-family: bold;
         }
         #bor{
             border: oldlace 5px dashed;
@@ -86,7 +84,6 @@
             background: #60A71B;;
         }
         h5{
-            font-family: bold;
             padding-top: 20px;
             text-align: center;
         }

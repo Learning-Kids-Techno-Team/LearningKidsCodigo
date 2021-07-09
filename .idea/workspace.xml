@@ -26,12 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 15 Luz Bonilla">
-      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/cicloAgua.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/cicloAgua.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/derechosYDeberes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/derechosYDeberes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/familia.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/familia.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/pantallaPrincipalDeLaClaseDeCienciasSociales.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/sentimientos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/sentimientos.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaBilletes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaBilletes.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,20 +229,6 @@
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="12572000" />
       <workItem from="1625782865124" duration="269000" />
-    </task>
-    <task id="LOCAL-00013" summary="Sindy G. Sprint1">
-      <created>1603535608588</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1603535608588</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Sprint2 Sindy G.">
-      <created>1603573936512</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1603573936512</updated>
     </task>
     <task id="LOCAL-00015" summary="Sprint Techno Team">
       <created>1604982966578</created>
@@ -577,7 +559,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625771946105</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Sprint 15 Luz Bonilla">
+      <created>1625810538553</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1625810538944</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Sprint 15 Luz Bonilla">
+      <created>1625810639338</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1625810639338</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -630,10 +626,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="283" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1618974942310" />
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1625772025695">
+    <state x="305" y="124" key="Vcs.Push.Dialog.v2" timestamp="1625810643268">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1625772025695" />
+    <state x="305" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1625810643268" />
     <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625781490558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
