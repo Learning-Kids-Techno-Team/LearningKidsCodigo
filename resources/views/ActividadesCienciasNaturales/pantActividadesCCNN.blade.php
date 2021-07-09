@@ -89,7 +89,7 @@
 <div class="container-fluid">
     <div class="row pb-5">
         <div class="col-md-12" style="background: #FEB472" id="fondo" >
-            <img src="https://i.ibb.co/5Rn4hjN/pasted-image-0-removebg-preview.png"  width="600" class=" mx-auto d-block"/>
+            <img src="https://i.ibb.co/5Rn4hjN/pasted-image-0-removebg-preview.png"  width="430" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -144,7 +144,7 @@
 
 
         <div class="container-fluid">
-            <div class="row pt-5  "  style="background: #F8FEBE">
+            <div class="row pb-4  "  style="background: #F8FEBE">
                 <!-- tarjeta 1 -->
                 <div class="col-md-4 pb-5 d-flex justify-content-center" >
                     <div class="card"  style="width: 18rem;" >
