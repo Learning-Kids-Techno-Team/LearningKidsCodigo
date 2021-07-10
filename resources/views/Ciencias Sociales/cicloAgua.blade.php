@@ -135,8 +135,8 @@
     <div class="row" >
         <div class="col-md-12" >
             <div class="row ml-5 mr-5"  >
-                <div class="col-md-6" >
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/SxDfK3s/lluvia-ni-os-removebg-preview.png"  width="300"  >
+                <div class="col-md-6 mx-auto d-block" >
+                    <img class="mt-5 " src="https://i.ibb.co/SxDfK3s/lluvia-ni-os-removebg-preview.png"  width="300"  >
                 </div>
                 <div class="col-xl-6  mt-5" style=" background: #FDC7FF" id="borde">
 
@@ -158,7 +158,7 @@
     </div>
 </div>
 <div  class="container-fluid mt-5">
-    <div class="row">
+    <div class="row ">
         <div class="col-md-12">
             <img class=" mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/KLMtM1t/evaporacion-c.png"  width="600" style="border: dashed  palevioletred" />
         </div>
@@ -167,8 +167,8 @@
 </div>
 
 <div class="container-fluid justify-content-center  pl-5" >
-    <div class="row m-5 pl-5 ">
-        <div class="col-md-6 pb-3 pl-5" >
+    <div class="row m-5  ">
+        <div class="col-md-6 pb-3 " >
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/64vTsX8/ciclo-evaporacion.jpg"  width="388" height="280">
                 <div class="card-body">
@@ -179,7 +179,7 @@
         </div>
 
 
-        <div class="col-md-4 justify-content-center pl-5">
+        <div class="col-md-6 justify-content-center ">
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/3W4C1ff/cinfilgracion.jpg"   width="388" height="280">
                 <div class="card-body">
@@ -194,8 +194,8 @@
 </div>
 
 <div class="container-fluid justify-content-center  pl-5" >
-    <div class="row m-5 pl-5"  >
-        <div class="col-md-6 pb-3 pl-5" >
+    <div class="row m-5 "  >
+        <div class="col-md-6 pb-3 " >
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/71ZjxHn/ciclo-condensacion.jpg"   class=" mx-auto d-block" width="388" height="280" >
                 <div class="card-body">
@@ -206,7 +206,7 @@
         </div>
 
 
-        <div class="col-md-4 justify-content-center pl-5">
+        <div class="col-md-6 justify-content-center ">
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/7WgfdNc/preci.jpg" width="385" height="300">
                 <div class="card-body">
@@ -220,8 +220,8 @@
     </div>
 </div>
 <div class="container-fluid justify-content-center  pl-5" >
-    <div class="row m-5 pl-5">
-        <div class="col-md-12 pb-3 pl-5">
+    <div class="row m-5 ">
+        <div class="col-md-12 pb-3 ">
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/pbChrkZ/escorrentia.jpg" class=" mx-auto d-block" width="388" height="300" >
                 <div class="card-body">
