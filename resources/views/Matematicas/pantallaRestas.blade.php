@@ -50,6 +50,7 @@
         p{
             text-align: justify;
 
+
         }
         .card-title{
             color: orangered;
@@ -147,7 +148,7 @@
 
 <div class="container-fluid d-flex justify-content-center p-5" >
     <div class="row " >
-        <div class="col-md-12 ">
+        <div class="col-xl-12 ">
             <div class="card" style="width: 40rem;">
                  <iframe src="https://drive.google.com/file/d/1JA2SKHmUjkosTPVCqigPmZug3cceCka7/preview" width="628" height="300"></iframe>
                 <div class="card-body" id="im">
@@ -160,28 +161,26 @@
 
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-warning mb-5">
+        <div class="col-xl-12 bg-warning mb-5">
             <h1 style="text-align: center">Partes de la resta</h1>
         </div>
         </div>
 </div>
 
 <!-- contenido de la resta-->
-<div class="container-fluid" >
+<div class="container-fluid">
     <div class="row">
         <div class="col-xl-12 ">
-
             <h3>En la resta se tienen tres elementos:</h3>
         </div>
     </div>
 </div>
 
 <div class="container-fluid">
-    <h3 class="mt-3">Minuendo</h3>
     <div class="row">
-
         <div class="col-xl-6">
-            <p id="pa" >El minuendo es la parte inicial de la resta, es el valor que se reducirá.
+        <h3 class="mt-3">Minuendo</h3>
+            <p >El minuendo es la parte inicial de la resta, es el valor que se reducirá.
 
                 Cabe mencionar que la resta no es conmutativa, si se cambia el orden del minuendo con el sustraendo, el resultado puede variar. Tampoco es asociativa, el orden de cómo se realice la operación es crucial para que la diferencia sea otro número natural.</p>
     </div>
@@ -194,11 +193,10 @@
 
 
 <div class="container-fluid">
-    <h3 class="mt-3">Sustraendo</h3>
     <div class="row">
-
-        <div class="col-xl-6">
-            <p id="pa" >Es aquel segundo número que va a ser removido durante una operación de resta.</p>
+        <div class="col-xl-6 ">
+        <h3 class="mt-3">Sustraendo</h3>
+            <p >Es aquel segundo número que va a ser removido durante una operación de resta.</p>
         </div>
         <div class="col-xl-6 mt-n3">
             <img class="mx-auto d-block" src="https://i.ibb.co/CbjK7dD/Captura-de-pantalla-282-removebg-preview.png" width="430">
@@ -207,16 +205,14 @@
 </div>
 
 
-
 <div class="container-fluid">
-    <h3 class="mt-3">Diferencia</h3>
     <div class="row">
-
         <div class="col-xl-6">
-            <p id="pa" >Es el resultado obtenido luego de sustraer. Si se desea comprobar que si está correcta la diferencia, tan simplemente se suma la diferencia y el sustraendo. El valor será la misma cifra que el minuendo. Esta es la propiedad clave de la resta.</p>
+            <h3 class="mt-3">Diferencia</h3>
+            <p>Es el resultado obtenido luego de sustraer. Si se desea comprobar que si está correcta la diferencia, tan simplemente se suma la diferencia y el sustraendo. El valor será la misma cifra que el minuendo. Esta es la propiedad clave de la resta.</p>
         </div>
-        <div class="col-md-6 mt-n3">
-            <img class="mx-auto d-block" src="https://i.ibb.co/p3kqH0H/Captura-de-pantalla-285-removebg-preview.png"  width="430">
+        <div class="col-xl-6 mt-n3">
+            <img class="mx-auto d-block" src="https://i.ibb.co/p3kqH0H/Captura-de-pantalla-285-removebg-preview.png"  width="440">
         </div>
     </div>
 </div>
