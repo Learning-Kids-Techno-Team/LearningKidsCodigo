@@ -30,7 +30,7 @@
 
     .card {
         border-bottom-left-radius: 30%;
-        background: honeydew;
+        background: white;
 
     }
     .navbar{
@@ -77,8 +77,8 @@
 
 <div class="container-fluid">
     <div class="row">
-        <div class="col-xl-12 p-5" style="background:blanchedalmond"  id="fondo" >
-            <img src="https://i.ibb.co/QY8MWGQ/muchos-juguetes-libros-dormitorio-1308-9759-removebg-preview.png"    class=" mx-auto d-block"/>
+        <div class="col-xl-12 " style="background:blanchedalmond"  id="fondo" >
+            <img src="https://i.ibb.co/QY8MWGQ/muchos-juguetes-libros-dormitorio-1308-9759-removebg-preview.png" class="mx-auto d-block" />
 
         </div>
     </div>
@@ -86,109 +86,124 @@
 <div id="separadorDePagina" class="container-fluid" style="background: #DCFECB">
     <div class="row">
         <div class="col-xl-4 ">
+            <br> <br>
             <img src="https://i.ibb.co/C1BndsH/vector-doll-and-ball-on-wooden-shelf-removebg-preview.png" width="300" class="mx-auto d-block "/>
         </div>
-        <div class="col-md-8">
+
+    <div class="col-xl-8">
+            <br>
             <h2 class="text-center" >
-                <br>
-               Relación De Objetos
+               Relación de objetos
+
             </h2>
-            <p>
+            <br>
+            <p class="text-justify">
                 <strong>
                        Es la representación y significado de un objeto.
-                        En la vida cotidiana los niños al relacionar los objetos que lo rodea y establecer experencias
+                        En la vida cotidiana los niños al relacionar los
+                        objetos que lo rodea y establecer experencias
                         pre-numéricas, como: comparar, clasificar, identificar,
-                        reunir, establecer relaciones uno a uno.<br>
+                        reunir, establecer relaciones uno a uno.
                     </strong></p>
+        <br>
 
     </div>
 </div>
 
 </div>
+</div>
 
 
 <div  class="container-fluid " style="background: blanchedalmond">
-    <div class="row m-4 ">
-        <div class="col-md-12 pb-4 ">
+    <div class="row  ">
+        <div class="col-md-12 ">
             <br>
             <h3>Distingamos Objetos</h3>
         </div>
     </div>
 
-    <div class="container-fluid center-block pl-5"   >
-        <div class="row m-5" >
-            <div class="col-md-4 pb-3">
-            <div class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/tDcKNs9/dibujos-animados-madre-bebe-elefante-29190-5257.jpg"  class=" mx-auto d-block" width="285" height="180" >
+    <div class="container-fluid center-block "   >
+        <div class="row " >
+            <div class="col-xl-4 p-5">
+            <div class="card  mx-auto d-block"  style="width: 18rem;">
+                <img src="https://i.ibb.co/tDcKNs9/dibujos-animados-madre-bebe-elefante-29190-5257.jpg"  class=" mx-auto d-block"  height="180" >
                 <div class="card-body">
-                    <h5 class="card-title">Distingo Tamaños</h5>
-                    <a style=" background: darkorange" href=" {{ url('/RelacionObjetTamaños') }}" class="btn btn-danger">Leer</a>
+                    <h5 class="card-title; text-center">Distingo Tamaños</h5>
+                    <div class="text-center">
+                    <a  style=" background: darkorange" href=" {{ url('/RelacionObjetTamaños') }}" class="btn btn-danger">Leer</a>
+                    </div>
                 </div>
             </div>
         </div>
 
 
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-5">
+            <div class="card  mx-auto d-block" style="width: 18rem;">
                 <img  src="https://i.ibb.co/MGZrQ3J/46648063-cartoon-mujer-en-vestido-negro-flaco-y-con-sobrepeso-la-p-rdida-de-peso-antes-y-despu-s-de.jpg" width="285" height="180">
                 <div class="card-body">
-                    <h5 class="card-title">Distingo Espesores</h5>
+                    <h5 class="card-title; text-center">Distingo Espesores</h5>
+                    <div class="text-center">
                     <a href=" {{ url('/RelacionObjetEspesores') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                    </div>
                 </div>
             </div>
         </div>
 
 
-        <div class="col-md-4">
-            <div class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-5">
+            <div class="card mx-auto d-block"  style="width: 18rem;">
                 <img   src="https://i.ibb.co/dtBN0cQ/cartoon-sun-rainbow.jpg"     width="285" height="180">
                 <div class="card-body">
 
-                    <h5 class="card-title">Distingo Colores</h5>
-
+                    <h5 class="card-title; text-center">Distingo Colores</h5>
+                    <div class="text-center">
                     <a href=" {{ url('/RelacionObjetColores') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                    </div>
                 </div>
             </div>
         </div>
 
         </div>
-
-
-
 
 </div>
-    <div class="container-fluid center-block pl-5" >
-        <div class="row m-5" >
-            <div class="col-md-4 pb-4">
-                <div class="card" style="width: 18rem;">
+    <div class="container-fluid center-block " >
+        <div class="row " >
+            <div class="col-xl-4 p-5">
+                <div  class="card mx-auto d-block"  style="width: 18rem;">
                     <img  src="https://i.ibb.co/zJhVMdy/unnamed.jpg"   width="285" height="180" >
                     <div class="card-body">
-                        <h5 class="card-title">Distingo Distancias</h5>
+                        <h5 class="card-title; text-center">Distingo Distancias</h5>
+                        <div class="text-center">
                         <a style=" background: darkorange" href=" {{ url('/RelacionObjetDistancias') }}" class="btn btn-danger">Leer</a>
                     </div>
+                    </div>
                 </div>
             </div>
 
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
+            <div class="col-xl-4 p-5">
+                <div class="card mx-auto d-block"  style="width: 18rem;">
                     <img  src="https://i.ibb.co/zNCt4Sd/dentro.jpg"  width="285" height="180">
                     <div class="card-body">
-                        <h5 class="card-title">Reconozco Posiciones</h5>
+                        <h5 class="card-title; text-center">Reconozco Posiciones</h5>
+                        <div class="text-center">
                         <a href=" {{ url('/RelacionObjetPosiciones') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                        </div>
                     </div>
                 </div>
             </div>
 
 
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
+            <div class="col-xl-4 p-5">
+                <div class="card mx-auto d-block"  style="width: 18rem;">
                     <img    src="https://i.ibb.co/1bn7f0f/ilustracion-dia-noche-dia-noche-concepto-sol-luna-75817-482.jpg"  width="285" height="180">
                     <div class="card-body">
 
-                        <h5 class="card-title">Reconozco el tiempo</h5>
+                        <h5 class="card-title; text-center">Reconozco el tiempo</h5>
+                        <div class="text-center">
 
                         <a href=" {{ url('/RelacionObjetTiempo') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
-                    </div>
+                        </div>
+                        </div>
                 </div>
             </div>
         </div>
@@ -202,9 +217,8 @@
 </div>
 <div id="separadorInferior " style="background: #FDFD96">
     <div class="content">
-        <img src="https://i.ibb.co/CMjstrv/Captura-de-pantalla-287-removebg-preview.png"   height="80" >
-        <img src="https://i.ibb.co/CMjstrv/Captura-de-pantalla-287-removebg-preview.png"   height="80" >
-        <img src="https://i.ibb.co/CMjstrv/Captura-de-pantalla-287-removebg-preview.png"   height="80" >
+        <img class="mx-auto d-block" src="https://i.ibb.co/CMjstrv/Captura-de-pantalla-287-removebg-preview.png"   height="80" >
+
 
 
     </div>
