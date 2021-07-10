@@ -26,8 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 15 Sindy Galindo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasAnimales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasAnimales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasCortas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasCortas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasFrutas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasFrutas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasNumeros.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasNumeros.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/adivinanzasTransportes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/adivinanzasTransportes.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,13 +231,6 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-    </task>
-    <task id="LOCAL-00014" summary="Sprint2 Sindy G.">
-      <created>1603573936512</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1603573936512</updated>
     </task>
     <task id="LOCAL-00015" summary="Sprint Techno Team">
       <created>1604982966578</created>
@@ -572,7 +568,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625896727036</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Sprint 15 Sindy Galindo">
+      <created>1625898117034</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1625898117034</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

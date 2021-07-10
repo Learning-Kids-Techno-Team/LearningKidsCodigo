@@ -158,7 +158,6 @@
             <p><em><br>
                     Las adivinanzas cortas ayudan al niño a pensar y ejercitar la mente de forma entretenida. Debido a que, se muestran como un divertido juego para el pequeño. Aprovecha los acertijos y realiza actividades didácticas y alegres.
                 </em></p>
-            <p id="color"><em><strong>Las respuestas estan al final.</strong></em></p>
         </div>
     </div>
 </div>
@@ -332,9 +331,6 @@
     <div class="row ">
         <div class="col-md-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/5Rdp7jk/pil-removebg-preview.png" width="250" />
-            <audio  id="player" src="AudiosEspañol/Adivinanzas/RespCort.mp3" controls >
-            </audio>
-
         </div>
 
     </div>

@@ -154,7 +154,6 @@
                     Las adivinanzas de transportes son una forma entretenida y educativa para pasar el rato con los niños. Reta
                     tu mente y pon a prueba tus conocimientos acerca de los medios de transporte respondiendo estos divertidos acertijos.
                 </em></p>
-            <p id="color"><em><strong>Las respuestas estan al final.</strong></em></p>
         </div>
     </div>
 </div>
@@ -318,8 +317,6 @@
         <div class="col-md-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/5Rdp7jk/pil-removebg-preview.png" width="250" />
             <!-- Btn respuestas -->
-            <audio  id="player" src="AudiosEspañol/Adivinanzas/RespTran.mp3" controls >
-            </audio>
         </div>
     </div>
 </div>
