@@ -27,7 +27,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 15 Sindy Galindo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaRestas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaRestas.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/pantallaPrincipalDeLaClaseDeEspañol.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,13 +228,6 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-    </task>
-    <task id="LOCAL-00013" summary="Sindy G. Sprint1">
-      <created>1603535608588</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1603535608588</updated>
     </task>
     <task id="LOCAL-00014" summary="Sprint2 Sindy G.">
       <created>1603573936512</created>
@@ -572,7 +565,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625812503390</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Sprint 15 Sindy Galindo">
+      <created>1625896727036</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1625896727036</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,7 +614,8 @@
     <MESSAGE value="Sprint 11 Luz Bonilla" />
     <MESSAGE value="Sprint 13 Luz Bonilla" />
     <MESSAGE value="Sprint 13 Daniela Mazzoni" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 13 Daniela Mazzoni" />
+    <MESSAGE value="Sprint 15 Sindy Galindo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Sindy Galindo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
