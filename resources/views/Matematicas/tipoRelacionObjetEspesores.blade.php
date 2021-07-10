@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
     <meta charset="utf-8">
 
@@ -47,7 +47,7 @@
 
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
             margin-left: -5px;
             background: #FF7800;
@@ -66,11 +66,6 @@
 
 
 
-        #color{
-            color: darkgreen;
-
-        }
-
     </style>
 </head>
 <body>
@@ -78,53 +73,64 @@
 @section('content')
 
 <!-- contenedor del concep-->
-<div class="container-fluid" id="color">
+<div class="container-fluid" >
     <div class="row ">
         <div class="col-md-4 " >
             <img class="mx-auto d-block" src="https://i.ibb.co/J7z9d3G/6eb1-removebg-preview.png" width="280" />
 
         </div>
         <div class="col-md-8">
-            <h2 id="color"><em><br>¡RELACIÓN DE OBJETOS!</em></h2>
-            <h3 id="color"><em><br>Distingo espesores.</em></h3>
-            <p id="color"><em><strong>
+            <br>
+            <h2 class="text-center">¡RELACIÓN DE OBJETOS!</h2>
+            <h3 class="text-center">Distingo espesores.</h3>
+            <p class="text-justify"><strong>
                         Los espesores se vinculan a que tan grueso o delgado resulta un objeto.
                         Persona o animal fisicamente (gordo o flaco) en relacion de otro.
-                    </strong></em></p><br><br>
+                    </strong></p><br><br>
         </div>
     </div>
 </div>
 
 <!-- contenedor video-->
-<div class="container-fluid" id="color" >
+<div class="container-fluid"  >
     <div class="row">
-        <div class="col-md-12" >
-            <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1QtyXDhPsS5RCn4E0xyD_nZTLrCHzuxg3/preview" width="650" height="400"></iframe>
-            <h5 align="center"></h5>
-        </div>
+        <div class="col-xl-12 " >
+
+            </div> <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1QtyXDhPsS5RCn4E0xyD_nZTLrCHzuxg3/preview"
+                           width="550" height="400"></iframe>
+
+            </div>
     </div>
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>¡Observo y aprendo!</em></h2>
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 28rem;">
+<div class="container-fluid " >
+
+    <h2 class="text-center"><br>¡Observo y aprendo!</h2>
+    <br>
+    <div class="row " >
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block" style="width: 28rem;">
+                <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/5RNKHrq/book-removebg-preview.png"
-                     width="350" height="300"><p align="center"><strong>Grueso</strong></p>
+                     width="350" height="300"><br>
+                <p align="center"><strong>Grueso</strong></p>
+
                 <img class="mx-auto d-block" src="https://i.ibb.co/jyKGv8Z/tration-removebg-preview.png"
                      width="350" height="300"><p align="center"><strong>Delgado</strong></p>
                 <div class="card-body">
-                    <h5 class="card-title" align="center"></h5>
+
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 28rem;">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block" style="width: 28rem;">
+                <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/Ksws8bm/9a55-removebg-preview.png"
-                     width="320" height="300"><p align="center"><strong>Grueso</strong></p>
+                     width="320" height="300">
+                <p align="center"><strong>Grueso</strong></p>
                 <img class="mx-auto d-block" src="https://i.ibb.co/F5qZqw2/lap348-removebg-preview.png"
-                     width="350" height="300"><p align="center"><strong>Delgado</strong></p>
+                     width="350" height="310"><p align="center"><strong>Delgado</strong></p>
                 <div class="card-body">
                     <h5 class="card-title" align="center"></h5>
                 </div>
@@ -133,21 +139,22 @@
     </div>
 </div>
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" id="color">
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <h2 id="color"><em><br>¡Observo y analizo!</em></h2>
-            <div class="card" style="width: 28rem;">
+<div class="container-fluid  ">
+    <div class="row " >
+        <div class="col-xl-6 p-5">
+            <h2 class="text-center"> <em><br>¡Observo y analizo!</em></h2>
+            <div class="card mx-auto d-block" style="width: 28rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/YhJ6cgR/ni-o-removebg-preview.png" width="400" height="350">
                 <div class="card-body">
-                    <h5 class="card-title">Gordo</h5>
-                    <h5 class="card-title" align="center">Flaco</h5>
+
+                    <h5 class="card-title" >Gordos</h5>
+                    <h5 class="card-title; text-center"><br>Flaco</h5>
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <h2 id="color"><em><br>¡Aprendo!</em></h2>
-            <div class="card" style="width: 28rem;">
+        <div class="col-xl-6 p-5">
+            <h2 class="text-center"><br>¡Aprendo!</h2>
+            <div class="card mx-auto d-block" style="width: 28rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/SJf1qTn/torno-removebg-preview.png" width="400" height="350">
                 <div class="card-body">
                     <h5 class="card-title">Gato gordo</h5>
