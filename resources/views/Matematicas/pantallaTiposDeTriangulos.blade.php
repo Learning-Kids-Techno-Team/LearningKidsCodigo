@@ -159,7 +159,7 @@
         </div>
 
         <!-- tarjeta5 -->
-        <div  class="container-fluid center-block pl-5 d-flex justify-content-center"">
+        <div  class="container-fluid center-block pl-5 d-flex justify-content-center">
             <div class="row" style="background: #FFCDA0">
                 <div class="col-md-3 p-4">
                     <div class="card mx-auto d-block " style="width: 18rem;">
@@ -212,10 +212,11 @@
                 </div>
             </div>
         </div>
+</div>
+</div>
 
 
-    <!-- separador -->
-    <div id="separadorInferior2">
+    <div  id="separadorInferior2">
         <div class="content ">
 
         </div>

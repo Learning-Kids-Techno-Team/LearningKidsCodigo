@@ -44,31 +44,11 @@
             border-top-right-radius: 10px;
 
 
-
         }
 
 
-        #pa{
-            text-align: justify;
-
-
-        }
-        #banderin{
-
-
-            margin-top: auto;
-            height:90px;
-
-        }
-        #color{
-            color: white;
-            height: 80px;
-
-
-
-        }
         p{
-            text-align: center;
+            text-align: justify;
 
         }
         .card-title{
@@ -91,8 +71,8 @@
             color: red;
         }
         h1{
-            font-family: Brush Script MT;
-            size: 80px;
+            font-style:italic;
+
 
         }
         h3{
@@ -101,6 +81,7 @@
 
         }
         h4{
+            font-style:italic;
             text-decoration-color: #3B5686;
             text-align: center;
         }
@@ -150,7 +131,7 @@
                     <img class="mt-5" src="https://i.ibb.co/SfTfKWb/ninos-aprendiendo-matematicas-abaco-1308-15835-removebg-preview.png">
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: #fcebcb"  >
-                    <h4>Matemática</h4>
+                    <h4>Matemáticas</h4>
                     <h3 class="mt-5" style="text-align: center">Resta</h3>
                    <p class="" id="pa">
                        <em>Aprender a restar es una de las habilidades que más necesitamos tener para poder realizar nuestras actividades cotidianas. La resta es la inversa de la suma porque en esta, dados los sumandos, hay que hallar la suma de los mismos, mientras que en la resta, dada la suma de dos sumandos y uno de ellos, se halla el otro sumando.
@@ -188,9 +169,9 @@
 <!-- contenido de la resta-->
 <div class="container-fluid" >
     <div class="row">
-        <div class="col-md-12 ">
+        <div class="col-xl-12 ">
 
-            <h3>En la resta se tienen tres elementos.</h3>
+            <h3>En la resta se tienen tres elementos:</h3>
         </div>
     </div>
 </div>
@@ -199,13 +180,13 @@
     <h3 class="mt-3">Minuendo</h3>
     <div class="row">
 
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <p id="pa" >El minuendo es la parte inicial de la resta, es el valor que se reducirá.
 
                 Cabe mencionar que la resta no es conmutativa, si se cambia el orden del minuendo con el sustraendo, el resultado puede variar. Tampoco es asociativa, el orden de cómo se realice la operación es crucial para que la diferencia sea otro número natural.</p>
     </div>
-        <div class="col-md-6 mt-n3">
-            <img src="https://i.ibb.co/WGXbXTF/Captura-de-pantalla-280-removebg-preview.png" width="400">
+        <div class="col-xl-6 mt-n3">
+            <img class="mx-auto d-block" src="https://i.ibb.co/WGXbXTF/Captura-de-pantalla-280-removebg-preview.png" width="400">
         </div>
     </div>
 </div>
@@ -216,11 +197,11 @@
     <h3 class="mt-3">Sustraendo</h3>
     <div class="row">
 
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <p id="pa" >Es aquel segundo número que va a ser removido durante una operación de resta.</p>
         </div>
-        <div class="col-md-6 mt-n3">
-            <img src="https://i.ibb.co/CbjK7dD/Captura-de-pantalla-282-removebg-preview.png" width="430">
+        <div class="col-xl-6 mt-n3">
+            <img class="mx-auto d-block" src="https://i.ibb.co/CbjK7dD/Captura-de-pantalla-282-removebg-preview.png" width="430">
         </div>
     </div>
 </div>
@@ -231,18 +212,18 @@
     <h3 class="mt-3">Diferencia</h3>
     <div class="row">
 
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <p id="pa" >Es el resultado obtenido luego de sustraer. Si se desea comprobar que si está correcta la diferencia, tan simplemente se suma la diferencia y el sustraendo. El valor será la misma cifra que el minuendo. Esta es la propiedad clave de la resta.</p>
         </div>
         <div class="col-md-6 mt-n3">
-            <img src="https://i.ibb.co/p3kqH0H/Captura-de-pantalla-285-removebg-preview.png"  width="430">
+            <img class="mx-auto d-block" src="https://i.ibb.co/p3kqH0H/Captura-de-pantalla-285-removebg-preview.png"  width="430">
         </div>
     </div>
 </div>
 
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-warning mb-5">
+        <div class="col-xl-12 bg-warning mb-5">
             <h1 style="text-align: center">Ejemplos</h1>
         </div>
     </div>
@@ -252,16 +233,16 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+<div class="container-fluid " >
+    <div class="row" >
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block " style="width: 30rem;">
                 <img   src="https://i.ibb.co/9ZgQd5s/Captura-de-pantalla-311.png"    height="400" >
 
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block " style="width: 30rem;">
                 <img src="https://i.ibb.co/k3kqS39/Captura-de-pantalla-309.png"    height="400">
             </div>
         </div>
@@ -271,16 +252,16 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block " style="width: 30rem;">
                 <img   src="https://i.ibb.co/6FFHchy/Captura-de-pantalla-313.png"     height="400" >
 
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block " style="width: 30rem;">
                 <img  src="https://i.ibb.co/2FqB1yK/Captura-de-pantalla-315.png"    height="400">
             </div>
         </div>
@@ -290,16 +271,16 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+<div class="container-fluid">
+    <div class="row" >
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block " style="width: 30rem;">
                 <img   src="https://i.ibb.co/y4F5Ggp/Captura-de-pantalla-318.png"    height="400" >
 
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6 p-5">
+            <div class="card mx-auto d-block " style="width: 30rem;">
                 <img src="https://i.ibb.co/bdQhqG1/Captura-de-pantalla-321.png"     height="400">
             </div>
         </div>
@@ -310,7 +291,7 @@
 
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-warning mb-5">
+        <div class="col-xl-12 bg-warning mb-5">
             <h1 style="text-align: center">Ejercicios</h1>
         </div>
     </div>
@@ -318,12 +299,12 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid" >
+    <div  class="row" >
+        <div class="col-xl-4 p-5">
 
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/j3x0pwz/Captura-de-pantalla-348.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo1"></h6>
@@ -334,8 +315,8 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
-            <div id="tar2" class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-5">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/Yy7C2qT/Captura-de-pantalla-355.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo2"></h6>
@@ -346,8 +327,8 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div id="tar3" class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-5">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/hKWC5tn/Captura-de-pantalla-353.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo3"></h6>
@@ -364,12 +345,12 @@
 
 
 
-<div class="container-fluid  center-block pl-5" >
-    <div  class="row m-5" >
-        <div class="col-md-4">
+<div class="container-fluid" >
+    <div  class="row" >
+        <div class="col-xl-4 p-5">
 
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/MV859WY/Captura-de-pantalla-352.png"   class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo4"></h6>
@@ -380,20 +361,19 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
-            <div id="tar2" class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-5">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/GknwsYp/Captura-de-pantalla-350.png"   class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo5"></h6>
                     <button class="btn btn-danger" onclick="resu5()">Resultado</button>
 
-
                 </div>
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
-            <div id="tar3" class="card" style="width: 18rem;">
+        <div class="col-xl-4 p-5">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/wzWnPm3/Captura-de-pantalla-351.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo6"></h6>
