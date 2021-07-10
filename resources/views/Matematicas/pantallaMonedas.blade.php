@@ -101,7 +101,7 @@
 
         }
         h4{
-            
+
             text-align: center;
             color: #3B5686;
         }
@@ -196,9 +196,9 @@
 
 
 <div class="container-fluid   d-flex justify-content-center pl-5 " >
-    <div class="row m-5 " >
+    <div class="row ml-5 mr-5" >
         <div class="col-xl-6 pb-3 ">
-            <div class="card " style="width: 30rem;">
+            <div class="card  " style="width: 30rem;">
                 <h2>Moneda de 5 centavos</h2>
                 <img  src="https://i.ibb.co/HN8ysXz/40honduras3-removebg-preview.png"    height="200" >
             </div>
@@ -217,15 +217,15 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5 " >
     <div class="row m-5 ">
-        <div class="col-xl-6 mx-auto d-block pb-3">
+        <div class="col-xl-6  pb-3">
             <div class="card" style="width: 30rem;">
                 <h2>Moneda de 20 centavos</h2>
                 <img   src="https://i.ibb.co/k9L9SXZ/honduras-20-centavos-1991-removebg-preview.png"      height="200" >
 
             </div>
         </div>
-        <div class="col-xl-6 ">
-            <div class="card mx-auto d-block pb-3" style="width: 30rem;">
+        <div class="col-xl-6 mx-auto d-block">
+            <div class="card pb-3" style="width: 30rem;">
                 <h4>Moneda de 50 centavos</h4>
                 <img src="https://i.ibb.co/f1ztTZx/Captura1.png"  alt="430-001-removebg-preview"    height="200">
             </div>
@@ -323,7 +323,7 @@
         <div class="col-xl-4 pb-3">
 
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/988Kf3Y/Captura-de-pantalla-410.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo1"></h6>
@@ -335,7 +335,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-4 pb-3">
-            <div id="tar2" class="card" style="width: 18rem;">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/9Zk0BTb/Captura-de-pantalla-415.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo2"></h6>
@@ -347,7 +347,7 @@
         </div>
         <!-- tarjetas3 -->
         <div class="col-xl-4 pb-3">
-            <div id="tar3" class="card" style="width: 18rem;">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/ZYx8d4h/Captura-de-pantalla-414.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo3"></h6>
@@ -366,7 +366,7 @@
         <div class="col-xl-4 pb-3">
 
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card " style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/Qj5w2V0/cc.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo4"></h6>
@@ -376,7 +376,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-4 pb-3">
-            <div id="tar2" class="card" style="width: 18rem;">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/F7pT8hx/Captura-de-pantalla-411.png"    class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo5"></h6>
@@ -388,7 +388,7 @@
         </div>
         <!-- tarjetas3 -->
         <div class="col-xl-4 pb-3">
-            <div id="tar3" class="card" style="width: 18rem;">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/h2SgxJS/Captura-de-pantalla-412.png"   class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo6"></h6>

@@ -383,7 +383,7 @@
         <div class="col-xl-4 pb-3">
 
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/fHpQcnX/Captura-de-pantalla-436.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo1"></h6>
@@ -395,7 +395,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-4 pb-3">
-            <div id="tar2" class="card" style="width: 18rem;">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/Ws7pgbd/Captura-de-pantalla-437.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo2"></h6>
@@ -407,8 +407,8 @@
         </div>
         <!-- tarjetas3 -->
         <div class="col-xl-4 pb-3">
-            <div id="tar3" class="card" style="width: 18rem;">
-                <img  src="https://i.ibb.co/d5LtgZs/b3.png"  class="card-img-top" alt="...">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
+                <img src="https://i.ibb.co/XbkS0Yw/1a.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo3"></h6>
                     <button  class="btn btn-danger" onclick="resu3()">Resultado</button>
@@ -429,7 +429,7 @@
         <div class="col-xl-4 pb-3">
 
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/Bsh7GQ2/bo4.png"   class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo4"></h6>
@@ -441,7 +441,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-4 pb-3">
-            <div id="tar2" class="card" style="width: 18rem;">
+            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/wgntyc3/Captura-de-pantalla-440.png"    class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo5"></h6>
@@ -453,7 +453,7 @@
         </div>
         <!-- tarjetas3 -->
         <div class="col-xl-4 pb-3">
-            <div id="tar3" class="card" style="width: 18rem;">
+            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/KsZHYD5/by6.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo6"></h6>
