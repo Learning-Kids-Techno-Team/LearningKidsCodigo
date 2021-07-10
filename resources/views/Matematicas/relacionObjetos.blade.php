@@ -115,8 +115,8 @@
 
 
 <div  class="container-fluid " style="background: blanchedalmond">
-    <div class="row m-4 ">
-        <div class="col-md-12 pb-2 ">
+    <div class="row  ">
+        <div class="col-md-12 ">
             <br>
             <h3>Distingamos Objetos</h3>
         </div>
@@ -166,38 +166,44 @@
         </div>
 
 </div>
-    <div class="container-fluid center-block pl-5" >
-        <div class="row m-5" >
-            <div class="col-md-4 pb-4">
-                <div class="card" style="width: 18rem;">
+    <div class="container-fluid center-block " >
+        <div class="row " >
+            <div class="col-xl-4 p-5">
+                <div  class="card mx-auto d-block"  style="width: 18rem;">
                     <img  src="https://i.ibb.co/zJhVMdy/unnamed.jpg"   width="285" height="180" >
                     <div class="card-body">
-                        <h5 class="card-title">Distingo Distancias</h5>
+                        <h5 class="card-title; text-center">Distingo Distancias</h5>
+                        <div class="text-center">
                         <a style=" background: darkorange" href=" {{ url('/RelacionObjetDistancias') }}" class="btn btn-danger">Leer</a>
                     </div>
+                    </div>
                 </div>
             </div>
 
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
+            <div class="col-xl-4 p-5">
+                <div class="card mx-auto d-block"  style="width: 18rem;">
                     <img  src="https://i.ibb.co/zNCt4Sd/dentro.jpg"  width="285" height="180">
                     <div class="card-body">
-                        <h5 class="card-title">Reconozco Posiciones</h5>
+                        <h5 class="card-title; text-center">Reconozco Posiciones</h5>
+                        <div class="text-center">
                         <a href=" {{ url('/RelacionObjetPosiciones') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                        </div>
                     </div>
                 </div>
             </div>
 
 
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
+            <div class="col-xl-4 p-5">
+                <div class="card mx-auto d-block"  style="width: 18rem;">
                     <img    src="https://i.ibb.co/1bn7f0f/ilustracion-dia-noche-dia-noche-concepto-sol-luna-75817-482.jpg"  width="285" height="180">
                     <div class="card-body">
 
-                        <h5 class="card-title">Reconozco el tiempo</h5>
+                        <h5 class="card-title; text-center">Reconozco el tiempo</h5>
+                        <div class="text-center">
 
                         <a href=" {{ url('/RelacionObjetTiempo') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
-                    </div>
+                        </div>
+                        </div>
                 </div>
             </div>
         </div>
@@ -211,9 +217,8 @@
 </div>
 <div id="separadorInferior " style="background: #FDFD96">
     <div class="content">
-        <img src="https://i.ibb.co/CMjstrv/Captura-de-pantalla-287-removebg-preview.png"   height="80" >
-        <img src="https://i.ibb.co/CMjstrv/Captura-de-pantalla-287-removebg-preview.png"   height="80" >
-        <img src="https://i.ibb.co/CMjstrv/Captura-de-pantalla-287-removebg-preview.png"   height="80" >
+        <img class="mx-auto d-block" src="https://i.ibb.co/CMjstrv/Captura-de-pantalla-287-removebg-preview.png"   height="80" >
+
 
 
     </div>
