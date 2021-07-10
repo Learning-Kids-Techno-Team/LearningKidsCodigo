@@ -148,9 +148,9 @@
 
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  " style="background: #FFEECC"><h2 align="center"><em><br>¡Tipos de Moneda!</em></h2>
+<div class="container-fluid " style="background: #FFEECC"><h2 align="center"><em><br>¡Tipos de Moneda!</em></h2>
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <img id="im" class="mx-auto d-block" src="https://i.ibb.co/GWbjNL2/monedas-honduras-removebg-preview.png"  width="445" height="250">
                 <div class="card-body">
@@ -159,7 +159,7 @@
                 </div>"
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <h2 ><em><br></em></h2>
             <div class="card mx-auto d-block" style="width: 30rem;">
                 <img id="im" class="mx-auto d-block" src="https://i.ibb.co/HP6hNh0/unnamed-2.jpg"  width="440" height="250">

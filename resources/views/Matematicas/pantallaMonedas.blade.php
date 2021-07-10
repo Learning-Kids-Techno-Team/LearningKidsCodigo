@@ -101,8 +101,9 @@
 
         }
         h4{
-            text-decoration-color: #3B5686;
+            
             text-align: center;
+            color: #3B5686;
         }
         h2{
             text-align: center;
@@ -194,17 +195,16 @@
 
 
 
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
+<div class="container-fluid   d-flex justify-content-center pl-5 " >
+    <div class="row m-5 " >
+        <div class="col-xl-6 pb-3 ">
+            <div class="card " style="width: 30rem;">
                 <h2>Moneda de 5 centavos</h2>
                 <img  src="https://i.ibb.co/HN8ysXz/40honduras3-removebg-preview.png"    height="200" >
             </div>
         </div>
-        <div class="col-md-6">
-
-            <div class="card" style="width: 30rem;">
+        <div class="col-xl-6 pb-3">
+            <div class="card " style="width: 30rem;">
                 <h2>Moneda de 10 centavos</h2>
                 <img src="https://i.ibb.co/kBvMBRT/10-CENTAVOS-2006-removebg-preview.png"    height="200">
             </div>
@@ -215,19 +215,19 @@
 
 
 
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
+<div class="container-fluid   d-flex justify-content-center pl-5 " >
+    <div class="row m-5 ">
+        <div class="col-xl-6 mx-auto d-block pb-3">
             <div class="card" style="width: 30rem;">
                 <h2>Moneda de 20 centavos</h2>
                 <img   src="https://i.ibb.co/k9L9SXZ/honduras-20-centavos-1991-removebg-preview.png"      height="200" >
 
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
-                <h2>Moneda de 50 centavos</h2>
-                <img  src="https://i.ibb.co/tDnkX33/430-001-removebg-preview.png" alt="430-001-removebg-preview"    height="200">
+        <div class="col-xl-6 ">
+            <div class="card mx-auto d-block pb-3" style="width: 30rem;">
+                <h4>Moneda de 50 centavos</h4>
+                <img src="https://i.ibb.co/f1ztTZx/Captura1.png"  alt="430-001-removebg-preview"    height="200">
             </div>
         </div>
     </div>
@@ -250,12 +250,12 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <img  src="https://i.ibb.co/BwfcgN9/Captura-de-pantalla-403.png"     height="200" >
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/x3w6kQG/Captura-de-pantalla-402.png"    height="200">
             </div>
@@ -268,13 +268,13 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <img   src="https://i.ibb.co/py1jQv1/Captura-de-pantalla-400.png"      height="200" >
 
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <img  src="https://i.ibb.co/M6tgVgT/Captura-de-pantalla-401.png"      height="200">
             </div>
@@ -288,14 +288,14 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <img   src="https://i.ibb.co/G0NtGKp/Captura-de-pantalla-397.png"       height="200" >
 
 
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <img  src="https://i.ibb.co/MhstWzv/Captura-de-pantalla-398.png"     height="200">
             </div>
@@ -320,7 +320,7 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div  class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
 
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
@@ -334,7 +334,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 pb-3">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/9Zk0BTb/Captura-de-pantalla-415.png"  class="card-img-top" alt="...">
                 <div class="card-body">
@@ -346,7 +346,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
             <div id="tar3" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/ZYx8d4h/Captura-de-pantalla-414.png"  class="card-img-top" alt="...">
                 <div class="card-body">
@@ -363,11 +363,11 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div  class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
 
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/3NS5Wzd/Captura-de-pantalla-413.png"    class="card-img-top" alt="...">
+            <div id="tar1" class="card " style="width: 18rem;">
+                <img src="https://i.ibb.co/Qj5w2V0/cc.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo4"></h6>
                     <button class="btn btn-danger" onclick="resu4()"<br>Resultado</button>
@@ -375,7 +375,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 pb-3">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/F7pT8hx/Captura-de-pantalla-411.png"    class="card-img-top" alt="...">
                 <div class="card-body">
@@ -387,7 +387,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
             <div id="tar3" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/h2SgxJS/Captura-de-pantalla-412.png"   class="card-img-top" alt="...">
                 <div class="card-body">

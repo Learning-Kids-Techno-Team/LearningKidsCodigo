@@ -203,7 +203,7 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <h2>1 Lempira</h2>
 
@@ -211,7 +211,7 @@
                 <h5><em>En su parte de enfrente lleva la cara de El Cacique lempira, Y su reverso una foto de Copán ruinas</em></h5>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
 
             <div class="card" style="width: 30rem;">
                 <h2>2 Lempiras</h2>
@@ -227,7 +227,7 @@
 
 <div class="container-fluid  d-flex justify-content-center pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <h2>5 lempiras</h2>
                 <img   src="https://i.ibb.co/cFdD7dP/coleccion-billetes-honduras-pick-numero-85-5-lempira-removebg-preview.png"      height="400" >
@@ -236,7 +236,7 @@
                     </em></h5>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <h2>10 lempiras</h2>
                 <img  src="https://i.ibb.co/pZYZ022/www-mynumi-net-BKHN10-L89-FFB1251-30-removebg-preview.png"    height="400">
@@ -251,7 +251,7 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <h2>20 lempiras</h2>
                 <img   src="https://i.ibb.co/N3pYM22/20-lempiras-own.jpg"       height="400" >
@@ -260,7 +260,7 @@
                     </em></h5>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <h2>50 lempiras</h2>
                 <img   src="https://i.ibb.co/sPCrfVh/precioso-de-billetes-honduras-pick-numero-88-50-lempira-removebg-preview.png"    height="400">
@@ -273,7 +273,7 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <h2>100 lempiras</h2>
                 <img   src="https://i.ibb.co/V99LNph/billete-de-banco-coleccion-honduras-pk-n-102-100-lempiras.jpg"      height="400" >
@@ -281,7 +281,7 @@
 
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <h2>500 lempiras</h2>
                 <img   src="https://i.ibb.co/qYJBrCR/500-lempiras-own.jpg"    height="400">
@@ -308,13 +308,13 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <img  src="https://i.ibb.co/nM9fw6b/Captura-de-pantalla-424.png"   height="300" >
                 <h5><em></em></h5>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <img src="https://i.ibb.co/nshPHNf/Captura-de-pantalla-425.png"     height="300">
                 <h5><em></em></h5>
@@ -328,13 +328,13 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <img   src="https://i.ibb.co/ftrTTwk/Captura-de-pantalla-426.png"      height="300" >
 
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <img  src="https://i.ibb.co/tQWWy4W/Captura-de-pantalla-428.png"     height="300">
             </div>
@@ -348,14 +348,14 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div class="row m-5" >
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <img   src="https://i.ibb.co/Jtr0wcz/Captura-de-pantalla-429.png"        height="300" >
 
 
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6 pb-3">
             <div class="card" style="width: 30rem;">
                 <img  src="https://i.ibb.co/30syPWc/Captura-de-pantalla-427.png"     height="300">
             </div>
@@ -380,7 +380,7 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div  class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
 
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
@@ -394,7 +394,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 pb-3">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/Ws7pgbd/Captura-de-pantalla-437.png"  class="card-img-top" alt="...">
                 <div class="card-body">
@@ -406,9 +406,9 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/1fs53wg/Captura-de-pantalla-438.png"  class="card-img-top" alt="...">
+                <img  src="https://i.ibb.co/d5LtgZs/b3.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo3"></h6>
                     <button  class="btn btn-danger" onclick="resu3()">Resultado</button>
@@ -426,11 +426,11 @@
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div  class="row m-5" >
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
 
             <!-- tarjeta 1 -->
             <div id="tar1" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/6FQ3wSM/Captura-de-pantalla-439.png"    class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/Bsh7GQ2/bo4.png"   class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo4"></h6>
                     <button class="btn btn-danger" onclick="resu4()">Resultado</button>
@@ -440,7 +440,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-4 ">
+        <div class="col-xl-4 pb-3">
             <div id="tar2" class="card" style="width: 18rem;">
                 <img src="https://i.ibb.co/wgntyc3/Captura-de-pantalla-440.png"    class="card-img-top" alt="...">
                 <div class="card-body">
@@ -452,9 +452,9 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
             <div id="tar3" class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/LQ4487n/Captura-de-pantalla-441.png"   class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/KsZHYD5/by6.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo6"></h6>
 
