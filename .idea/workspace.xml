@@ -26,11 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/Notifications/MyResetPassword.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/send(new" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/numerosOrdinalesActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/numerosOrdinalesActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/relacionObjetos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/relacionObjetos.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -232,13 +228,7 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-    </task>
-    <task id="LOCAL-00013" summary="Sindy G. Sprint1">
-      <created>1603535608588</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1603535608588</updated>
+      <workItem from="1625880543904" duration="4112000" />
     </task>
     <task id="LOCAL-00014" summary="Sprint2 Sindy G.">
       <created>1603573936512</created>
@@ -576,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625812503390</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Sprint 13 Daniela Mazzoni">
+      <created>1625812924691</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1625812924691</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
