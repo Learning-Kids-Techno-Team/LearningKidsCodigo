@@ -109,7 +109,7 @@
     <h2 class="text-center"><br>¡Observo y aprendo!</h2>
     <br>
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 p-4">
             <div class="card mx-auto d-block" style="width:20rem;">
                 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/5RNKHrq/book-removebg-preview.png"
@@ -123,7 +123,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 p-4">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/Ksws8bm/9a55-removebg-preview.png"
@@ -142,8 +142,10 @@
 <!-- contenedor de las tarjetas -->
 <div class="container-fluid  ">
     <div class="row " >
-        <div class="col-xl-6 p-5">
-            <h2 class="text-center"> <em><br>¡Observo y analizo!</em></h2>
+        <div class="col-xl-6 p-4 ">
+            <br>
+            <h2 class="text-center"><br>¡Observo y analizo!</h2>
+            <br>
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/YhJ6cgR/ni-o-removebg-preview.png"
@@ -154,8 +156,9 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 p-4">
             <h2 class="text-center"><br>¡Aprendo!</h2>
+            <br>
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/SJf1qTn/torno-removebg-preview.png"
@@ -170,8 +173,10 @@
 <!-- contenedor de tarjetas -->
 <div class="container-fluid  id="color">
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 p-4">
+            <br>
             <h2 class="text-center" id="color">¿Cuál es más gordo?</h2>
+            <br>
             <div class="card mx-auto d-block" style="width: 20rem;">
 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/93xDC7Q/pez-removebg-preview.png"
@@ -183,9 +188,10 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 p-5">
-
+        <div class="col-xl-6 p-4">
+<br>
             <h2 class="text-center" id="color">¡Repite en voz alta!</h2>
+            <br>
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <br><br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/sKHTNFt/gordo-flaco1-removebg-preview.png"
@@ -201,8 +207,9 @@
 <!-- contenedor de las tarjetas -->
 <div class="container-fluid  id="color" >
     <div class="row " >
-        <div class="col-xl-6 p-5">
-            <h2 class="text-center" id="color"><br>Responde en voz alta:</h2>
+        <div class="col-xl-6 p-4">
+            <h2 class="text-center" id="color">Responde en voz alta:</h2>
+            <br>
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/HVT42Dw/535-removebg-preview.png"
                      width="200" >
@@ -211,9 +218,9 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 p-5">
-            <br>
+        <div class="col-xl-6 p-4">
             <h2 class="text-center" id="color">¿Cuál mesa es más gruesa?</h2>
+            <br>
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/r7LbySg/png-removebg-preview.png"
                      width="200" >
