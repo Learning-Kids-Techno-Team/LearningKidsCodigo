@@ -26,6 +26,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetColores.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetColores.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetEspesores.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetEspesores.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -227,13 +229,6 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-    </task>
-    <task id="LOCAL-00017" summary="Sprint 5 Hector.">
-      <created>1607557332463</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1607557332463</updated>
     </task>
     <task id="LOCAL-00018" summary="Sprint5 Sindy G.">
       <created>1607846660514</created>
@@ -571,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625975243557</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Sprint 15 Daniela Mazzoni">
+      <created>1625975447526</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1625975447527</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,6 +626,11 @@
           <url>file://$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php</url>
           <line>147</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetColores.blade.php</url>
+          <line>204</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
