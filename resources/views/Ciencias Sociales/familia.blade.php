@@ -107,7 +107,7 @@
         <div class="col-md-12" style="background: #B4F97B">
             <div class="row ml-5 mr-5">
                 <div class="col-md-7  mt-5" style="background: #CCDDCC">
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/chShLy3/Afamilia-Fill-Wzg0-MCw1-NTBd-removebg-preview.png"    width="500"  >
+                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/chShLy3/Afamilia-Fill-Wzg0-MCw1-NTBd-removebg-preview.png"    width="400"  >
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background:#F8FEBE "  >
                     <h4 style="color: #3B5686">Ciencias Sociales</h4>
@@ -146,8 +146,8 @@
         </div>
 
 
-            <div class="col-md-4">
-                <img class=" mx-auto d-block" src="https://i.ibb.co/LJzFXBZ/png-transparent-family-extended-family-father-family-tree-cartoon-family-child-people-team-removebg.png"  width="600" />
+            <div class="col-xl-4">
+                <img class=" mx-auto d-block" src="https://i.ibb.co/LJzFXBZ/png-transparent-family-extended-family-father-family-tree-cartoon-family-child-people-team-removebg.png"  width="500" />
             </div>
         </div>
     </div>
@@ -155,7 +155,7 @@
 
     <div  class="container-fluid">
         <div class="row">
-            <div class="col-md-12  mb-5" style="background: #B4F97B">
+            <div class="col-xl-12  mb-5" style="background: #B4F97B">
                 <h3 style="text-align: center">Tipos de familias</h3>
             </div>
         </div>
@@ -164,7 +164,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Familias monoparentales.
 
@@ -175,7 +175,7 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/T21Zd6d/familia-monoparental-dibujos-animados-ninos-18591-53727-removebg-preview.png"  width="300" >
             </div>
         </div>
@@ -196,7 +196,7 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/bX32npY/familia-reconstituida-removebg-preview.png"   width="300" >
             </div>
         </div>
@@ -205,7 +205,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Familias ensambladas
 
@@ -216,7 +216,7 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/jVLr9hr/family-499x500-removebg-preview.png"    width="300" >
             </div>
         </div>
@@ -225,7 +225,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Familia de acogida
 
@@ -235,11 +235,12 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/MPxkVhk/kisspng-au-pair-child-care-host-family-5aee900cd994d4-1262984215255838848912-removebg-preview.png"     width="400" >
             </div>
         </div>
     </div>
+
 
 
 

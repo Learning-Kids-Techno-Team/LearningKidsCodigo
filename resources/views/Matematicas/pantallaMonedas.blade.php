@@ -177,7 +177,7 @@
     <div class="row" >
         <div class="col-md-12 ">
 
-            <img class="mx-auto db-block" src="https://i.ibb.co/qCbZLQ9/vector-children-buying-from-a-cashier-removebg-preview.png" >
+            <img class="mx-auto db-block" src="https://i.ibb.co/qCbZLQ9/vector-children-buying-from-a-cashier-removebg-preview.png" width="450" >
             </div>
         </div>
     </div>
@@ -195,18 +195,22 @@
 
 
 
-<div class="container-fluid   d-flex justify-content-center pl-5 " >
-    <div class="row ml-5 mr-5" >
+<div class="container-fluid " >
+    <div class="row " >
         <div class="col-xl-6 pb-3 ">
-            <div class="card  " style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width:20rem" >
                 <h2>Moneda de 5 centavos</h2>
-                <img  src="https://i.ibb.co/HN8ysXz/40honduras3-removebg-preview.png"    height="200" >
+                <br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/HN8ysXz/40honduras3-removebg-preview.png"   height="100">
+                <br>
             </div>
         </div>
         <div class="col-xl-6 pb-3">
-            <div class="card " style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width:20rem" >
                 <h2>Moneda de 10 centavos</h2>
-                <img src="https://i.ibb.co/kBvMBRT/10-CENTAVOS-2006-removebg-preview.png"    height="200">
+                <br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/kBvMBRT/10-CENTAVOS-2006-removebg-preview.png"    height="100">
+                <bR>
             </div>
         </div>
     </div>
@@ -215,19 +219,23 @@
 
 
 
-<div class="container-fluid   d-flex justify-content-center pl-5 " >
-    <div class="row m-5 ">
+<div class="container-fluid">
+    <div class="row ">
         <div class="col-xl-6  pb-3">
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width:20rem" >
                 <h2>Moneda de 20 centavos</h2>
-                <img   src="https://i.ibb.co/k9L9SXZ/honduras-20-centavos-1991-removebg-preview.png"      height="200" >
-
+                <br>
+                <img  class="mx-auto d-block" src="https://i.ibb.co/k9L9SXZ/honduras-20-centavos-1991-removebg-preview.png"      height="100" >
+                <br>
             </div>
         </div>
-        <div class="col-xl-6 mx-auto d-block">
-            <div class="card pb-3" style="width: 30rem;">
+        <div class="col-xl-6 pb-3">
+            <div class="card mx-auto d-block" style="width:20rem">
+                <br>
                 <h4>Moneda de 50 centavos</h4>
-                <img src="https://i.ibb.co/f1ztTZx/Captura1.png"  alt="430-001-removebg-preview"    height="200">
+                <br>
+                <img class=" mx-auto d-block"src="https://i.ibb.co/f1ztTZx/Captura1.png"  alt="430-001-removebg-preview"    height="100">
+                <bR>
             </div>
         </div>
     </div>
@@ -248,35 +256,20 @@
 
 
 
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid">
+    <div class="row" >
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img  src="https://i.ibb.co/BwfcgN9/Captura-de-pantalla-403.png"     height="200" >
+            <div class="card mx-auto d-block" style="width:22rem">
+                <br>
+                <img class=" mx-auto d-block" src="https://i.ibb.co/BwfcgN9/Captura-de-pantalla-403.png"     height="150" >
+                <br>
             </div>
         </div>
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img src="https://i.ibb.co/x3w6kQG/Captura-de-pantalla-402.png"    height="200">
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div class="row m-5" >
-        <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img   src="https://i.ibb.co/py1jQv1/Captura-de-pantalla-400.png"      height="200" >
-
-            </div>
-        </div>
-        <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img  src="https://i.ibb.co/M6tgVgT/Captura-de-pantalla-401.png"      height="200">
+            <div class="card mx-auto d-block" style="width:22rem">
+                <br>
+                <img class=" mx-auto d-block"src="https://i.ibb.co/x3w6kQG/Captura-de-pantalla-402.png"    height="150">
+                <br>
             </div>
         </div>
     </div>
@@ -285,24 +278,48 @@
 
 
 
-
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid " >
+    <div class="row " >
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img   src="https://i.ibb.co/G0NtGKp/Captura-de-pantalla-397.png"       height="200" >
-
-
+            <div class="card mx-auto d-block" style="width:22rem">
+                <bR>
+                <img class=" mx-auto d-block" src="https://i.ibb.co/py1jQv1/Captura-de-pantalla-400.png"      height="150" >
+                <br>
             </div>
         </div>
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img  src="https://i.ibb.co/MhstWzv/Captura-de-pantalla-398.png"     height="200">
+            <div class="card mx-auto d-block" style="width:22rem">
+                <br>
+                <img  class=" mx-auto d-block"  src="https://i.ibb.co/M6tgVgT/Captura-de-pantalla-401.png"      height="150">
+                <br>
             </div>
         </div>
     </div>
 </div>
 
+
+
+
+
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 pb-3">
+            <div class="card mx-auto d-block" style="width:22rem">
+                <br>
+                <img  class=" mx-auto d-block" src="https://i.ibb.co/G0NtGKp/Captura-de-pantalla-397.png"       height="180" >
+             <bR>
+
+            </div>
+        </div>
+        <div class="col-xl-6 pb-3">
+            <div class="card mx-auto d-block" style="width:22rem">
+                <br>
+                <img  class=" mx-auto d-block"src="https://i.ibb.co/MhstWzv/Captura-de-pantalla-398.png"     height="170">
+                <br>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 
@@ -315,8 +332,6 @@
         </div>
     </div>
 </div>
-
-
 
 <div class="container-fluid   d-flex justify-content-center pl-5" >
     <div  class="row m-5" >

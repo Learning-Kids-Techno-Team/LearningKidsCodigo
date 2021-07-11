@@ -40,7 +40,7 @@
 
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
             margin-left: -5px;
             background: #60A71B;
@@ -79,9 +79,10 @@
 
             <img class="mx-auto d-block" src="https://i.ibb.co/3sgdbRQ/original-removebg-preview.png" width="400" />
 
+
         </div>
         <div class="col-md-8" style="text-align: justify;">
-            <h2 id="color"><em><br>¡El Medio Ambiente!</em></h2>
+            <h2 id="color" class="text-center"><em><br>¡El Medio Ambiente!</em></h2>
             <h3 id="color" style="text-align: center "><br>Ambiente Contaminado</h3>
             <p id="color" style="text-align:justify; font-size: large"><strong>Contaminación ambiental a la presencia de componentes nocivos
                         (ya sean químicos, físicos o biológicos) en el medio ambiente (entorno natural y artificial),
@@ -96,9 +97,9 @@
 
 
 <!-- contenedor ambient-->
-<div class="container-fluid center-block pl-5">
+<div class="container-fluid ">
     <div class="row" >
-        <div class="col-md-4" >
+        <div class="col-xl-7">
             <h2 id="color" style="text-align: justify">
                 <strong><em><br>
                         La contaminación es la presencia o acumulación de sustancias
@@ -106,17 +107,17 @@
                         así como la salud o la higiene de los seres vivos.
                     </em></strong></h2>
         </div>
-        <div class="col-md-8">
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/ZSYk69d/cote.jpg"  width="700" height="450"/>
+        <div class="col-xl-5">
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/ZSYk69d/cote.jpg"  width="500" height="450"/>
         </div>
     </div>
 </div>
 
 <!-- contenedor text-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br></em></h2>
-    <div class="card">
-        <div class="row m-5" style="text-align: justify" >
-            <div class="col-md-12">
+<div class="container-fluid " id="color"><h2><em><br></em></h2>
+    <div class="card mx-auto d-block">
+        <div class="row " style="text-align: justify" >
+            <div class="col-xl-12">
                 <h2 id="color"><strong><em>Si nosotros echamos basura en las calles, esa basura es arrastrada
                         por las corrientes y obstruyen los tragantes; entonces, el agua corre por las calles y se
                         producen inundaciones.</em></strong></h2>
@@ -178,46 +179,40 @@
 </div>
 
 <!-- contenedor-->
-<div class="container-fluid  center-block pl-5" id="color">
-    <h2><em><br></em>Los contaminantes en el agua:</h2>
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://i.ibb.co/hcrW3dz/ko.png" width="310" height="200">
+<div class="container-fluid " id="color">
+    <br>
+    <h2 class="text-center"><em></em>Los contaminantes en el agua y desechos de basura</h2>
+    <br>
+    <div class="row" >
+        <div class="col-xl-6 pb-5">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/hcrW3dz/ko.png" width="310">
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 id="color"><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://i.ibb.co/x6vZJ6r/kak.png" width="310" height="200">
+        <div class="col-xl-6 pb-5">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/vmSVhnM/aas.jpg" width="310">
             </div>
-        </div>
-        <div class="col-md-4"><h2 id="color"><em><br>Desechos y basura</em></h2>
-            <div class="card" style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://i.ibb.co/vmSVhnM/aas.jpg" width="310" height="200">
-            </div>
-        </div>
-
     </div>
 </div>
 
 <!-- contenedor suge-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>El ambiente también se contamina y se destruye cuando:</em></h2>
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+<div class="container-fluid" id="color"><h2 class="text-center"><em><br>El ambiente también se contamina y se destruye cuando:</em></h2><bR><bR>
+    <div class="row" >
+        <div class="col-xl-4 pb-5">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/cccwxMg/o.jpg"  width="310" height="240">
                 <h5 class="card-title" align="center">Se queman los bosques</h5>
             </div>
         </div>
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 pb-5">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/vJv2tk2/petro.jpg" width="310" height="240">
                 <h5 class="card-title" align="center">Hay derrame de petróleo</h5>
             </div>
         </div>
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 pb-5">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/dK4PBcJ/tala.jpg" width="310" height="240">
                 <h5 class="card-title" align="center">Se talan los árboles</h5>
             </div>
@@ -230,6 +225,7 @@
 <div id="separadorInferior">
     <div class="content">
     </div>
+</div>
 </div>
 
 
