@@ -170,7 +170,7 @@
 <!-- contenedor de tarjetas -->
 <div class="container-fluid  id="color">
     <div class="row " >
-        <div class="col-xl-6">
+        <div class="col-xl-6 p-5">
             <h2 class="text-center" id="color">¿Cuál es más gordo?</h2>
             <div class="card mx-auto d-block" style="width: 20rem;">
 <br>
@@ -183,7 +183,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6">
+        <div class="col-xl-6 p-5">
 
             <h2 class="text-center" id="color">¡Repite en voz alta!</h2>
             <div class="card mx-auto d-block" style="width: 20rem;">
@@ -201,7 +201,7 @@
 <!-- contenedor de las tarjetas -->
 <div class="container-fluid  id="color" >
     <div class="row " >
-        <div class="col-xl-6">
+        <div class="col-xl-6 p-5">
             <h2 class="text-center" id="color"><br>Responde en voz alta:</h2>
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/HVT42Dw/535-removebg-preview.png"
@@ -211,7 +211,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6">
+        <div class="col-xl-6 p-5">
             <br>
             <h2 class="text-center" id="color">¿Cuál mesa es más gruesa?</h2>
             <div class="card mx-auto d-block" style="width: 20rem;">
