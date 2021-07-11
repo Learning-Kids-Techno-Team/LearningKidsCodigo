@@ -177,7 +177,7 @@
     <div class="row" >
         <div class="col-md-12 ">
 
-            <img class="mx-auto db-block" src="https://i.ibb.co/qCbZLQ9/vector-children-buying-from-a-cashier-removebg-preview.png" width="450" >
+            <img class="mx-auto db-block" src="https://i.ibb.co/qCbZLQ9/vector-children-buying-from-a-cashier-removebg-preview.png" width="440" >
             </div>
         </div>
     </div>
