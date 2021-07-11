@@ -87,7 +87,7 @@
         <div class="col-xl-12" >
             <div class="row">
                 <div class="col-xl-6 p-5" >
-                    <img class=" mx-auto d-block"   src="https://i.ibb.co/S364Jnr/hs-removebg-preview.png" width="400"   >
+                    <img class=" mx-auto d-block"   src="https://i.ibb.co/S364Jnr/hs-removebg-preview.png" width="380"   >
                 </div>
                 <div class="col-xl-6 mt-5"
                      style=" background: #B4F97B" id="borde">
