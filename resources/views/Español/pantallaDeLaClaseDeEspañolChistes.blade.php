@@ -170,7 +170,7 @@
                 <h5 class="card-title" align="center">- Doctor<br>, ¿Cómo conservo el poco pelo que me queda?<br>
                     - Fácil, métalo en una cajita.</h5>
             </div>
-            <audio  id="player" src="AudiosEspañol/chistes/chiste5.mp3" controls >
+            <audio  id="player" src="AudiosEspañol/chistes/chiste4.mp3" controls >
 
             </audio>
         </div>
