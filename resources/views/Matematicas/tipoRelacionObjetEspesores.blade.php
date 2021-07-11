@@ -147,7 +147,7 @@
                 <img class="mx-auto d-block" src="https://i.ibb.co/YhJ6cgR/ni-o-removebg-preview.png" width="400" height="350">
                 <div class="card-body">
 
-                    <h5 class="card-title" >Gordos</h5>
+                    <h5 class="card-title" >Gordo</h5>
                     <h5 class="card-title; text-center"><br>Flaco</h5>
                 </div>
             </div>

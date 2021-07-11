@@ -25,8 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 15 Sindy Galindo">
+    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/relacionObjetos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/relacionObjetos.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetEspesores.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetEspesores.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -228,13 +229,6 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-    </task>
-    <task id="LOCAL-00015" summary="Sprint Techno Team">
-      <created>1604982966578</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1604982966578</updated>
     </task>
     <task id="LOCAL-00016" summary="Sprint4 Sindy G.">
       <created>1605845522357</created>
@@ -572,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625898117034</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Sprint 15 Daniela Mazzoni">
+      <created>1625959273766</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1625959273767</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -615,7 +616,8 @@
     <MESSAGE value="Sprint 13 Luz Bonilla" />
     <MESSAGE value="Sprint 13 Daniela Mazzoni" />
     <MESSAGE value="Sprint 15 Sindy Galindo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Sindy Galindo" />
+    <MESSAGE value="Sprint 15 Daniela Mazzoni" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Daniela Mazzoni" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

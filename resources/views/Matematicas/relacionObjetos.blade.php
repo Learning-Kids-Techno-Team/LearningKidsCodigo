@@ -78,7 +78,7 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-xl-12 " style="background:blanchedalmond"  id="fondo" >
-            <img src="https://i.ibb.co/QY8MWGQ/muchos-juguetes-libros-dormitorio-1308-9759-removebg-preview.png" class="mx-auto d-block" />
+            <img src="https://i.ibb.co/QY8MWGQ/muchos-juguetes-libros-dormitorio-1308-9759-removebg-preview.png" width="450" class="mx-auto d-block" />
 
         </div>
     </div>
