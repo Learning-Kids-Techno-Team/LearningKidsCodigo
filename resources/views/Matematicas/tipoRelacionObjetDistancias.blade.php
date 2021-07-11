@@ -47,7 +47,7 @@
 
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
             margin-left: -5px;
             background: #FF7800;
@@ -71,11 +71,6 @@
 
 
 
-        #color{
-            color: #3B5686;
-
-        }
-
     </style>
 </head>
 <body>
@@ -83,62 +78,85 @@
 @section('content')
 
 <!-- contenedor definicion-->
-<div class="container-fluid" id="color">
+<div class="container-fluid" >
     <div class="row ">
-        <div class="col-md-4">
-            <img class="mx-auto d-block" src="https://i.ibb.co/rxCVQ4K/44854d-removebg-preview.png" width="350" />
+        <div class="col-xl-4 p-2">
+            <img class="mx-auto d-block" src="https://i.ibb.co/rxCVQ4K/44854d-removebg-preview.png"
+                 width="350" />
 
         </div>
-        <div class="col-md-8">
-            <h2 id="color"><em><br>¡RELACIÓN DE OBJETOS!</em></h2>
-            <h3 id="color"><em><br>Distingo distancias.</em></h3>
-            <p id="color"><em><strong>
+        <div class="col-xl-8 p-2">
+            <h2 class="text-center" ><br>¡RELACIÓN DE OBJETOS!</h2>
+            <h3 class="text-center" ><br>Distingo distancias.</h3>
+            <p class="text-justify" ><strong>
                         La distancia es una magnitud que mide la relación de lejanía o cercanía
                         entre dos cuerpos, objetos o individuos.
-                    </strong></em></p>
+                    </strong></p>
             <img class="mx-auto d-block"  width="100" />
         </div>
     </div>
 </div>
 
 <!-- contenedor video-->
-<div class="container-fluid" id="color" >
+<div class="container-fluid" >
     <div class="row">
-        <div class="col-md-12" >
-            <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/155ywlDNbd1g8unxIdqcDK9A0fUlA1znF/preview" width="650" height="400"></iframe>
+        <div class="col-xl-12" >
+            <iframe id="tar2" class="mx-auto d-block"
+                    src="https://drive.google.com/file/d/155ywlDNbd1g8unxIdqcDK9A0fUlA1znF/preview"
+                    width="400" ></iframe>
             <h5 align="center"></h5>
         </div>
     </div>
 </div>
 
 <!-- contenedor de IMAGENES-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>Observo y aprendo: </em></h2>
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div  class="card" style="width: 28rem;">
-                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/b2Fztqx/cerca.jpg" width="438" height="300">
+<div class="container-fluid  ">
+    <br>
+    <h2 class="text-center">Observo y aprendo:</h2>
+
+    <h2 class="text-center">¡Distancias!</h2>
+    <br>
+    <div class="row" >
+        <div class="col-xl-6 p-2">
+            <br>
+            <div  class="card mx-auto d-block" style="width: 28rem;">
+                <br>
+                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/b2Fztqx/cerca.jpg"
+                     width="300" >
+                <br>
                 <h5 class="card-title" align="center">Cerca</h5>
              </div>
         </div>
-        <div class="col-md-6">
-            <h2 id="color"><em><br>¡Distancias!</em></h2>
-            <div class="card" style="width: 28rem;">
-                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/9t0RSY5/lejos.jpg" width="438" height="300">
+
+        <div class="col-xl-6 p-2">
+<br>
+            <div class="card mx-auto d-block" style="width: 28rem;">
+                <br>
+                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/9t0RSY5/lejos.jpg"
+                     width="310" >
+                <br>
                 <h5 class="card-title" align="center">Lejos</h5>
             </div>
         </div>
     </div>
 </div>
 <!-- contenedor imagg-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>¡Repito en voz alta!</em></h2>
-    <div  class="card">
-        <div class="row m-5" >
-            <div class="col-md-6">
-                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/vPBRQvd/jjl.jpg" width="455" height="350"/>
+<div class="container-fluid " ><h2 class="text-center"><br>¡Repito en voz alta!</h2>
+    <br>
+    <div  class="card mx-auto d-block">
+        <div class="row " >
+            <div class="col-xl-6">
+                <br>
+                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/vPBRQvd/jjl.jpg" width="300"
+                   />
+                <br>
                 <h5 class="card-title" align="center">El niño está lejos de la palmera</h5>
             </div>
-            <div class="col-md-6">
-                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/cY7Fsrh/dd.jpg"  width="450" height="350"/>
+            <div class="col-xl-6">
+                <br>
+                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/cY7Fsrh/dd.jpg"
+                     width="328" />
+                <br>
                 <h5 class="card-title" align="center">El niño está cerca del delfin</h5>
             </div>
         </div>
@@ -147,15 +165,22 @@
 </div>
 
 <!-- contenedor -->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>¡Repite!</em></h2>
-    <div  class="card">
-        <div  class="row m-5" >
-            <div class="col-md-6">
-                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/CVPYk8w/f-44.jpg" width="455" height="350"/>
+<div class="container-fluid " ><h2 class="text-center"><br>¡Repite!</h2>
+    <br>
+    <div  class="card mx-auto d-block" >
+        <div  class="row " >
+            <div class="col-xl-6 p-2">
+                <br>
+                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/CVPYk8w/f-44.jpg"
+                     width="250" />
+                <br>
                 <h5 class="card-title" align="center">Los elefantes están cerca</h5>
             </div>
-            <div class="col-md-6">
-                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/4fKpZZW/maxres.jpg" width="450" height="350"/>
+            <div class="col-xl-6 p-2">
+                <br>
+                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/4fKpZZW/maxres.jpg"
+                     width="300" />
+                <br>
                 <h5 class="card-title" align="center">Los cangrejos están lejos</h5>
             </div>
         </div>
@@ -165,22 +190,28 @@
 
 
 
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>¡Digo en voz alta si el objeto está cerca o lejos!</em></h2>
-    <div class="row m-5">
-        <div class="col-md-3">
-            <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/12FLc4D/hvf.jpg" width="220" height="180">
+<div class="container-fluid  " >
+    <h2 class="text-center"><br>¡Digo en voz alta si el objeto está cerca o lejos!</h2>
+    <br>
+    <div class="row ">
+        <div class="col-xl-4 p-3">
+            <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/12FLc4D/hvf.jpg"
+                 width="260" >
+            <br>
             <h5 class="card-title" align="center">¿Las estrellas están cerca o lejos?</h5>
         </div>
-        <div class="col-md-3">
-            <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/bJVSxPp/mmm-removebg-preview.png" width="200" height="180">
+        <div class="col-xl-4 p-3">
+            <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/bJVSxPp/mmm-removebg-preview.png"
+                 width="250" height="190">
+            <br>
             <h5 class="card-title" align="center">¿El sol está cerca o lejos?</h5>
         </div>
-        <div class="col-md-3">
-            <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/k0NDHhp/jk.jpg" width="220" height="180">
-            <h5 class="card-title" align="center">¿El arcoiris está cerca o lejos?</h5>
-        </div>
-        <div class="col-md-3">
-            <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/jW0PY5S/e28-removebg-preview.png" width="200" height="180">
+
+
+        <div class="col-xl-4 p-3">
+            <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/jW0PY5S/e28-removebg-preview.png"
+                 width="190" height="190">
+            <br>
             <h5 class="card-title" align="center">¿Los pajaritos están cerca o lejos?</h5>
         </div>
         <div class="card-body">
