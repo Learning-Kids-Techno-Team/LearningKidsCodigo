@@ -108,7 +108,7 @@
                     </em></strong></h2>
         </div>
         <div class="col-xl-5">
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/ZSYk69d/cote.jpg"  width="500" height="450"/>
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/ZSYk69d/cote.jpg"  width="500" height="440"/>
         </div>
     </div>
 </div>
