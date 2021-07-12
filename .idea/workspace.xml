@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 15 Luz Bonilla">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/Actividades/lineaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/lineaActividad.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/estaciones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/estaciones.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadAmbiente.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadAmbiente.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,13 +222,6 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-    </task>
-    <task id="LOCAL-00022" summary="Sprint 6 Daniela Mazzoni">
-      <created>1612578587323</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1612578587323</updated>
     </task>
     <task id="LOCAL-00023" summary="Sprint 6 Luz Bonilla">
       <created>1612658344586</created>
@@ -567,7 +559,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626052706047</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Sprint 15 Luz Bonilla">
+      <created>1626053823031</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1626053823032</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,10 +613,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Luz Bonilla" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1626052710205">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1626053876068">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1626052710205" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1626053876068" />
     <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625979054730">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
