@@ -83,9 +83,9 @@
 <!-- contenedor del concept-->
 <div class="container-fluid " >
     <div class="row" >
-        <div class="col-md-12" >
-            <div class="row ml-5 mr-5"  >
-                <div class="col-md-6" >
+        <div class="col-xl-12" >
+            <div class="row"  >
+                <div class="col-xl-6" >
                     <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/Xx7yjLV/ae-removebg-preview.png"   width="500" height="380" >
                 </div>
                 <div class="col-xl-6  mt-5" style=" background:  #C5FFA0" id="borde">
@@ -111,38 +111,34 @@
 
 
 <!-- contenedor-->
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid" >
     <br><br>
-    <div class="container-fluid d-flex justify-content-center  " >
-        <div class="row p-5 ">
-            <div class="col-md-12  " id="bor" style="background: #FDFD96">
+    <div class="container-fluid pb-5" >
+        <div class="row">
+            <div class="col-xl-12  " id="bor" style="background: #FDFD96">
 
-                <h3>Algunos ejemplos de Transporte Aéreo:
+                <h3 style="text-align: center">Algunos ejemplos de Transporte Aéreo:
                 </h3>
             </div>
         </div>
     </div>
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row pb-5" >
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block" src="https://i.ibb.co/hDXgxyL/nk.jpg"  src="https://image.freepik.com/vector-gratis/nino-helicoptero_8495-9.jpg"   width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Helicóptero</em></h2>
-
-
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/sQHmWWZ/fly.jpg"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Avión</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/PhWxVdx/dl.png"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Avioneta</em></h2>
             </div>
@@ -150,28 +146,24 @@
 
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
-
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
-
+<div class="container-fluid pb-5 " >
+    <div class="row" >
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/ByNqMmh/2i.jpg"   width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Globo aerostático</em></h2>
 
 
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/DkgbZFm/coh.jpg"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Cohete</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-md-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/vxTb4vQ/t.jpg"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Teleférico</em></h2>
             </div>
@@ -180,11 +172,10 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
-
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+<div class="container-fluid pb-5" >
+    <div class="row" >
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block" src="https://i.ibb.co/G25G8kC/para.jpg"   width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Parapente</em></h2>
@@ -192,16 +183,16 @@
 
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <h2 ></h2>
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/mtpHrdk/diri.jpg"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Dirigible o Zeppelin</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <h2 ></h2>
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/d7cnJS7/42.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Ultraliviano </em></h2>
             </div>
