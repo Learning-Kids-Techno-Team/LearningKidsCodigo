@@ -259,7 +259,7 @@
                         El patio de mi casa (Uh-oh, uh-oh)<br><br>
 
                        <br><br>El patio de mi casa (Uh-oh, uh-oh)<br>
-                        El patio de mi casa (Uh-oh, uh-oh)<br>
+                        El patio de mi casa (Uh-oh, uh-oh)
                             <br>El patio de mi casa (Uh-oh, uh-oh)<br>
                         El patio de mi casa (Uh-oh, uh-oh)<br>
                         Es particular, muy particular<br>
@@ -310,7 +310,7 @@
                         Las calaveras llaman al rey<br>
                         Chúmbala, cachúmbala,<br> cachúmbala<br>
                         Chúmbala, cachúmbala,<br> cachúmbala<br>
-                        <br>Cuando el reloj marca las siete<br>
+                        Cuando el reloj marca las siete<br>
                         Las calaveras se peinan el copete<br>
                         Chúmbala, cachúmbala,<br> cachúmbala<br>
                         Chúmbala, cachúmbala, <br>cachúmbala.
@@ -325,7 +325,7 @@
                         <br><br><br>Cuando el reloj marca las diez<br>
                         Las calaveras cantan en inglés<br>
                         Chúmbala, cachúmbala,<br> cachúmbala
-                        Chúmbala, cachúmbala,<br> cachúmbala
+
                         Cuando el reloj marca las once.<br>
                         Las calaveras no se conocen<br>
                         Chúmbala, cachúmbala,<br> cachúmbala <br>
@@ -334,7 +334,7 @@
                        <br> Las calaveras pasean en coche.<br>
                         Chúmbala, cachúmbala,<br> cachúmbala
                         Chúmbala, <br>cachúmbala,cachúmbala.<br>
-                        Cuando el reloj marca la una<br>
+                        <br>Cuando el reloj marca la una<br>
                         Las calaveras vuelven a sus tumbas
                         Chúmbala, cachúmbala, cachúmbala.<br>
 
