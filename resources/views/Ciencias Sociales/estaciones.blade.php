@@ -88,15 +88,16 @@
 
 
 <!-- contenedor images otoño, primaver-->
-<div class="container-fluid" id="color"><h2><em><br>¡Encuentra diferencias entre las ilustraciones!</em></h2>
+<div class="container-fluid pb-5" id="color"><h2 style="text-align: center"><em><br>¡Encuentra diferencias entre las ilustraciones!</em></h2>
     <h3><em>¡Repito en voz alta cual de las ilustraciones se
             parece a estos días!</em></h3>
-        <div class="row ">
-            <div class="col-mx-6 mx-auto d-block">
+
+        <div class="row">
+            <div class="col-mx-6 mx-auto d-block pb-5">
                 <h5  align="center">Otoño</h5>
                 <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/g4bRyJP/ninos.jpg"  width="400" height="300"/>
             </div>
-            <div class="col-mx-6 mx-auto d-block">
+            <div class="col-mx-6 mx-auto d-block pb-5">
                 <h5  align="center">Primavera</h5>
                 <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/MZVPjtW/este.jpg"  width="400" height="300"/>
             </div>
@@ -120,8 +121,8 @@
 <!-- contenedor text-->
 <div class="container-fluid " id="color">
     <div class="card mx-auto d-block">
-        <div class="row m-3">
-            <div class="col-mx-4">
+        <div class="row">
+            <div class="col-xl-4">
                 <img src="https://i.ibb.co/rcQ5tbq/nnk-removebg-preview.png" width="350" height="250"/>
             </div>
             <div class="col-md-8 mx-auto d-block">
@@ -133,14 +134,14 @@
     </div>
 </div>
 <!-- contenedor otoño-->
-<div class="container-fluid ">
+<div class="container-fluid">
     <div class="row">
-        <div class="col-mx-6 mx-auto d-block">
+        <div class="col-xl-6 mx-auto d-block pb-5">
             <h2 class="text-justify mx-auto d-block" id="color"><em><br><br><br>Hay épocas que no llueve y algunos árboles
                     botan sus hojas, entonces es </em><strong><em>otoño.</em></strong></h2>
             <img class="mx-auto d-block"  src="https://i.ibb.co/9sydVpq/hojasgif.gif" width="200" height="100" />
         </div>
-        <div class="col-mx-6 mx-auto d-block"><br><br><br>
+        <div class="col-xl-6 mx-auto d-block pb-5"><br><br><br>
             <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/z70g4w7/qe.jpg" width="350" height="250"/>
         </div>
     </div>
@@ -189,13 +190,13 @@
 <!-- contenedor text-->
 <div class="container-fluid ">
     <div class="row" >
-        <div class="col-md-12">
+        <div class="col-xl-12">
             <h2 class="text-justify" id="color"><br><em>Actualmente el clima ha variado mucho debido a la destrucción
                     de los bosques, los incendios o por la tala o corte de los árboles, lo cual produce <strong>escasez</strong> de
                     lluvia y aumento de calor. Si las autoridades y todos nosotros no nos preocupamos por evitar
                         la destrucción del bosque, las futuras generaciones no tendrán agua ni para tomar.</em><br></h2>
 
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/mcGzYsH/air.jpg" width="600" height="350"/>
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/mcGzYsH/air.jpg" width="500" height="350"/>
         </div>
 
     </div>
