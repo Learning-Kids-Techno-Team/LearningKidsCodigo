@@ -103,21 +103,21 @@
 
 
 <!-- contenedor-->
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid  " >
     <br><br>
-    <div class="container-fluid d-flex justify-content-center  " >
-        <div class="row p-5 ">
-            <div class="col-md-12  " id="bor" style="background: #FDFD96">
+    <div class="container-fluid pb-5" >
+        <div class="row  ">
+            <div class="col-xl-12  " id="bor" style="background: #FDFD96">
 
-                <h3>Algunos ejemplos de Transporte Marítimos:
+                <h3 style="text-align: center">Algunos ejemplos de Transporte Marítimos:
                 </h3>
             </div>
         </div>
     </div>
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row" >
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block"  src="https://i.ibb.co/7S7Wgz1/ca.jpg"   width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Canoa</em></h2>
@@ -125,16 +125,14 @@
 
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/FXv3x3T/ho.jpg"    width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Kayak</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/CmLpMTB/lan.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Lancha</em></h2>
             </div>
@@ -142,11 +140,11 @@
 
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid pb-5" >
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row" >
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block" src="https://i.ibb.co/hyc8Rt2/dep.jpg"    width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Submarino</em></h2>
@@ -154,16 +152,14 @@
 
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/tBdjSJj/vele.jpg" width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Velero</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/K9M1bS7/dn.jpg" width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Transatlántico</em></h2>
             </div>
@@ -172,11 +168,11 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid pb-5" >
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row" >
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block"  src="https://i.ibb.co/cC2cV3v/deb.jpg"    width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Buque</em></h2>
@@ -184,16 +180,14 @@
 
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/5kVfJFN/mot.jpg"    width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Moto Acuatica</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/w7gQs6z/fer.jpg"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Ferry </em></h2>
             </div>
