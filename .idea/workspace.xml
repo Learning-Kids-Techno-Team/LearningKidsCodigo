@@ -16,18 +16,14 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="">
+    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 15 Luz Bonilla">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetDistancias.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetDistancias.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/lineaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/lineaActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/derechosYDeberes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/derechosYDeberes.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,20 +224,6 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-    </task>
-    <task id="LOCAL-00017" summary="Sprint 5 Hector.">
-      <created>1607557332463</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1607557332463</updated>
-    </task>
-    <task id="LOCAL-00018" summary="Sprint5 Sindy G.">
-      <created>1607846660514</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1607846660514</updated>
     </task>
     <task id="LOCAL-00019" summary="Sprint5 Sindy G.">
       <created>1607904029572</created>
@@ -572,7 +554,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625975243557</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Sprint 15 Luz Bonilla">
+      <created>1625979210069</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1625979210070</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Sprint 15 Luz Bonilla">
+      <created>1625979647666</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1625979647666</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,7 +587,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Primer Sprint Techno Team" />
     <MESSAGE value="Sprint1 Sindy" />
     <MESSAGE value="Sprint1 Daniela" />
     <MESSAGE value="Sprint2 Daniela" />
@@ -616,7 +611,18 @@
     <MESSAGE value="Sprint 13 Daniela Mazzoni" />
     <MESSAGE value="Sprint 15 Sindy Galindo" />
     <MESSAGE value="Sprint 15 Daniela Mazzoni" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Daniela Mazzoni" />
+    <MESSAGE value="Sprint 15 Luz Bonilla" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Luz Bonilla" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1625979652595">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1625979652595" />
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625979054730">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1625979054730" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

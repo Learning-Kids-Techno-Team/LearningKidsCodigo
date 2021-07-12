@@ -41,7 +41,7 @@
 
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
             margin-left: -5px;
             background: #60A71B;
@@ -76,13 +76,13 @@
 
 
 <!-- contenedor text-->
-<div class="container-fluid center-block pl-5" id="color"><br><br><br><h2 class="text-center"><strong><em>DERECHOS Y DEBERES DE LOS NIÑOS Y NIÑAS.</em></strong></h2><br><br><br>
+<div class="container-fluid" id="color"><br><br><br><h2 class="text-center"><strong><em>DERECHOS Y DEBERES DE LOS NIÑOS Y NIÑAS.</em></strong></h2><br><br><br>
     <div class="card">
-        <div class="row m-3">
-            <div class="col-md-4">
-                <img src="https://i.ibb.co/yF8rLXw/prof-removebg-preview.png" width="350" height="250"/>
+        <div class="row ">
+            <div class="col-xl-4">
+                <img class="mx-auto d-block" src="https://i.ibb.co/yF8rLXw/prof-removebg-preview.png" width="300" height="200"/>
             </div>
-            <div class="col-md-8">
+            <div class="col-xl-8">
                 <h2 class="text-justify" id="color"><br><em>Todas y todos tenemos derechos, pero los niños y las niñas tienen derechos
                         especiales. Sus derechos son muchos, y han sido agrupados así: <strong><em>supervivencia, desarrollo,
                             protección y participación.</em></strong></em></h2><br>
@@ -93,26 +93,26 @@
 
 
 <!-- contenedor image-->
-<div class="container-fluid  center-block pl-5" id="color"><h2 id="let"><em><br>¡Supervivencia!</em></h2><br>
-    <div class="row m-5">
-        <div class="col-md-6">
+<div class="container-fluid " id="color"><h2 style="text-align: center" id="let"><em><br>¡Supervivencia!</em></h2><br>
+    <div class="row">
+        <div class="col-xl-6">
             <h3><strong>Derecho:</strong></h3><br>
             <ul><strong>
                 <li>Al mejor nivel de salud y nutrición.</li>
                 <li>A la seguridad social.</li>
                 </strong>
             </ul>
-            <img class="mx-auto d-block" src="https://i.ibb.co/tX616qH/dere-removebg-preview.png" width="350" height="250"/>
+            <img class="mx-auto d-block" src="https://i.ibb.co/tX616qH/dere-removebg-preview.png" width="300" height="200"/>
         </div>
-        <div class="col-md-6">
-            <img class="mx-auto d-block" src="https://i.ibb.co/jrW6W9K/comi-removebg-preview.png" width="450" height="350"/>
+        <div class="col-xl-6">
+            <img class="mx-auto d-block" src="https://i.ibb.co/jrW6W9K/comi-removebg-preview.png" width="350" height="300"/>
         </div>
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" id="color"><h2><em></em></h2>
-    <div class="row m-5">
-        <div class="col-md-4">
+<div class="container-fluid" id="color"><h2><em></em></h2>
+    <div class="row">
+        <div class="col-xl-4">
             <ul><strong>
                     <li>Al desarrollo físico, mental, espiritual, moral y social.</li>
                     <li>A jugar y descansar.</li>
@@ -120,18 +120,18 @@
             </ul>
             <img class="mx-auto d-block" src="https://i.ibb.co/4VJgypt/ni-o-removebg-preview-1.png" width="300" height="250"/>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <img class="mx-auto d-block" src="https://i.ibb.co/sKLdpK9/cuerd-removebg-preview.png" width="350" height="250"/>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <img class="mx-auto d-block" src="https://i.ibb.co/ysk0Pq5/jugar-removebg-preview.png" width="350" height="250"/>
         </div>
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" id="color"><h2 id="let"><em>¡Desarrollo!</em></h2>
+<div class="container-fluid" id="color"><h2 style="text-align: center" id="let"><em>¡Desarrollo!</em></h2>
     <div class="row m-5">
-        <div class="col-md-5">
+        <div class="col-xl-5">
             <h3><strong>Derecho:</strong></h3><br>
             <ul><strong>
                     <li>A ser queridos y comprendidos.</li>
@@ -140,15 +140,15 @@
             </ul>
             <img class="mx-auto d-block" src="https://i.ibb.co/K6tBnLb/segu-removebg-preview.png" width="350" height="280"/>
         </div>
-        <div class="col-md-7">
+        <div class="col-xl-7">
             <img class="mx-auto d-block" src="https://i.ibb.co/br1qdjy/so-removebg-preview.png" width="450" height="350"/>
         </div>
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" id="color"><h2><em></em></h2>
-    <div class="row m-5">
-        <div class="col-md-12">
+<div class="container-fluid" id="color"><h2><em></em></h2>
+    <div class="row">
+        <div class="col-xl-12">
             <ul><strong>
                     <li>A recibir educación de buena calidad.</li>
                     <li>A vivir con la familia en un ambiente de seguridad.</li>
@@ -159,21 +159,21 @@
     </div>
 </div>
 <!-- contenedor image ambient-->
-<div class="container-fluid  center-block pl-5" id="color">
-    <div class="row m-5">
-        <div class="col-md-6">
+<div class="container-fluid" id="color">
+    <div class="row">
+        <div class="col-xl-6">
             <h3  align="center">AMBIENTE SEGURO</h3>
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/hWb1S1m/segur.jpg" width="500" height="400"/>
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/hWb1S1m/segur.jpg" width="400" height="300"/>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <h3  align="center">AMBIENTE INSEGURO</h3>
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/zR3qKwL/imag.jpg" width="500" height="400"/>
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/zR3qKwL/imag.jpg" width="400" height="300"/>
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" id="color"><h2 id="let"><em>¡Protección!</em></h2>
-    <div class="row m-5">
-        <div class="col-md-5">
+<div class="container-fluid" id="color"><h2 style="text-align: center" id="let"><em>¡Protección!</em></h2>
+    <div class="row">
+        <div class="col-xl-5">
             <h3><strong>Derecho:</strong></h3><br>
             <ul><strong>
                     <li>A no ser discriminado ni maltratado.</li>
@@ -182,15 +182,15 @@
             <img class="mx-auto d-block" src="https://i.ibb.co/Kr2NzRt/tr-removebg-preview.png" width="350" height="280"/>
             <img class="mx-auto d-block" src="https://i.ibb.co/nsKpmqP/xx-removebg-preview.png" width="350" height="240"/>
         </div>
-        <div class="col-md-7">
+        <div class="col-xl-7">
             <img class="mx-auto d-block" src="https://i.ibb.co/310cfmv/malo-removebg-preview.png" width="400" height="300"/>
             <img class="mx-auto d-block" src="https://i.ibb.co/fX04C5M/mal-removebg-preview.png" width="400" height="300"/>
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" id="color"><h2><em></em></h2>
-    <div class="row m-5">
-        <div class="col-md-6">
+<div class="container-fluid " id="color"><h2><em></em></h2>
+    <div class="row ">
+        <div class="col-xl-6">
             <ul><strong>
                     <li>A recibir atención especial en caso de que haya sido víctima de maltrato.</li>
                     <li>A ser protegido de la explotación económica o de un trabajo nocivo.</li>
@@ -200,14 +200,14 @@
             </ul>
             <img class="mx-auto d-block" src="https://i.ibb.co/NF4Y8Jg/sal-removebg-preview.png" width="400" height="300"/>
         </div>
-        <div class="col-md-6">
-            <img class="mx-auto d-block" src="https://i.ibb.co/pfLtMb8/coc-removebg-preview.png" width="500" height="400"/>
+        <div class="col-xl-6">
+            <img class="mx-auto d-block" src="https://i.ibb.co/pfLtMb8/coc-removebg-preview.png" width="400" height="300"/>
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" id="color"><h2 id="let"><em>¡Participación!</em></h2>
-    <div class="row m-5">
-        <div class="col-md-5">
+<div class="container-fluid " id="color"><h2 style="text-align: center" id="let"><em>¡Participación!</em></h2>
+    <div class="row">
+        <div class="col-xl-5">
             <h3><strong>Derecho:</strong></h3><br>
             <ul><strong>
                     <li>A expresar su opinión y que se le tome en cuenta.</li>
@@ -215,14 +215,14 @@
             </ul>
             <img class="mx-auto d-block" src="https://i.ibb.co/x5zwG8q/dgh-removebg-preview.png" width="350" height="250"/>
         </div>
-        <div class="col-md-7">
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/bBPSqKf/part.jpg" width="400" height="300"/>
+        <div class="col-xl-7">
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/bBPSqKf/part.jpg" width="300" height="300"/>
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" id="color"><h2><em></em></h2>
-    <div class="row m-5">
-        <div class="col-md-6">
+<div class="container-fluid" id="color"><h2><em></em></h2>
+    <div class="row">
+        <div class="col-xl-6">
             <ul><strong>
                     <li>A tener acceso a la información.</li>
                     <li>A tener libertad de asociación.</li>
@@ -230,17 +230,17 @@
                     <li>A recibir atención especial cuando padezco de un impedimento físico.</li>
                 </strong>
             </ul>
-            <img class="mx-auto d-block" src="https://i.ibb.co/3RBbZDh/soll-removebg-preview.png" width="500" height="400"/>
+            <img class="mx-auto d-block" src="https://i.ibb.co/3RBbZDh/soll-removebg-preview.png" width="400" height="300"/>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <img class="mx-auto d-block" src="https://i.ibb.co/wM2bWkG/sill-removebg-preview.png" width="400" height="300"/>
             <img class="mx-auto d-block" src="https://i.ibb.co/s3D1gdM/igles-removebg-preview.png" width="400" height="300"/>
         </div>
     </div>
 </div>
-<div class="container-fluid center-block pl-5" id="color"><h2><em>¡DEBERES DE LOS NIÑOS Y NIÑAS!</em></h2>
+<div class="container-fluid" id="color"><h2><em>¡DEBERES DE LOS NIÑOS Y NIÑAS!</em></h2>
     <div class="row m-5">
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <h3><strong>Deber:</strong></h3><br>
             <ul><strong>
                     <li>Respetar a sus padres, maestros (as) y a todas las personas.</li>
@@ -251,15 +251,15 @@
             </ul>
             <img class="mx-auto d-block" src="https://i.ibb.co/wdQTzxh/kj-removebg-preview.png" width="400" height="300"/>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <img class="mx-auto d-block" src="https://i.ibb.co/nnbBK1B/maest-removebg-preview.png" width="400" height="300"/>
             <img class="mx-auto d-block" src="https://i.ibb.co/7tb0HZH/ni-removebg-preview-1.png"/>
         </div>
     </div>
 </div>
-<div class="container-fluid center-block pl-5" id="color"><h2><em></em></h2>
-    <div class="row m-5">
-        <div class="col-md-6">
+<div class="container-fluid" id="color"><h2><em></em></h2>
+    <div class="row ">
+        <div class="col-xl-6">
             <h3><strong>Deber:</strong></h3><br>
             <ul><strong>
                     <li>Preparo los libros que necesito para las tareas.</li>
@@ -270,7 +270,7 @@
             </ul>
             <img class="mx-auto d-block" src="https://i.ibb.co/hsqTBLd/tare-removebg-preview.png" width="400" height="300"/>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <img class="mx-auto d-block" src="https://i.ibb.co/K2Tg4bV/hom-removebg-preview.png" width="350" height="250"/>
             <img class="mx-auto d-block" src="https://i.ibb.co/1QdGqwd/ho-removebg-preview.png" width="400" height="300"/>
         </div>
