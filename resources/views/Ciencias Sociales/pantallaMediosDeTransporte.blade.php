@@ -108,7 +108,7 @@
 <!-- imagen -->
 <div class="container-fluid" id="dif">
     <div class="row" >
-        <div class="col-md-12" id="fondo">
+        <div class="col-xl-12" id="fondo">
             <img  class="mx-auto d-block mb-5" src="https://i.ibb.co/Pw6dWRs/tipos-de-transporte-removebg-preview.png"  width="500"/>
         </div>
     </div>
