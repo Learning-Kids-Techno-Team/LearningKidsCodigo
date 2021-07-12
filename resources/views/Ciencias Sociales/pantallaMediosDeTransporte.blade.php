@@ -109,7 +109,7 @@
 <div class="container-fluid" id="dif">
     <div class="row" >
         <div class="col-md-12" id="fondo">
-            <img  class="mx-auto d-block mb-5" src="https://i.ibb.co/Pw6dWRs/tipos-de-transporte-removebg-preview.png"  width="600"/>
+            <img  class="mx-auto d-block mb-5" src="https://i.ibb.co/Pw6dWRs/tipos-de-transporte-removebg-preview.png"  width="500"/>
         </div>
     </div>
 </div>
@@ -124,7 +124,7 @@
                     ¿Qué son los medios de transporte?
                 </em></h2>
 
-            <p class="text-center">
+            <p class="text-justify">
                 <strong><em><br>Transporte es el medio por el cual son trasladados datos, objetos o seres vivos de un lugar a otro. La palabra transporte deriva del latín cuyos compuestos léxicos son el prefijo trans- que indica de un lado a otro y portare que significa llevar. ... El transporte también puede ser hecho por un animal o insecto.
                     </em></strong> </p>
         </div>
