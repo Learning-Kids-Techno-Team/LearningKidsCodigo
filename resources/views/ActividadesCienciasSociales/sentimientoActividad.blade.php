@@ -12,6 +12,7 @@
 
         gtag('config', 'G-JWFFJETEMQ');
     </script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 
     <title>Actividad de sentimientos</title>
@@ -108,6 +109,10 @@
 </head>
 <body >
 @section('content')
+    <script style="justify-content: center">
+        swal("Hola ¡Bienvenido(a)  a las actividades","En la pantalla se mostrará un mensaje que dice:\n¿Deseas continuar por donde dejaste el juego?\ntendrás dos opciones SI(YES) Y NO(NO).Si tu respuesta es SI(YES) la actividad se reiniciará y si eliges la opción NO/NO Continuará donde lo dejaste!",
+            "info");
+    </script>
 
 
 <div class="container-fluid">

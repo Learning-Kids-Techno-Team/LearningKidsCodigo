@@ -103,21 +103,21 @@
 
 
 <!-- contenedor-->
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid pb-5" >
     <br><br>
-    <div class="container-fluid d-flex justify-content-center  " >
+    <div class="container-fluid " >
         <div class="row p-5 ">
             <div class="col-md-12  " id="bor" style="background: peachpuff">
 
-                <h3>Algunos ejemplos de Transporte Terrestres:
+                <h3 style="text-align: center">Algunos ejemplos de Transporte Terrestres:
                 </h3>
             </div>
         </div>
     </div>
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row " >
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block"   src="https://i.ibb.co/k0v3GNZ/au.jpg"    width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Automóvil</em></h2>
@@ -125,16 +125,14 @@
 
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/BwsyJYh/bic.jpg"    width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Bicicleta</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/8PPKSFJ/mo2.jpg"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Motocicleta</em></h2>
             </div>
@@ -142,11 +140,11 @@
 
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid pb-5" >
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row" >
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block"  src="https://i.ibb.co/mNW7J2H/ch.jpg"    width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Autobús</em></h2>
@@ -154,16 +152,14 @@
 
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/whm8vw6/de2.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Carreta</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/RDfccKq/cab.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Caballo</em></h2>
             </div>
@@ -172,11 +168,11 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid pb-5" >
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row " >
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block" src="https://i.ibb.co/y6BD70x/t16.jpg"    width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Camión</em></h2>
@@ -184,16 +180,14 @@
 
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/3ym5sPr/t3.jpg"    width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Tren</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
-            <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 p-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/mT1s5Zh/cami.jpg"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Camioneta</em></h2>
             </div>

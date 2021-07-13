@@ -96,7 +96,7 @@
 <div class="container-fluid">
     <div class="row pb-5">
         <div class="col-md-12" style="background:  #dcfecb" id="fondo" >
-            <img src="https://i.ibb.co/yF8rLXw/prof-removebg-preview.png"  width="600" class=" mx-auto d-block"/>
+            <img src="https://i.ibb.co/yF8rLXw/prof-removebg-preview.png"  width="500" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
