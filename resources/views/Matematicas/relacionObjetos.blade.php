@@ -174,7 +174,7 @@
                     <div class="card-body">
                         <h5 class="card-title; text-center">Distingo Distancias</h5>
                         <div class="text-center">
-                        <a style=" background: darkorange" href=" {{ url('/RelacionObjetDistancias') }}" class="btn btn-danger">Leer</a>
+                        <a style=" background: #FF7E5A" href=" {{ url('/RelacionObjetDistancias') }}" class="btn btn-danger">Leer</a>
                     </div>
                     </div>
                 </div>

@@ -282,26 +282,29 @@
     <div class="row " >
 
         <div class="col-xl-4 p-2">
-            <div  style="width: 20rem;">
-                <img class="mx-auto d-block" src="https://i.ibb.co/HFKf6wr/Captura-de-pantalla-324-removebg-preview.png"
-                      width="250"  >
+            <div >
+                <img class="mx-auto d-block"
+                     src="https://i.ibb.co/HFKf6wr/Captura-de-pantalla-324-removebg-preview.png"
+                      width="300"  >
 
             </div>
         </div>
 
             <div class="col-xl-4 p-2">
-                <div  style="width: 20rem;">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/WByxNLB/Captura-de-pantalla-326-removebg-preview.png"
-                         width="250"  >
+                <div  >
+                    <img class="mx-auto d-block"
+                         src="https://i.ibb.co/WByxNLB/Captura-de-pantalla-326-removebg-preview.png"
+                         width="300"  >
 
                 </div>
             </div>
 
 
                 <div class="col-xl-4 p-2">
-                    <div  style="width: 20rem;">
-                        <img class="mx-auto d-block"  src="https://i.ibb.co/s3DqPDf/Captura-de-pantalla-328-removebg-preview.png"
-                               width="250" >
+                    <div >
+                        <img class="mx-auto d-block"
+                             src="https://i.ibb.co/s3DqPDf/Captura-de-pantalla-328-removebg-preview.png"
+                               width="280" >
 
                     </div>
                 </div>
@@ -315,7 +318,7 @@
         </div>
     </div>
 </div>
-
+<br>
 <div class="container-fluid " >
     <div class="row  " >
         <div class="col-xl-6 p-2">
