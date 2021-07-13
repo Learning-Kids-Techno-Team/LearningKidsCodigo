@@ -86,9 +86,9 @@
 
 <!-- imagen -->
 <div class="container-fluid">
-    <div class="row" id="fondo">
-        <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
-            <img src="https://i.ibb.co/8YS23vz/otrasfiguras-removebg-preview-1.png" alt="otrasfiguras-removebg-preview-1"  class=" mx-auto d-block"/>
+    <div class="row" >
+        <div class="col-xl-12" style="background: #D8E2F3" id="fondo" >
+            <img src="https://i.ibb.co/8YS23vz/otrasfiguras-removebg-preview-1.png" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -107,7 +107,7 @@
 <div  class="container-fluid">
     <div class="row pt-5"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-md-3 p-3 " >
+        <div class="col-xl-3 p-3 " >
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/ys9pK7f/hexagono1-removebg-preview.png" alt="hexagono1-removebg-preview" class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -122,7 +122,7 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-3 p-3">
+        <div class="col-xl-3 p-3">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/NmRf0TJ/1semic-rculo-removebg-preview.png" alt="1semic-rculo-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -137,7 +137,7 @@
             </div>
         </div>
         <!-- tarjeta3 -->
-        <div class="col-md-3 p-3">
+        <div class="col-xl-3 p-3">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/0By0pR0/octagono-removebg-preview.png" alt="octagono-removebg-preview"  class="card mx-auto d-block"   height="150" width="150">
                 <div class="card-body">
@@ -149,7 +149,7 @@
             </div>
         </div>
         <!-- tarjeta4 -->
-        <div class="col-md-3 p-3">
+        <div class="col-xl-3 p-3">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/mcbkTbJ/circulo-removebg-preview.png" alt="circulo-removebg-preview"  class="card mx-auto d-block"   height="150" width="150">
                 <div class="card-body">
@@ -164,7 +164,7 @@
         <!-- tarjeta5 -->
         <div class="container-fluid">
             <div class="row pt-3" style="background: #FFCDA0">
-                <div class="col-md-3 p-3">
+                <div class="col-xl-3 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/JQvrX1c/Estrella-removebg-preview.png" alt="Estrella-removebg-preview"   class="card mx-auto d-block"  height="150" width="180">
                         <div class="card-body">
@@ -176,7 +176,7 @@
                     </div>
                 </div>
                 <!-- tarjeta6 -->
-                <div class="col-md-3 p-3">
+                <div class="col-xl-3 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/JzpVF8T/ovalo-removebg-preview.png" alt="ovalo-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">
@@ -188,7 +188,7 @@
                     </div>
                 </div>
                 <!-- tarjeta7 -->
-                <div class="col-md-3 p-3">
+                <div class="col-xl-3 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/YcC6gqm/cruz-removebg-preview.png" alt="cruz-removebg-preview" class="card mx-auto d-block"  height="150" width="180">
                         <div class="card-body">
@@ -201,7 +201,7 @@
                     </div>
                 </div>
                 <!-- tarjeta8 -->
-                <div class="col-md-3 p-3">
+                <div class="col-xl-3 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/KmNZmPJ/corazon-removebg-preview.png" alt="corazon-removebg-preview" class="card mx-auto d-block"  height="150" width="180">
                         <div class="card-body">
