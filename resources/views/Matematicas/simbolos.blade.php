@@ -32,15 +32,7 @@
             background: #FFC897;
 
         }
-        #banderin{
 
-            background: url("https://i.ibb.co/6Wgk20W/Captura-de-pantalla-308-removebg-preview.png");
-            margin-bottom: auto;
-
-
-            height: 100px;
-
-        }
 
 
         .card{
@@ -69,15 +61,15 @@
 
 
         }
-        #separadorInferior2 .content{
+
+        #separadorInferior .content{
 
             width: 100%;
             height: 100px;
-            border-bottom-left-radius: 80%;
-            border-bottom-right-radius: 70%;
-            border-top-right-radius: 80%;
-            border-top-left-radius: 70%;
+            margin-left: -5px;
             background: #FF7800;
+            border-top-left-radius: 50%;
+            border-top-right-radius:50%;
         }
         p{
             text-align: center;
@@ -90,17 +82,8 @@
 
         }
 
-        #separadorInferior2 .content{
 
-            width: 100%;
-            height: 100px;
 
-            background: #FF7800;
-        }
-        #titulo{
-            text-align: center;
-            color: red;
-        }
         #bor{
             border: oldlace 5px dashed;
             border-bottom-right-radius: 50px;
@@ -169,10 +152,7 @@
                         “mayor que” > y “menor que” <  Con ellos podemos hacer comparaciones.
                         Son elementos que se utilizan en matemáticas para indicar que un número
                         es mayor o menor que otro.
-                        <br>
-                        <br>
-                        <br>
-                        <br>
+
 
                     </em></strong></p>
 
@@ -255,11 +235,12 @@
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid " >
     <div class="row " >
-        <div class="col-md-6">
-            <div  style="width: 30rem;">
-                 <img src="https://i.ibb.co/NnK9dQn/Captura-de-pantalla-322-removebg-preview-1.png"  width="468" height="250">
+        <div class="col-xl-6 p-2">
+            <div class="mx-auto d-block" ">
+                 <img class="mx-auto d-block" src="https://i.ibb.co/NnK9dQn/Captura-de-pantalla-322-removebg-preview-1.png"
+                      width="400" >
 
                 <div>
 
@@ -267,9 +248,11 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div  style="width: 30rem;">
-                <img src="https://i.ibb.co/pXdR7Mh/Captura-de-pantalla-320-removebg-preview.png"  width="468" height="250">
+        <div class="col-xl-6 p-2">
+            <div class="mx-auto d-block"">
+                <br><br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/pXdR7Mh/Captura-de-pantalla-320-removebg-preview.png"
+                     width="400" >
 
 
                 </div>
@@ -278,40 +261,37 @@
     </div>
 
 </div>
-<div class="container-fluid d-flex justify-content-center  " >
-    <div class="row p-5 ">
-        <div class="col-md-12 bg-warning " id="bor">
 
-            <h3>La niña tiene 10 pastelitos y el niño 5.<br>
-                La niña tiene más pastelitos que el niño porque 10 es mayor que 5.<br>
-                El niño tiene menos pastelitos que la niña porque 5 es menor que 10.
-            </h3>
-        </div>
-    </div>
-</div>
-
-<div class="container-fluid center-block pl-5" >
+<div class="container-fluid " >
+    <h3 class="text-center">La niña tiene 10 pastelitos y el niño 5.<br>
+        La niña tiene más pastelitos que el niño porque 10 es mayor que 5.<br>
+        El niño tiene menos pastelitos que la niña porque 5 es menor que 10.
+    </h3>
     <div class="row " >
-        <div class="col-md-4 pb-3">
-            <div  style="width: 18rem;">
-                <img  src="https://i.ibb.co/HFKf6wr/Captura-de-pantalla-324-removebg-preview.png"   width="430" height="250" >
+
+        <div class="col-xl-4 p-2">
+            <div class="mx-auto d-block"  style="width: 18rem;">
+                <img  src="https://i.ibb.co/HFKf6wr/Captura-de-pantalla-324-removebg-preview.png"
+                      width="290" >
 
             </div>
         </div>
 
 
 
-            <div class="col-md-4 pb-3">
-                <div  style="width: 18rem;">
-                    <img src="https://i.ibb.co/WByxNLB/Captura-de-pantalla-326-removebg-preview.png" width="430" height="250" >
+            <div class="col-xl-4 p-2">
+                <div  class="mx-auto d-block" style="width: 18rem;">
+                    <img src="https://i.ibb.co/WByxNLB/Captura-de-pantalla-326-removebg-preview.png"
+                         width="290" >
 
                 </div>
             </div>
 
 
-                <div class="col-md-4 pb-3">
-                    <div  style="width: 18rem;">
-                        <img   src="https://i.ibb.co/s3DqPDf/Captura-de-pantalla-328-removebg-preview.png"   width="430" height="250" >
+                <div class="col-xl-4 p-2">
+                    <div  class="mx-auto d-block" style="width: 18rem;">
+                        <img   src="https://i.ibb.co/s3DqPDf/Captura-de-pantalla-328-removebg-preview.png"
+                               width="290">
 
                     </div>
                 </div>
@@ -320,17 +300,20 @@
     </div>
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-info mb-5">
+        <div class="col-xl-12  p-2">
             <h1 style="text-align: center">Ejercicios</h1>
         </div>
     </div>
 </div>
-
-<div class="container-fluid  center-block pl-5" >
-    <div class="row  m-5" >
-        <div class="col-md-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img  src="https://i.ibb.co/Wxgqdds/Captura-de-pantalla-330-removebg-preview.png"  width="430" height="250">
+<br><br>
+<div class="container-fluid  " >
+    <div class="row  " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <br>
+                <img  class="mx-auto d-block" src="https://i.ibb.co/Wxgqdds/Captura-de-pantalla-330-removebg-preview.png"
+                      width="300"
+                      >
                 <div class="card-body" id="im">
 
                     <h6 id="res1"></h6>
@@ -339,9 +322,11 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img src="https://i.ibb.co/yhFj8Jn/Captura-de-pantalla-332-removebg-preview.png"  width="430" height="250">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/yhFj8Jn/Captura-de-pantalla-332-removebg-preview.png"
+                     width="300" >
                 <div class="card-body">
                   <h6 id="res2"></h6>
                    <button class="btn btn-success" onclick="respuesta2()">Respuesta</button>
@@ -350,11 +335,12 @@
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
-                <img src="https://i.ibb.co/tHwkfG4/Captura-de-pantalla-334-removebg-preview.png"   width="468" height="250">
+<div class="container-fluid  " >
+    <div class="row " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img src="https://i.ibb.co/tHwkfG4/Captura-de-pantalla-334-removebg-preview.png"
+                     width="300" >
                 <div class="card-body" id="im">
                    <h6 id="res3"></h6>
 
@@ -363,9 +349,10 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
-                <img src="https://i.ibb.co/gSSrdSS/Captura-de-pantalla-337-removebg-preview.png" alt="Captura-de-pantalla-337-removebg-preview"   width="468" height="250">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img src="https://i.ibb.co/gSSrdSS/Captura-de-pantalla-337-removebg-preview.png"
+                       width="300" >
                 <div class="card-body">
                     <h6 id="res4"></h6>
 
@@ -379,11 +366,12 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
-                <img  src="https://i.ibb.co/RTK3yX5/Captura-de-pantalla-339-removebg-preview.png"    width="468" height="250">
+<div class="container-fluid  " >
+    <div class="row " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img  src="https://i.ibb.co/RTK3yX5/Captura-de-pantalla-339-removebg-preview.png"
+                      width="300" >
                 <div class="card-body" id="im">
                     <h6 id="res5"></h6>
 
@@ -392,9 +380,10 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
-                <img  src="https://i.ibb.co/0f6YFpp/Captura-de-pantalla-341-removebg-preview.png"  width="468" height="250">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block"  style="width: 20rem;">
+                <img  src="https://i.ibb.co/0f6YFpp/Captura-de-pantalla-341-removebg-preview.png"
+                      width="300" >
                 <div class="card-body">
                     <h6 id="res6"></h6>
 
@@ -410,16 +399,11 @@
 
 
 
-
-
-
-<div id="separadorInferior2">
-    <div class="content ">
-
+<!-- separador -->
+<div id="separadorInferior">
+    <div class="content">
     </div>
 </div>
-
-
 
 
 
