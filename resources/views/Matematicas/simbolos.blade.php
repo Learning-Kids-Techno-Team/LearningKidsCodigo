@@ -24,7 +24,7 @@
 
     <style>
         .navbar{
-            background: #FF7800;
+            background: #FF7E5A;
         }
 
         body{
@@ -32,15 +32,7 @@
             background: #FFC897;
 
         }
-        #banderin{
 
-            background: url("https://i.ibb.co/6Wgk20W/Captura-de-pantalla-308-removebg-preview.png");
-            margin-bottom: auto;
-
-
-            height: 140px;
-
-        }
 
 
         .card{
@@ -97,10 +89,7 @@
 
             background: #FF7800;
         }
-        #titulo{
-            text-align: center;
-            color: red;
-        }
+
         #bor{
             border: oldlace 5px dashed;
             border-bottom-right-radius: 50px;
@@ -154,16 +143,17 @@
 @section('content')
 
 <!-- contenedor del gif-->
-<div class="container-fluid" id="h">
+<div class="container-fluid" >
     <div class="row ">
-        <div class="col-md-4 " >
-            <img src="https://i.ibb.co/44k0vNg/Captura-de-pantalla-297-removebg-preview.png"    height="300">
+        <div class="col-xl-4 p-2 " >
+            <img class="mx-auto d-block" src="https://i.ibb.co/44k0vNg/Captura-de-pantalla-297-removebg-preview.png"    height="300">
         </div>
 
-        <div class="col-md-8 " >
-            <h2 id="color">Mayor Que, Menor Que o Igual</h2>
-
-            <p id="pa"><strong><em>
+        <div class="col-xl-8 p-2" >
+            <br>
+            <h2 class="text-center">Mayor Que, Menor Que o Igual</h2>
+<br>
+            <p class="text-justify"><strong><em>
                         Los símbolos de desigualdad más conocidos son:
                         “mayor que” > y “menor que” <  Con ellos podemos hacer comparaciones.
                         Son elementos que se utilizan en matemáticas para indicar que un número
@@ -180,33 +170,24 @@
     </div>
 </div>
 
-<!-- contenedor de la estrella-->
-<div class="container-fluid " id="banderin" >
+
+<div class="container-fluid " >
     <div class="row " >
-        <div class="col-md-12">
-
-        </div>
-    </div>
-</div>
-
-
-
-<div class="container-fluid d-flex justify-content-center p-5" >
-    <div class="row " >
-        <div class="col-md-12 ">
-            <div class="card" style="width: 40rem;">
-                <iframe  src="https://drive.google.com/file/d/1Ea-UzkQLadNSU-QB0tTaXAW5wBtcaTTS/preview" width="628" height="300" ></iframe>
+        <div class="col-xl-12  p-2">
+            <div class="card mx-auto d-block" style="width: 21rem;">
+                <iframe  src="https://drive.google.com/file/d/1Ea-UzkQLadNSU-QB0tTaXAW5wBtcaTTS/preview"
+                         width="325"  ></iframe>
                 <div class="card-body" id="im">
-                    <h5 class="card-title">¿Para qué nos sirven los simbolos mayor que, menor que e igual?</h5>
+                    <h5 class="text-center">¿Para qué nos sirven los simbolos mayor que, menor que e igual?</h5>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<div class="container-fluid" id="titulo" >
+<div class="container-fluid" >
     <div class="row " >
-        <div class="col-md-12">
-            <h1 >Conozcamos los símbolos</h1>
+        <div class="col-xl-12 p-2">
+            <h1 class="text-center" >Conozcamos los símbolos</h1>
 
         </div>
     </div>
@@ -215,11 +196,12 @@
 
 
 
-    <div class="container-fluid center-block pl-5" >
-        <div class="row m-5" >
-            <div class="col-md-4 pb-3">
-                <div class="card" style="width: 18rem;">
-                    <img  src="https://i.ibb.co/ZfftSFr/mm.jpg"  class=" mx-auto d-block" width="270" height="170" >
+    <div class="container-fluid " >
+        <div class="row " >
+            <div class="col-xl-4 p-2">
+                <div class="card mx-auto d-block" style="width: 18rem;">
+                    <img  src="https://i.ibb.co/ZfftSFr/mm.jpg"  class=" mx-auto d-block" width="270"
+                         >
                     <div class="card-body">
                         <h5 class="card-title">Signo Mayor</h5>
                         <p><strong>Este símbolo siempre abre la boca hacia el número que es mayor.</strong></p>
@@ -228,9 +210,10 @@
             </div>
 
 
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                    <img   src="https://i.ibb.co/ryVpqDx/meee.jpg"  width="273" height="170">
+            <div class="col-xl-4  p-2">
+                <div class="card mx-auto d-block" style="width: 18rem;">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/ryVpqDx/meee.jpg"
+                         width="273" >
                     <div class="card-body">
                         <h5 class="card-title">Signo Menor</h5>
 
@@ -238,9 +221,11 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 pb-3">
-                <div class="card" style="width: 18rem;">
-                    <img src="https://i.ibb.co/ZKLh2tM/igual.jpg"  class=" mx-auto d-block" width="270" height="170" >
+            <div class="col-xl-4 p-2">
+                <div class="card mx-auto d-block" style="width: 18rem;">
+
+                    <img src="https://i.ibb.co/ZKLh2tM/igual.jpg"  class=" mx-auto d-block"
+                         width="270" height="284" >
                     <div class="card-body">
                         <h5 class="card-title">Signo Igual</h5>
                         <p><strong>Este símbolo siempre tiene la boca cerrada cuando dos numeros son iguales.</strong></p>
@@ -251,71 +236,72 @@
     </div>
 </div>
 
-<div class="container-fluid" id="titulo" >
+<div class="container-fluid"  >
     <div class="row " >
-        <div class="col-md-12">
-            <h1 >Comparemos números</h1>
+        <div class="col-xl-12 p-2">
+            <br>
+            <h1 class="text-center" >Comparemos números</h1>
 
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid  " >
     <div class="row " >
-        <div class="col-md-6">
-            <div  style="width: 30rem;">
-                 <img src="https://i.ibb.co/NnK9dQn/Captura-de-pantalla-322-removebg-preview-1.png"  width="468" height="250">
+        <div class="col-xl-6 p-2">
+            <div >
+                 <img class="mx-auto d-block" src="https://i.ibb.co/NnK9dQn/Captura-de-pantalla-322-removebg-preview-1.png"
+                      width="300" >
 
                 <div>
-
-
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div  style="width: 30rem;">
-                <img src="https://i.ibb.co/pXdR7Mh/Captura-de-pantalla-320-removebg-preview.png"  width="468" height="250">
-
-
+        <div class="col-xl-6 p-2">
+            <div  >
+                <br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/pXdR7Mh/Captura-de-pantalla-320-removebg-preview.png"
+                     width="320" >
                 </div>
             </div>
+
         </div>
     </div>
 
 </div>
-<div class="container-fluid d-flex justify-content-center  " >
-    <div class="row p-5 ">
-        <div class="col-md-12 bg-warning " id="bor">
-
-            <h3>La niña tiene 10 pastelitos y el niño 5.<br>
+<div >
+<br>
+            <h3 class=" text-center mx-auto d-block ">La niña tiene 10 pastelitos y el niño 5.<br>
                 La niña tiene más pastelitos que el niño porque 10 es mayor que 5.<br>
                 El niño tiene menos pastelitos que la niña porque 5 es menor que 10.
             </h3>
-        </div>
-    </div>
 </div>
+<br>
 
-<div class="container-fluid center-block pl-5" >
+
+<div class="container-fluid" >
     <div class="row " >
-        <div class="col-md-4 pb-3">
-            <div  style="width: 18rem;">
-                <img  src="https://i.ibb.co/HFKf6wr/Captura-de-pantalla-324-removebg-preview.png"   width="430" height="250" >
+
+        <div class="col-xl-4 p-2">
+            <div  style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/HFKf6wr/Captura-de-pantalla-324-removebg-preview.png"
+                      width="250"  >
 
             </div>
         </div>
 
-
-
-            <div class="col-md-4 pb-3">
-                <div  style="width: 18rem;">
-                    <img src="https://i.ibb.co/WByxNLB/Captura-de-pantalla-326-removebg-preview.png" width="430" height="250" >
+            <div class="col-xl-4 p-2">
+                <div  style="width: 20rem;">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/WByxNLB/Captura-de-pantalla-326-removebg-preview.png"
+                         width="250"  >
 
                 </div>
             </div>
 
 
-                <div class="col-md-4 pb-3">
-                    <div  style="width: 18rem;">
-                        <img   src="https://i.ibb.co/s3DqPDf/Captura-de-pantalla-328-removebg-preview.png"   width="430" height="250" >
+                <div class="col-xl-4 p-2">
+                    <div  style="width: 20rem;">
+                        <img class="mx-auto d-block"  src="https://i.ibb.co/s3DqPDf/Captura-de-pantalla-328-removebg-preview.png"
+                               width="250" >
 
                     </div>
                 </div>
@@ -324,18 +310,19 @@
     </div>
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-info mb-5">
+        <div class="col-xl-12 bg-info p-2">
             <h1 style="text-align: center">Ejercicios</h1>
         </div>
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row  m-5" >
-        <div class="col-md-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img  src="https://i.ibb.co/Wxgqdds/Captura-de-pantalla-330-removebg-preview.png"  width="430" height="250">
-                <div class="card-body" id="im">
+<div class="container-fluid " >
+    <div class="row  " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img  src="https://i.ibb.co/Wxgqdds/Captura-de-pantalla-330-removebg-preview.png"
+                      width="300" >
+                <div class="card-body text-center" id="im">
 
                     <h6 id="res1"></h6>
                     <button class="btn btn-success" onclick="respuesta1()">Respuesta</button>
@@ -343,23 +330,26 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img src="https://i.ibb.co/yhFj8Jn/Captura-de-pantalla-332-removebg-preview.png"  width="430" height="250">
-                <div class="card-body">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img src="https://i.ibb.co/yhFj8Jn/Captura-de-pantalla-332-removebg-preview.png"
+                     width="300" >
+                <div class="card-body text-center">
                   <h6 id="res2"></h6>
+
                    <button class="btn btn-success" onclick="respuesta2()">Respuesta</button>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
-                <img src="https://i.ibb.co/tHwkfG4/Captura-de-pantalla-334-removebg-preview.png"   width="468" height="250">
-                <div class="card-body" id="im">
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img src="https://i.ibb.co/tHwkfG4/Captura-de-pantalla-334-removebg-preview.png"
+                     width="300" >
+                <div class="card-body text-center" id="im">
                    <h6 id="res3"></h6>
 
                    <button class="btn btn-success" onclick="respuesta3()">Respuesta</button>
@@ -367,10 +357,11 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
-                <img src="https://i.ibb.co/gSSrdSS/Captura-de-pantalla-337-removebg-preview.png" alt="Captura-de-pantalla-337-removebg-preview"   width="468" height="250">
-                <div class="card-body">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img src="https://i.ibb.co/gSSrdSS/Captura-de-pantalla-337-removebg-preview.png"
+                     width="300" >
+                <div class="card-body text-center">
                     <h6 id="res4"></h6>
 
                     <button class="btn btn-success" onclick="respuesta4()">Respuesta</button>
@@ -383,11 +374,12 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
-                <img  src="https://i.ibb.co/RTK3yX5/Captura-de-pantalla-339-removebg-preview.png"    width="468" height="250">
+<div class="container-fluid  " >
+    <div class="row " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img  src="https://i.ibb.co/RTK3yX5/Captura-de-pantalla-339-removebg-preview.png"
+                      width="300" >
                 <div class="card-body" id="im">
                     <h6 id="res5"></h6>
 
@@ -396,10 +388,11 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
-                <img  src="https://i.ibb.co/0f6YFpp/Captura-de-pantalla-341-removebg-preview.png"  width="468" height="250">
-                <div class="card-body">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img  src="https://i.ibb.co/0f6YFpp/Captura-de-pantalla-341-removebg-preview.png"
+                      width="300" >
+                <div class="card-body text-center">
                     <h6 id="res6"></h6>
 
                     <button class="btn btn-success" onclick="respuesta6()">Respuesta</button>
@@ -416,7 +409,7 @@
 
 
 
-
+<br>
 <div id="separadorInferior2">
     <div class="content ">
 
