@@ -35,7 +35,7 @@
 
     .card{
         border-bottom-left-radius: 50%;
-        ;
+
     }
 
 
@@ -84,8 +84,8 @@
 <!-- iamgen -->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12" style="background: #f8cfc6" id="fondo" >
-            <img   src="https://i.ibb.co/sv6dsyj/maxresdefault-removebg-preview.png"   height="500" width="800" class=" mx-auto d-block"/>
+        <div class="col-xl-12" style="background: #f8cfc6" id="fondo" >
+            <img   src="https://i.ibb.co/sv6dsyj/maxresdefault-removebg-preview.png" width="450" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -94,10 +94,10 @@
 <!-- descrpcion -->
 <div id="separadorDePagina" class="container-fluid" >
     <div class="row">
-        <div class="col-md-4 mt-5">
-            <img  src="https://i.ibb.co/2jG39ht/msaxresdef2ault-removebg-preview.png" width="500" class="mx-auto d-block "/>
+        <div class="col-xl-4 mt-5">
+            <img  src="https://i.ibb.co/2jG39ht/msaxresdef2ault-removebg-preview.png" width="400" class="mx-auto d-block "/>
             </div>
-            <div class="col-md-8">
+            <div class="col-xl-8">
             <h2 class="text-center" id="cuento">
                 ¿Qué son las figuras geométricas?
             </h2>
@@ -120,40 +120,44 @@
 <!-- tarjetas de tipos de figuras geometricas -->
     <div class="container-fluid pb-5 " style="background: #f8cfc6 ">
         <div class="row">
-            <div class="col-md-12 pb-3"><br>
+            <div class="col-xl-12 pb-3"><br>
                 <h3>Figuras Geométricas</h3>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-4 pb-4 ">
+            <div class="col-xl-4 pb-4 ">
                 <div class="card mx-auto d-block" style="width: 18rem;">
                     <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/triangle-5258735_960_720.png" width="210" >
                     <div class="card-body">
                         <h5 align="center">Triángulo</h5>
-
-                        <a style=" background: #FF7800" href=" {{ url('/TiposDeTriangulos') }}" class="btn btn-primary">Leer</a>
+                        <div align="center">
+                        <a style=" background: #FF7E5A" href=" {{ url('/TiposDeTriangulos') }}" class="btn btn-primary">Leer</a>
                     </div>
                 </div>
+                </div>
             </div>
-            <div class="col-md-4 pb-4">
+            <div class="col-xl-4 pb-4">
                 <div class="card mx-auto d-block" style="width: 18rem;">
-                    <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/square-5258734_960_720.png" width="300" alt="...">
+                    <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/square-5258734_960_720.png" width="300">
                     <div class="card-body">
                         <h5 align="center">Cuadrado</h5>
-                        <a href=" {{ url('/TipoDeCuadrilatero') }}" style=" background: #FF7800" class="btn btn-primary">Leer</a>
+                        <div align="center">
+                        <a href=" {{ url('/TipoDeCuadrilatero') }}" style=" background: #FF7E5A" class="btn btn-primary">Leer</a>
+                    </div>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 pb-4">
                 <div class="card mx-auto d-block" style="width: 18rem;">
-                    <img src="https://i.ibb.co/4YyK2hd/conjunto-formas-geometria-matematica-1639-6401-removebg-preview.png"   class="card-img-top" alt="...">
+                    <img src="https://i.ibb.co/4YyK2hd/conjunto-formas-geometria-matematica-1639-6401-removebg-preview.png"   class="card-img-top">
                     <div class="card-body">
                         <br>
                         <br>
                         <br>
                         <h5 align="center">Otras Figuras</h5>
-
-                        <a href=" {{ url('/OtrasFiguras') }}" style=" background: #FF7800" class="btn btn-primary">Leer</a>
+                        <div align="center">
+                        <a href=" {{ url('/OtrasFiguras') }}" style=" background: #FF7E5A"  class="btn btn-primary">Leer</a>
+                    </div>
                     </div>
                 </div>
             </div>

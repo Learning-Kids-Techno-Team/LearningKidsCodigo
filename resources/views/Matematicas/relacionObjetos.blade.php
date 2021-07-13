@@ -38,7 +38,7 @@
     }
     #separadorDePagina{
 
-        border: orange 10px dashed;
+        border: #FF7E5A 10px dashed;
 
 
     }
@@ -130,7 +130,7 @@
                 <div class="card-body">
                     <h5 class="card-title; text-center">Distingo Tamaños</h5>
                     <div class="text-center">
-                    <a  style=" background: darkorange" href=" {{ url('/RelacionObjetTamaños') }}" class="btn btn-danger">Leer</a>
+                    <a  style=" background: #FF7E5A" href=" {{ url('/RelacionObjetTamaños') }}" class="btn btn-danger">Leer</a>
                     </div>
                 </div>
             </div>
@@ -143,7 +143,7 @@
                 <div class="card-body">
                     <h5 class="card-title; text-center">Distingo Espesores</h5>
                     <div class="text-center">
-                    <a href=" {{ url('/RelacionObjetEspesores') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                    <a href=" {{ url('/RelacionObjetEspesores') }}" style=" background: #FF7E5A" class="btn btn-danger">Leer</a>
                     </div>
                 </div>
             </div>
@@ -157,7 +157,7 @@
 
                     <h5 class="card-title; text-center">Distingo Colores</h5>
                     <div class="text-center">
-                    <a href=" {{ url('/RelacionObjetColores') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                    <a href=" {{ url('/RelacionObjetColores') }}" style=" background: #FF7E5A" class="btn btn-danger">Leer</a>
                     </div>
                 </div>
             </div>
@@ -186,7 +186,7 @@
                     <div class="card-body">
                         <h5 class="card-title; text-center">Reconozco Posiciones</h5>
                         <div class="text-center">
-                        <a href=" {{ url('/RelacionObjetPosiciones') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                        <a href=" {{ url('/RelacionObjetPosiciones') }}" style=" background: #FF7E5A" class="btn btn-danger">Leer</a>
                         </div>
                     </div>
                 </div>
@@ -201,7 +201,7 @@
                         <h5 class="card-title; text-center">Reconozco el tiempo</h5>
                         <div class="text-center">
 
-                        <a href=" {{ url('/RelacionObjetTiempo') }}" style=" background: darkorange" class="btn btn-danger">Leer</a>
+                        <a href=" {{ url('/RelacionObjetTiempo') }}" style=" background: #FF7E5A" class="btn btn-danger">Leer</a>
                         </div>
                         </div>
                 </div>

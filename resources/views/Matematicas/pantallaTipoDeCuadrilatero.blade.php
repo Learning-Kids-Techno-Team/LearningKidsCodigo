@@ -85,9 +85,9 @@
 
 <!-- iamgen -->
 <div class="container-fluid">
-    <div class="row" id="fondo">
-        <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
-            <img src="https://i.ibb.co/pdq2Dh9/cuadri-removebg-preview.png" alt="cuadri-removebg-preview"    class=" mx-auto d-block"/>
+    <div class="row">
+        <div class="col-xl-12" style="background: #D8E2F3" id="fondo" >
+            <img src="https://i.ibb.co/pdq2Dh9/cuadri-removebg-preview.png" width="450" height="200" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -102,7 +102,7 @@
 <!-- titulo de las categorias-->
 <div style="color: #D8E2F3;">
     <h1> Paralelogramos:</h1>
-    <p class="">
+    <p>
         <strong><em>
                 Es un cuadrilátero que tiene los dos pares de lados opuestos paralelos y los ángulos opuestos iguales.
             </em></strong> </p>
@@ -112,7 +112,7 @@
 <div class="container-fluid">
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-md-3 p-3" >
+        <div class="col-xl-3 p-3" >
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/vHq1X2C/cuadrado-removebg-preview.png" alt="cuadrado-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -126,7 +126,7 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-3 p-3">
+        <div class="col-xl-3 p-3">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/ysH26t9/rectangulos.png" alt="rectangulos"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -140,7 +140,7 @@
             </div>
         </div>
         <!-- tarjeta3 -->
-        <div class="col-md-3 p-3">
+        <div class="col-xl-3 p-3">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/fG59kgj/rombo3-removebg-preview.png" alt="rombo3-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -152,7 +152,7 @@
             </div>
         </div>
         <!-- tarjeta4 -->
-        <div class="col-md-3 p-3">
+        <div class="col-xl-3 p-3">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/xM0PmKt/romboide2-removebg-preview.png" alt="romboide2-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -175,7 +175,7 @@
                         </em></strong> </p>
             </div>
             <div class="row" style="background: #FFCDA0">
-                <div class="col-md-4 pb-3 p-3">
+                <div class="col-xl-4 pb-3 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/JBRYSgP/tescaleno-removebg-preview.png" alt="tescaleno-removebg-preview"  class="card mx-auto d-block"  height="150" width="200">
                         <div class="card-body">
@@ -187,7 +187,7 @@
                        </div>
                 </div>
                 <!-- tarjeta6 -->
-                <div class="col-md-4 p-3">
+                <div class="col-xl-4 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/VtPK1Gv/tisocel-removebg-preview.png" alt="tisocel-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">
@@ -199,7 +199,7 @@
                     </div>
                 </div>
                 <!-- tarjeta7 -->
-                <div class="col-md-4 p-3">
+                <div class="col-xl-4 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/wd7CNDc/escat-removebg-preview.png" alt="escat-removebg-preview"class="card mx-auto d-block"  height="150" width="200">
                         <div class="card-body">
@@ -219,7 +219,7 @@
                 <div class="container-fluid">
                     <div class="row"  style="background: #FFCDA0" >
                         <!-- tarjeta1 -->
-                        <div class="col-md-12 pb-3 p-3" >
+                        <div class="col-xl-12 pb-3 p-3" >
                             <div class="card mx-auto d-block" style="width: 18rem;">
                                 <img src="https://i.ibb.co/thQrnPr/traprezoide3-removebg-preview-1.png" alt="traprezoide3-removebg-preview-1"   class="card mx-auto d-block"   height="150" width="200">
                                 <div class="card-body">

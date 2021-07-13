@@ -99,7 +99,7 @@
             <img   src="https://i.ibb.co/BnBsrtz/arbol-removebg-preview.png" height="300">
         </div>
 
-        <div class="col-md-8"><br>
+        <div class="col-xl-8"><br>
             <h2 id="color">Números Naturales</h2>
 
             <p id="pa"><strong><em>
@@ -131,8 +131,8 @@
 <div class="container-fluid" >
     <div class="row " >
         <div class="col-xl-12">
-            <div class="card mx-auto d-block" style="width: 40rem;">
-                <iframe src="https://drive.google.com/file/d/1wSQtHW0mBUC3g71LIxz8bUD8yq541dJQ/preview" width="628" height="300"></iframe>
+            <div class="card mx-auto d-block" style="width: 29rem;">
+                <iframe src="https://drive.google.com/file/d/1wSQtHW0mBUC3g71LIxz8bUD8yq541dJQ/preview" width="450" height="300"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title">Canción de los números </h5>
                 </div>
