@@ -173,7 +173,7 @@
                         <br>
                         <img src="https://i.ibb.co/0By0pR0/octagono-removebg-preview.png" alt="octagono-removebg-preview" class="card mx-auto d-block"  height="150" width="180">
                         <div class="card-body">
-                            <h1> Poligonal Cerrada</h1>
+                            <h1> Poligonal cerrada</h1>
                             <h5 class="card-title" align="center">
                                 </h5>
                         </div>
@@ -183,9 +183,10 @@
                 <div class="col-xl-3 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <br>
-                        <img src="https://i.ibb.co/ys9pK7f/hexagono1-removebg-preview.png" alt="hexagono1-removebg-preview" class="card mx-auto d-block"  height="150" width="200">
+                        <img  src="https://i.ibb.co/qW2NSbV/l-nea-poligonal-cerrada-2-removebg-preview-1.png"
+                             alt="hexagono1-removebg-preview" class="card mx-auto d-block"  height="150" width="200">
                         <div class="card-body">
-                            <h1> Poligonal Cerrada</h1>
+                            <h1> Poligonal cerrada</h1>
                             <h5 class="card-title" align="center"></h5>
                         </div>
                     </div>

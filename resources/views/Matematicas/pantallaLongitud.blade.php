@@ -33,8 +33,8 @@
 <style>
 
     .card{
-        border-bottom-left-radius: 50%;
-    ;
+        border-bottom-left-radius: 45%;
+
     }
 
 
@@ -104,7 +104,7 @@
             <h2 class="text-center" >
                 ¿Qué es la longitud?
             </h2>
-            <p >
+            <p class="text-justify">
                 <strong>
                         La longitud es un concepto métrico definible para entidades geométricas sobre
                     las que se ha definido una distancia. <br>Más concretamente,
