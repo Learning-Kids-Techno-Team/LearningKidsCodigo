@@ -126,15 +126,16 @@
 
         <div class="container-fluid mt-5"  >
             <div class="row">
-                <div class="col-md-12"  >
+                <div class="col-xl-12 p-2"  >
                     <div class="row ml-5 mr-5" id="borde">
-                        <div class="col-md-4 bg-success " >
+                        <div class="col-xl-4 p-2 bg-success " >
                             <img  src="https://i.ibb.co/6mQGrhT/el-gabinete-de-madera-con-los-juguetes-mide-el-crecimiento-del-ni-o-72601700-removebg-preview-1.png"  height="400">
                         </div>
-                        <div class="col-xl-8" style=" background: #DCFECB;"  >
-
-                            <h3 class="mt-5" style="text-align: center">Longitud</h3>
-                            <p class="" id="pa">
+                        <div class="col-xl-8 p-2" style=" background: #DCFECB;"  >
+<br>
+                            <h3 class="text-center" style="text-align: center">Longitud</h3>
+                            <p class="text-justify" >
+                                <br>
                                 <strong>La longitud determina la distancia que hay entre dos puntos, o dicho de otra manera, longitud
                                     es la cantidad de espacio que hay entre dos puntos.<br>
                                     La unidad principal para medir la longitud es el metro.
@@ -152,44 +153,27 @@
         </div>
 
 
-<!-- contenedor de la estrella-->
-<div class="container-fluid d-flex justify-content-center p-5 ">
-    <div class="row">
-        <div class="col-m-12">
-            <div>
-                <h1 id="color" style="text-align: center">Aprendamos sobre la longitud</h1>
-            </div>
 
-            <div>
-                <iframe  src="https://eomweezz5vxhz8pwddk6ug-on.drv.tw/Matematicas/Cuento_matematicas/Un%20mundo%20a%20tu%20medida%20(Published)/" width="900" height="600" ></iframe>
-            </div>
 
-        </div>
-    </div>
-</div>
+<br><br>
+            <h1 class="text-center" >Tipos de Longitud</h1>
+            <h1 class="text-center">Longitud de medición</h1>
+<br>
 
 
 
-<div class="container-fluid" id="titulo" >
+
+
+<div class="container-fluid " >
     <div class="row " >
-        <div class="col-md-12">
-            <h1 >Tipos de Longitud</h1>
-            <h1>Longitud de medición</h1>
-
-        </div>
-    </div>
-</div>
-
-
-
-
-<div class="container-fluid justify-content-center  pl-5" >
-    <div class="row m-5 pl-5" >
-        <div class="col-md-6 pb-3 pl-5">
-            <div class="card" style="width: 25rem;">
-                <img  src="https://i.ibb.co/XDKRWj0/metroo.jpg"    class=" mx-auto d-block" width="381" height="300" >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img  src="https://i.ibb.co/XDKRWj0/metroo.jpg"    class=" mx-auto d-block"
+                      width="300" >
                 <div class="card-body">
-                    <h5 class="card-title">Metro</h5>
+                    <br>
+                    <h5 class="text-center">Metro</h5>
+
                     <p><strong>El metro (símbolo m).<br>
                             Es la unidad principal de unidades de longitud del Sistema Internacional de Unidades.</strong></p>
                 </div>
@@ -197,14 +181,15 @@
         </div>
 
 
-        <div class="col-md-4 justify-content-center  pl-5">
-            <div class="card" style="width: 25rem;">
-                <img   src="https://i.ibb.co/Fm71cSm/ilustracion-man.jpg"   width="385" height="300">
+        <div class="col-xl-6  p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/Fm71cSm/ilustracion-man.jpg"
+                     width="300">
                 <div class="card-body">
-                    <h5 class="card-title">Centímetro</h5>
 
+                    <h5 class="text-center">Centímetro</h5>
                     <p><strong>El centímetro (símbolo cm) es una unidad de longitud.
-                            Es el segundo submúltiplo del metro y equivale a la centésima parte de él.</strong></p>
+                            </strong></p>
                 </div>
             </div>
         </div>
@@ -213,39 +198,40 @@
     </div>
 </div>
 
-<div class="container-fluid" id="titulo" >
+<div class="container-fluid"  >
     <div class="row " >
-        <div class="col-md-12">
-            <h1 >Longitud de peso/masa</h1>
+        <div class="col-xl-12 p-2">
+            <br>
+            <h1 class="text-center">Longitud de peso/masa</h1>
 
 
         </div>
     </div>
 </div>
-<div class="container-fluid justify-content-center  pl-5" >
-    <div class="row m-5 pl-5" >
-        <div class="col-md-6 pb-3 pl-5">
-            <div class="card" style="width: 25rem;">
-                <img src="https://i.ibb.co/yn0HR78/ma.jpg"   class=" mx-auto d-block" width="380" height="300" >
+<div class="container-fluid" >
+    <div class="row " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img src="https://i.ibb.co/yn0HR78/ma.jpg"   class=" mx-auto d-block" width="300"  >
                 <div class="card-body">
-                    <h5 class="card-title">La libra</h5>
+                    <br>
+                    <h5 class="text-center">La libra</h5>
                     <p><strong><br>
-
                             La libra (lb) actualmente es una unidad de masa, usada desde la Antigua Roma como unidad de peso.</strong></p>
                 </div>
             </div>
         </div>
 
 
-        <div class="col-md-4 justify-content-center  pl-5">
-            <div class="card" style="width: 25rem;">
-                <img src="https://i.ibb.co/sgshyB4/k.jpg"   width="385" height="300">
+        <div class="col-xl-6 p-2 ">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/sgshyB4/k.jpg"   width="300" >
                 <div class="card-body">
                     <h5 class="card-title">Kilogramo</h5>
 
                     <p><strong>El kilogramo, cuyo símbolo es kg.<br>
-                            El kilogramo es una unidad de medición que sirve como una referencia
-                            constante para los instrumentos de medición universal.</strong></p>
+                            El kilogramo es una unidad de medición
+                            </strong></p>
                 </div>
             </div>
         </div>
@@ -254,23 +240,19 @@
     </div>
 </div>
 
-<div class="container-fluid" id="titulo" >
+<br>
+            <h1 class="text-center" >Temperatura</h1>
+
+
+
+<div class="container-fluid" >
     <div class="row " >
-        <div class="col-md-12">
-            <h1 >Temperatura</h1>
-
-        </div>
-    </div>
-</div>
-
-
-<div class="container-fluid d-flex justify-content-center  pl-5" >
-    <div class="row m-5" >
-        <div class="col-md-12 pb-3">
-            <div class="card" style="width: 25rem;">
-                <img   src="https://i.ibb.co/4SB2wNf/cal.jpg"   class=" mx-auto d-block" width="380" height="300" >
+        <div class="col-xl-12 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img   src="https://i.ibb.co/4SB2wNf/cal.jpg"   class=" mx-auto d-block" width="300"
+                        >
                 <div class="card-body">
-                    <h5 class="card-title">Temperatura</h5>
+                    <h5 class="text-center">Temperatura</h5>
                     <p><strong>
                             La temperatura es una magnitud física que
                             indica la energía interna de un cuerpo, de un objeto o del medio

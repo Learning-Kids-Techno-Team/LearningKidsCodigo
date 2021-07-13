@@ -203,7 +203,7 @@
                     <img  src="https://i.ibb.co/ZfftSFr/mm.jpg"  class=" mx-auto d-block" width="270"
                          >
                     <div class="card-body">
-                        <h5 class="card-title">Signo Mayor</h5>
+                        <h5 class="text-center">Signo Mayor</h5>
                         <p><strong>Este símbolo siempre abre la boca hacia el número que es mayor.</strong></p>
                     </div>
                 </div>
@@ -215,7 +215,7 @@
                     <img class="mx-auto d-block"  src="https://i.ibb.co/ryVpqDx/meee.jpg"
                          width="273" >
                     <div class="card-body">
-                        <h5 class="card-title">Signo Menor</h5>
+                        <h5 class="text-center">Signo Menor</h5>
 
                         <p><strong>Este símbolo siempre abre la boca hacia el número que es menor.</strong></p>
                     </div>
@@ -227,7 +227,7 @@
                     <img src="https://i.ibb.co/ZKLh2tM/igual.jpg"  class=" mx-auto d-block"
                          width="270" height="284" >
                     <div class="card-body">
-                        <h5 class="card-title">Signo Igual</h5>
+                        <h5 class="text-center">Signo Igual</h5>
                         <p><strong>Este símbolo siempre tiene la boca cerrada cuando dos numeros son iguales.</strong></p>
                     </div>
                 </div>
@@ -304,7 +304,7 @@
                     <div >
                         <img class="mx-auto d-block"
                              src="https://i.ibb.co/s3DqPDf/Captura-de-pantalla-328-removebg-preview.png"
-                               width="280" >
+                               width="300" >
 
                     </div>
                 </div>
@@ -383,7 +383,7 @@
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img  src="https://i.ibb.co/RTK3yX5/Captura-de-pantalla-339-removebg-preview.png"
                       width="300" >
-                <div class="card-body" id="im">
+                <div class="card-body text-center" id="im">
                     <h6 id="res5"></h6>
 
                     <button class="btn btn-success" onclick="respuesta5()">Respuesta</button>
