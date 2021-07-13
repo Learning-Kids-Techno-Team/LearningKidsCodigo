@@ -26,7 +26,7 @@
 
     <style>
     .navbar {
-    background:#FF7800;
+    background:#FF7E5A;
 
     }
 
@@ -60,7 +60,7 @@
     width: 110%;
     height: 100px;
     margin-left: -5px;
-    background: #FF7800;
+    background: #FF7E5A;
     border-top-left-radius: 50%;
     border-top-right-radius:50%;
     }

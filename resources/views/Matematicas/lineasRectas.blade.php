@@ -24,7 +24,7 @@
 
     <style>
         .navbar{
-            background: #FF7800;
+            background: #FF7E5A;
         }
         #separadorInferior2 .content{
 
@@ -78,7 +78,7 @@
 
     </style>
 </head>
-<body style=" background: #FF7800;">
+<body style=" background: #FF7E5A;">
 <!-- navbar-->
 @section('content')
 

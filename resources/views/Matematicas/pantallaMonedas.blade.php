@@ -26,7 +26,7 @@
 
     <style>
         .navbar{
-            background: #FF7800;
+            background: #FF7E5A;
         }
 
         body{
@@ -84,7 +84,7 @@
             height: 100px;
             border-bottom-left-radius: 80%;
             border-top-right-radius: 50%;
-            background: #FF7800;
+            background: #FF7E5A;
         }
         #titulo{
             text-align: center;
