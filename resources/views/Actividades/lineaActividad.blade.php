@@ -95,6 +95,12 @@
             text-decoration-color: #3B5686;
             text-align: center;
         }
+        al{
+            text-align: justify;
+
+        }
+
+
 
 
     </style>
@@ -102,19 +108,7 @@
 
 </head>
 <body >
-<script>
 
-
-
-
-
-
-        alert("Hola ¡Binevnido(a) las actividades, en la parte inferior de la pantalla se mostrara un mensaje ¿deseas continuar por donde dejaste el juego? tendras dos opciones SI Y NO")
-
-
-
-
-</script>
 @section('content')
 
 
