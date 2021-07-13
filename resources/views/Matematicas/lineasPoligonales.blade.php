@@ -72,26 +72,20 @@
 
     </style>
 </head>
-<body style=" background: #FF7800;">
+<body style=" background: #FF7E5A;">
 <!-- navbar-->
 @section('content')
 
 <!-- iamgen -->
 <div class="container-fluid">
     <div class="row" id="fondo">
-        <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
-            <img src="https://i.ibb.co/1rM2nHc/3111-imagen-teoria-poligonal-removebg-preview.png" alt="3111-imagen-teoria-poligonal-removebg-preview"  class=" mx-auto d-block"/>
+        <div class="col-xl-12 p-2" style="background: #D8E2F3" id="fondo" >
+            <img src="https://i.ibb.co/1rM2nHc/3111-imagen-teoria-poligonal-removebg-preview.png"
+                 width="350"  class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
-<!-- separador -->
-<div class="container-fluid">
-    <div id="separadorInferior2">
-        <div class="content ">
 
-        </div>
-    </div>
-</div>
 <div style="color: #D8E2F3;">
     <h1>Lineas poligonales</h1>
 </div>
@@ -100,9 +94,11 @@
 <div class="container-fluid">
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-md-3 p-3" >
+        <div class="col-xl-3 p-3" >
             <div class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/Pz6z2hW/images-removebg-preview.png" alt="images-removebg-preview" class="card mx-auto d-block"   height="150" width="200">
+                <br>
+                <img src="https://i.ibb.co/Pz6z2hW/images-removebg-preview.png"
+                     class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>  Poligonal abierta</h1>
                     <h5 class="card-title" align="center">
@@ -111,8 +107,9 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-3 p-3">
+        <div class="col-xl-3 p-3">
             <div class="card mx-auto d-block" style="width: 18rem;">
+                <br>
                 <img src="https://i.ibb.co/RDp6H0P/maties-4314-a-e335f-removebg-preview.png" alt="maties-4314-a-e335f-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
                     <h1>  Poligonal abierta</h1>
@@ -122,8 +119,9 @@
             </div>
         </div>
         <!-- tarjeta3 -->
-        <div class="col-md-3 p-3">
+        <div class="col-xl-3 p-3">
             <div class="card mx-auto d-block" style="width: 18rem;">
+                <br>
                 <img src="https://i.ibb.co/f8J3FKJ/poligonals-removebg-preview.png" alt="poligonals-removebg-preview"   class="card mx-auto d-block"   height="150" width="150">
                 <div class="card-body">
                     <h1>Poligonal abierta</h1>
@@ -132,8 +130,9 @@
             </div>
         </div>
         <!-- tarjeta4 -->
-        <div class="col-md-3 p-3">
+        <div class="col-xl-3 p-3">
             <div class="card mx-auto d-block" style="width: 18rem;">
+                <br>
                 <img src="https://i.ibb.co/PxdWGWj/imagen-1-1462447250-removebg-preview.png" alt="imagen-1-1462447250-removebg-preview"  class="card mx-auto d-block"   height="150" width="150">
                 <div class="card-body">
                     <h1> Poligonal abierta</h1>
@@ -146,8 +145,9 @@
         <!-- tarjeta5 -->
         <div class="container-fluid">
             <div class="row" style="background: #FFCDA0">
-                <div class="col-md-3 p-3">
+                <div class="col-xl-3 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
+                        <br>
                         <img src="https://i.ibb.co/vxK8gvx/1200px-Simple-polygon-svg-removebg-preview.png" alt="1200px-Simple-polygon-svg-removebg-preview"  class="card mx-auto d-block"  height="150" width="180">
                         <div class="card-body">
                             <h1> Poligonal cerrada </h1>
@@ -156,8 +156,9 @@
                     </div>
                 </div>
                 <!-- tarjeta6 -->
-                <div class="col-md-3 p-3">
+                <div class="col-xl-3 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
+                        <br>
                         <img src="https://i.ibb.co/7vkqp7m/concave-hexagon-ver-1-removebg-preview.png" alt="concave-hexagon-ver-1-removebg-preview" class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">
                             <h1>Poligonal cerrada</h1>
@@ -167,8 +168,9 @@
                     </div>
                 </div>
                 <!-- tarjeta7 -->
-                <div class="col-md-3 p-3">
+                <div class="col-xl-3 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
+                        <br>
                         <img src="https://i.ibb.co/0By0pR0/octagono-removebg-preview.png" alt="octagono-removebg-preview" class="card mx-auto d-block"  height="150" width="180">
                         <div class="card-body">
                             <h1> Poligonal Cerrada</h1>
@@ -178,8 +180,9 @@
                     </div>
                 </div>
                 <!-- tarjeta8 -->
-                <div class="col-md-3 p-3">
+                <div class="col-xl-3 p-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
+                        <br>
                         <img src="https://i.ibb.co/ys9pK7f/hexagono1-removebg-preview.png" alt="hexagono1-removebg-preview" class="card mx-auto d-block"  height="150" width="200">
                         <div class="card-body">
                             <h1> Poligonal Cerrada</h1>
