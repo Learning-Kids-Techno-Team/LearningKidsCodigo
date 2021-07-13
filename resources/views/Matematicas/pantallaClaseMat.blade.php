@@ -22,7 +22,7 @@
 
     <style>
   .navbar{
-     background: lightsalmon;
+     background: #FF7E5A;
   }
   body{
    background: #FFC897;
@@ -58,7 +58,7 @@
       margin-left: 0px;
       border-top-left-radius:150%;
       border-top-right-radius: 150%;
-      background: #FF7800;
+      background: #FF7E5A;
   }
         #color{
            background: #F7EBEB;
