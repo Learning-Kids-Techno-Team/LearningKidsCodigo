@@ -59,13 +59,13 @@
             margin-left: 0px;
             border-top-left-radius: 50%;
             border-top-right-radius:50%;
-            background: #FF7800;
+            background: #FF7E5A;
         }
 
 
 
         .navbar{
-            background: #FF7800;
+            background: #FF7E5A;
 
         }
 
@@ -99,7 +99,7 @@
         }
 
         #dif {
-            background: #FF7800;
+            background: #FF7E5A;
         }
 
         #im {

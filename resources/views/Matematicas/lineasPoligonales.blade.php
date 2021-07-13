@@ -23,7 +23,7 @@
 
     <style>
         .navbar{
-            background: #FF7800;
+            background: #FF7E5A;
         }
         #separadorInferior2 .content{
 
@@ -45,7 +45,7 @@
 
         .card{
             background:#d5f5fa;
-            border:  #FF7800 5px  double;
+            border:  #FF7E5A 5px  double;
             border-bottom-left-radius: 10px;
             border-bottom-right-radius: 10px;
             border-top-left-radius: 10px;
@@ -55,7 +55,7 @@
         }
         #separadorDePagina {
             background: #d5f5fa;
-            border: #FF7800 15px double;
+            border: #FF7E5A 15px double;
         }
 
         p{

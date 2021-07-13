@@ -26,7 +26,7 @@
 
     <style>
         .navbar{
-            background:#FF7800;
+            background:#FF7E5A;
         }
 
         body{
@@ -38,7 +38,7 @@
 
         .card{
             background: #f1DAFF;
-            border: #FF7800 5px solid;
+            border: #FF7E5A 5px solid;
             border-bottom-left-radius: 10px;
             border-bottom-right-radius: 10px;
             border-top-left-radius: 10px;
@@ -51,7 +51,7 @@
             width: 100%;
             height: 100px;
             margin-left: -5px;
-            background: #FF7800;
+            background: #FF7E5A;
             border-top-left-radius: 50%;
             border-top-right-radius:50%;
         }
@@ -60,7 +60,7 @@
 
         #tar2{
             background: #f1DAFF;
-            border: #FF7800 8px dashed;
+            border: #FF7E5A 8px dashed;
 
         }
 

@@ -34,7 +34,7 @@
 
     }
     .navbar{
-        background: #FF7800;
+        background: #FF7E5A;
     }
     #separadorDePagina{
 
@@ -70,7 +70,7 @@
 
 </style>
 
-<body style="background: #FF7800">
+<body style="background: #FF7E5A">
 <!-- navbar-->
 @section('content')
 

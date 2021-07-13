@@ -26,7 +26,7 @@
 
     <style>
         .navbar{
-            background: #FF7800;
+            background: #FF7E5A;
         }
 
         body{

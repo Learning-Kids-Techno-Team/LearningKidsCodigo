@@ -64,7 +64,7 @@
            background: #F7EBEB;
             border-bottom-right-radius: 100px;
             border-bottom-left-radius: 100px;
-            border: orangered 8px dashed;
+            border: #FF7E5A 8px dashed;
 
         }
 
