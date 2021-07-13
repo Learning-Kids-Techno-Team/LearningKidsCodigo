@@ -20,17 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 15 Luz Bonilla">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/lineaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/lineaActividad.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadAmbiente.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadAmbiente.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadCiclo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadCiclo.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadComunicacion.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadComunicacion.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadDerechosYDeberes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadDerechosYDeberes.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadEstaciones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadEstaciones.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/ocupacionesActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/ocupacionesActividad.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/sentimientoActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/sentimientoActividad.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/transporteActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/transporteActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadAnimales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadAnimales.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadCiclo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadCiclo.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadNormasDeHigiene.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadNormasDeHigiene.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadPartesDelCuerpo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadPartesDelCuerpo.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadSentidos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadSentidos.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/plantaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/plantaActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/seres.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/seres.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,20 +228,6 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-    </task>
-    <task id="LOCAL-00023" summary="Sprint 6 Luz Bonilla">
-      <created>1612658344586</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1612658344586</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Sprint 6 Luz Bonilla">
-      <created>1612671772073</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1612671772073</updated>
     </task>
     <task id="LOCAL-00025" summary="Sprint 6 Luz Bonilla">
       <created>1612674476968</created>
@@ -575,7 +558,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626053823032</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Sprint 15 Luz Bonilla">
+      <created>1626200734046</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1626200734046</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Sprint 15 Luz Bonilla">
+      <created>1626201431889</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1626201431889</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -622,10 +619,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Luz Bonilla" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1626053876068">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1626200745457">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1626053876068" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1626200745457" />
     <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1625979054730">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
