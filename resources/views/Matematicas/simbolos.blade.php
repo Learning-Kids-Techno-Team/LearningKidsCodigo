@@ -24,7 +24,7 @@
 
     <style>
         .navbar{
-            background: #FF7800;
+            background: #FF7E5A;
         }
 
         body{
@@ -77,7 +77,7 @@
             border-bottom-right-radius: 70%;
             border-top-right-radius: 80%;
             border-top-left-radius: 70%;
-            background: #FF7800;
+            background: #FF7E5A;
         }
         p{
             text-align: center;
@@ -95,7 +95,7 @@
             width: 100%;
             height: 100px;
 
-            background: #FF7800;
+            background: #FF7E5A;
         }
         #titulo{
             text-align: center;
