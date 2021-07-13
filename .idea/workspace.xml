@@ -25,7 +25,16 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;resources/views/ActividadesCienciasNaturales/actividadAnimales.blade.php&#10;#&#9;resources/views/ActividadesCienciasNaturales/actividadCiclo.blade.php&#10;#&#9;resources/views/ActividadesCienciasNaturales/actividadNormasDeHigiene.blade.php&#10;#&#9;resources/views/ActividadesCienciasNaturales/actividadPartesDelCuerpo.blade.php&#10;#&#9;resources/views/ActividadesCienciasNaturales/actividadSentidos.blade.php&#10;#&#9;resources/views/ActividadesCienciasNaturales/plantaActividad.blade.php&#10;#&#9;resources/views/ActividadesCienciasNaturales/seres.blade.php">
+    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/figuraActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/figuraActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/lineaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/lineaActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/longitudActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/longitudActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/natural.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/natural.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/numerosOrdinalesActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/numerosOrdinalesActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/relacionActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/relacionActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/restaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/restaActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/simbolosActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/simbolosActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/sumaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/sumaActividad.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadAnimales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadAnimales.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadCiclo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadCiclo.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadNormasDeHigiene.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadNormasDeHigiene.blade.php" afterDir="false" />
@@ -33,6 +42,14 @@
       <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadSentidos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/actividadSentidos.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/plantaActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/plantaActividad.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/seres.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasNaturales/seres.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadAmbiente.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadAmbiente.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadCiclo.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadCiclo.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadComunicacion.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadComunicacion.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadDerechosYDeberes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadDerechosYDeberes.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadEstaciones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/actividadEstaciones.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/ocupacionesActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/ocupacionesActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/sentimientoActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/sentimientoActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/transporteActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesCienciasSociales/transporteActividad.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -233,13 +250,6 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-    </task>
-    <task id="LOCAL-00016" summary="Sprint4 Sindy G.">
-      <created>1605845522357</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1605845522357</updated>
     </task>
     <task id="LOCAL-00017" summary="Sprint 5 Hector.">
       <created>1607557332463</created>
@@ -577,7 +587,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626154894807</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Sprint 15 Hector Lopez">
+      <created>1626202752264</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1626202752264</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,7 +613,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Primer Sprint Techno Team" />
     <MESSAGE value="Sprint1 Sindy" />
     <MESSAGE value="Sprint1 Daniela" />
     <MESSAGE value="Sprint2 Daniela" />
@@ -620,7 +636,9 @@
     <MESSAGE value="Sprint 13 Luz Bonilla" />
     <MESSAGE value="Sprint 13 Daniela Mazzoni" />
     <MESSAGE value="Sprint 15 Sindy Galindo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Sindy Galindo" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;resources/views/ActividadesCienciasNaturales/actividadAnimales.blade.php&#10;#&#9;resources/views/ActividadesCienciasNaturales/actividadCiclo.blade.php&#10;#&#9;resources/views/ActividadesCienciasNaturales/actividadNormasDeHigiene.blade.php&#10;#&#9;resources/views/ActividadesCienciasNaturales/actividadPartesDelCuerpo.blade.php&#10;#&#9;resources/views/ActividadesCienciasNaturales/actividadSentidos.blade.php&#10;#&#9;resources/views/ActividadesCienciasNaturales/plantaActividad.blade.php&#10;#&#9;resources/views/ActividadesCienciasNaturales/seres.blade.php" />
+    <MESSAGE value="Sprint 15 Hector Lopez" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Hector Lopez" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
