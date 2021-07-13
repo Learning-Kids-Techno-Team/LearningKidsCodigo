@@ -38,7 +38,7 @@
             margin-bottom: auto;
 
 
-            height: 140px;
+            height: 100px;
 
         }
 
@@ -84,7 +84,7 @@
 
         }
         .card-title{
-            color: indianred;
+
             text-align: center;
 
 
@@ -156,12 +156,13 @@
 <!-- contenedor del gif-->
 <div class="container-fluid" id="h">
     <div class="row ">
-        <div class="col-md-4 " >
-            <img src="https://i.ibb.co/44k0vNg/Captura-de-pantalla-297-removebg-preview.png"    height="300">
+        <div class="col-xl-4 p-2" >
+            <img class="mx-auto d-block" src="https://i.ibb.co/44k0vNg/Captura-de-pantalla-297-removebg-preview.png"    height="300">
         </div>
 
-        <div class="col-md-8 " >
-            <h2 id="color">Mayor Que, Menor Que o Igual</h2>
+        <div class="col-xl-8 p-2" >
+            <br>
+            <h2 class="text-center" >Mayor Que, Menor Que o Igual</h2>
 
             <p id="pa"><strong><em>
                         Los símbolos de desigualdad más conocidos son:
@@ -180,33 +181,25 @@
     </div>
 </div>
 
-<!-- contenedor de la estrella-->
-<div class="container-fluid " id="banderin" >
+
+
+<div class="container-fluid " >
     <div class="row " >
-        <div class="col-md-12">
-
-        </div>
-    </div>
-</div>
-
-
-
-<div class="container-fluid d-flex justify-content-center p-5" >
-    <div class="row " >
-        <div class="col-md-12 ">
-            <div class="card" style="width: 40rem;">
-                <iframe  src="https://drive.google.com/file/d/1Ea-UzkQLadNSU-QB0tTaXAW5wBtcaTTS/preview" width="628" height="300" ></iframe>
-                <div class="card-body" id="im">
+        <div class="col-xl-12 p-2">
+            <div class="card mx-auto d-block" style="width: 21rem;">
+                <iframe  src="https://drive.google.com/file/d/1Ea-UzkQLadNSU-QB0tTaXAW5wBtcaTTS/preview"
+                         width="324"  ></iframe>
+                <div class="card-body" >
                     <h5 class="card-title">¿Para qué nos sirven los simbolos mayor que, menor que e igual?</h5>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<div class="container-fluid" id="titulo" >
+<div class="container-fluid"  >
     <div class="row " >
-        <div class="col-md-12">
-            <h1 >Conozcamos los símbolos</h1>
+        <div class="col-xl-12 p-2">
+            <h1 class="text-center" >Conozcamos los símbolos</h1>
 
         </div>
     </div>
@@ -215,11 +208,12 @@
 
 
 
-    <div class="container-fluid center-block pl-5" >
-        <div class="row m-5" >
-            <div class="col-md-4 pb-3">
-                <div class="card" style="width: 18rem;">
-                    <img  src="https://i.ibb.co/ZfftSFr/mm.jpg"  class=" mx-auto d-block" width="270" height="170" >
+    <div class="container-fluid " >
+        <div class="row " >
+            <div class="col-xl-4 p-2">
+                <div class="card mx-auto d-block" style="width: 18rem;">
+                    <img  src="https://i.ibb.co/ZfftSFr/mm.jpg"  class=" mx-auto d-block" width="270"
+                         >
                     <div class="card-body">
                         <h5 class="card-title">Signo Mayor</h5>
                         <p><strong>Este símbolo siempre abre la boca hacia el número que es mayor.</strong></p>
@@ -228,9 +222,9 @@
             </div>
 
 
-            <div class="col-md-4">
-                <div class="card" style="width: 18rem;">
-                    <img   src="https://i.ibb.co/ryVpqDx/meee.jpg"  width="273" height="170">
+            <div class="col-xl-4 p-2">
+                <div class="card mx-auto d-block" style="width: 18rem;">
+                    <img class="mx-auto d-block"  src="https://i.ibb.co/ryVpqDx/meee.jpg"  width="273" >
                     <div class="card-body">
                         <h5 class="card-title">Signo Menor</h5>
 
@@ -238,23 +232,25 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 pb-3">
-                <div class="card" style="width: 18rem;">
-                    <img src="https://i.ibb.co/ZKLh2tM/igual.jpg"  class=" mx-auto d-block" width="270" height="170" >
+            <div class="col-xl-4 p-2">
+                <div class="card mx-auto d-block" style="width: 18rem;">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/ZKLh2tM/igual.jpg"  width="270"
+                         height="283"
+                          >
                     <div class="card-body">
                         <h5 class="card-title">Signo Igual</h5>
                         <p><strong>Este símbolo siempre tiene la boca cerrada cuando dos numeros son iguales.</strong></p>
                     </div>
                 </div>
             </div>
-
+        </div>
     </div>
 </div>
 
-<div class="container-fluid" id="titulo" >
+<div class="container-fluid"  >
     <div class="row " >
-        <div class="col-md-12">
-            <h1 >Comparemos números</h1>
+        <div class="col-xl-12 p-2">
+            <h1 class="text-center">Comparemos números</h1>
 
         </div>
     </div>
