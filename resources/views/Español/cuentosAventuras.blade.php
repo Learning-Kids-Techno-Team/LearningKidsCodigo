@@ -84,11 +84,11 @@
 <!-- contenedor del gif-->
 <div class="container-fluid" id="h">
     <div class="row ">
-        <div class="col-md-4 " >
+        <div class="col-xl-4 " >
             <img class="mx-auto d-block"  src="https://i.ibb.co/RvYnwNP/ex-removebg-preview.png"    width="300" />
 
         </div>
-        <div class="col-md-8 " >
+        <div class="col-xl-8 " >
             <br>
             <h2 id="color" class="text-center">Cuentos De Aventuras </h2>
             <p ><strong>
@@ -106,7 +106,7 @@
 <!-- contenedor de la estrella-->
 <div class="container-fluid " id="banderin" >
     <div class="row " >
-        <div class="col-md-12">
+        <div class="col-xl-12">
 
         </div>
     </div>
@@ -117,7 +117,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/HF5bCH3/pirata.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">Las Aventuras del pirata Caraderrata</h5>
@@ -156,7 +156,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/pXwpyyX/hadas.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">Las Hadas traviesas</h5>
@@ -218,7 +218,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/f9ZJRpW/ovejas.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">Las tres Ovejas </h5>
@@ -257,7 +257,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/GQB2b6k/sapo.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">Lupo y sus Hermanos </h5>
@@ -289,7 +289,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/YT4JsMV/e42e7303268ad9b434097a4f6e30449c.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">El troll que quería volar</h5>
@@ -333,11 +333,10 @@
 
                         <br>Y así fue como el troll siguió investigando. Si lo consiguió o no no es lo importante.<br>
                         Lo importante es que él continuó buscando su sueño, trabajando para lograr lo que más deseaba.<br>
-                        Y que, por el camino, aprendió muchas cosas buenas.
-
-
-
-
+                        Y que, por el camino, aprendió muchas cosas buenas. <br>
+                        <br>
+                        <br>
+                        <br>
                     </p>
                     <audio  id="player" src="AudiosEspañol/cuentos/El troll que quería volar.mp3" controls >
                     </audio>
@@ -346,7 +345,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/VY1CjrF/globos.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">El viejo en globo de Loreto</h5>

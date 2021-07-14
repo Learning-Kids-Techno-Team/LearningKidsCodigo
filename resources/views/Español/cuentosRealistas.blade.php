@@ -94,11 +94,11 @@
 <!-- contenedor del gif-->
 <div class="container-fluid" id="h">
     <div class="row ">
-        <div class="col-md-4 " >
+        <div class="col-xl-4 " >
             <img class="mx-auto d-block" src="https://i.ibb.co/gZPMphS/29ac203abaa0491a297d4a29567f2e6e-removebg-preview.png"   width="400" />
 
         </div>
-        <div class="col-md-8 " >
+        <div class="col-xl-8 " >
             <br>
             <h2 id="color" class="text-center">Cuentos Realistas</h2>
             <p ><strong>
@@ -116,7 +116,7 @@
 <!-- contenedor de la estrella-->
 <div class="container-fluid " id="banderin" >
     <div class="row " >
-        <div class="col-md-12">
+        <div class="col-xl-12">
 
         </div>
     </div>
@@ -127,7 +127,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/JyTH8yz/familia.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Familias Felices</h5>
@@ -155,6 +155,11 @@
                         es cierta hasta que alguien no la escribe. Entonces supo que él no tenía que leer, sino escribir. <br><br><br>
                         <br>Dos años más tarde publicaba su primera novela y la prologaba con esa introducción de Lev Tolstói
                         en memoria de su madre.</p>
+                        <br>
+                        <br>
+                    <br>
+                    <br>
+
                     <audio  id="player" src="AudiosEspañol/cuentos/Familias felices.mp3" controls >
                     </audio>
                 </div>
@@ -162,7 +167,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-6  p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/sVCT6mp/periodista.jpg" class="card-img-top" alt="..." height="250">
                 <div class="card-body">
                     <h5 class="card-title">La Periodista</h5>
@@ -188,7 +193,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
               <img src="https://i.ibb.co/ykfJr9W/ninos-dibujos-animados-jugando-parque-ciudad-43633-6341.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Juan y la Ciudad</h5>
@@ -210,14 +215,15 @@
 
 
 </p>
+
                     <audio  id="player" src="AudiosEspañol/cuentos/Juan y la ciudad.mp3" controls >
                     </audio>
                 </div>
             </div>
         </div>
                 <div class="col-xl-6 p-5 ">
-                    <div class="card mx-auto d-block" style="width: 30rem;">
-                        <img src="https://i.ibb.co/xSC9VTz/juego.jpg"  class="card-img-top" alt="..." height="330">
+                    <div class="card mx-auto d-block" style="width: 26rem;">
+                        <img src="https://i.ibb.co/xSC9VTz/juego.jpg"  class="card-img-top" alt="..." height="300">
                         <div class="card-body">
                             <h5 class="card-title">El Gran Partido</h5>
                             <p class="card-text">Había una vez una pandilla de chicos aficionados al fútbol,
@@ -242,7 +248,9 @@
                                <br> Al escuchar estas palabras, los chicos descubrieron lo tontos que habían sido por dejarse
                                 llevar por el orgullo y lo aburrido que estaba resultando su gran partido.<br>
                                 <br>Mirándose unos a los otros y sin mediar palabra, comenzaron a poner de nuevo todo
-                                sobre el campo, jugando el mejor partido de sus vidas.</p>
+                                sobre el campo, jugando el mejor partido de sus vidas.</p> <br> <br>
+
+
                             <audio  id="player" src="AudiosEspañol/cuentos/El gran partido.mp3" controls >
                             </audio>
                             </div>
@@ -259,7 +267,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/hR6QNGh/portada.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">El Divorcio de mis padres</h5>
@@ -271,7 +279,8 @@
 
                         Esa misma tarde, platiqué con mis hermanas, quienes también estaban tristes por la separación. Logré que entendieran que estar con alguien por darle gusto a los demás no es bueno y que debíamos pensar en que el divorcio les afectaba más a ellos que a nosotros. Tomamos la decisión de hablar con nuestros padres, por separado claro, y les hicimos ver que los comprendíamos y apoyábamos firmemente en sus decisiones.
 
-                        Ahora todo es mejor, no tenemos que escuchar los constantes gritos que anteriormente escuchábamos, no se siente la tensión en la casa y además vemos a nuestros padres equitativamente. Las cosas no han cambiado, aún seguimos pasándola muy bien cuando salimos con mi padre, aún recibimos los besos de buenas noches de mi madre y lo más importante es que aprendí que mis padres seguirán siendo mis padres aunque estén separados.</p>
+                        Ahora todo es mejor, no tenemos que escuchar los constantes gritos que anteriormente escuchábamos, no se siente la tensión en la casa y además vemos a nuestros padres equitativamente. Las cosas no han cambiado, aún seguimos pasándola muy bien cuando salimos con mi padre, aún recibimos los besos de buenas noches de mi madre y lo más importante es que aprendí que mis padres seguirán siendo mis padres aunque estén separados.</p> <br>
+
                     <audio  id="player" src="AudiosEspañol/cuentos/El divorcio de mis padres.mp3" controls >
                     </audio>
                 </div>
@@ -281,8 +290,8 @@
 
         <!-- tarjetas3 -->
         <div class="col-xl-6  p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img src="https://i.ibb.co/0rSQFtN/valle-de-mariposas.jpg"  class="card-img-top" alt="..." height="310">
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <img src="https://i.ibb.co/0rSQFtN/valle-de-mariposas.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">Rosalina y el Valle de Mariposas</h5>
                     <p class="card-text">Rosalina llegó a un valle dónde había muchas mariposas,
@@ -316,7 +325,7 @@
                         Se dieron cuenta de que la reina elegida fue la mariposa que no era presumida.<br>
 
                         <br>Cuando terminó la fiesta Rosalina se despidió de las mariposas… y empezó a caminar,
-                        porque el bosque de la Luz tenía que encontrar.</p>
+                        porque el bosque de la Luz tenía que encontrar.</p> <br>
                     <audio  id="player" src="AudiosEspañol/cuentos/Rosaline y el valle de mariposas.mp3" controls >
                     </audio>
                 </div>

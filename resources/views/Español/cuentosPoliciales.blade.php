@@ -86,11 +86,11 @@
 <!-- contenedor del gif-->
 <div class="container-fluid" id="h">
     <div class="row">
-        <div class="col-md-4 " >
+        <div class="col-xl-4 " >
             <img class="mx-auto d-block" src="https://i.ibb.co/QYjDf00/dibujos-removebg-preview.png"    width="300" />
 
         </div>
-        <div class="col-md-8 "  >
+        <div class="col-xl-8 "  >
             <br>
             <h2 id="color" class="text-center">Cuentos Policiales</h2>
             <p ><strong>
@@ -109,7 +109,7 @@
 <!-- contenedor de la estrella-->
 <div class="container-fluid " id="banderin" >
     <div class="row" >
-        <div class="col-md-12">
+        <div class="col-xl-12">
 
         </div>
     </div>
@@ -120,7 +120,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/Z6kh8X2/sacerdote.jpg"    class="card-img-top" alt="..." height="300">
                 <div class="card-body">
 
@@ -168,7 +168,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-6 p-5">
-            <div class="card  mx-auto d-block" style="width: 30rem;">
+            <div class="card  mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/F6zrhv7/manzana.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">La manzana Asesina</h5>
@@ -210,7 +210,8 @@
 
                         Los demás compañeros le dispararon a Daniela, que después de ser detenida y llevada al hospital,
                         confesó su crimen pasional.
-                    </p>
+                    </p> <br>
+                    <br>
                     <audio  id="player" src="AudiosEspañol/cuentos/La manzana asesina.mp3" controls >
                     </audio>
                 </div>
@@ -224,7 +225,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
 
-            <div class="card mx-auto d-block" style="width: 30rem">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/rshx7tK/dormilo.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">El Policía Dormilón</h5>
@@ -276,7 +277,8 @@
                         <br>-La próxima vez podría ir en serio -le avisaron sus compañeros.<br>
 
                         <br>A partir de ese día el policía dormilón se empezó a tomar en serio sus problemas de sueño. Había aprendido la lección.
-
+                        <br>
+                        <br>
                     </p>
                     <audio  id="player" src="AudiosEspañol/cuentos/El policia dormilon.mp3" controls >
                     </audio>
@@ -285,7 +287,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-6 p-5 ">
-            <div class="card card mx-auto d-block" style="width: 30rem;">
+            <div class="card card mx-auto d-block" style="width: 26rem;">
                 <img    src="https://i.ibb.co/VLkWn7s/descarga2.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">El extraño caso del ladrón de bicicletas que calzaba chancletas</h5>
@@ -337,7 +339,7 @@
     <div class="row" >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/Mp0DnQx/uvas.jpg"   class="card-img-top" alt="..." height="250">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">El ladrón de uvas</h5>
@@ -384,7 +386,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/BKK6hty/libro.jpg"  class="card-img-top" alt="..." height="250">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">El Ladrón de libros viejos</h5>
@@ -412,7 +414,8 @@
                         -Todos los libros pueden servir para algo o para alguien, no los desprecie por viejos -dijo el ladrón-. Hay grandes joyas ahí escondidas, pero hay que molestarse en fijarse y saber mirar.
 
                         Cuando el ladrón cumplió la condena que le impuso el juez montó un puesto al que llamó “Libros usados y otros tesoros”. Muchos llevaban allí sus libros viejos para darles otra oportunidad a esas páginas que ya no les resultaban útiles a sus dueños, pero que podían ser muy útiles en unas nueva manos.
-                    </p>
+                    </p> <br>
+
                     <audio  id="player" src="AudiosEspañol/cuentos/El ladron de libros viejos.mp3" controls >
                     </audio>
                 </div>

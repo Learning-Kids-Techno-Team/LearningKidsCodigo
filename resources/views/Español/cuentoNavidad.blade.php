@@ -81,11 +81,11 @@
 <!-- contenedor del gif-->
 <div class="container-fluid" id="h">
     <div class="row ">
-        <div class="col-md-4 " >
+        <div class="col-xl-4 " >
             <img class="mx-auto d-block" src="https://i.ibb.co/xXp6jNw/navi-removebg-preview.png"   width="300" />
 
         </div>
-        <div class="col-md-8 " >
+        <div class="col-xl-8 " >
             <br>
             <h2 id="color" class="text-center">Cuentos De Navidad</h2>
             <br>
@@ -102,7 +102,7 @@
 <!-- contenedor de la estrella-->
 <div class="container-fluid " id="banderin" >
     <div class="row " >
-        <div class="col-md-12">
+        <div class="col-xl-12">
 
         </div>
     </div>
@@ -113,7 +113,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/9cH6ncj/cachorro-regalo.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">El perrito</h5>
@@ -142,7 +142,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/C5rCxjR/63-navidad.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">El Arbolito de Navidad</h5>
@@ -169,6 +169,8 @@
                         Su esposa le explicó que alguien muy bondadoso había dejado eso en su puerta.<br>
                         Aquella noche el hombre supo que ese regalo tenía que haber sido concedido por la buena obra<br>
                         que él había hecho regalando los abetos que cortó en la montaña”.
+                        <br>
+                        <br>
                     </p>
                     <audio  id="player" src="AudiosEspañol/cuentos/El arbolito de navidad.mp3" controls >
                     </audio>
@@ -183,7 +185,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
             <img src="https://i.ibb.co/Hh1kXMv/10.jpg"   class="card-img-top" alt="..." height="300">
             <div class="card-body">
                 <h5 class="card-title; text-center" id="color">El mejor Regalo de Santa</h5>
@@ -210,7 +212,7 @@
     </div>
     <!-- tarjeta 2 -->
     <div class="col-xl-6 p-5 ">
-        <div class="card mx-auto d-block" style="width: 30rem;">
+        <div class="card mx-auto d-block" style="width: 26rem;">
             <img   src="https://i.ibb.co/7SrFbzb/raton.png"  class="card-img-top" alt="..." height="300">
             <div class="card-body">
                 <h5 class="card-title; text-center" id="color">Un Viaje increíble</h5>
@@ -238,9 +240,10 @@
                     <br>¡Y planeó un viaje increíble!<br>
 
                     <br>Y fue así que, con voluntad y amistad, Carlos y Michel celebraron juntos la Navidad.
-                    Carlos con su bota, y Michel con su familia”.
+                    Carlos con su bota, y Michel con su familia”. <br> <br> <br>
 
-
+                    <br>
+                    <br>
 
                 </p>
                 <audio  id="player" src="AudiosEspañol/cuentos/Un viaje increible.mp3" controls >
@@ -254,7 +257,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img   src="https://i.ibb.co/rshrLyW/reno.jpg"   class="card-img-top" alt="..." height="323">
                 <div class="card-body">
 
@@ -279,7 +282,7 @@
 
                         Por la mañana todos los niños tenían sus regalos debajo del árbol y los elfos
                         fueron a devolver el trineo y los renos. Papá Noel se acercó a la fábrica y al ver que estaban todos los regalos repartidos se puso muy contento y comprendió que lo más importante de esa noche había sido el compañerismo”.
-                    <br>
+                    <br> <br>
                     </p>
                     <audio  id="player" src="AudiosEspañol/cuentos/El plan de alonso.mp3" controls >
                     </audio>
@@ -288,7 +291,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/G0YZZ9g/aranas.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title; text-center" id="color">La Leyenda de la araña de la navidad</h5>

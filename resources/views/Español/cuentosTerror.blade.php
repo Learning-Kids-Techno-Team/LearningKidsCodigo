@@ -103,11 +103,11 @@
 <!-- contenedor del gif-->
 <div class="container-fluid" id="h">
     <div class="row ">
-        <div class="col-md-4 " >
+        <div class="col-xl-4 " >
             <img class="mx-auto d-block"  src="https://i.ibb.co/FBLbngw/tenor-unscreen-1.gif"   width="250" />
 
         </div>
-        <div class="col-md-8 " >
+        <div class="col-xl-8 " >
             <br>
             <h2 id="color" class="text-center">Cuentos Terror</h2>
             <p ><strong>
@@ -128,7 +128,7 @@
 <!-- contenedor de la estrella-->
 <div class="container-fluid " id="banderin" >
     <div class="row " >
-        <div class="col-md-12">
+        <div class="col-xl-12">
 
         </div>
     </div>
@@ -139,7 +139,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/X4WXTB6/fantasma.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">Los Calzoncillos del Fantasma</h5>
@@ -172,7 +172,8 @@
 
                         <br>Fue así como la mujer le tiró el otro par de calzoncillos y, hasta el día de hoy,
                         todos comentan que nunca lo han vuelto a ver.
-                    </p>
+                    </p> <br>
+
                     <audio  id="player" src="AudiosEspañol/cuentos/Los calsocillos del fantasma.mp3" controls >
                     </audio>
                 </div>
@@ -180,7 +181,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-6  p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/5RcYXzc/dientes.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">Los Dientes</h5>
@@ -239,8 +240,8 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img src="https://i.ibb.co/zxMbXrr/payaso.png" class="card-img-top" alt="..." >
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <img src="https://i.ibb.co/zxMbXrr/payaso.png" class="card-img-top" alt="..." height="270">
                 <div class="card-body">
                     <h5 class="card-title">La Estatua del Payaso</h5>
                     <p class="card-text">María Luisa llegó a la casa del doctor Reyes y su esposa a eso de las 7 de la noche.
@@ -261,14 +262,16 @@
 
                         <br>Por unos cuantos segundos hubo un silencio incómodo. Con voz de terror, el doctor Reyes dijo:
 
-                        —¡Despierta a los niños y salgan inmediatamente de la casa! NO TENEMOS NINGUNA ESTATUA DE UN PAYASO.<br></p>
+                        —¡Despierta a los niños y salgan inmediatamente de la casa! NO TENEMOS NINGUNA ESTATUA DE UN PAYASO.</p> <br>
+                    <br>
+
                     <audio  id="player" src="AudiosEspañol/cuentos/La estatua del payaso.mp3" controls >
                     </audio>
                 </div>
             </div>
         </div>
                 <div class="col-xl-6 p-5 ">
-                    <div class="card mx-auto d-block" style="width: 30rem;">
+                    <div class="card mx-auto d-block" style="width: 26rem;">
                         <img  src="https://i.ibb.co/KbRq6hD/Senor-salcedo-thumb.png" class="card-img-top" height="276">
                         <div class="card-body">
                             <h5 class="card-title">El Señor Salcedo</h5>
@@ -313,7 +316,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/jvRLPfc/Casa.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">La Casa a Oscuras</h5>
@@ -353,7 +356,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-6  p-5 ">
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/g4bWLNK/Dedo-peludo-thumb.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">El Dedo Gordo Peludo</h5>

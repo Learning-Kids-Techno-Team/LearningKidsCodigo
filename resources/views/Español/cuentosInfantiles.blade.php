@@ -83,11 +83,11 @@
 <!-- contenedor del gif-->
 <div class="container-fluid" id="h">
     <div class="row ">
-        <div class="col-md-4 " >
+        <div class="col-xl-4 " >
             <img class="mx-auto d-block pb-5"    src="https://i.ibb.co/GktxP5F/3b84ed5c38c4ee30bc6401d69db56578-removebg-preview.png"   width="300" />
 
         </div>
-        <div class="col-md-8" style="text-align: center">
+        <div class="col-xl-8" style="text-align: center">
             <br>
             <h2 id="color">Cuentos Infantiles</h2>
             <p>
@@ -107,7 +107,7 @@
 <!-- contenedor de la estrella-->
 <div class="container-fluid " id="banderin" >
     <div class="row " >
-        <div class="col-md-12">
+        <div class="col-xl-12">
 
         </div>
     </div>
@@ -118,7 +118,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block"style="width: 26rem;">
                 <img  src="https://i.ibb.co/F8kT0c2/osos.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">Ricitos de Oro</h5>
@@ -174,7 +174,8 @@
                         —¡Alguien está durmiendo en mi cama! —y se puso a llorar desconsoladamente.
 
                         El llanto de Osito despertó a Ricitos de Oro, que muy asustada saltó de la cama y
-                        corrió escaleras abajo hasta llegar al bosque para jamás regresar a la casa de los osos.</p>
+                        corrió escaleras abajo hasta llegar al bosque para jamás regresar a la casa de los osos. <br>
+                        <br></p>
                     <audio  id="player" src="AudiosEspañol/cuentos/Ricitos de Oro.mp3" controls >
                     </audio>
                 </div>
@@ -184,7 +185,7 @@
         <!-- tarjeta 2 -->
 
         <div class="col-xl-6 p-5 ">
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/zrjqkS3/Caperucita.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">Caperucita Roja</h5>
@@ -258,7 +259,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
             <img  src="https://i.ibb.co/sbc7xVb/patito-feo.jpg" class="card-img-top" alt="..." width="280">
             <div class="card-body">
                 <h5 class="card-title">El Patito Feo</h5>
@@ -293,7 +294,10 @@
                     <br>Pero recordó cómo todos se burlaban de él y agachó la cabeza avergonzado. <br>
                     <br>Cuando miró su reflejo en el agua se quedó asombrado.<br>
                     <br>Él no era un patito feo, sino un apuesto y joven cisne. <br>Ahora sabía por qué se veía tan diferente a sus hermanos y hermanas.<br>
-                    <br>¡Ellos eran patitos, pero él era un cisne! Feliz, nadó hacia su familia.</p>
+                    <br>¡Ellos eran patitos, pero él era un cisne! Feliz, nadó hacia su familia.  <br>
+                    <br> <br>
+                    <br>
+                </p>
                 <audio  id="player" src="AudiosEspañol/cuentos/El patito feo.mp3" controls >
                 </audio>
             </div>
@@ -302,7 +306,7 @@
 
         <!-- tarjeta4 -->
         <div class="col-xl-6  p-5">
-        <div class="card mx-auto d-block" style="width: 30rem;">
+        <div class="card mx-auto d-block" style="width: 26rem;">
             <img src="https://i.ibb.co/wwzjzvT/gigante.jpg"  class="card-img-top" alt="..." height="330">
             <div class="card-body">
                 <h5 class="card-title">El gigante Egoísta</h5>
@@ -369,7 +373,7 @@
     <div class="row " >
         <div class="col-xl-6 p-5">
             <!-- tarjeta 1 -->
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/4P4dnDN/bella.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">La bella Durmiente</h5>
@@ -414,7 +418,8 @@
                         Al acercarse a la princesa, pensó que ella era el ser más hermoso del mundo y le plantó un beso en la mejilla. Inmediatamente, la princesa se despertó y junto con ella, el rey, la reina, los guardas, los sirvientes, los gatos y hasta las vacas abrieron sus ojos.
 
                         El príncipe y la princesa se casaron y vivieron felices por siempre.
-
+                        <br>
+                        <br>
 
 
 
@@ -428,7 +433,7 @@
         <!-- tarjeta 6 -->
 
         <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/WF5wrgD/cenicienta.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
                     <h5 class="card-title">La Cenicienta</h5>
