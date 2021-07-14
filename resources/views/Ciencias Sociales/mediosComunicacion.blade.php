@@ -82,10 +82,10 @@
 <!-- contenedor del concept-->
 <div class="container-fluid " >
     <div class="row" >
-        <div class="col-md-12" >
+        <div class="col-xl-12" >
             <div class="row ml-5 mr-5"  >
                 <div class="col-md-6" >
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/zFBJr4s/comuni-removebg-preview.png"  width="450" height="380" >
+                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/zFBJr4s/comuni-removebg-preview.png"  width="350" height="380" >
                 </div>
                 <div class="col-xl-6  mt-5" style=" background:  #C5FFA0" id="borde">
 
@@ -103,21 +103,21 @@
 
 
 <!-- contenedor-->
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid " >
     <br><br>
     <div class="container-fluid d-flex justify-content-center  " >
         <div class="row p-5 ">
-            <div class="col-md-12  " id="bor" style="background: #FDFD96">
+            <div class="col-xl-12  " id="bor" style="background: #FDFD96">
 
-                <h3>Algunos ejemplos de medios de comunicación:
+                <h3 class="text-center">Algunos ejemplos de medios de comunicación:
                 </h3>
             </div>
         </div>
     </div>
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row" >
+        <div class="col-xl-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block" src="https://i.ibb.co/9HwNMh7/telefono-removebg-preview.png"   width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Celular</em></h2>
@@ -125,16 +125,16 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/0QkT3bG/televisor-removebg-preview.png"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Televisor</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/yYwdfW3/radio-removebg-preview.png" width="300" height="240">
                 <h2 class="mx-auto d-block" id="color"><em>Radio</em></h2>
             </div>
@@ -142,11 +142,11 @@
 
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid " >
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row " >
+        <div class="col-xl-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block" src="https://i.ibb.co/gWj6Rc8/xsocial-media-810x456-jpg-pagespeed-ic-v63w-TQP3fh-removebg-preview.png"  width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Redes sociales</em></h2>
@@ -154,16 +154,16 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/j3CTF60/carta.jpg" width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Carta</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/GPY39Hz/periodico-removebg-preview.png"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Periódico</em></h2>
             </div>
@@ -172,11 +172,11 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid " >
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row" >
+        <div class="col-xl-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block"  src="https://i.ibb.co/Hhxk4Zy/F-removebg-preview.png"    width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Fax</em></h2>
@@ -184,16 +184,16 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"    src="https://i.ibb.co/Jp0xkzQ/correo-electronico-removebg-preview.png"    width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Correo electrónico</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-5">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/THKTxt1/tel-removebg-preview.png"  width="300" height="240">
                 <h2 class="mx-auto d-block" id="color"><em>Teléfono tradicional </em></h2>
             </div>

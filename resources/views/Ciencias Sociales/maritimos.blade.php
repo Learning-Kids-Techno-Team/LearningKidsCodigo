@@ -82,7 +82,7 @@
         <div class="col-md-12" >
             <div class="row ml-5 mr-5"  >
                 <div class="col-md-6" >
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/J71pwGV/fo-removebg-preview.png"  width="450" height="380" >
+                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/J71pwGV/fo-removebg-preview.png"  width="350" height="380" >
                 </div>
                 <div class="col-xl-6  mt-5" style=" background:  #C5FFA0" id="borde">
 
@@ -105,7 +105,7 @@
 <!-- contenedor-->
 <div class="container-fluid  " >
     <br><br>
-    <div class="container-fluid pb-5" >
+    <div class="container-fluid " >
         <div class="row  ">
             <div class="col-xl-12  " id="bor" style="background: #FDFD96">
 
@@ -140,7 +140,7 @@
 
     </div>
 </div>
-<div class="container-fluid pb-5" >
+<div class="container-fluid " >
 
     <div class="row" >
         <div class="col-xl-4 p-3">
@@ -168,7 +168,7 @@
     </div>
 </div>
 
-<div class="container-fluid pb-5" >
+<div class="container-fluid" >
 
     <div class="row" >
         <div class="col-xl-4 p-3">

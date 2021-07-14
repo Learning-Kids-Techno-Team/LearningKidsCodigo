@@ -105,7 +105,7 @@
 
 
 <!-- contenedor suge-->
-<div class="container-fluid" id="color"><h2><em><br>Observo y aprendo:</em></h2>
+<div class="container-fluid" id="color"><h2 class="text-center"><em><br>Observo y aprendo:</em></h2>
     <div class="row">
         <div class="col-xl-3 p-2 d-flex justify-content-center">
             <div class="card" style="width: 20rem;">

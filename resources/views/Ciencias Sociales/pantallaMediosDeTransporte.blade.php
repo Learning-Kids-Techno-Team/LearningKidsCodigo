@@ -109,7 +109,7 @@
 <div class="container-fluid" id="dif">
     <div class="row" >
         <div class="col-xl-12" id="fondo">
-            <img  class="mx-auto d-block mb-5" src="https://i.ibb.co/Pw6dWRs/tipos-de-transporte-removebg-preview.png"  width="500"/>
+            <img  class="mx-auto d-block mb-5" src="https://i.ibb.co/Pw6dWRs/tipos-de-transporte-removebg-preview.png"  width="400"/>
         </div>
     </div>
 </div>
@@ -134,14 +134,16 @@
 
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid pl-5  mt-5">
+<div class="container-fluid pt-5">
     <div class="row" >
         <div class="col-xl-4 pb-5" >
             <div class="card mx-auto d-block"  style="width: 21rem;" >
                 <img id="im" src="https://i.ibb.co/bLdqt0n/conjunto-transporte-aereo-74855-420-removebg-preview.png"  width="300" height="230" class="mx-auto d-block" >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Aereos!</h5>
+                    <div class="text-center">
                     <a href=" {{ url('/aereos') }}" class="btn">Leer</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -150,7 +152,9 @@
                 <img id="im"class="mx-auto d-block"  src="https://i.ibb.co/Ry7Q40L/embarcaciones-mar-embarcaciones-transporte-maritimo-87946-105-removebg-preview.png"  width="300" height="230"  >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Maritimos!</h5>
+                    <div class="text-center">
                     <a href=" {{ url('/maritimos') }}" class="btn">Leer</a>
+                    </div>
                 </div>
             </div>
         </div>
@@ -160,7 +164,9 @@
                 <img id="im" class="mx-auto d-block" src="https://i.ibb.co/brvg05d/m1-removebg-preview.png"  width="300" height="230"  >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Terrestres!</h5>
+                    <div class="text-center">
                     <a href=" {{ url('/terrestres') }}" class="btn">Leer</a>
+                    </div>
 
                 </div>
             </div>
