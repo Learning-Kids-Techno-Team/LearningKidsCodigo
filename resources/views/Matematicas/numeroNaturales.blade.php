@@ -55,13 +55,7 @@
            height:90px;
 
         }
-        #color{
-            color: white;
-            height: 80px;
-            text-align: center;
 
-
-        }
         p{
             text-align: justify;
 
@@ -80,10 +74,6 @@
 
             background: #FF7E5A;
         }
-        #titulo{
-          text-align: center;
-            color: red;
-        }
 
 
     </style>
@@ -93,14 +83,15 @@
 @section('content')
 
 <!-- contenedor del gif-->
-<div class="container-fluid" id="h">
+<div class="container-fluid" >
     <div class="row ">
-        <div class="col-md-4 " >
-            <img   src="https://i.ibb.co/BnBsrtz/arbol-removebg-preview.png" height="300">
+        <div class="col-xl-4 p-2" >
+            <img class="mx-auto d-block"  src="https://i.ibb.co/BnBsrtz/arbol-removebg-preview.png"
+                width="300">
         </div>
 
-        <div class="col-xl-8"><br>
-            <h2 id="color">Números Naturales</h2>
+        <div class="col-xl-8 p-2"><br>
+            <h2 class="text-center" >Números Naturales</h2>
 
             <p id="pa"><strong><em>
                        Los números son signos o conjuntos de signos que permiten expresar una cantidad con relación a su unidad. Los números naturales son aquellos que permiten contar
@@ -120,30 +111,31 @@
 </div>
 
 <!-- contenedor de la estrella-->
-<div class="container-fluid  " id="titulo" >
+<div class="container-fluid  "  >
     <div class="row " >
-        <div class="col-xl-12 p-5">
-        <h1 >Aprendamos Cantando</h1>
+        <div class="col-xl-12 p-2">
+        <h1 class="text-center" >Aprendamos Cantando</h1>
 
             </div>
     </div>
 </div>
 <div class="container-fluid" >
     <div class="row " >
-        <div class="col-xl-12">
-            <div class="card mx-auto d-block" style="width: 29rem;">
-                <iframe src="https://drive.google.com/file/d/1wSQtHW0mBUC3g71LIxz8bUD8yq541dJQ/preview" width="450" height="300"></iframe>
+        <div class="col-xl-12 p-2">
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1wSQtHW0mBUC3g71LIxz8bUD8yq541dJQ/preview"
+                        width="400" height="200"></iframe>
                 <div class="card-body" id="im">
-                    <h5 class="card-title">Canción de los números </h5>
+                    <h5 class="text-center">Canción de los números </h5>
                 </div>
             </div>
         </div>
     </div>
 </div>
-<div class="container-fluid p-5 " id="titulo" >
+<div class="container-fluid p-2 "  >
     <div class="row" >
-        <div class="col-md-12">
-            <h1 >Aprendamos Contando</h1>
+        <div class="col-xl-12 p-2">
+            <h1 class="text-center" >Aprendamos Contando</h1>
 
         </div>
     </div>
@@ -151,13 +143,13 @@
 
 <div class="container-fluid" >
     <div class="row" >
-        <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img  src="https://i.ibb.co/mX2NvWz/nido.jpg"  width="468" height="250">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block"  src="https://i.ibb.co/mX2NvWz/nido.jpg"  width="300">
                 <div class="card-body" id="im">
                     <h5 class="card-title">Número Cero </h5>
 
-                    <p><strong>
+                    <p class="text-center"><strong>
                      Símbolo: 0    <br>   Escritura: Cero
 
                         </strong></p>
@@ -165,13 +157,14 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-               <img src="https://i.ibb.co/V221ZVc/nido1.jpg" width="468" height="250">
-                <div class="card-body">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+               <img class="mx-auto d-block" src="https://i.ibb.co/V221ZVc/nido1.jpg"
+                    width="303">
+               <br> <div class="card-body">
                     <h5 class="card-title">Número Uno</h5>
 
-                    <p><strong>
+                    <p class="text-center"><strong>
                             Símbolo:1 <br> Escritura: Uno
                         </strong>
 
@@ -184,16 +177,17 @@
 
     </div>
     </div>
-
+<br>
 <div class="container-fluid" >
     <div class="row">
-        <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img  src="https://i.ibb.co/LN7N2p3/dos-p-jaros-azules-con-la-ramificaci-n-de-rbol-22763086.jpg"   width="468" height="250">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block"  src="https://i.ibb.co/LN7N2p3/dos-p-jaros-azules-con-la-ramificaci-n-de-rbol-22763086.jpg"
+                     width="300" >
                 <div class="card-body" id="im">
                     <h5 class="card-title">Número Dos </h5>
 
-                    <p><strong>
+                    <p class="text-center"><strong>
                             Símbolo: 2    <br>   Escritura: Dos
 
                         </strong></p>
@@ -201,13 +195,15 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img src="https://i.ibb.co/Bgtd57k/mama-pajaro-sus-dos-bebes-nido-29190-4080.jpg"  width="468" height="250">
+
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/Bgtd57k/mama-pajaro-sus-dos-bebes-nido-29190-4080.jpg"
+                     width="300" >
                 <div class="card-body">
                     <h5 class="card-title">Número Tres</h5>
 
-                    <p><strong>
+                    <p class="text-center"><strong>
                             Símbolo: 3 <br> Escritura: Tres
                         </strong>
 
@@ -219,16 +215,17 @@
         </div>
     </div>
 </div>
-
+<br>
 <div class="container-fluid" >
     <div class="row">
-        <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img   src="https://i.ibb.co/m4p7NPc/depositphotos-11060922-stock-illustration-bird-family.jpg"    width="468" height="250">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/m4p7NPc/depositphotos-11060922-stock-illustration-bird-family.jpg"
+                     width="300" >
                 <div class="card-body" id="im">
                     <h5 class="card-title">Número Cuatro </h5>
 
-                    <p><strong>
+                    <p class="text-center"><strong>
                             Símbolo: 4    <br>   Escritura: Cuatro
 
                         </strong></p>
@@ -236,13 +233,15 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img  src="https://i.ibb.co/HV1Vf18/conjunto-dibujos-animados-coleccion-aves-azules-29190-1865.jpg"   width="468" height="250" >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/HV1Vf18/conjunto-dibujos-animados-coleccion-aves-azules-29190-1865.jpg"
+                      width="300"  >
                 <div class="card-body">
+                    <br>
                     <h5 class="card-title">Número Cinco</h5>
-
-                    <p><strong>
+<br>
+                    <p class="text-center"><strong>
                             Símbolo: 5 <br> Escritura: Cinco
                         </strong>
 
@@ -254,16 +253,18 @@
         </div>
     </div>
 </div>
+<br>
 
 <div class="container-fluid" >
     <div class="row" >
-        <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img  src="https://i.ibb.co/Pwm4c0N/pajaros-azules-rama-sobre-fondo-blanco-1639-14720.jpg"   width="468" height="250">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block"  src="https://i.ibb.co/Pwm4c0N/pajaros-azules-rama-sobre-fondo-blanco-1639-14720.jpg"
+                      width="300" >
                 <div class="card-body" id="im">
                     <h5 class="card-title">Número Seis</h5>
 
-                    <p><strong>
+                    <p class="text-center"><strong>
                             Símbolo: 6    <br>   Escritura: Seis
 
                         </strong></p>
@@ -271,13 +272,14 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img src="https://i.ibb.co/q9w6QtD/sie.jpg"  width="468" height="250">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/q9w6QtD/sie.jpg"  width="300" >
                 <div class="card-body">
+                    <br>
                     <h5 class="card-title">Número Siete</h5>
-
-                    <p><strong>
+<br>
+                    <p class="text-center"><strong>
                             Símbolo: 7 <br> Escritura: Siete
                         </strong>
 
@@ -289,16 +291,17 @@
         </div>
     </div>
 </div>
-
+<br>
 <div class="container-fluid" >
     <div class="row" >
-        <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img src="https://i.ibb.co/z42YCm9/aves-cielo-1639-5633.jpg"  width="468" height="250">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img src="https://i.ibb.co/z42YCm9/aves-cielo-1639-5633.jpg"  width="300" >
                 <div class="card-body" id="im">
-                    <h5 class="card-title">Número Ocho </h5>
-
-                    <p><strong>
+                    <br><br><br>
+                    <h5 class="text-center">Número Ocho </h5>
+                    <br>
+                    <p class="text-center"><strong>
                             Símbolo: 8   <br>   Escritura: Ocho
 
                         </strong></p>
@@ -306,13 +309,13 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 p-5">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img   src="https://i.ibb.co/72Cqgqq/nuevv.jpg"  width="468" height="250">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block"  src="https://i.ibb.co/72Cqgqq/nuevv.jpg"  width="300" >
                 <div class="card-body">
-                    <h5 class="card-title">Número Nueve</h5>
+                    <h5 class="text-center">Número Nueve</h5>
 
-                    <p><strong>
+                    <p class="text-center"><strong>
                             Símbolo: 9 <br> Escritura: Nueve
                         </strong>
 
@@ -329,8 +332,9 @@
 
 <div class="container-fluid " id="banderin" >
     <div class="row " >
-        <div class="col-md-12">
-            <img src="https://i.ibb.co/D7L6jV4/tren-removebg-preview.png"  height="150" >
+        <div class="col-xl-12 p-2">
+            <img class="mx-auto d-block" src="https://i.ibb.co/D7L6jV4/tren-removebg-preview.png"
+                 height="100" >
         </div>
 
     </div>
