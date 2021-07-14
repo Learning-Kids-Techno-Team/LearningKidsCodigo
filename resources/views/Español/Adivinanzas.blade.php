@@ -105,8 +105,8 @@
 <!-- imagen -->
 <div class="container-fluid" id="dif">
     <div class="row">
-        <div class="col-md-12" id="fondo" >
-            <img src="https://i.ibb.co/PDx7Lhq/unnamed-removebg-preview.png" width="500" class=" mx-auto d-block"/>
+        <div class="col-xl-12" id="fondo" >
+            <img src="https://i.ibb.co/PDx7Lhq/unnamed-removebg-preview.png" width="450" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -131,18 +131,19 @@
     </div>
 </div>
 <!-- titulo -->
+<div class="container-fluid">
 <div  class="row" style="background: #D8E2F3">
-    <div class="col-md-12">
+    <div class="col-xl-12">
         <h3 align="center">
             <br><em>Tipos de Adivinanzas </em><br><br>
         </h3>
     </div>
 </div>
-
+</div>
 
 
 <!-- tarjetas tipos de adivinanzas -->
-<div class="container-fluid center-block pl-5 d-flex justify-content-center">
+<div class="container-fluid ">
 <div class="row" >
     <!-- tarjeta 1 -->
     <div class="col-xl-4 pb-5" >
@@ -151,8 +152,10 @@
             <img src="https://i.ibb.co/j8qn5bF/bhg.jpg" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas de<br>animales</h5>
+                <div class="text-center">
                 <a href=" {{ url('/adivinanzasAnimales') }}" class="btn">Leer</a>
             </div>
+        </div>
         </div>
     </div>
 
@@ -165,7 +168,9 @@
             <img src="https://i.ibb.co/dKXqK3Z/maxresdefault-1.jpg" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas de<br>frutas</h5>
+                <div class="text-center">
                 <a href=" {{ url('/adivinanzasFrutas') }}" class="btn">Leer</a>
+            </div>
             </div>
         </div>
     </div>
@@ -175,22 +180,26 @@
             <img src="https://i.ibb.co/MpMC7mk/descarga-1.jpg" class="card mx-auto d-block" height="160" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas de<br> números</h5>
+                <div class="text-center">
                 <a href=" {{ url('/adivinanzasNumeros') }}" class="btn">Leer</a>
             </div>
+        </div>
         </div>
     </div>
 </div>
 </div>
 
     <!-- Contenedor2 y tarjeta4 -->
-    <div class="container-fluid center-block pl-5 d-flex justify-content-center">
+    <div class="container-fluid">
         <div class="row">
             <div  class="col-xl-6 pb-5">
         <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/hdgRwK2/icon.webp" class="card mx-auto d-block" height="150" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas de<br> transportes</h5>
+                <div class="text-center">
                 <a href=" {{ url('/adivinanzasTransportes') }}" class="btn">Leer</a>
+            </div>
             </div>
         </div>
 </div>
@@ -201,10 +210,13 @@
             <img src="https://i.ibb.co/Hpb4517/jghi.jpg" class=" mx-auto d-block" height="150" width="220">
             <div class="card-body">
                 <h5 class="card-title" align="center">Adivinanzas<br> cortas</h5>
+                <div class="text-center">
                 <a href=" {{ url('/adivinanzasCortas') }}" class="btn">Leer</a>
+            </div>
             </div>
         </div>
     </div>
+
 
 
         </div>

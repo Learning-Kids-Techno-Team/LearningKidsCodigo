@@ -83,8 +83,8 @@
 <!-- iamgen -->
 <div class="container-fluid">
     <div class="row" id="fondo">
-        <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
-            <img  src="https://i.ibb.co/BVnXLvN/grupo-ninos-graciosos-saltando-29937-5030-removebg-preview.png"    class=" mx-auto d-block"/>
+        <div class="col-xl-12" style="background: #D8E2F3" id="fondo" >
+            <img  src="https://i.ibb.co/BVnXLvN/grupo-ninos-graciosos-saltando-29937-5030-removebg-preview.png"   width="450" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -93,8 +93,7 @@
 <div id="separadorInferior2">
     <div class="content ">
     </div>
-</div>
-</div>
+
 <div class=" mx-auto d-block" style="background:#D8E2F3 ">
     <img src="https://i.ibb.co/VMTYwS7/nino-riendo-carcajadas-43633-2782-removebg-preview.png" height="150" class="mx-auto d-block "/>
     <h2 class="text-center" >
@@ -175,6 +174,8 @@
             </audio>
         </div>
     </div>
+</div>
+</div>
 
 <!-- tarjeta5 -->
     <div class="container-fluid">
@@ -237,9 +238,12 @@
     </div>
 </div>
     </div>
-        <div class="container-fluid">
+
+
 <!-- tarjeta9 -->
+    <div class="container-fluid">
 <div class="row" style="background: #bce0ee">
+
     <div class="col-xl-3 pb-4">
         <div class="card mx-auto d-block" style="width: 18rem;">
             <img   src="https://i.ibb.co/pnVkFvg/pioj.jpg" alt="pioj"  class="card mx-auto d-block"   height="150" width="200">
@@ -291,6 +295,7 @@
         </div>
     </div>
 </div>
+    </div>
 
 <!-- separador -->
 <div id="separadorInferior2">

@@ -31,9 +31,6 @@
 
 
 
-
-
-
 <style>
 
     .card{
@@ -97,7 +94,7 @@
 <div class="container-fluid" id="clr">
     <div class="row">
         <div class="col-xl-12" style="background: #D8E2F3" id="fondo" >
-            <img src="https://i.ibb.co/vB0Z4vy/cx-removebg-preview.png"  width="400"  class=" mx-auto d-block"/>
+            <img src="https://i.ibb.co/vB0Z4vy/cx-removebg-preview.png"  width="400" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -110,7 +107,7 @@
         <div class="col-xl-4">
 
             <br>
-            <img src="https://i.ibb.co/JtrPsnW/24b5560ad1536680ad12973aa1bc3fe7-removebg-preview-1.png" alt="24b5560ad1536680ad12973aa1bc3fe7-removebg-preview-1" height="250" class="mx-auto d-block "/>
+            <img src="https://i.ibb.co/JtrPsnW/24b5560ad1536680ad12973aa1bc3fe7-removebg-preview-1.png"  height="250" class="mx-auto d-block ">
 
         </div>
         <div class="col-xl-8">
@@ -139,18 +136,8 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <!-- titulo -->
+<div class="container-fluid">
 <div class="row" style="background: #bce0ee">
     <div class="col-xl-12">
         <h3 align="center " >
@@ -160,51 +147,58 @@
         </h3>
     </div>
 </div>
-
+</div>
 
 <!-- tarjetas tipos de cuentos -->
-<div class="container-fluid center-block pl-5 d-flex justify-content-center">
+<div class="container-fluid">
 <div class="row">
     <!-- tarjeta 1 -->
-    <div class="col-xl-3 pb-5" >
+    <div class="col-xl-3 pb-4" >
         <div class="card mx-auto d-block"  style="width: 18rem;" >
-            <img   src="https://i.ibb.co/CmNZfRq/descarga.jpg"  class=" mx-auto d-block" alt="rondas"  height="150" width="200">
+            <img   src="https://i.ibb.co/CmNZfRq/descarga.jpg"  class=" mx-auto d-block" height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Fantásticos</h5>
+                <div class="text-center">
                 <a href=" {{ url('/cuentoFantastico') }}" class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
-
+    </div>
     <!-- tarjeta2 -->
-    <div class="col-xl-3 pb-5" >
+    <div class="col-xl-3 pb-4" >
         <div class="card mx-auto d-block"  style="width: 18rem;" >
-            <img   src="https://i.ibb.co/xmC8SJL/maxresdefault.jpg"  class=" mx-auto d-block" alt="rondas"  height="150" width="200">
+            <img   src="https://i.ibb.co/xmC8SJL/maxresdefault.jpg"  class=" mx-auto d-block" height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Infantiles</h5>
+                <div class="text-center">
                 <a href=" {{ url('/cuentoInfantiles') }}" class="btn btn-danger" >Leer</a>
             </div>
+        </div>
         </div>
     </div>
 
     <!-- tarjeta3 -->
-    <div class="col-xl-3 pb-5" >
+    <div class="col-xl-3 pb-4" >
         <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img   src="https://i.ibb.co/fDZPYF8/real.jpg"   class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Realistas</h5>
+                <div class="text-center">
                 <a href= " {{ url('/cuentoRealista') }}"  class="btn btn-danger" >Leer</a>
             </div>
+        </div>
         </div>
     </div>
 
     <!-- tarjeta4 -->
-    <div class="col-xl-3 pb-5" >
+    <div class="col-xl-3 pb-4" >
         <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img   src="https://i.ibb.co/GRwk26w/terror.jpg"   class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Terror</h5>
+                <div class="text-center">
                 <a href= " {{ url('/cuentoTerror') }}"  class="btn btn-danger" >Leer</a>
+            </div>
             </div>
         </div>
     </div>
@@ -213,46 +207,54 @@
 </div>
 
 <!-- tarjeta5 -->
-<div class="container-fluid center-block pl-5 d-flex justify-content-center">
+<div class="container-fluid">
     <div class="row">
 
-    <div class="col-xl-3 pb-5" >
+    <div class="col-xl-3 pb-4" >
         <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img    src="https://i.ibb.co/BBcqQ4f/feliz-navidad.jpg"    class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Navidad</h5>
+                <div class="text-center">
                 <a href=" {{ url('/cuentoNavidad') }}"  class="btn btn-danger" >Leer</a>
             </div>
+        </div>
         </div>
     </div>
 
     <!-- tarjeta6 -->
-    <div class="col-xl-3 pb-5" >
+    <div class="col-xl-3 pb-4" >
         <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img     src="https://i.ibb.co/nbCwrYv/aventura.jpg"    class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Aventuras</h5>
+                <div class="text-center">
                 <a href= " {{ url('/cuentoAventuras') }}"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
     </div>
+    </div>
     <!-- tarjeta7 -->
-    <div class="col-xl-3 pb-5" >
+    <div class="col-xl-3 pb-4" >
         <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img  src="https://i.ibb.co/qBGp3t3/policiales.jpg" class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Policiales</h5>
+                <div class="text-center">
                 <a href= " {{ url('/cuentoPoliciales') }}"  class="btn btn-danger" >Leer</a>
             </div>
         </div>
+        </div>
     </div>
     <!-- tarjeta8 -->
-    <div class="col-xl-3 pb-5" >
+    <div class="col-xl-3 pb-4" >
         <div class="card mx-auto d-block"  style="width: 18rem;" >
             <img   src="https://i.ibb.co/421Xxcm/dormir.jpg"  class=" mx-auto d-block"   height="150" width="200">
             <div class="card-body">
                 <h5 class="card-title" align="center">Para Dormir</h5>
+                <div class="text-center">
                 <a href= " {{ url('/cuentoDormir') }}"  class="btn btn-danger" >Leer</a>
+            </div>
             </div>
         </div>
     </div>

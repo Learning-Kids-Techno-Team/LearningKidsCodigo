@@ -76,8 +76,8 @@
 <!-- imagen -->
 <div class="container-fluid">
     <div class="row" id="fondo">
-        <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
-            <img  src="https://i.ibb.co/Z6GGgFS/bombas-removebg-preview.png" alt="bombas-removebg-preview"    class=" mx-auto d-block"/>
+        <div class="col-xl-12" style="background: #D8E2F3" id="fondo" >
+            <img  src="https://i.ibb.co/Z6GGgFS/bombas-removebg-preview.png" alt="bombas-removebg-preview"  width="450"  class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -103,9 +103,9 @@
 </div>
 <div class="container-fluid d-flex justify-content-center" >
     <div class="row " >
-        <div class="col-md-12 ">
-            <div class="card" style="width: 40rem;">
-                <iframe src="https://drive.google.com/file/d/1IZVKVeQxQT399Yre9qVskcjCta2v5bqL/preview" width="630" height="300"></iframe>
+        <div class="col-xl-12 ">
+            <div class="card" style="width: 26rem;">
+                <iframe src="https://drive.google.com/file/d/1IZVKVeQxQT399Yre9qVskcjCta2v5bqL/preview" width="405" height="200"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title">Explicación de las bombas y ejemplo de su declamación</h5>
                 </div>

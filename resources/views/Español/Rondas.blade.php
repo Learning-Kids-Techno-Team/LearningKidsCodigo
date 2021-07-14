@@ -102,10 +102,10 @@
 <!-- contenedor del gif-->
 <div class="container-fluid" id="h">
     <div class="row ">
-        <div class="col-md-4 " >
+        <div class="col-xl-4 " >
          <img  src="https://i.ibb.co/jWxChRq/unnamed.gif"  height="300">
         </div>
-        <div class="col-md-8 " >
+        <div class="col-xl-8 " >
             <h2 id="color">Rondas Infantiles</h2>
 
             <p id="pa"><strong><em>
@@ -127,16 +127,17 @@
 <!-- contenedor de la estrella-->
 <div class="container-fluid " id="banderin" >
     <div class="row " >
-        <div class="col-md-12">
+        <div class="col-xl-12">
 
         </div>
     </div>
 </div>
-<div class="container-fluid  center-block " >
+
+<div class="container-fluid" >
     <div class="row" >
         <div class="col-xl-6 p-3">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <iframe src="https://drive.google.com/file/d/162_b4Fg5s0PIRzxeO912wrZoautK4SrI/preview" width="470" height="200"></iframe>
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <iframe src="https://drive.google.com/file/d/162_b4Fg5s0PIRzxeO912wrZoautK4SrI/preview" width="405" height="200"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title">Tengo una muñeca </h5>
 
@@ -169,9 +170,10 @@
                 </div>
             </div>
         </div>
+
         <div class="col-xl-6 p-3">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <iframe src="https://drive.google.com/file/d/1CQiJogasr943FfPNng_M4zypIzay-o_I/preview" width="470" height="200"></iframe>
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <iframe src="https://drive.google.com/file/d/1CQiJogasr943FfPNng_M4zypIzay-o_I/preview" width="405" height="200"></iframe>
                 <div class="card-body">
                     <h5 class="card-title">Matarile-rile-ro</h5><br>
 
@@ -211,14 +213,14 @@
                 </div>
             </div>
         </div>
-        </div>
 
+        </div>
 </div>
 <div class="container-fluid  " >
     <div class="row" >
         <div class="col-xl-6 p-3">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <iframe src="https://drive.google.com/file/d/1RUkweJ66bMHgNY8RUkKJ3AB0RGxfyKj7/preview" width="470" height="200"></iframe>
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <iframe src="https://drive.google.com/file/d/1RUkweJ66bMHgNY8RUkKJ3AB0RGxfyKj7/preview" width="405" height="200"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title">El Patio de mi Casa </h5>
 
@@ -281,8 +283,8 @@
             </div>
         </div>
         <div class="col-xl-6 p-3">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <iframe src="https://drive.google.com/file/d/1NWS_nfme280dTnZZS8vAywxM_3mwPF91/preview" width="470" height="200"></iframe>
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <iframe src="https://drive.google.com/file/d/1NWS_nfme280dTnZZS8vAywxM_3mwPF91/preview" width="405" height="200"></iframe>
                 <div class="card-body">
                     <h5 class="card-title">Las calaveras </h5>
 
@@ -342,19 +344,18 @@
                         </strong></p>
 
 
-
-
                 </div>
             </div>
         </div>
-    </div>
 
+    </div>
 </div>
+
 <div class="container-fluid " >
     <div class="row" >
         <div class="col-xl-6 p-3">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <iframe src="https://drive.google.com/file/d/1Cnq60GReXJFvxxRapX4WMolBonkwlHzY/preview" width="470" height="200"></iframe>
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <iframe src="https://drive.google.com/file/d/1Cnq60GReXJFvxxRapX4WMolBonkwlHzY/preview" width="405" height="200"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title">La Pajara Pinta </h5>
 
@@ -387,8 +388,8 @@
             </div>
         </div>
         <div class="col-xl-6 p-3">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <iframe src="https://drive.google.com/file/d/1P8lwPud4wSzs_pcnV-YjumSPWNA33OdG/preview" width="470" height="200"></iframe>
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <iframe src="https://drive.google.com/file/d/1P8lwPud4wSzs_pcnV-YjumSPWNA33OdG/preview" width="405" height="200"></iframe>
                 <div class="card-body">
                     <h5 class="card-title">Aserrín aserrán </h5>
 
@@ -441,15 +442,15 @@
                 </div>
             </div>
         </div>
-    </div>
 
+    </div>
 </div>
 
 <div class="container-fluid" >
     <div class="row" >
         <div class="col-xl-6 p-3">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <iframe src="https://drive.google.com/file/d/1iQAWepVvA9lZ-B4F8dXsgmnN8LuXj0Sc/preview" width="470" height="200"></iframe>
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <iframe src="https://drive.google.com/file/d/1iQAWepVvA9lZ-B4F8dXsgmnN8LuXj0Sc/preview" width="405" height="200"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title">Naranja Dulce</h5>
 
@@ -479,8 +480,8 @@
             </div>
         </div>
         <div class="col-xl-6 p-3">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <iframe src="https://drive.google.com/file/d/1PlKx4qmqc2ZShLXb7pQEC-bV3wc_Ueoe/preview" width="470" height="200"></iframe>
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <iframe src="https://drive.google.com/file/d/1PlKx4qmqc2ZShLXb7pQEC-bV3wc_Ueoe/preview" width="405" height="200"></iframe>
                 <div class="card-body">
                     <h5 class="card-title">Los pollos de mi cazuela </h5>
 
@@ -505,11 +506,6 @@
                         Ya viene tu marinero,<br>
                         Con ese bonito traje,<br>
                         Que parece un carnero.<br>
-
-
-
-
-
 
 
 

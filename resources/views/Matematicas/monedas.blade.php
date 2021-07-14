@@ -163,7 +163,7 @@
                     <div class="text-center">
                     <a href=" {{ url('/monedas') }}" class="btn">Leer</a>
                     </div>
-                </div>"
+                </div>
             </div>
         </div>
         <div class="col-xl-6 p-2">
