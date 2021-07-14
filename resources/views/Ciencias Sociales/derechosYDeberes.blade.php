@@ -130,7 +130,7 @@
 </div>
 
 <div class="container-fluid" id="color"><h2 style="text-align: center" id="let"><em>¡Desarrollo!</em></h2>
-    <div class="row m-5">
+    <div class="row ">
         <div class="col-xl-5">
             <h3><strong>Derecho:</strong></h3><br>
             <ul><strong>
@@ -138,10 +138,10 @@
                     <li>A que el padre y la madre se responsabilicen de nuestra crianza y desarrollo.</li>
                 </strong>
             </ul>
-            <img class="mx-auto d-block" src="https://i.ibb.co/K6tBnLb/segu-removebg-preview.png" width="350" height="280"/>
+            <img class="mx-auto d-block " src="https://i.ibb.co/K6tBnLb/segu-removebg-preview.png" width="350" height="280"/>
         </div>
         <div class="col-xl-7">
-            <img class="mx-auto d-block" src="https://i.ibb.co/br1qdjy/so-removebg-preview.png" width="450" height="350"/>
+            <img class="mx-auto d-block" src="https://i.ibb.co/br1qdjy/so-removebg-preview.png" width="350" height="350"/>
         </div>
     </div>
 </div>
@@ -183,7 +183,7 @@
             <img class="mx-auto d-block" src="https://i.ibb.co/nsKpmqP/xx-removebg-preview.png" width="350" height="240"/>
         </div>
         <div class="col-xl-7">
-            <img class="mx-auto d-block" src="https://i.ibb.co/310cfmv/malo-removebg-preview.png" width="400" height="300"/>
+            <img class="mx-auto d-block" src="https://i.ibb.co/310cfmv/malo-removebg-preview.png" width="350" />
             <img class="mx-auto d-block" src="https://i.ibb.co/fX04C5M/mal-removebg-preview.png" width="400" height="300"/>
         </div>
     </div>
@@ -239,7 +239,7 @@
     </div>
 </div>
 <div class="container-fluid" id="color"><h2><em>¡DEBERES DE LOS NIÑOS Y NIÑAS!</em></h2>
-    <div class="row m-5">
+    <div class="row">
         <div class="col-xl-6">
             <h3><strong>Deber:</strong></h3><br>
             <ul><strong>
@@ -249,10 +249,10 @@
                     <li>Respetar la patria y así convertirse en los ciudadanos que el país necesita.</li>
                 </strong>
             </ul>
-            <img class="mx-auto d-block" src="https://i.ibb.co/wdQTzxh/kj-removebg-preview.png" width="400" height="300"/>
+            <img class="mx-auto d-block" src="https://i.ibb.co/wdQTzxh/kj-removebg-preview.png" width="380" height="200"/>
         </div>
         <div class="col-xl-6">
-            <img class="mx-auto d-block" src="https://i.ibb.co/nnbBK1B/maest-removebg-preview.png" width="400" height="300"/>
+            <img class="mx-auto d-block" src="https://i.ibb.co/nnbBK1B/maest-removebg-preview.png" width="350" height="300"/>
             <img class="mx-auto d-block" src="https://i.ibb.co/7tb0HZH/ni-removebg-preview-1.png"/>
         </div>
     </div>

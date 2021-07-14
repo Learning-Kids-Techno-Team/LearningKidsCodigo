@@ -161,7 +161,7 @@
 <div  class="container-fluid mt-5">
     <div class="row ">
         <div class="col-md-12">
-            <img class=" mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/KLMtM1t/evaporacion-c.png"  width="500" style="border: dashed  palevioletred" />
+            <img class=" mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/KLMtM1t/evaporacion-c.png"  width="420" style="border: dashed  palevioletred" />
         </div>
 
     </div>

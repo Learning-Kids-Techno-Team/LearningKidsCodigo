@@ -80,7 +80,7 @@
 
         }
         #image{
-            margin-top: 250px;
+            margin-top: 150px;
 
 
         }
@@ -190,9 +190,9 @@
 
     <!-- Clases-->
     <div id="banderin">
-        <div class="container-l">
+        <div class="container-fluid">
 
-            <div class="row">
+            <div class="row" >
                 <div class="col-md-4">
                     <a href="{{ url('/pantallaPrincipalDeLaClaseDeEspañol') }}">
                         <img  id="image" alt="Bootstrap Image Preview"  src="https://i.ibb.co/JBBRmNQ/414-4146851-marco-legal-en-los-modelos-pedaggicos-by-tatiana-removebg-preview-1.png"  class=" img-fluid  img-thumbnail  mx-auto d-block bg-info rounded-circle" width="150"/>
@@ -200,9 +200,9 @@
                     </a>
 
                 </div>
-                <div class="col-md-4 ">
+                <div class="col-md-4">
                     <a href="{{ url('/pantallaIngles') }}">
-                        <img  id="image" alt="Bootstrap Image Preview"   src="https://i.ibb.co/5TdFMQp/51982314-ni-o-que-tiene-una-bandera-de-ingl-s-removebg-preview.png"    class=" img-fluid  img-thumbnail  mx-auto d-block bg-info rounded-circle" width="150"/>
+                        <img id="image"  alt="Bootstrap Image Preview"   src="https://i.ibb.co/5TdFMQp/51982314-ni-o-que-tiene-una-bandera-de-ingl-s-removebg-preview.png"    class=" img-fluid  img-thumbnail  mx-auto d-block bg-info rounded-circle" width="150"/>
                         <h3>Inglés</h3>
                     </a>
                 </div>
@@ -220,20 +220,20 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-4">
+                <div class="col-md-4 pb-5">
                     <a href="{{ url('/pantallaPrincipalDeCienciasNaturales') }}">
                         <img alt="Bootstrap Image Preview" src="https://i.ibb.co/JtktKHb/ciencias-naturales-removebg-preview.png" class=" img-fluid  img-thumbnail  mx-auto d-block bg-success rounded-circle" width="150" />
                         <h3>Ciencias Naturales</h3>
                     </a>
                 </div>
-                <div class="col-md-4 mb-5">
+                <div class="col-md-4 pb-5">
                     <a href="{{ url('/tecnologia') }}">
                         <img  style="background: #95c5ed" alt="Bootstrap Image Preview"  src="https://i.ibb.co/YDvPQP2/ninos-pequenos-que-usan-dispositivos-tecnologicos-29937-4117-removebg-preview-1.png" class=" img-fluid  img-thumbnail  mx-auto d-block  rounded-circle" width="150" />
                         <h3>Tecnología</h3>
 
                     </a>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 pb-5">
                     <a  href="{{ url('/pantallaPrincipalDeLaClaseDeCienciasSociales') }}">
                         <img src="https://i.ibb.co/3Cvms5x/kisspng-social-studies-clip-art-classroom-clipart-5b5696970d53c2-5022800115324013030546-removebg-pre.png"  class=" img-fluid  img-thumbnail  mx-auto d-block bg-warning rounded-circle" width="150"/>
                         <h3>Ciencias Sociales</h3>

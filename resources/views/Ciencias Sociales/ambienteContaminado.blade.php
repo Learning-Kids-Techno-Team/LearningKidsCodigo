@@ -108,7 +108,7 @@
                     </em></strong></h2>
         </div>
         <div class="col-xl-5">
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/ZSYk69d/cote.jpg"  width="500" height="440"/>
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/ZSYk69d/cote.jpg"  width="400" height="400"/>
         </div>
     </div>
 </div>
@@ -127,7 +127,7 @@
 </div>
 
 <!-- contenedores-->
-<div class="container-fluid" id="color"><h2><em><br>¿Qué encontramos en un ambiente contaminado?</em></h2>
+<div class="container-fluid" id="color"><h2 class="text-center"><em><br>¿Qué encontramos en un ambiente contaminado?</em></h2>
     <div class="row">
         <div class="col-md-4"><br>
             <img class="rounded-circle mx-auto d-block bg-info" src="https://i.ibb.co/SVG2N0g/parq.jpg" width="260" height="200"/>
@@ -159,8 +159,8 @@
 
 
 <!-- contenedor de imag-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>¡Contaminantes de nuestro ambiente!</em></h2>
-    <div class="card">
+<div class="container-fluid  " id="color"><h2 class="text-center"><em><br>¡Contaminantes de nuestro ambiente!</em></h2>
+    <div class="card mx-auto d-block">
         <div class="row m-5" >
             <div class="col-md-4">
                 <img class="mx-auto d-block" src="https://i.ibb.co/7yrw1zh/insec-removebg-preview.png" width="280"/>

@@ -41,7 +41,7 @@
 
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
             margin-left: -5px;
             background: #60A71B;
@@ -76,8 +76,8 @@
 
         </div>
         <div class="col-md-8">
-            <h2 id="color"><em><br>¡El Medio Ambiente!</em></h2>
-            <h3 id="color"><em><br>Ambiente Libre de Contaminación.</em></h3>
+            <h2 id="color" class="text-center"><em><br>¡El Medio Ambiente!</em></h2>
+            <h3 id="color" class="text-center"><em><br>Ambiente Libre de Contaminación.</em></h3>
             <p id="color"><em><strong>El ambiente es todo aquello que nos rodea: el cielo, el suelo, el agua, las plantas, los animales
                         y el resto de las personas que se encuentran donde vivimos y conforman nuestro medio ambiente.
                         Es el elemento en el que vivimos y nos desarrollamos.
@@ -88,14 +88,14 @@
 
 
 <!-- contenedor ambient-->
-<div class="container-fluid  center-block pl-5">
+<div class="container-fluid">
     <div class="row" >
         <div class="col-md-4">
             <h2 class="text-center" id="color"><strong><em><br><br><br>El ambiente sano es bueno para nuestra salud; por eso es un
                         deber cuidar y conservar el ambiente libre de contaminación.</em></strong></h2>
         </div>
             <div class="col-md-8">
-                <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/LtZ5SVZ/bh-removebg-preview.png"  width="700" height="450"/>
+                <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/LtZ5SVZ/bh-removebg-preview.png"  width="400" height="400"/>
             </div>
         </div>
 </div>
@@ -133,9 +133,9 @@
 </div>
 
 <!-- contenedor-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>¡Cuidemos!</em></h2>
+<div class="container-fluid " id="color"><h2 class="text-center"><em><br>¡Cuidemos!</em></h2>
     <div class="card">
-        <div class="row m-5" >
+        <div class="row" >
             <div class="col-md-4">
                 <img class="mx-auto d-block" src="https://i.ibb.co/98hvmtH/jhgc-removebg-preview-1.png" width="270"/>
                 <h5 class="card-title" align="center">Las plantas</h5>
@@ -154,22 +154,22 @@
 </div>
 
 <!-- contenedor suge-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>Observo y aprendo:</em></h2>
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+<div class="container-fluid" id="color"><h2 class="text-center"><em><br>Observo y aprendo:</em></h2>
+    <div class="row" >
+        <div class="col-md-4 pb-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/vhGWS2p/fgo.jpg"  width="300" height="240">
                 <h5 class="card-title" align="center">Mantengo mi ambiente limpio, deposito la basura en su lugar</h5>
             </div>
         </div>
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+        <div class="col-md-4 pb-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/bFvHgY9/nu.jpg"  width="300" height="240">
                 <h5 class="card-title" align="center">Cuido los animalitos, el agua y el ambiente</h5>
             </div>
         </div>
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+        <div class="col-md-4 pb-3">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/KXB4CZ4/sd.jpg" width="300" height="240">
                 <h5 class="card-title" align="center">Disfruto nuestro medio ambiente limpio</h5>
             </div>
