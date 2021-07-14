@@ -31,7 +31,7 @@
         #separadorInferior .content{
 
             width: 100%;
-            height: 200%;
+            height: 100%;
 
             background: #60A71B;
             border-top-left-radius: 50%;
@@ -128,8 +128,9 @@
 <!-- imagen -->
 <div class="container-fluid" id="dif" >
     <div class="row" >
-        <div class="col-md-12" id="fondo">
-            <img  src="https://i.ibb.co/sR75Spn/do-removebg-preview.png" class=" mx-auto d-block" height="500" width="500">
+        <div class="col-xl-12 p-2" id="fondo">
+            <img  src="https://i.ibb.co/sR75Spn/do-removebg-preview.png"
+                  class=" mx-auto d-block" width="400">
         </div>
     </div>
 </div>
@@ -155,32 +156,41 @@
 
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid   center-block pl-5" style="background: #D2FFB5" ><h2 align="center"><em><br>Tipos de Ambientes</em></h2>
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <div class="card" style="width: 30rem;">
-                <img id="im" class="mx-auto d-block"  src="https://i.ibb.co/JCP7ZJB/images-2.jpg"  width="460" height="280">
+<div class="container-fluid  " style="background: #D2FFB5" ><h2 align="center"><em><br>Tipos de Ambientes</em></h2>
+    <div class="row " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 25rem;">
+                <br>
+                <img id="im" class="mx-auto d-block"  src="https://i.ibb.co/JCP7ZJB/images-2.jpg"
+                     width="300" height="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">Contaminados</h5>
+                    <div class="text-center">
                     <a href=" {{ url('/ambienteContaminado') }}" class="btn">Leer</a>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="col-md-6 pb-5">
+        <div class="col-xl-6 p-2">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 30rem;">
-                <img id="im" class="mx-auto d-block" src="https://i.ibb.co/dDn8pMM/5.jpg"  width="460" height="280">
+            <div class="card mx-auto d-block" style="width: 25rem;">
+                <br>
+                <img id="im" class="mx-auto d-block" src="https://i.ibb.co/dDn8pMM/5.jpg"
+                     width="300" height="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">No Contaminados</h5>
+                    <div class="text-center">
                     <a href=" {{ url('/ambienteNoContaminado') }}" class="btn">Leer</a>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
 </div>
+<br><br>
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-warning mt-1">
+        <div class="col-xl-12 bg-warning mt-1">
             <h1 style="text-align: center"></h1>
 
         </div>
@@ -188,11 +198,13 @@
 </div>
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-warning mt-1">
+        <div class="col-xl-12 bg-warning mt-1">
             <h1 style="text-align: center"></h1>
         </div>
     </div>
 </div>
+
+
 
 <div id="separadorInferior2">
     <div class="content ">
