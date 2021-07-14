@@ -57,7 +57,7 @@
 
     #separadorInferior .content{
 
-    width: 110%;
+    width: 100%;
     height: 100px;
     margin-left: -5px;
     background: #FF7E5A;
@@ -79,10 +79,6 @@
     }
 
 
-    #color{
-    color: #3B5686;
-
-    }
 
     </style>
 </head>
@@ -104,10 +100,11 @@
 <!-- contenedor concepto-->
 <div class="container-fluid" id="color">
     <div class="row ">
-        <div class="col-md-4">
-            <img class="mx-auto d-block" src="https://i.ibb.co/XxhwJqD/Sin-t-tulo-removebg-preview.png" width="380"/>
+        <div class="col-xl-4 p-2">
+            <img class="mx-auto d-block" src="https://i.ibb.co/XxhwJqD/Sin-t-tulo-removebg-preview.png"
+                 width="380"/>
         </div>
-        <div class="col-md-8">
+        <div class="col-xl-8 p-2">
             <h2><em><br></em></h2>
             <h3><em><br>Nos sirven para ordenar los objetos, sucesos o a las personas.
                     Utilizamos estos números para contar u ordenar.</em></h3><br>
@@ -118,36 +115,40 @@
 <!-- Contenedor -->
 <div class="container-fluid" id="color">
     <div class="row">
-        <div class="col-md-12" >
+        <div class="col-xl-12 p-2" >
                 <h3 align="center" id="color">
                     <br><em>¡Observo las ilustraciones!</em><br>
                 </h3>
-            <img id="tar2" src="https://i.ibb.co/mSmZ4s0/20201015-222211.jpg" class=" mx-auto d-block"/><br><br>
-            <img id="tar2" src="https://i.ibb.co/k3vN9Q2/20201015-222244.jpg" class=" mx-auto d-block"/>
+            <img id="tar2" src="https://i.ibb.co/mSmZ4s0/20201015-222211.jpg" class=" mx-auto d-block"
+            width="400"/><br><br>
+            <img id="tar2" src="https://i.ibb.co/k3vN9Q2/20201015-222244.jpg" class=" mx-auto d-block"
+            width="400"/>
         </div>
     </div>
 </div>
 
 <!-- contenedor video-->
-<div class="container-fluid" id="color"><h2 align="center"><em><br>¡Veamos juntos y aprendamos sobre los números ordinales!</em></h2>
+<div class="container-fluid" ><h2 align="center"><em><br>¡Veamos juntos y aprendamos sobre los números ordinales!</em></h2>
     <div class="row">
-        <div class="col-md-12">
-            <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1vsgPjbFiy8z2aLMwl-cQYH-Joo-T0qu4/preview" width="650" height="400"></iframe>
+        <div class="col-xl-12 p-2">
+            <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1vsgPjbFiy8z2aLMwl-cQYH-Joo-T0qu4/preview"
+                    width="400" ></iframe>
             <h5 align="center"></h5>
         </div>
     </div>
 </div>
 
 <!-- Texto concepto -->
-<div class="container-fluid" id="color"><h3 align="center"><br><em>Los números ordinales son aquellos que nos expresan un orden.</em><br>
+<div class="container-fluid" ><h3 align="center"><br><em>Los números ordinales son aquellos que nos expresan un orden.</em><br>
     </h3>
     <div class="row">
-        <div class="col-md-6"><br>
-            <img id="tar2" class="mx-auto d-block" src="https://i.ibb.co/Kmb0DFm/4f0b.jpg"  width="620" height="470"/>
+        <div class="col-xl-6 p-2"><br>
+            <img id="tar2" class="mx-auto d-block" src="https://i.ibb.co/Kmb0DFm/4f0b.jpg"
+                 width="300" />
             <h5 align="center"></h5>
         </div>
-        <div class="col-md-6"><br>
-            <img id="tar2" class="mx-auto d-block" src="https://i.ibb.co/yP75b8P/sf.jpg" width="620" height="470"/>
+        <div class="col-xl-6 p-2"><br>
+            <img id="tar2" class="mx-auto d-block" src="https://i.ibb.co/yP75b8P/sf.jpg" width="300" />
             <h5 align="center"></h5><br>
         </div>
     </div>
@@ -157,23 +158,23 @@
 <!-- animales -->
 <div class="container-fluid" id="color">
 <div  class="row">
-    <div class="col-md-12">
+    <div class="col-xl-12 p-2">
         <h3 align="center">
             <br><em>¡¡Adivina quienes ganaron el PRIMERO, SEGUNDO, TERCERO y CUARTO lugar de la carrera!!</em><br><br>
         </h3>
-             <img id="tar2" src="https://i.ibb.co/drP8tfB/wild.jpg" width="1250" class=" mx-auto d-block" />
+             <img id="tar2" src="https://i.ibb.co/drP8tfB/wild.jpg" width="400" class=" mx-auto d-block" />
         </div>
     </div>
 </div>
 
 <!-- actividad RESPUESTAS -->
-<div class="container-fluid" id="color">
+<div class="container-fluid" >
     <div class="row ">
-        <div class="col-md-4"><br><br><br>
+        <div class="col-xl-4 p-2"><br><br><br>
             <a class="btn" onclick="pulsa()">Ver Respuestas!!</a><br>
         </div>
-        <div class="col-md-8" id="color">
-            <h2><em><br>Respuestas Correctas:</em></h2><br>
+        <div class="col-xl-8 p-2" >
+            <h2><br>Respuestas Correctas:</h2><br>
             <!-- Btn respuestas -->
             <p id="demo"></p>
             <p id="demo1"></p>
