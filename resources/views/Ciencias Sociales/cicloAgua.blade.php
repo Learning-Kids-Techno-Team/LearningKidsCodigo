@@ -51,15 +51,8 @@
 
         }
 
-        #color{
-            color: white;
-            height: 80px;
-        }
 
-        p{
-            text-align: center;
 
-        }
 
         .navbar{
             background: #60A71B;
@@ -81,25 +74,7 @@
             background: #B4F97B;
         }
 
-        h1{
-            font-family: Brush Script MT;
-            size: 80px;
 
-        }
-        h3{
-            font-style:italic;
-
-
-        }
-        h4{
-            text-decoration-color: #3B5686;
-            text-align: center;
-        }
-        h2{
-            text-align: center;
-            color: #3B5686;
-            font-family: bold;
-        }
         #bor{
             border: oldlace 5px dashed;
             border-bottom-right-radius: 50px;
@@ -114,11 +89,6 @@
 
         }
 
-        h5{
-
-            padding-top: 20px;
-            text-align: center;
-        }
 
 
 
@@ -132,16 +102,16 @@
 @section('content')
 
 <!-- contenedor del gif-->
-<div class="container-fluid " >
+<div class="container-fluid justify-content-center" >
     <div class="row" >
-        <div class="col-md-12" >
-            <div class="row"  >
-                <div class="col-md-6 mx-auto d-block" >
-                    <img class="mt-5 mx-auto d-block " src="https://i.ibb.co/SxDfK3s/lluvia-ni-os-removebg-preview.png"  width="300"  >
+        <div class="col-xl-12" >
+            <div class="row ml-5 mr-5"  >
+                <div class="col-xl-6" >
+                    <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/SxDfK3s/lluvia-ni-os-removebg-preview.png"  width="300"  >
                 </div>
                 <div class="col-xl-6  mt-5" style=" background: #FDC7FF" id="borde">
 
-                    <h3 class="mt-5" style="text-align: center; color: magenta">Ciclo del agua</h3>
+                    <h3 class="mt-5" style="text-align: center; color: magenta">Partes de las plantas</h3>
                     <p class="" id="pa">
                         <strong><br>El ciclo del agua describe la presencia y el movimiento del agua en la Tierra y sobre ella. El agua de la Tierra esta siempre en movimiento y constantemente cambiando de estado, desde líquido, a vapor, a hielo, y viceversa. El ciclo del agua ha estado ocurriendo por billones de años, y la vida sobre la Tierra depende de él; la Tierra sería un sitio inhóspito si el ciclo del agua no tuviese lugar.
 
@@ -153,23 +123,25 @@
     </div>
 </div>
 
+
 <div id="separadorInferior21">
     <div class="content ">
 
     </div>
 </div>
-<div  class="container-fluid mt-5">
+<div  class="container-fluid ">
     <div class="row ">
-        <div class="col-md-12">
-            <img class=" mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/KLMtM1t/evaporacion-c.png"  width="500" style="border: dashed  palevioletred" />
+        <div class="col-xl-12 p-2">
+            <img class=" mx-auto d-block"  src="https://i.ibb.co/KLMtM1t/evaporacion-c.png"
+                 width="400" style="border: dashed  palevioletred" />
         </div>
 
     </div>
 </div>
 
-<div class="container-fluid mt-5" >
+<div class="container-fluid " >
     <div class="row">
-        <div class="col-md-6 pb-3" >
+        <div class="col-xl-6 p-2" >
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/64vTsX8/ciclo-evaporacion.jpg"  width="388" height="280">
                 <div class="card-body">
@@ -180,7 +152,7 @@
         </div>
 
 
-        <div class="col-md-6 pb-3">
+        <div class="col-xl-6 p-2">
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/3W4C1ff/cinfilgracion.jpg"   width="388" height="280">
                 <div class="card-body">
@@ -196,7 +168,7 @@
 
 <div class="container-fluid" >
     <div class="row  "  >
-        <div class="col-md-6 pb-3 " >
+        <div class="col-xl-6 p-2 " >
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/71ZjxHn/ciclo-condensacion.jpg"   class=" mx-auto d-block" width="388" height="280" >
                 <div class="card-body">
@@ -207,7 +179,7 @@
         </div>
 
 
-        <div class="col-md-6 pb-3">
+        <div class="col-xl-6 p-2">
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/7WgfdNc/preci.jpg" width="385" height="300">
                 <div class="card-body">
@@ -222,7 +194,7 @@
 </div>
 <div class="container-fluid" >
     <div class="row  ">
-        <div class="col-md-12 pb-3 ">
+        <div class="col-xl-12 p-2 ">
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/pbChrkZ/escorrentia.jpg" class=" mx-auto d-block" width="388" height="300" >
                 <div class="card-body">
@@ -237,7 +209,7 @@
 
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-md-12 mt-1" style="background: palevioletred">
+        <div class="col-xl-12 mt-1" style="background: palevioletred">
             <h1 style="text-align: center"></h1>
 
         </div>
