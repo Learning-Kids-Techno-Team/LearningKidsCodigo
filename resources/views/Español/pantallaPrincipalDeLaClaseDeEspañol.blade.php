@@ -61,7 +61,7 @@
 @section('content')
 
 <!-- carrousel-->
-<div class="row">
+<div>
     <!-- contenedor-->
     <div class="col-md-12">
         <div class="carousel slide" id="carousel-896190" >
