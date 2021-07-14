@@ -240,7 +240,7 @@
             <p id="pa" >Es el resultado obtenido luego de sumar o adicionar. </p>
         </div>
         <div class="col-xl-6 p-2">
-            <img src="https://i.ibb.co/nLwkr3T/total-removebg-preview.png"
+            <img class="mx-auto d-block" src="https://i.ibb.co/nLwkr3T/total-removebg-preview.png"
                  width="300">
         </div>
     </div>
