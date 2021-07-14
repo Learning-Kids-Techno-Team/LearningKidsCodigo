@@ -67,20 +67,42 @@
 @section('content')
 
 <!-- carrousel-->
-<div class="carousel slide" id="mainSlider" data-ride="carousel">
+<div>
+    <!-- contenedor-->
+    <div class="col-xl-12 p-2">
+        <div class="carousel slide" id="carousel-896190" >
+            <ol class="carousel-indicators">
+                <li data-slide-to="0" data-target="#carousel-896190" class="active" data-interval="100">
+                </li>
+                <li data-slide-to="1" data-target="#carousel-896190" >
+                </li>
+                <li data-slide-to="2" data-target="#carousel-896190" >
+                </li>
+            </ol>
 
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img   src="https://i.ibb.co/GW9ck76/animals.jpg"  class="d-block w-100">
+            <img   src="https://i.ibb.co/GW9ck76/animals.jpg"  class="d-block w-100" height="550">
+            <div class="carousel-caption">
 
+            </div>
         </div>
 
         <div class="carousel-item">
-            <img  src="https://i.ibb.co/3SL5yHT/happy-s.jpg" class="d-block w-100">
+            <img  src="https://i.ibb.co/3SL5yHT/happy-s.jpg" class="d-block w-100" height="550">
+            <div class="carousel-caption">
 
+            </div>
         </div>
         <div class="carousel-item">
-            <img src="https://i.ibb.co/Zm87WQ5/maxresdefault-2.jpg"  class="d-block w-100">
+            <img src="https://i.ibb.co/Zm87WQ5/maxresdefault-2.jpg"  class="d-block w-100" height="550">
+            <div class="carousel-caption">
+
+            </div>
+        </div>
+
+    </div> <a class="carousel-control-prev" href="#carousel-896190" data-slide="prev"><span class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span></a>
+            <a class="carousel-control-next" href="#carousel-896190" data-slide="next"><span class="carousel-control-next-icon"></span> <span class="sr-only">Next</span></a>
         </div>
     </div>
 </div>
