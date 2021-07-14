@@ -42,7 +42,7 @@
 
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
             margin-left: -5px;
             background: #60A71B;
@@ -72,11 +72,11 @@
 <!-- contenedor del concept-->
 <div class="container-fluid" id="color">
     <div class="row">
-        <div class="col-md-4"><br>
+        <div class="col-xl-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/QdqbS2w/img-removebg-preview.png"  width="400" />
 
         </div>
-        <div class="col-md-8">
+        <div class="col-xl-8">
             <h2 id="color" class="text-center"><em><br>¡Puntos Cardinales!</em></h2>
             <h3 id="color" ><em><br>¿Qué son los puntos cardinales?</em></h3>
             <p id="color" class="text-center"><em><strong>Los puntos cardinales son los cuatro sentidos que conforman un sistema de referencia cartesiano para representar la orientación en un mapa o en la propia superficie terrestre.
@@ -87,17 +87,17 @@
 
 
 <!-- contenedor clima-->
-<div class="container-fluid  center-block pl-5">
+<div class="container-fluid">
     <div class="row" >
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 class="text-center" id="color"><strong><em>Los cuatro puntos son:<br></em></strong><br>
                         <ul><li><strong>Norte: </strong>Se representa con la letra<strong>(N)</strong></li>
                     <li><strong>Sur: </strong>Se representa con la letra<strong>(S)</strong></li>
                     <li><strong>Este:</strong>Se representa con la letra<strong>(E)</strong></li>
                             <li><strong>Oeste:</strong>Se representa con la letra<strong>(O)</strong></li></ul></h2>
         </div>
-        <div class="col-md-8 ">
-            <img id="bor"  src="https://i.ibb.co/ZfYvyk3/rosa3-removebg-preview.png"  width="680" height="460"/>
+        <div class="col-xl-8 ">
+            <img id="bor"  class="mx-auto d-block" src="https://i.ibb.co/ZfYvyk3/rosa3-removebg-preview.png"  width="400" />
         </div>
     </div>
 </div>
@@ -105,30 +105,30 @@
 
 
 <!-- contenedor suge-->
-<div class="container-fluid  center-block pl-3" id="color"><h2><em><br>Observo y aprendo:</em></h2>
+<div class="container-fluid" id="color"><h2 class="text-center"><em><br>Observo y aprendo:</em></h2>
     <div class="row">
-        <div class="col-md-3 p-2 d-flex justify-content-center">
+        <div class="col-xl-3 p-2 d-flex justify-content-center">
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/qNWmGp0/norte.png"  width="260" height="240">
                 <h5 class="card-title" align="center">¡Norte!</h5>
                 <p>Es el punto cardinal que indica, sobre un meridiano, la dirección al polo norte geográfico. En el hemisferio norte, se corresponde con el punto del horizonte cuya perpendicular pasa por la estrella polar. <br>A la ubicación o a la dirección norte se les llama septentrional o boreal.</p>
             </div>
         </div>
-        <div class="col-md-3 p-2 d-flex justify-content-center">
+        <div class="col-xl-3 p-2 d-flex justify-content-center">
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/5YwR3cx/sur.png"  width="260" height="240">
                 <h5 class="card-title" align="center">¡Sur!</h5>
                 <p><br>Es el punto cardinal que indica, sobre un meridiano, la dirección al Polo Sur geográfico.<br> <br><br>Es uno de los cuatro puntos cardinales, situado diametralmente opuesto al norte. </p>
             </div>
         </div>
-        <div class="col-md-3 p-2 d-flex justify-content-center">
+        <div class="col-xl-3 p-2 d-flex justify-content-center">
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/y0kyxnn/este.png"  width="260" height="240">
                 <h5 class="card-title" align="center">¡Este!</h5>
                 <p>Es uno de los cuatro puntos cardinales.La perpendicular a la meridiana corta al horizonte en los puntos este y oeste.<br>También recibe el nombre de oriente o levante. Se corresponde aunque no exactamente con el punto del horizonte por donde sale el Sol, de ahí el nombre de levante (zona donde el Sol se levanta).</p>
             </div>
         </div>
-        <div class="col-md-3 p-2 d-flex justify-content-center">
+        <div class="col-xl-3 p-2 d-flex justify-content-center">
             <div class="card" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/wpSLm4z/oeste.png"  width="260" height="240">
                 <h5 class="card-title" align="center">¡Oeste!</h5>

@@ -81,7 +81,7 @@
         <div class="col-xl-12" >
             <div class="row ml-5 mr-5"  >
                 <div class="col-xl-6" >
-                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/S364Jnr/hs-removebg-preview.png" width="380"   >
+                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/S364Jnr/hs-removebg-preview.png" width="350"   >
                 </div>
                 <div class="col-xl-6  mt-5" style=" background: #B4F97B" id="borde">
                     <h3 class="mt-5" style="text-align: center; color: black">Los Sentimientos</h3>

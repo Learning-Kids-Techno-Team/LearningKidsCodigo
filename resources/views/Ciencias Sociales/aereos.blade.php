@@ -86,7 +86,7 @@
         <div class="col-xl-12" >
             <div class="row"  >
                 <div class="col-xl-6" >
-                    <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/Xx7yjLV/ae-removebg-preview.png"   width="500" height="380" >
+                    <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/Xx7yjLV/ae-removebg-preview.png"   width="445" height="380" >
                 </div>
                 <div class="col-xl-6  mt-5" style=" background:  #C5FFA0" id="borde">
 
@@ -113,7 +113,7 @@
 <!-- contenedor-->
 <div class="container-fluid" >
     <br><br>
-    <div class="container-fluid pb-5" >
+    <div class="container-fluid" >
         <div class="row">
             <div class="col-xl-12  " id="bor" style="background: #FDFD96">
 
@@ -123,7 +123,7 @@
         </div>
     </div>
 
-    <div class="row pb-5" >
+    <div class="row" >
         <div class="col-xl-4 p-3">
             <div class="card mx-auto d-block" style="width: 20rem;">
 
@@ -146,7 +146,7 @@
 
     </div>
 </div>
-<div class="container-fluid pb-5 " >
+<div class="container-fluid " >
     <div class="row" >
         <div class="col-xl-4 p-3">
             <div class="card mx-auto d-block" style="width: 20rem;">
@@ -172,7 +172,7 @@
     </div>
 </div>
 
-<div class="container-fluid pb-5" >
+<div class="container-fluid " >
     <div class="row" >
         <div class="col-xl-4 p-3">
             <div class="card mx-auto d-block" style="width: 20rem;">
@@ -184,14 +184,14 @@
             </div>
         </div>
         <div class="col-xl-4 p-3">
-            <h2 ></h2>
+
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/mtpHrdk/diri.jpg"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Dirigible o Zeppelin</em></h2>
             </div>
         </div>
         <div class="col-xl-4 p-3">
-            <h2 ></h2>
+
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/d7cnJS7/42.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Ultraliviano </em></h2>

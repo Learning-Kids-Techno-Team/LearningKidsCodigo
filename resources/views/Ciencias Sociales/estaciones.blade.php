@@ -73,11 +73,11 @@
 <!-- contenedor del concept-->
 <div class="container-fluid" id="color">
     <div class="row">
-        <div class="col-md-4"><br>
+        <div class="col-xl-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/YkJqSNj/guja-removebg-preview.png" width="350" />
 
         </div>
-        <div class="col-md-8">
+        <div class="col-xl-8">
             <h2 id="color" align="center"><em><br>¡Las estaciones del año!</em></h2>
             <h3 id="color" align="justify"><em><br>Las estaciones del año son los cuatro periodos en los cuales
                 ciertas condiciones climáticas se mantienen durante aproximadamente
@@ -93,7 +93,7 @@
             parece a estos días!</em></h3>
 
         <div class="row">
-            <div class="col-mx-6 mx-auto d-block pb-5">
+            <div class="col-xl-6 mx-auto d-block pb-5">
                 <h5  align="center">Otoño</h5>
                 <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/g4bRyJP/ninos.jpg"  width="400" height="300"/>
             </div>
@@ -107,11 +107,11 @@
 <!-- contenedor images verano, invierno-->
 <div class="container-fluid " id="color">
         <div class="row ">
-            <div class="col-mx-6 mx-auto d-block">
+            <div class="col-xl-6 mx-auto d-block">
                 <h5  align="center">Verano</h5>
                 <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/F41J6c4/vera.jpg" width="400" height="300"/>
             </div>
-            <div class="col-mx-6 mx-auto d-block">
+            <div class="col-xl-6 mx-auto d-block">
                 <h5  align="center">Invierno</h5>
                 <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/Z2j5fNd/ind.jpg" width="400" height="300"/>
             </div>
@@ -149,10 +149,10 @@
 <!-- contenedor primave-->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-6 mx-auto d-block">
+        <div class="col-xl-6 mx-auto d-block">
             <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/4KX9XVs/pri.jpg" width="350" height="250"/>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6">
             <h2 class="text-justify" id="color"><em><br><br><br>Hay un periódo del año en que los árboles empiezan a renovar sus hojas y florecen, entonces es </em><strong><em>primavera.</em></strong></h2>
             <img class="mx-auto d-block" src="https://i.ibb.co/YWw4M89/maripgif.gif" width="200" height="100"/>
         </div>
@@ -161,12 +161,12 @@
 <!-- contenedor verano-->
 <div class="container-fluid">
     <div class="row" >
-        <div class="col-md-6 mx-auto d-block">
+        <div class="col-xl-6 mx-auto d-block">
             <h2 class="text-justify mx-auto d-block" id="color"><em><br><br><br>Cuando se produce calor, decimos
                     que estamos en </em><strong><em>verano.</em></strong></h2>
             <img class="mx-auto d-block" src="https://i.ibb.co/0yNLdnJ/gif.gif" width="200" height="100"/>
         </div>
-        <div class="col-md-6 mx-auto d-block"><br><br><br>
+        <div class="col-xl-6 mx-auto d-block"><br><br><br>
             <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/nLqH4jL/veran.jpg" width="350" height="250"/>
         </div>
     </div>
@@ -175,10 +175,10 @@
 <!-- contenedor invierno-->
 <div class="container-fluid  ">
     <div class="row" >
-        <div class="col-md-6 mx-auto d-block"><br><br><br>
+        <div class="col-xl-6 mx-auto d-block"><br><br><br>
             <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/8PgsYL6/dnn.jpg" width="350" height="250"/>
         </div>
-        <div class="col-md-6 mx-auto d-block">
+        <div class="col-xl-6 mx-auto d-block">
             <h2 class="text-justify" id="color"><em><br><br><br>Otras veces llueve mucho, lo que
                     indica que estamos en </em><strong><em>invierno.</em></strong></h2>
             <img class="mx-auto d-block" src="https://i.ibb.co/j5VbXWb/gifgotas.gif" width="200" height="100"/>
@@ -196,7 +196,7 @@
                     lluvia y aumento de calor. Si las autoridades y todos nosotros no nos preocupamos por evitar
                         la destrucción del bosque, las futuras generaciones no tendrán agua ni para tomar.</em><br></h2>
 
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/mcGzYsH/air.jpg" width="500" height="350"/>
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/mcGzYsH/air.jpg" width="400" height="350"/>
         </div>
 
     </div>

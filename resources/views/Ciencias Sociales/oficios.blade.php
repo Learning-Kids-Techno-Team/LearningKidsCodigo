@@ -81,10 +81,10 @@
 <!-- contenedor del concept-->
 <div class="container-fluid " >
     <div class="row" >
-        <div class="col-md-12" >
+        <div class="col-xl-12" >
             <div class="row ml-5 mr-5"  >
-                <div class="col-md-6" >
-                    <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/DGzw4rG/iy-removebg-preview.png" width="500" height="380" >
+                <div class="col-xl-6" >
+                    <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/DGzw4rG/iy-removebg-preview.png" width="350" height="400" >
                 </div>
                 <div class="col-xl-6  mt-5" style=" background:  #C5FFA0" id="borde">
 
@@ -113,21 +113,21 @@
 
 
 <!-- contenedor-->
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid" >
     <br><br>
-    <div class="container-fluid d-flex justify-content-center  " >
-        <div class="row p-5 ">
-            <div class="col-md-12  " id="bor" style="background: yellow">
+    <div class="container-fluid " >
+        <div class="row  ">
+            <div class="col-xl-12  " id="bor" style="background: yellow">
 
-                <h3>Algunos ejemplos de Oficios:
+                <h3 class="text-center">Algunos ejemplos de Oficios:
                 </h3>
             </div>
         </div>
     </div>
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row pt-5" >
+        <div class="col-xl-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block"   src="https://i.ibb.co/0jVRx27/peg.jpg"    width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Carpintero</em></h2>
@@ -135,16 +135,16 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/YW80740/al.jpg" width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Albañil</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/cCbJWd5/j.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Mecánico</em></h2>
             </div>
@@ -152,11 +152,11 @@
 
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid" >
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row" >
+        <div class="col-xl-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block" src="https://i.ibb.co/mDBDrBS/ag.png"  width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Agricultor</em></h2>
@@ -164,16 +164,16 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/mDLgg3G/9a.jpg"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Sastre</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/5Tppsng/car.jpg"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Carnicero</em></h2>
             </div>
@@ -182,11 +182,11 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid " >
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row " >
+        <div class="col-xl-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block"  src="https://i.ibb.co/gtn14G6/ele.jpg" width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Electricista</em></h2>
@@ -194,16 +194,16 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/3vdngN8/aut.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Conductor</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/X7WhMYs/font.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Fontanero</em></h2>
             </div>
@@ -212,11 +212,11 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid " >
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row " >
+        <div class="col-xl-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block" src="https://i.ibb.co/WtmgJp4/rest.jpg"  width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Mesero</em></h2>
@@ -224,16 +224,16 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/WvvmTMd/ne.jpg"    width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Pescador</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/8DG2KvY/db.jpg"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Herrero</em></h2>
             </div>

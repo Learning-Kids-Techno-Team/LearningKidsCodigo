@@ -108,8 +108,8 @@
 <!-- imagen -->
 <div class="container-fluid" id="dif">
     <div class="row" >
-        <div class="col-md-12" id="fondo">
-            <img  class="mx-auto d-block mb-5" src="https://i.ibb.co/NNRyXk3/Captura-juego-peke-prof1-removebg-preview.png" width="600"/>
+        <div class="col-xl-12" id="fondo">
+            <img  class="mx-auto d-block mb-5" src="https://i.ibb.co/NNRyXk3/Captura-juego-peke-prof1-removebg-preview.png" width="430"/>
         </div>
     </div>
 </div>
@@ -134,26 +134,30 @@
 
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  pl-5 mt-5">
-    <div class="row " >
+<div class="container-fluid ">
+    <div class="row mt-5" >
 
-        <div class="col-md-6 d-flex justify-content-center">
+        <div class="col-xl-6 d-flex justify-content-center pb-3">
             <div class="card" style="width: 21rem;">
 
                 <img id="im" src="https://i.ibb.co/yXnXTMJ/vector-a-group-of-people-of-different-professions-removebg-preview.png"  width="300" height="230" class="mx-auto d-block" >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Ocupaciones!</h5>
+                    <div class="text-center">
                     <a href=" {{ url('/oficios') }}" class="btn">Leer</a>
+                    </div>
                 </div>
             </div>
         </div>
 
-        <div class="col-md-6 d-flex justify-content-center">
+        <div class="col-xl-6 d-flex justify-content-center pb-3">
             <div class="card" style="width: 21rem;">
                 <img id="im"class="mx-auto d-block" src="https://i.ibb.co/bBY120Z/a-group-of-people-in-different-professions-removebg-preview.png"  width="300" height="230"  >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Profesiones!</h5>
+                    <div class="text-center">
                     <a href=" {{ url('/profesiones') }}" class="btn">Leer</a>
+                    </div>
 
         </div>
     </div>

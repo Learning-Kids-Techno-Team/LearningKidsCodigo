@@ -56,7 +56,10 @@
 
         }
 
+        #color{
+            color: darkgreen;
 
+        }
 
 
 
@@ -70,19 +73,18 @@
 @section('content')
 
 <!-- contenedor del concept-->
-<div class="container-fluid" >
+<div class="container-fluid" id="color">
     <div class="row">
-        <div class="col-xl-4 p-2"><br>
-<br><br>
-            <img class="mx-auto d-block" src="https://i.ibb.co/3sgdbRQ/original-removebg-preview.png"
-                 width="300" />
+        <div class="col-md-4"><br>
+
+            <img class="mx-auto d-block" src="https://i.ibb.co/3sgdbRQ/original-removebg-preview.png" width="400" />
 
 
         </div>
-        <div class="col-xl-8 p-2" style="text-align: justify;">
-            <h2  class="text-center"><em><br>¡El Medio Ambiente!</em></h2>
-            <h3  style="text-align: center ">Ambiente Contaminado</h3><br>
-            <p  style="text-align:justify; font-size: large"><strong>Contaminación ambiental a la presencia de componentes nocivos
+        <div class="col-md-8" style="text-align: justify;">
+            <h2 id="color" class="text-center"><em><br>¡El Medio Ambiente!</em></h2>
+            <h3 id="color" style="text-align: center "><br>Ambiente Contaminado</h3>
+            <p id="color" style="text-align:justify; font-size: large"><strong>Contaminación ambiental a la presencia de componentes nocivos
                         (ya sean químicos, físicos o biológicos) en el medio ambiente (entorno natural y artificial),
                         que supongan un perjuicio para los seres vivos que lo habitan, incluyendo a los seres humanos
                         y animales.<br>
@@ -97,17 +99,16 @@
 <!-- contenedor ambient-->
 <div class="container-fluid ">
     <div class="row" >
-        <div class="col-xl-7 p-2">
-            <h2  style="text-align: justify">
-                <br>
+        <div class="col-xl-7">
+            <h2 id="color" style="text-align: justify">
+                <strong><em><br>
                         La contaminación es la presencia o acumulación de sustancias
                         en el medio ambiente que afectan negativamente el entorno y las condiciones de vida,
                         así como la salud o la higiene de los seres vivos.
-                    </h2>
+                    </em></strong></h2>
         </div>
-        <div class="col-xl-5 p-2">
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/ZSYk69d/cote.jpg"
-                 width="300" />
+        <div class="col-xl-5">
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/ZSYk69d/cote.jpg"  width="400" height="440"/>
         </div>
     </div>
 </div>
@@ -117,26 +118,26 @@
     <div class="card mx-auto d-block">
         <div class="row " style="text-align: justify" >
             <div class="col-xl-12">
-                <h2 >Si nosotros echamos basura en las calles, esa basura es arrastrada
+                <h2 id="color"><strong><em>Si nosotros echamos basura en las calles, esa basura es arrastrada
                         por las corrientes y obstruyen los tragantes; entonces, el agua corre por las calles y se
-                        producen inundaciones.</h2>
+                        producen inundaciones.</em></strong></h2>
             </div>
         </div>
     </div>
 </div>
 
 <!-- contenedores-->
-<div class="container-fluid"><h2 class="text-center"><br>¿Qué encontramos en un ambiente contaminado?</h2>
+<div class="container-fluid" id="color"><h2><em><br>¿Qué encontramos en un ambiente contaminado?</em></h2>
     <div class="row">
-        <div class="col-xl-4 p-2"><br>
+        <div class="col-md-4"><br>
             <img class="rounded-circle mx-auto d-block bg-info" src="https://i.ibb.co/SVG2N0g/parq.jpg" width="260" height="200"/>
             <h5  align="center">Basura</h5>
         </div>
-        <div class="col-xl-4 p-2"><br>
+        <div class="col-md-4"><br>
             <img class="rounded-circle mx-auto d-block bg-info" src="https://i.ibb.co/1qKxZZR/contaminacion-del-agua.jpg" width="260" height="200"/>
             <h5 align="center">Agua contaminada</h5>
         </div>
-        <div class="col-xl-4 p-2"><br>
+        <div class="col-md-4"><br>
             <img class="rounded-circle mx-auto d-block bg-info" src="https://i.ibb.co/RBKckGr/ah.jpg" width="260" height="200"/>
             <h5 align="center">Un ambiente sin árboles</h5>
         </div>
@@ -158,26 +159,19 @@
 
 
 <!-- contenedor de imag-->
-<div class="container-fluid " ><h2 class="text-center"><br>¡Contaminantes de nuestro ambiente!</h2><br>
-    <div class="card mx-auto d-block">
-        <div class="row " >
-            <div class="col-xl-4 p-2">
-                <br><br>
-                <img class="mx-auto d-block" src="https://i.ibb.co/7yrw1zh/insec-removebg-preview.png"
-                     width="280"/>
+<div class="container-fluid " id="color"><h2><em><br>¡Contaminantes de nuestro ambiente!</em></h2>
+    <div class="card">
+        <div class="row m-5" >
+            <div class="col-md-4">
+                <img class="mx-auto d-block" src="https://i.ibb.co/7yrw1zh/insec-removebg-preview.png" width="280"/>
                 <h5 class="card-title" align="center">Insecticidas</h5>
             </div>
-            <div class="col-xl-4 p-2">
-                <br>
-                <img class="mx-auto d-block" src="https://i.ibb.co/WzXQ5Cw/ak-removebg-preview.png"
-                     width="280"/>
-
+            <div class="col-md-4">
+                <img class="mx-auto d-block" src="https://i.ibb.co/WzXQ5Cw/ak-removebg-preview.png" width="280"/>
                 <h5 class="card-title" align="center">Humo</h5>
             </div>
-            <div class="col-xl-4 p-2">
-                <br><br>
-                <img class="mx-auto d-block" src="https://i.ibb.co/ZcnNd0W/aer-removebg-preview.png"
-                     width="280"/>
+            <div class="col-md-4">
+                <img class="mx-auto d-block" src="https://i.ibb.co/ZcnNd0W/aer-removebg-preview.png" width="280"/>
                 <h5 class="card-title" align="center">Aerosoles</h5>
             </div>
         </div>

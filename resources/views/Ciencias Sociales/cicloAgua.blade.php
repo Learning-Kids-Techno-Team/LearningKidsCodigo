@@ -51,8 +51,15 @@
 
         }
 
+        #color{
+            color: white;
+            height: 80px;
+        }
 
+        p{
+            text-align: center;
 
+        }
 
         .navbar{
             background: #60A71B;
@@ -74,7 +81,25 @@
             background: #B4F97B;
         }
 
+        h1{
+            font-family: Brush Script MT;
+            size: 80px;
 
+        }
+        h3{
+            font-style:italic;
+
+
+        }
+        h4{
+            text-decoration-color: #3B5686;
+            text-align: center;
+        }
+        h2{
+            text-align: center;
+            color: #3B5686;
+            font-family: bold;
+        }
         #bor{
             border: oldlace 5px dashed;
             border-bottom-right-radius: 50px;
@@ -89,6 +114,11 @@
 
         }
 
+        h5{
+
+            padding-top: 20px;
+            text-align: center;
+        }
 
 
 
@@ -102,16 +132,16 @@
 @section('content')
 
 <!-- contenedor del gif-->
-<div class="container-fluid justify-content-center" >
+<div class="container-fluid " >
     <div class="row" >
-        <div class="col-xl-12" >
-            <div class="row ml-5 mr-5"  >
-                <div class="col-xl-6" >
-                    <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/SxDfK3s/lluvia-ni-os-removebg-preview.png"  width="300"  >
+        <div class="col-md-12" >
+            <div class="row"  >
+                <div class="col-md-6 mx-auto d-block" >
+                    <img class="mt-5 mx-auto d-block " src="https://i.ibb.co/SxDfK3s/lluvia-ni-os-removebg-preview.png"  width="300"  >
                 </div>
                 <div class="col-xl-6  mt-5" style=" background: #FDC7FF" id="borde">
 
-                    <h3 class="mt-5" style="text-align: center; color: magenta">Partes de las plantas</h3>
+                    <h3 class="mt-5" style="text-align: center; color: magenta">Ciclo del agua</h3>
                     <p class="" id="pa">
                         <strong><br>El ciclo del agua describe la presencia y el movimiento del agua en la Tierra y sobre ella. El agua de la Tierra esta siempre en movimiento y constantemente cambiando de estado, desde líquido, a vapor, a hielo, y viceversa. El ciclo del agua ha estado ocurriendo por billones de años, y la vida sobre la Tierra depende de él; la Tierra sería un sitio inhóspito si el ciclo del agua no tuviese lugar.
 
@@ -123,40 +153,38 @@
     </div>
 </div>
 
-
 <div id="separadorInferior21">
     <div class="content ">
 
     </div>
 </div>
-<div  class="container-fluid ">
+<div  class="container-fluid mt-5">
     <div class="row ">
-        <div class="col-xl-12 p-2">
-            <img class=" mx-auto d-block"  src="https://i.ibb.co/KLMtM1t/evaporacion-c.png"
-                 width="400" style="border: dashed  palevioletred" />
+        <div class="col-md-12">
+            <img class=" mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/KLMtM1t/evaporacion-c.png"  width="500" style="border: dashed  palevioletred" />
         </div>
 
     </div>
 </div>
 
-<div class="container-fluid " >
+<div class="container-fluid mt-5" >
     <div class="row">
-        <div class="col-xl-6 p-2" >
+        <div class="col-md-6 pb-3" >
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/64vTsX8/ciclo-evaporacion.jpg"  width="388" height="280">
                 <div class="card-body">
-                    <h5 class="text-center">Evaporación</h5>
+                    <h5 class="card-title">Evaporación</h5>
                     <p style="text-align: justify"><strong>El agua cambia de estado líquido a gaseoso.<br> La evaporación es el proceso por la cual el agua líquida de los océanos ingresa a la atmósfera, en forma de vapor, regresando al ciclo del agua. <br>Diversos estudios han demostrado que los océanos, mares, lagos y ríos proveen alrededor del 90% de humedad a la atmósfera vía evaporación; el restante 10% proviene de la transpiración de las plantas.</strong></p>
                 </div>
             </div>
         </div>
 
 
-        <div class="col-xl-6 p-2">
+        <div class="col-md-6 pb-3">
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/3W4C1ff/cinfilgracion.jpg"   width="388" height="280">
                 <div class="card-body">
-                    <h5 class="text-center">Infiltración</h5>
+                    <h5 class="card-title ">Infiltración</h5>
 
                     <p style="text-align: justify"><strong> El movimiento descendente del agua desde la superficie de la Tierra hacia el suelo o las rocas porosas. <br><br><br>En cualquier parte del mundo, una porción del <br>agua que cae como precipitación <br>y nieve se infiltra hacia el suelo subsuperficial y hacia las rocas.</strong></p>
                 </div>
@@ -168,22 +196,22 @@
 
 <div class="container-fluid" >
     <div class="row  "  >
-        <div class="col-xl-6 p-2 " >
+        <div class="col-md-6 pb-3 " >
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/71ZjxHn/ciclo-condensacion.jpg"   class=" mx-auto d-block" width="388" height="280" >
                 <div class="card-body">
-                    <h5 class="text-center">Condensación</h5>
+                    <h5 class="card-title">Condensación</h5>
                     <p style="text-align: justify"><strong>La condensación es el proceso por el cual el vapor de agua del aire se transforma en agua líquida. <br><br>La condensación es importante para el ciclo del agua ya que forma las nubes. <br>Estas nubes pueden producir precipitación, la cual es la principal forma que el agua regresa a la Tierra. La condensación es lo opuesto a la evaporación.</strong></p>
                 </div>
             </div>
         </div>
 
 
-        <div class="col-xl-6 p-2">
+        <div class="col-md-6 pb-3">
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/7WgfdNc/preci.jpg" width="385" height="300">
                 <div class="card-body">
-                    <h5 class="text-center">Precipitación<br></h5>
+                    <h5 class="card-title">Precipitación<br></h5>
 
                     <p style="text-align: justify" ><strong> La precipitación, es agua liberada desde las nubes en forma de lluvia, aguanieve, nieve o granizo. <br><br>Es el principal proceso por el cual el agua retorna a la Tierra.<br><br> La mayor parte de la precipitación cae como lluvia.</strong></p>
                 </div>
@@ -194,11 +222,11 @@
 </div>
 <div class="container-fluid" >
     <div class="row  ">
-        <div class="col-xl-12 p-2 ">
+        <div class="col-md-12 pb-3 ">
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <img src="https://i.ibb.co/pbChrkZ/escorrentia.jpg" class=" mx-auto d-block" width="388" height="300" >
                 <div class="card-body">
-                    <h5 class="text-center">Escorrentía</h5>
+                    <h5 class="card-title">Escorrentía</h5>
                     <p style="text-align: justify"><strong>
                             La escorrentía superficial describe el flujo del agua, lluvia, nieve, u otras fuentes, sobre la tierra, y es un componente principal del ciclo del agua. <br>Al área de tierra que produce el drenaje de la escorrentía a un punto común se la conoce como línea divisoria de aguas.</strong></p>
                 </div>
@@ -209,7 +237,7 @@
 
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-xl-12 mt-1" style="background: palevioletred">
+        <div class="col-md-12 mt-1" style="background: palevioletred">
             <h1 style="text-align: center"></h1>
 
         </div>

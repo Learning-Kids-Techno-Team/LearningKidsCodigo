@@ -79,10 +79,10 @@
 <!-- contenedor del concept-->
 <div class="container-fluid " >
     <div class="row" >
-        <div class="col-md-12" >
+        <div class="col-xl-12" >
             <div class="row ml-5 mr-5"  >
                 <div class="col-md-6" >
-                    <img class="mt-5 mx-auto d-block"   src="https://i.ibb.co/L63rgT8/17-removebg-preview.png"  width="500" height="380" >
+                    <img class="mt-5 mx-auto d-block"   src="https://i.ibb.co/L63rgT8/17-removebg-preview.png"  width="350" height="380" >
                 </div>
                 <div class="col-xl-6  mt-5" style=" background:  #C5FFA0" id="borde">
 
@@ -109,21 +109,21 @@
 
 
 <!-- contenedor-->
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid" >
     <br><br>
     <div class="container-fluid d-flex justify-content-center  " >
         <div class="row p-5 ">
-            <div class="col-md-12  " id="bor" style="background: #FDFD96">
+            <div class="col-xl-12  " id="bor" style="background: #FDFD96">
 
-                <h3>Algunos ejemplos de Profesiones:
+                <h3 class="text-center">Algunos ejemplos de Profesiones:
                 </h3>
             </div>
         </div>
     </div>
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row" >
+        <div class="col-xl-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block"  src="https://i.ibb.co/b7MHbYb/di.jpg"   width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Ingenieros</em></h2>
@@ -131,16 +131,16 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/m5NqYfR/a.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Abogado</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/BcKhCw7/dis.png"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Médico</em></h2>
             </div>
@@ -148,11 +148,11 @@
 
     </div>
 </div>
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid" >
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row" >
+        <div class="col-xl-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block"  src="https://i.ibb.co/dmB55RX/arqu.jpg"  width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Arquitecto</em></h2>
@@ -160,16 +160,16 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/47Kvq2x/vect.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Periodista</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/PTJwFFn/p.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Veterinario</em></h2>
             </div>
@@ -178,11 +178,11 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid" >
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row" >
+        <div class="col-xl-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block" src="https://i.ibb.co/CW8fp87/16262562.jpg"   width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Contadores</em></h2>
@@ -190,16 +190,16 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/ZXkSTsX/Den.jpg"   width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Dentista</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/Fnt90R8/Theater-actress-in-dressing-room-applying-makeup-sitting-by-vanity-mirror-flat-purple-room-interior.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Actor o Actriz</em></h2>
             </div>
@@ -208,11 +208,11 @@
     </div>
 </div>
 
-<div class="container-fluid  center-block pl-5" >
+<div class="container-fluid " >
 
-    <div class="row m-5" >
-        <div class="col-md-4">
-            <div class="card" style="width: 20rem;">
+    <div class="row" >
+        <div class="col-xl-4">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block"  src="https://i.ibb.co/3sVBPW5/as.jpg"  width="305" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Astrónomo</em></h2>
@@ -220,16 +220,16 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/rwt6fpS/el.jpg"    width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Escritor</em></h2>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/sFSQ6pT/juez.jpg"  width="300" height="200">
                 <h2 class="mx-auto d-block" id="color"><em>Juez</em></h2>
             </div>
