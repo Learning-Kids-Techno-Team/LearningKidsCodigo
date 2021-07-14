@@ -58,15 +58,9 @@
 
         }
 
-        #color{
-            color: black;
-            text-align: center;
 
-        }
 
-        #co{
-            color: black;
-        }
+
 
         #borde{
 
@@ -82,18 +76,16 @@
 @section('content')
 
 <!-- contenedor del concept-->
-<div class="container-fluid " >
+<div class="container-fluid justify-content-center" >
     <div class="row" >
         <div class="col-xl-12" >
-            <div class="row">
-                <div class="col-xl-6 p-5" >
-                    <img class=" mx-auto d-block"   src="https://i.ibb.co/S364Jnr/hs-removebg-preview.png" width="380"   >
+            <div class="row ml-5 mr-5"  >
+                <div class="col-xl-6" >
+                    <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/S364Jnr/hs-removebg-preview.png" width="380"   >
                 </div>
-                <div class="col-xl-6 mt-5"
-                     style=" background: #B4F97B" id="borde">
-
+                <div class="col-xl-6  mt-5" style=" background: #B4F97B" id="borde">
                     <h3 class="mt-5" style="text-align: center; color: black">Los Sentimientos</h3>
-                    <p class="" id="pa" style="text-align: justify">
+                    <p class="" id="pa">
                         <strong><br><br>
                             Las personas a lo largo de nuestra vida experimentamos infinitos sentimientos,
                             que tienden a manifestarse en las polaridades de sentimientos positivos o
@@ -110,29 +102,30 @@
 </div>
 
 
+
 <!-- contenedor-->
 <div class="container-fluid" >
     <br><br>
-    <h2>Los sentimientos:</h2>
+    <h2 class="text-center">Los sentimientos:</h2>
     <div class="row" >
         <div class="col-xl-4 pb-3">
             <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block"  src="https://i.ibb.co/j3Br1bZ/her.jpg"  width="305" height="200">
-                <h2 class="mx-auto d-block" id="color"><em>Alegría</em></h2>
+                <h2 class="text-center"><em>Alegría</em></h2>
             </div>
         </div>
         <div class="col-xl-4 pb-3">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/HG0KyhQ/dibu.jpg" width="300" height="200">
-                <h2  id="color"><em>Tristeza</em></h2>
+                <h2  class="text-center"><em>Tristeza</em></h2>
             </div>
         </div>
         <div class="col-xl-4 pb-3">
 
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/51tRX17/e.jpg" width="300" height="200">
-                <h2  id="color"><em>Enojo</em></h2>
+                <h2  class="text-center"><em>Enojo</em></h2>
             </div>
         </div>
 
@@ -143,7 +136,7 @@
     <div class="col-xl-4 pb-3">
         <div class="card mx-auto d-block" style="width: 20rem;">
             <img class="mx-auto d-block"  src="https://i.ibb.co/S0hwCWP/e1a.jpg"  width="305" height="200">
-            <h2  id="color"><em>Amistad</em></h2>
+            <h2 class="text-center"><em>Amistad</em></h2>
 
 
         </div>
@@ -151,13 +144,13 @@
     <div class="col-xl-4 pb-3">
         <div class="card mx-auto d-block" style="width: 20rem;">
             <img class="mx-auto d-block"  src="https://i.ibb.co/6wTyNVk/oe.jpg"  width="300" height="200">
-            <h2  id="color"><em>Miedo</em></h2>
+            <h2 class="text-center"><em>Miedo</em></h2>
         </div>
     </div>
     <div class="col-xl-4 pb-3">
         <div class="card mx-auto d-block" style="width: 20rem;">
             <img class="mx-auto d-block" src="https://i.ibb.co/2yL06LW/am.jpg" width="300" height="200">
-            <h2  id="color"><em>Amor</em></h2>
+            <h2 class="text-center"><em>Amor</em></h2>
         </div>
     </div>
 
