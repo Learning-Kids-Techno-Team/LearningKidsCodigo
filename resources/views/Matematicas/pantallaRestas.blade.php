@@ -126,9 +126,9 @@
 <!-- contenedor del gif-->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12 bg-info">
+        <div class="col-xl-12 bg-info">
             <div class="row ml-5 mr-5">
-                <div class="col-md-7 bg-warning mt-5">
+                <div class="col-xl-7 bg-warning mt-5">
                     <img class="mt-5" src="https://i.ibb.co/SfTfKWb/ninos-aprendiendo-matematicas-abaco-1308-15835-removebg-preview.png">
                 </div>
                 <div class="col-xl-5  mt-5 " style=" background: #fcebcb"  >
