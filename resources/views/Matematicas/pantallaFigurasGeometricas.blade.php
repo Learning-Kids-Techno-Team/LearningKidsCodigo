@@ -124,21 +124,24 @@
                 <h3>Figuras Geométricas</h3>
             </div>
         </div>
-        <div class="row">
-            <div class="col-xl-4 pb-4 ">
-                <div class="card mx-auto d-block" style="width: 18rem;">
-                    <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/triangle-5258735_960_720.png" width="210" >
+    </div>
+
+        <div class="container-fluid pb-5 " style="background: #f8cfc6 ">
+         <div class="row">
+            <div class="col-xl-4 pb-5 ">
+                <div class="card mx-auto d-block" style="width: 20rem;">
+                    <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/triangle-5258735_960_720.png" class="mx-auto d-flex p-2" width="200" >
                     <div class="card-body">
                         <h5 align="center">Triángulo</h5>
                         <div align="center">
                         <a style=" background: #FF7E5A" href=" {{ url('/TiposDeTriangulos') }}" class="btn btn-primary">Leer</a>
-                    </div>
-                </div>
+                        </div>
+                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 pb-4">
-                <div class="card mx-auto d-block" style="width: 18rem;">
-                    <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/square-5258734_960_720.png" width="300">
+            <div class="col-xl-4 pb-5 ">
+                <div class="card mx-auto d-block" style="width: 20rem;">
+                    <img src="https://cdn.pixabay.com/photo/2020/06/04/13/22/square-5258734_960_720.png"  class="mx-auto d-flex  p-2" width="280">
                     <div class="card-body">
                         <h5 align="center">Cuadrado</h5>
                         <div align="center">
@@ -147,9 +150,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 pb-4">
-                <div class="card mx-auto d-block" style="width: 18rem;">
-                    <img src="https://i.ibb.co/4YyK2hd/conjunto-formas-geometria-matematica-1639-6401-removebg-preview.png"   class="card-img-top">
+            <div class="col-xl-4 pb-5 ">
+                <div class="card mx-auto d-block" style="width: 20rem;">
+                    <img src="https://i.ibb.co/4YyK2hd/conjunto-formas-geometria-matematica-1639-6401-removebg-preview.png"  class="mx-auto d-flex" width="280 ">
                     <div class="card-body">
                         <br>
                         <br>
