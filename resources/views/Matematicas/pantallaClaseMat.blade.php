@@ -73,7 +73,7 @@
     <div class="col-xl-12 p-2">
         <div class="carousel slide" id="carousel-896190">
             <ol class="carousel-indicators">
-                <li data-slide-to="0" data-target="#carousel-896190" class="active">
+                <li data-slide-to="0" data-target="#carousel-896190" class="active" data-interval="100">
                 </li>
                 <li data-slide-to="1" data-target="#carousel-896190" >
                 </li>
@@ -82,13 +82,13 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100"   src="https://i.ibb.co/khGYmKG/gusano1.jpg" height="400" >
+                    <img class="d-block w-100"   src="https://i.ibb.co/khGYmKG/gusano1.jpg" height="400">
                     <div class="carousel-caption">
 
                     </div>
                 </div>
                 <div class="carousel-item ">
-                    <img class="d-block w-100"  src="https://i.ibb.co/C1bQcTG/unnamed.png" height="400"  >
+                    <img class="d-block w-100"  src="https://i.ibb.co/C1bQcTG/unnamed.png" height="400" >
                     <div class="carousel-caption">
 
 
