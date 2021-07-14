@@ -119,7 +119,7 @@
             <h3>Matemáticas</h3>
             <p><strong>
 
-                ¿Por qué es importante la matematicas en tus hijos?<br>
+                ¿Por qué es importante la matemáticas en tus hijos?<br>
                     <br>Las matemáticas son fundamentales para el desarrollo
                     intelectual de los niños, les ayuda a ser lógicos, a
                     razonar ordenadamente y a tener una mente preparada
@@ -144,7 +144,7 @@
         <div class="row ">
             <div class="col-xl-12 p-2">
                 <a href=" {{ url('/figura') }}">
-                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/s2k0frX/Iconos-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info color2" width="150"><h3>Figuras Geométrica</h3>
+                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/s2k0frX/Iconos-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info color2" width="150"><h3>Figuras Geométricas</h3>
                 </a>
             </div>
         </div>

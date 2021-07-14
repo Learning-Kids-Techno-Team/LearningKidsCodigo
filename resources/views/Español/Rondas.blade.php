@@ -156,16 +156,17 @@
 
 
                    <br><br> Tengo una muñeca vestida de azul,<br>
-                    zapatitos blancos y gorro de tul.<br><br><bR><bR>
+                    zapatitos blancos y gorro de tul.
 
-                   <br><br><br> La llevé a paseo y se me constipo,
-                    <br>la tengo en la cama con un gran dolor.<br><br><br>
+                   <br>La llevé a paseo y se me constipo,
+                    <br>la tengo en la cama con un gran dolor.<br><br>
 
-                  <br> <br><br><br> Dos y dos son cuatro, cuatro y dos son seis,<br>
+                  <br> <br><br>Dos y dos son cuatro, cuatro y dos son seis,<br>
                     seis y dos son ocho, y ocho dieciséis,<br>
                     y ocho veinticuatro, y ocho treinta y dos.<br>
                     Estas son las cuentas que he sacado yo.<br>
-                    </strong></p>
+                        <br><br><br><br>
+                    </strong></p><br><br><br>
 
                 </div>
             </div>
@@ -177,23 +178,23 @@
                 <div class="card-body">
                     <h5 class="card-title">Matarile-rile-ro</h5><br>
 
-                    <p><strong><br>Amo a to
+                    <p><strong><br><br>Amo a to
                         Matarile rile ro<br>
                         Que quiere usted<br>
                         Matarile rile ro
                         Yo quiero un paje<br>
-                        Matarile rile ro<br>
-                            Usted Matarile rile ro.
+                        Matarile rile ro
+                            Usted Matarile rile ro.<br>
 
                         <br><br><br>Escojo a ella
                         Matarile rile ro<br>
                         Que oficio le pondremos<br>
                         Matarile rile ro.<br>
                         Le pondremos lavandera<br>
-                        Matarile rile ro<br>Ese oficio no le gusta<br>
+                        Matarile rile ro, ese oficio no le gusta<br>
                         Matarile rile ro<br><br>
 
-                        <br><br><br>Le pondremos planchadora<br>
+                            <br><br>Le pondremos planchadora<br>
                         Matarile rile ro<br>
                         Ese oficio no le gusta<br>
                         Matarile rile rio<br>
@@ -204,7 +205,7 @@
                         <br><br><bR>Le pondremos ser la reyna<br>
                         Matarile rile ro<br>
                         Ese oficio si le gusta<br>
-                        Matarile rile ro<br>
+                        Matarile rile ro
                         </strong> </p>
 
 
@@ -228,14 +229,14 @@
                         Se moja y se seca como los demás<br>
                         Agáchense y vuélvanse a agachar<br>
                         Las niñas bonitas se saben agachar.<br>
-                        Chocolate, molinillo<br>
-                        Chocolate, molinillo<br><br>
+                            <br><br><br>Chocolate, molinillo<br>
+                            Chocolate, molinillo<br>
                         Estirar, estirar, que la reina va a pasar.<br>
                         Dicen que soy, que soy una cojita<br>
-                        Y si lo soy, lo soy de mentiritas.<br>
-                        Desde chiquita me quedé, me quedé.<br><br>
-                        <br>Padeciendo de este pie<br>
-                        Padeciendo de este pie.<br><br><br><br>
+                        Y si lo soy, lo soy de mentiritas.<br><br>
+                            <br><br>Desde chiquita me quedé, me quedé.
+                        Padeciendo de este pie<br>
+                        Padeciendo de este pie.
                         El patio de mi casa <br>(Uh-oh, uh-oh)
                         El patio de mi casa <br>(Uh-oh, uh-oh).<br>
 
@@ -245,17 +246,17 @@
                         Es particular, muy particular<br>
                         El patio de mi casa es particular<br>
                         Se moja y se seca como los demás.<br>
-                       <br><br> <br>Agáchense y vuélvanse a agachar<br>
+                       <br><br> <br>Agáchense y vuélvanse a agachar
                         Las niñas bonitas se saben agachar.<br>
                         Chocolate, molinillo
                         Chocolate, molinillo.<br><br>
                         <br><br><bR></bR>Estirar, estirar, que la reina va a pasar<br>
                         Dicen que soy, que soy una cojita
                         Y si lo soy, lo soy de mentiritas.
-                        Desde chiquita me quedé, me quedé.<br><br>
-                       <br> Padeciendo de este pie<br>
-                        Padeciendo de este pie<br>
-                            <br>El patio de mi casa (Uh-oh, uh-oh)<br>
+                        Desde chiquita me quedé, me quedé.<br><br><br>
+                       <br> Padeciendo de este pie
+                        Padeciendo de este pie
+                            <br>El patio de mi casa (Uh-oh, uh-oh)
                         El patio de mi casa (Uh-oh, uh-oh)
                             <br>El patio de mi casa (Uh-oh, uh-oh)<br>
                         El patio de mi casa (Uh-oh, uh-oh)<br><br>
@@ -264,18 +265,27 @@
                         El patio de mi casa (Uh-oh, uh-oh)
                             <br>El patio de mi casa (Uh-oh, uh-oh)<br>
                         El patio de mi casa (Uh-oh, uh-oh)<br>
-                        Es particular, muy particular<br>
-                   <br>
-                           <br> <br>El patio de mi casa es particular<br>
+                        Es particular, muy particular<br><br><br>
+                   <br>El patio de mi casa es particular<br>
                             Se moja y se seca como los demás<br>
                             Agáchense y vuélvanse a agachar<br>
-                            Las niñas bonitas se saben agachar.<br>
-                            <br>Chocolate, molinillo<br>
-                            <br>Chocolate, molinillo<br><br><br>
-                            <br><br><br><br><br>El patio de mi casa (Uh-oh, uh-oh)<br>
+                            Las niñas bonitas se saben agachar.<br>Chocolate, molinillo<br>
+                            <br><br>Chocolate, molinillo<br>El patio de mi casa (Uh-oh, uh-oh)<br>
                             El patio de mi casa (Uh-oh, uh-oh)<br>
                             Es particular, muy particular<br>
 
+                            <br><br><br>El patio de mi casa (Uh-oh, uh-oh)<br>
+                            El patio de mi casa (Uh-oh, uh-oh)
+                            <br>El patio de mi casa (Uh-oh, uh-oh)<br>
+                            El patio de mi casa (Uh-oh, uh-oh)<br>
+                            Es particular, muy particular<br><br><br>
+                            <br>El patio de mi casa es particular<br>
+                            Se moja y se seca como los demás<br>
+                            Agáchense y vuélvanse a agachar<br>
+                            Las niñas bonitas se saben agachar.<br>Chocolate, molinillo<br>
+                            <br><br><br>Chocolate, molinillo<br>El patio de mi casa (Uh-oh, uh-oh)<br>
+                            El patio de mi casa (Uh-oh, uh-oh)<br>
+                            Es particular, muy particular<br>
 
                         </strong> </p>
 
@@ -290,53 +300,53 @@
 
                     <p><strong> <br><br>Cuando el reloj marca la una<br>
                         Las calaveras salen de su tumba<br>
-                        Chúmbala, cachúmbala, cachúmbala<br>
+                        Chúmbala, cachúmbala, cachúmbala
                         Chúmbala, cachúmbala, cachúmbala<br><br><br>
-                        <bR><br>Cuando el reloj marca las dos
+                        <br><br>Cuando el reloj marca las dos
                         <br>Las calaveras se mueren de tos<br>
                         Chúmbala, <br>cachúmbala,<br> cachúmbala
                         Chúmbala,<br> cachúmbala,<br> cachúmbala<br>
-                        <br><br>Cuando el reloj marca las tres<br>
+                        <br>Cuando el reloj marca las tres<br>
                         Las calaveras se paran al revés<br>
                         Chúmbala, cachúmbala, cachúmbala<br> (Yo aquí, y yo allá)
                         Chúmbala, cachúmbala, <br>cachúmbala<br>
-                        Cuando el reloj marca <br>las cuatro<br>
-                        <br>Las calaveras se quitan los zapatos<br>
+                            <br><br>Cuando el reloj marca las cuatro<br>
+                        Las calaveras se quitan los zapatos<br>
                         Chúmbala, cachúmbala, cachúmbala<br>
                         Chúmbala, cachúmbala, cachúmbala<br>
-                        Cuando el reloj marca las cinco<br><br>
+                        Cuando el reloj marca las cinco<br><br><br>
                        <br> Las calaveras dan vueltas<br> y brincos
                         Chúmbala, cachúmbala,<br>cachúmbala
-                        Chúmbala, cachúmbala,<br> cachúmbala<br>
-                        <br>Cuando el reloj marca las seis<br>
+                        Chúmbala, cachúmbala,<br> cachúmbala
+                            <br><br><br><br>Cuando el reloj marca las seis<br>
                         Las calaveras llaman al rey<br>
                         Chúmbala, cachúmbala,<br> cachúmbala<br>
-                        Chúmbala, cachúmbala,<br> cachúmbala<br>
+                        Chúmbala, cachúmbala,<br> cachúmbala<br><br><br>
                         Cuando el reloj marca las siete<br>
                         Las calaveras se peinan el copete<br>
-                        Chúmbala, cachúmbala,<br> cachúmbala<br>
+                        Chúmbala, cachúmbala, cachúmbala<br>
                         Chúmbala, cachúmbala, <br>cachúmbala.
-                        Cuando el reloj marca las ocho<br><br>
-                        Las calaveras se comen un bizcocho<br>
-                        Chúmbala,<br>cachúmbala, <br>cachúmbala
+                        Cuando el reloj marca las ocho<br><br><br>
+                            <br>Las calaveras se comen un bizcocho<br>
+                            Chúmbala, cachúmbala, cachúmbala
                         Chúmbala,<br> cachúmbala, cachúmbala.<br>
-                        Cuando el reloj marca las nueve.<br>
-                        Las calaveras se comen su nieve<br>
+                        Cuando el reloj marca las nueve.<br><br>
+                            <br><br><br>Las calaveras se comen su nieve<br>
                         Chúmbala, cachúmbala, cachúmbala<br>
                         Chúmbala, cachúmbala, cachúmbala.<br><br>
                         <br><br><br>Cuando el reloj marca las diez<br>
                         Las calaveras cantan en inglés<br>
                         Chúmbala, cachúmbala,<br> cachúmbala
 
-                        Cuando el reloj marca las once.<br>
-                        Las calaveras no se conocen<br>
+                        Cuando el reloj marca las once.<br><br><br>
+                            <br><br>Las calaveras no se conocen<br>
                         Chúmbala, cachúmbala,<br> cachúmbala <br>
                         Chúmbala, cachúmbala, cachúmbala<br>
-                        Cuando el reloj marca las  doce<br>
-                       <br> Las calaveras pasean en coche.<br>
+                            <br><br><br>Cuando el reloj marca las  doce<br>
+                       Las calaveras pasean en coche.<br>
                         Chúmbala, cachúmbala,<br> cachúmbala
                         Chúmbala, <br>cachúmbala,cachúmbala.<br>
-                        <br>Cuando el reloj marca la una<br>
+                        <br><br><br>Cuando el reloj marca la una<br>
                         Las calaveras vuelven a sus tumbas
                         Chúmbala, cachúmbala, cachúmbala.<br>
 
@@ -359,26 +369,25 @@
                 <div class="card-body" id="im">
                     <h5 class="card-title">La Pajara Pinta </h5>
 
-                    <p><strong> <br>Estaba la pájara pinta<br>
+                    <p><strong><br><br><br>Estaba la pájara pinta<br>
                             sentada en un verde limón.<br>
                         Con el pico cortaba la rama,<br>
                         con la rama cortaba la flor.<br>
                         Ay, ay, ay!<br>
-                        Cuándo vendrá mi amor...<br>
-
-                        Me arrodillo a los pies de mi<br> amante,
-                        me levanto <br>constante, constante.<br>
-                        Dame la mano, dame la otra,<br>
-                        dame un besito sobre la boca.<br><br>
+                            <br><br>Cuándo vendrá mi amor...<br>
+                            Me arrodillo a los pies de mi<br> amante,
+                        me levanto <br>constante, constante.<br><br><br><br>
+                            <br> Dame la mano, dame la otra,<br>
+                        dame un besito sobre la boca.
 
                         Daré la media vuelta,<br>
                         Daré la vuelta entera,<br>
                         Con un pasito atrás,<br>
-                        Haciendo la reverencia.<br><br>
+                            <br><br>Haciendo la reverencia.
 
-                        Pero no, pero no, pero no,<br>
-                        porque me da vergüenza,<br>
-                        pero sí, pero sí, pero sí,<br>
+                        Pero no, pero no, pero no,
+                        porque me da vergüenza,
+                        pero sí, pero sí, pero sí,
                         porque te quiero a ti.
 
 
@@ -395,16 +404,16 @@
 
                     <p><strong> Aserrín aserrán<br>
 
-                        los <br>maderos de San Juan<br>
+                        los <br><br>maderos de San Juan<br>
 
                         piden pan no les dan<br>
                         piden queso les dan hueso<br>
 
                         y se les ¡atora en el pescuezo!<br>
 
-                        piden vino, si les dan<br>
+                            <br><br><br>piden vino, si les dan<br>
 
-                        se marean y se van.<br><br>
+                        se marean y se van.
 
 
                         Aserrín aserrán<br>
@@ -413,23 +422,21 @@
 
                         piden pan no les dan<br>
 
-                        piden queso les dan hueso<br>
+                        piden queso les dan hueso<br><br><br><br>
 
                         y se les ¡atora en el pescuezo!<br>
 
                         piden vino, si les dan<br>
 
-                        se marean y se van.<br><br>
-
-
+                        se marean y se van.
 
                         Aserrín, aserrán,<br>
 
                         los maderos de San Juan,<br>
 
-                        piden pan, no les dan,<br>
+                            <br><br><br> piden pan, no les dan,<br>
 
-                        piden queso, les dan hueso<br>
+                            piden queso, les dan hueso<br>
 
                         piden ají, y los botan así.<br>
 
@@ -485,30 +492,25 @@
                 <div class="card-body">
                     <h5 class="card-title">Los pollos de mi cazuela </h5>
 
-                    <p><strong>Los pollos mi cazuela;<br>
+                    <p><strong>Los pollos <br>mi cazuela;<br><br>
                         No sirven para comer,<br>
-                        Si no para la viudita.<br>
-                      <br>  Que no sabe comprender<br>
-                        Se le echa sal, cebolla<br>
-                        Hojitas de laurel;<br>
-                        Se le saca de la cazuela<br>
-                        <br>Para salir a bailar.<br>
-                        Componte niña, componte<br>
+                        Si no para la viudita. Que no sabe comprender<br>
+                        Se le echa sal, cebolla,
+                        Hojitas de laurel;
+                        Se le saca de la cazuela para salir a bailar.<br>
+                            <br><br><br>Componte niña, componte
                         Ya viene tu marinero,<br>
-                        Con ese bonito traje,<br>
+                        Con ese bonito traje,
                         Que parece un carnicero.<br>
 
-                       <br><br> Anoche yo te vi,<br>
-                        Bailando el cha cha cha<br>
+                       Anoche yo te vi, Bailando el cha cha cha<br>
                         Con las manos en la cintura<br>
                         Para salir a bailar.<br>
-                       <br> Componte niña, componte<br>
-                        Ya viene tu marinero,<br>
-                        Con ese bonito traje,<br>
-                        Que parece un carnero.<br>
-
-
-
+                            <br><br><br>Componte niña, componte<br>
+                            <br>Ya viene tu marinero,
+                        Con ese bonito traje,
+                        Que parece un carnero.
+                            <br><br><br><br>
                         </strong>  </p>
 
 
