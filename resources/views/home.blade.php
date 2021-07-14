@@ -112,7 +112,7 @@
 <!--mensaje -->
 
     <div class="row justify-content-center" style="background: #0b75c9; color: white">
-        <div class="col-md-20"  >
+        <div class="col-xl-20"  >
             <div >
                 <div>
                     @if (session('status'))
@@ -136,7 +136,8 @@
             </div>
 
             <div class="carousel-item">
-                <img src="https://prioritariosvina.files.wordpress.com/2015/07/nic3b1os.jpg" class="d-block w-100">
+                <img src="https://prioritariosvina.files.wordpress.com/2015/07/nic3b1os.jpg"
+                     class="d-block w-100">
 
             </div>
             <div class="carousel-item">

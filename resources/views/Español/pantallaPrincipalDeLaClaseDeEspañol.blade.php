@@ -40,6 +40,9 @@
         }
         #color{
             background:  #D8E2F3;
+            border-bottom-right-radius: 100px;
+            border-bottom-left-radius: 100px;
+            border: #4aa0e6 8px dashed;
 
         }
         #separadorInferior2 .content{
@@ -61,9 +64,9 @@
 @section('content')
 
 <!-- carrousel-->
-<div class="row">
+<div>
     <!-- contenedor-->
-    <div class="col-md-12">
+    <div class="col-xl-12 p-2">
         <div class="carousel slide" id="carousel-896190" >
             <ol class="carousel-indicators">
                 <li data-slide-to="0" data-target="#carousel-896190" class="active" data-interval="100">
@@ -75,49 +78,35 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="https://static.vecteezy.com/system/resources/previews/000/931/916/non_2x/cartoon-kids-with-a-frame-with-copy-space-vector.jpg">
+                    <img class="d-block w-100" src="https://static.vecteezy.com/system/resources/previews/000/931/916/non_2x/cartoon-kids-with-a-frame-with-copy-space-vector.jpg" height="450">
                     <div class="carousel-caption">
-                        <h4 class=" mx-auto d-block">
 
-                        </h4>
-                        <p>
-
-                        </p>
                     </div>
                 </div>
                 <div class="carousel-item ">
-                    <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://i.ibb.co/rv9B8tG/carr.jpg" alt="carr" height="650">
+                    <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://i.ibb.co/rv9B8tG/carr.jpg" height="450">
                     <div class="carousel-caption">
-                        <h4>
 
-                        </h4>
-                        <p>
-
-                        </p>
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" alt="Carousel Bootstrap Third" src="https://static.vecteezy.com/system/resources/previews/000/913/537/non_2x/little-students-playing-with-pencil-vector.jpg">
+                    <img class="d-block w-100" alt="Carousel Bootstrap Third" src="https://static.vecteezy.com/system/resources/previews/000/913/537/non_2x/little-students-playing-with-pencil-vector.jpg" height="450">
                     <div class="carousel-caption">
-                        <h4>
 
-                        </h4>
-                        <p>
-
-                        </p>
                     </div>
                 </div>
-            </div> <a class="carousel-control-prev" href="#carousel-896190" data-slide="prev"><span class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span></a> <a class="carousel-control-next" href="#carousel-896190" data-slide="next"><span class="carousel-control-next-icon"></span> <span class="sr-only">Next</span></a>
+            </div> <a class="carousel-control-prev" href="#carousel-896190" data-slide="prev"><span class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span></a>
+            <a class="carousel-control-next" href="#carousel-896190" data-slide="next"><span class="carousel-control-next-icon"></span> <span class="sr-only">Next</span></a>
         </div>
     </div>
 </div>
 <!-- contenedor-->
 <div class="container-fluid">
     <div class="row" id="color">
-        <div class="col-md-4">
+        <div class="col-xl-4">
             <img class="mx-auto d-block" src="https://i.ibb.co/5h5mBC2/nino-chico-llevando-dibujos-animados-libro-33070-1881-removebg-preview-1.png" width="400">
         </div>
-        <div class="col-md-8">
+        <div class="col-xl-8">
             <h3><br>Español</h3>
 
             <p style="text-align: center">
@@ -139,7 +128,7 @@
     <div class="container-fluid pb-5" style="background: #bce0ee">
         <div class="row">
 
-            <div class="col-xl-12 mt-5">
+            <div class="col-xl-12 mt-4">
                 <a href=" {{ url('/cuento') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/tMXgL6r/Fondocampa-removebg-preview-1.png" class="rounded-circle mx-auto d-block bg-info" width="150"/><h3>Cuentos</h3>
             </a>
@@ -147,7 +136,7 @@
         </div>
 
         <div class="row ">
-            <div class="col-xl-4 mt-5">
+            <div class="col-xl-4 mt-4">
                 <a href=" {{ url('/Chistes') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/hfNtqSh/pngtree-laughing-child-sitting-on-the-stone-bench-image-1374223-removebg-preview.png" class="rounded-circle mx-auto d-block  bg-info " width="150" /><h3>Chistes</h3>
                 </a>
@@ -155,35 +144,35 @@
             <div class="col-xl-4">
 
             </div>
-            <div class="col-md-4 mt-5">
+            <div class="col-xl-4 mt-4">
                 <a href=" {{ url('/Rondas') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/z7NXMQX/31436891-Los-ni-os-tomados-de-la-mano-Foto-de-archivo-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150" href="http://learningkidscodigo.test/Rondas"/><h3>Rondas</h3>
                 </a>
             </div>
         </div>
         <div class="row">
-            <div class="col-xl-4 mt-5">
+            <div class="col-xl-4 mt-4">
                 <a href=" {{ url('/Adivinanzas') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/S09m0JM/10c5bb1e1c8a3da7ae25d3184fa841d7-removebg-preview.png" class="rounded-circle mx-auto d-block  bg-info" width="150" /><h3>Adivinanzas</h3>
                 </a>
             </div>
             <!-- imagen del centro de todos los botones-->
-            <div class="col-xl-4 mt-5">
+            <div class="col-xl-4 mt-2">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/k9FxZTk/ninos-dibujos-animados-leyendo-libro-29190-1823-removebg-preview.png " class=" mx-auto d-block" width="450" />
             </div>
-            <div class="col-xl-4 mt-5">
+            <div class="col-xl-4 mt-4">
                  <a href=" {{ url('/Bombas') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/px8MQB5/images-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150"/><h3>Bombas</h3>
                 </a>
             </div>
         </div>
         <div class="row">
-            <div class="col-xl-6 mt-5">
+            <div class="col-xl-6 mt-4">
                 <a href=" {{ url('/refranes') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/Pc35C0R/3ff9640b218444e507fefa887cc6843a-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info" width="150"/><h3>Refranes</h3>
                 </a>
             </div>
-            <div class="col-xl-6 mt-5">
+            <div class="col-xl-6 mt-4">
                 <a href=" {{ url('/trabalenguas') }}">
                 <img alt="Bootstrap Image Preview" src="https://i.ibb.co/Fz74vcj/d27af2109d6725ca8b9a1417772b16aa-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info " width="150"><h3>Trabalenguas</h3>
                 </a>

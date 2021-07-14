@@ -96,8 +96,8 @@
 <!-- iamgen -->
 <div class="container-fluid" id="clr">
     <div class="row">
-        <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
-            <img src="https://i.ibb.co/vB0Z4vy/cx-removebg-preview.png"  width="600"  class=" mx-auto d-block"/>
+        <div class="col-xl-12" style="background: #D8E2F3" id="fondo" >
+            <img src="https://i.ibb.co/vB0Z4vy/cx-removebg-preview.png"  width="400"  class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -107,13 +107,13 @@
 
 <div class="container-fluid" style="background: aquamarine">
     <div class="row">
-        <div class="col-md-4">
+        <div class="col-xl-4">
 
             <br>
             <img src="https://i.ibb.co/JtrPsnW/24b5560ad1536680ad12973aa1bc3fe7-removebg-preview-1.png" alt="24b5560ad1536680ad12973aa1bc3fe7-removebg-preview-1" height="250" class="mx-auto d-block "/>
 
         </div>
-        <div class="col-md-8">
+        <div class="col-xl-8">
             <h2 class="text-center" id="cuento">
                 <br>
                 ¿Qué son los Cuentos?
@@ -152,7 +152,7 @@
 
 <!-- titulo -->
 <div class="row" style="background: #bce0ee">
-    <div class="col-md-12">
+    <div class="col-xl-12">
         <h3 align="center " >
 
             <br>Tipos de Cuentos <br>
