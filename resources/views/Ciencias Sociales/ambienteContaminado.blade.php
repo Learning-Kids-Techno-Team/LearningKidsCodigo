@@ -108,7 +108,7 @@
                     </em></strong></h2>
         </div>
         <div class="col-xl-5">
-            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/ZSYk69d/cote.jpg"  width="500" height="440"/>
+            <img id="bor" class="mx-auto d-block" src="https://i.ibb.co/ZSYk69d/cote.jpg"  width="400" height="440"/>
         </div>
     </div>
 </div>
@@ -159,7 +159,7 @@
 
 
 <!-- contenedor de imag-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>¡Contaminantes de nuestro ambiente!</em></h2>
+<div class="container-fluid " id="color"><h2><em><br>¡Contaminantes de nuestro ambiente!</em></h2>
     <div class="card">
         <div class="row m-5" >
             <div class="col-md-4">
