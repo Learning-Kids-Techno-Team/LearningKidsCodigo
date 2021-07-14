@@ -33,8 +33,8 @@
 <style>
 
     .card{
-        border-bottom-left-radius: 50%;
-    ;
+        border-bottom-left-radius: 45%;
+
     }
 
 
@@ -50,7 +50,7 @@
     }
 
     .navbar{
-        background: #FF7E5A;
+        background:  #FF7E5A;
     }
     #separadorDePagina{
         background: #d5f5fa;
@@ -84,8 +84,9 @@
 <!-- iamgen -->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12" style="background: #f8cfc6" id="fondo" >
-            <img src="https://i.ibb.co/zS3dKTN/long1-removebg-preview.png"   height="400" width="650" class=" mx-auto d-block"/>
+        <div class="col-xl-12 p-2" style="background: #f8cfc6" id="fondo" >
+            <img src="https://i.ibb.co/zS3dKTN/long1-removebg-preview.png"   height="300"
+                class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -94,17 +95,23 @@
 <!-- descrpcion -->
 <div id="separadorDePagina" class="container-fluid" >
     <div class="row">
-        <div class="col-md-4 mt-5">
-            <img src="https://i.ibb.co/Fw4jCJ5/longuitud-removebg-preview.png"  width="500" class="mx-auto d-block "/>
+        <div class="col-xl-4 ">
+            <br>
+            <img src="https://i.ibb.co/Fw4jCJ5/longuitud-removebg-preview.png"
+                 width="300" class="mx-auto d-block "/>
         </div>
-        <div class="col-md-8">
-            <h2 class="text-center" id="cuento">
-                ¿Que es la longitud?
+        <div class="col-xl-8 p-2">
+            <h2 class="text-center" >
+                ¿Qué es la longitud?
             </h2>
-            <p >
-                <strong><em>
-                        La longitud es un concepto métrico definible para entidades geométricas sobre las que se ha definido una distancia. <br>Más concretamente, dado un segmento, curva o línea fina, se puede definir su longitud a partir de la noción de distancia. <br>Determina la distancia que hay entre dos puntos, o dicho de otra manera, longitud es la cantidad de espacio que hay entre dos puntos. Por ejemplo, la distancia que hay entre mi casa y el colegio, o la distancia de un extremo de la mesa al otro. <br>La unidad principal para medir la longitud es el metro.
-                    </em></strong> </p>
+            <p class="text-justify">
+                <strong>
+                        La longitud es un concepto métrico definible para entidades geométricas sobre
+                    las que se ha definido una distancia. <br>Más concretamente,
+                    dado un segmento, curva o línea fina, se puede definir su longitud
+                    a partir de la noción de distancia. <br>Determina la distancia que hay entre dos puntos,
+                    o dicho de otra manera, longitud es la cantidad de espacio que hay entre dos puntos. Por ejemplo, la distancia que hay entre mi casa y el colegio, o la distancia de un extremo de la mesa al otro. <br>La unidad principal para medir la longitud es el metro.
+                    </strong> </p>
         </div>
     </div>
 </div>
@@ -112,28 +119,36 @@
 
 
 <!-- tarjetas de tipos de figuras geometricas -->
-<div class="container-fluid pb-5 " style="background: #f8cfc6 ">
+<div class="container-fluid  " style="background: #f8cfc6 ">
     <div class="row">
-        <div class="col-md-12 pb-3">
+        <div class="col-xl-12 p-2">
             <h3>La longitud</h3>
         </div>
     </div>
-    <div class="row mx-auto">
-        <div class="col-md-6  ">
+    <div class="row ">
+        <div class="col-xl-6 p-2  ">
             <div class="card mx-auto d-block" style="width: 18rem; background: #d5f5fa">
-                <img src="https://i.ibb.co/dkV8L43/largo-corto.jpg"  width="285" style="border-bottom-left-radius: 30% ">
+                <img src="https://i.ibb.co/dkV8L43/largo-corto.jpg"  width="285"
+                     s>
                 <div class="card-body">
                     <h5 class="card-title" style="text-align: center">Unidades de Longitud</h5>
-                    <a href=" {{ url('/unidadLongitud') }}" style=" background: #FF7800" href="" class="btn btn-primary">Leer</a>
+                    <div class="text-center">
+                    <a href=" {{ url('/unidadLongitud') }}" style=" background:  #FF7E5A"
+                       href="" class="btn btn-primary">Leer</a>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="col-md-6 ">
+        <div class="col-xl-6 p-2 ">
             <div class="card mx-auto d-block" style="width: 18rem; background: #d5f5fa">
-                <img src="https://i.ibb.co/g6JY8p6/medidas.jpg"  width="285"  alt="..." style="border-bottom-left-radius: 5% ">
+                <img src="https://i.ibb.co/g6JY8p6/medidas.jpg"  width="285"
+                    >
                 <div class="card-body">
                     <h5 class="card-title" style="text-align: center">Medir con las partes del cuerpo</h5>
-                    <a href=" {{ url('/unidadCorporal') }}" style=" background: #FF7800" class="btn btn-primary">Leer</a>
+                    <div class="text-center">
+                    <a href=" {{ url('/unidadCorporal') }}" style=" background:  #FF7E5A"
+                       class="btn btn-primary ">Leer</a>
+                    </div>
                 </div>
             </div>
         </div>

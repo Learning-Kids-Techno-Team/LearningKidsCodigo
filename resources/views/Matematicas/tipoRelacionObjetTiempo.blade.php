@@ -48,7 +48,7 @@
 
         #separadorInferior .content{
 
-            width: 110%;
+            width: 100%;
             height: 100px;
             margin-left: -5px;
             background: #FF7E5A;
@@ -70,11 +70,6 @@
         }
 
 
-        #color{
-            color: darkblue;
-
-        }
-
     </style>
 </head>
 <body>
@@ -82,19 +77,20 @@
 @section('content')
 
 <!-- contenedor Concepto-->
-<div class="container-fluid" id="h">
+<div class="container-fluid" >
     <div class="row ">
-        <div class="col-md-4 ">
-            <img class="mx-auto d-block" src="https://i.ibb.co/gz1sCPM/gu-removebg-preview.png" width="350" />
+        <div class="col-xl-4 p-2">
+            <img class="mx-auto d-block" src="https://i.ibb.co/gz1sCPM/gu-removebg-preview.png"
+                 width="350" />
 
         </div>
-        <div class="col-md-8">
-            <h2 id="color"><em><br>¡RELACIÓN DE OBJETOS!</em></h2>
-            <h3 id="color"><em><br>Reconozco el tiempo.</em></h3>
-            <p id="color"><em><strong>
+        <div class="col-xl-8 p-2">
+            <h2 class="text-center"> <br>¡RELACIÓN DE OBJETOS!</h2>
+            <h3 class="text-center">Reconozco el tiempo.</h3>
+            <p class="text-justify"><strong>
                         El tiempo se vincula a un período determinado durante el que se
                         realiza una acción o se desarrolla un acontecimiento.
-                    </strong></em></p>
+                    </strong></p>
         </div>
     </div>
 </div>
@@ -102,31 +98,35 @@
 <!-- contenedores de el sol y luna-->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-6">
-            <img class="mx-auto d-block" src="https://i.ibb.co/hmGQWp5/ded.png" width="400"/>
+        <div class="col-xl-6 p-2">
+            <img class="mx-auto d-block" src="https://i.ibb.co/hmGQWp5/ded.png" width="200"/>
         </div>
-        <div class="col-md-6">
-            <img class="mx-auto d-block" src="https://i.ibb.co/TLWBKjp/noch.png" width="450"/>
+        <div class="col-xl-6 p-2">
+            <img class="mx-auto d-block" src="https://i.ibb.co/TLWBKjp/noch.png" width="280"/>
         </div>
     </div>
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  center-block pl-5" id="color">
-    <div class="row m-5" >
-        <div class="col-md-6">
-            <h2 id="color"><em><br>¡Observo y analizo!</em></h2>
-            <div class="card" style="width: 28rem;">
-                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/kmJsKCR/gictor.jpg" width="438" height="300">
+<div class="container-fluid">
+    <div class="row " >
+        <div class="col-xl-6 p-2">
+            <h2 class="text-center"><br>¡Observo y analizo!</h2>
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <br>
+                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/kmJsKCR/gictor.jpg"
+                     width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Día!</h5>
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
-            <h2 id="color"><em><br>¡Tiempo!</em></h2>
-            <div class="card" style="width: 28rem;">
-                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/R0xPzDT/feliz.jpg"  width="438" height="300">
+        <div class="col-xl-6 p-2">
+            <h2 class="text-center"><br>¡Tiempo!</h2>
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <br>
+                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/R0xPzDT/feliz.jpg"
+                     width="200">
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Noche!</h5>
                 </div>
@@ -135,72 +135,87 @@
     </div>
 </div>
 <!-- contenedor video-->
-<div class="container-fluid" id="color"><h2 align="center"><em><br>¡Veamos juntos lo que hacemos en el día y la noche!</em></h2>
+<div class="container-fluid" ><h2 align="center"><br>¡Veamos juntos lo que hacemos en el día y la noche!</h2>
     <div class="row">
-        <div class="col-md-12">
-            <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1B9A4Rhj97fkbaLbP9QnpMOp2vn3oHLf-/preview" width="650" height="400"></iframe>
+        <div class="col-xl-12 p-2">
+            <iframe id="tar2" class="mx-auto d-block"
+                    src="https://drive.google.com/file/d/1B9A4Rhj97fkbaLbP9QnpMOp2vn3oHLf-/preview"
+                    width="350" ></iframe>
             <h5 align="center"></h5>
         </div>
     </div>
 </div>
 
 <!-- contenedor-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>¡Actividades del día!</em></h2>
-    <div  class="card">
-        <div class="row m-5" >
-            <div  class="col-md-3">
-                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/mNCKKB7/scol.jpg"  width="250" />
+<div class="container-fluid " ><h2 class="text-center"><br>¡Actividades del día!</h2>
+    <div  class="card mx-auto d-block">
+        <div class="row " >
+            <div  class="col-xl-4 p-2">
+                <br>
+                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/mNCKKB7/scol.jpg"
+                     width="250" />
                 <h5 class="card-title" align="center">Vamos a la escuela</h5>
             </div>
-            <div class="col-md-3">
-                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/J7dMmpv/vector9.jpg" width="250"/>
+            <div class="col-xl-4 p-2">
+                <br>
+                <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/J7dMmpv/vector9.jpg"
+                     width="250"/>
                 <h5 class="card-title" align="center">Recibimos clases</h5>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-4 p-2">
+                <br>
                 <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/XC4fsYR/comer.jpg" width="250"/>
                 <h5 class="card-title" align="center">Comemos</h5>
             </div>
-            <div class="col-md-3">
-            <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/pwT4Tkp/po.jpg" width="275" height="250" />
-            <h5 class="card-title" align="center">Jugamos</h5>
-        </div>
+
         </div>
 
     </div>
 </div>
 
 <!-- contenedor objet-->
-<div class="container-fluid  center-block pl-5" id="color"><h2><em><br>¡Otras Actividades!</em></h2>
-    <div class="row m-5">
-        <div class="col-md-3">
-            <img class="mx-auto d-block" src="https://i.ibb.co/09x3v35/chic-removebg-preview.png" width="250" height="210">
+<div class="container-fluid"><h2 class="text-center"><br>¡Otras Actividades!</h2>
+    <div class="row ">
+        <div class="col-xl-3 p-2">
+            <br><br>
+            <img class="mx-auto d-block" src="https://i.ibb.co/09x3v35/chic-removebg-preview.png" width="200"
+               >
             <h5 class="card-title" align="center" >Desayunar</h5>
         </div>
-        <div class="col-md-3">
-            <img class="mx-auto d-block" src="https://i.ibb.co/ZmTFcDP/ooo-removebg-preview.png" width="250" height="210">
+        <div class="col-xl-3 p-2">
+            <img class="mx-auto d-block" src="https://i.ibb.co/ZmTFcDP/ooo-removebg-preview.png" width="250"
+                 >
             <h5 class="card-title" align="center">Vestirte</h5>
         </div>
-        <div class="col-md-3">
-            <img class="mx-auto d-block" src="https://i.ibb.co/X5YzQ5P/jhgc-removebg-preview.png" width="250" height="210">
+        <div class="col-xl-3 p-2">
+
+            <img class="mx-auto d-block" src="https://i.ibb.co/X5YzQ5P/jhgc-removebg-preview.png"
+                 width="270" >
             <h5 class="card-title" align="center">Regar las plantas</h5>
         </div>
-        <div class="col-md-3">
-            <img class="mx-auto d-block" src="https://i.ibb.co/qkLMVMg/di66-removebg-preview.png" width="250" height="210">
+        <div class="col-xl-3 p-2">
+            <br>
+            <img class="mx-auto d-block" src="https://i.ibb.co/qkLMVMg/di66-removebg-preview.png" width="250"
+               >
             <h5 class="card-title" align="center">Compartir con mis amiguitos</h5>
         </div>
     </div>
 </div>
 
 <!-- contenedor de calendario-->
-<div class="container-fluid  center-block pl-5"><h2 id="color"><em><br>¡Calendario!</em></h2>
-    <div class="card">
-        <div class="row m-5" >
-            <div class="col-md-6">
-                <img id="tar2" class="mx-auto d-block" src="https://i.ibb.co/vwBpLP6/oid.jpg" width="650"/>
+<div class="container-fluid ">
+    <h2 class="mx-auto d-block text-center"><br>¡Calendario!</h2>
+    <div class="card mx-auto d-block">
+        <div class="row " >
+            <div class="col-xl-6 p-2">
+                <br><br>
+                <img id="tar2" class="mx-auto d-block" src="https://i.ibb.co/vwBpLP6/oid.jpg" width="300"/>
                 <h5 class="card-title" align="center"></h5>
             </div>
-            <div class="col-md-6">
-                <img class="mx-auto d-block" src="https://i.ibb.co/hXySzsP/sst-removebg-preview.png" width="350"/>
+            <div class="col-xl-6 p-2">
+                <br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/hXySzsP/sst-removebg-preview.png"
+                     width="250"/>
                 <h5 id="color" class="card-title" align="center">SEMANA, MES Y AÑO</h5><br><br>
             </div>
         </div>
@@ -208,10 +223,11 @@
 </div>
 
 <!-- contenedor video calendario-->
-<div class="container-fluid" id="color"><h2 align="center"><em><br>¡Cantemos juntos y aprendamos el calendario!</em></h2>
+<div class="container-fluid" ><h2 align="center"><br>¡Cantemos juntos y aprendamos el calendario!</h2>
     <div class="row">
-        <div class="col-md-12">
-            <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1U4eAkx77iCq_UOy6-StJp_JV_Rii7CTn/preview" width="650" height="400"></iframe>
+        <div class="col-xl-12 p-2">
+            <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1U4eAkx77iCq_UOy6-StJp_JV_Rii7CTn/preview"
+                    width="300" ></iframe>
             <h5 align="center"></h5>
         </div>
     </div>

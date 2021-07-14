@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Figuras Geometricas</title>
+    <title>Figuras Geométricas</title>
     <meta name="description" content="Source code generated using layoutit.com">
     <meta name="author" content="LayoutIt!">
 
@@ -84,8 +84,9 @@
 <!-- iamgen -->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12" style="background: #f8cfc6" id="fondo" >
-            <img   src="https://i.ibb.co/Ytwf03F/doodle-lineas-diferentes-estilos-1639-125-removebg-preview.png"   width="550" class=" mx-auto d-block"/>
+        <div class="col-xl-12 p-2" style="background: #f8cfc6" id="fondo" >
+            <img   src="https://i.ibb.co/Ytwf03F/doodle-lineas-diferentes-estilos-1639-125-removebg-preview.png"
+                   width="300" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -94,12 +95,14 @@
 <!-- descrpcion -->
 <div id="separadorDePagina" class="container-fluid" >
     <div class="row">
-        <div class="col-md-4 mt-3">
-            <img  src="https://i.ibb.co/F0Ct1wn/37538359-muchacho-de-la-historieta-con-un-l-piz-removebg-preview.png" width="250" class="mx-auto d-block "/>
+        <div class="col-xl-4 p-2">
+            <br>
+            <img  src="https://i.ibb.co/F0Ct1wn/37538359-muchacho-de-la-historieta-con-un-l-piz-removebg-preview.png"
+                  width="200" class="mx-auto d-block "/>
         </div>
-        <div class="col-md-8">
+        <div class="col-xl-8 p-2">
             <h2 class="text-center" id="cuento">
-                ¿Qué son las líneas?
+                ¿Qué son las lineas?
             </h2>
             <p >
                 <strong><em>
@@ -113,40 +116,46 @@
 
 
 <!-- tarjetas de tipos de figuras geometricas -->
-<div class="container-fluid pb-5" style="background: #f8cfc6 ">
+<div class="container-fluid " style="background: #f8cfc6 ">
     <div class="row ">
-        <div class="col-md-12 pb-3 ">
+        <div class="col-xl-12 p-2 ">
             <h3>Las Lineas</h3>
         </div>
     </div>
     <div class="row">
-        <div class="col-md-4 d-flex justify-content-center">
-            <div class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/v3XvfPM/chgvhg.jpg" width="283" >
+        <div class="col-xl-4 p-2">
+            <div class="card mx-auto d-block" style="width: 18rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/v3XvfPM/chgvhg.jpg" width="283" >
                 <div class="card-body">
-                    <h5 class="card-title">Lineas Rectas</h5>
-                    <a style=" background: #FF7800" href=" {{ url('/rectas') }}" class="btn btn-primary">Leer</a>
+                    <h5 class="text-center">Lineas Rectas</h5>
+                    <div class="text-center">
+                    <a style=" background: #FF7E5A" href=" {{ url('/rectas') }}" class="btn btn-primary">Leer</a>
+                    </div>
+                    </div>
+            </div>
+        </div>
+        <div class="col-xl-4 p-2 ">
+            <div class="card mx-auto d-block" style="width: 18rem;">
+                <img src="https://i.ibb.co/DCgjPkt/imagddde.jpg" width="280" class="mx-auto d-block">
+                <div class="card-body">
+                    <h5 class="text-center">Lineas Curvas</h5>
+                    <div class="text-center">
+                    <a href=" {{ url('/curvas') }}" style=" background: #FF7E5A" class="btn btn-primary">Leer</a>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="col-md-4 d-flex justify-content-center">
-            <div class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/DCgjPkt/imagddde.jpg" width="280" alt="...">
-                <div class="card-body">
-                    <h5 class="card-title">Lineas Curvas</h5>
-                    <a href=" {{ url('/curvas') }}" style=" background: #FF7800" class="btn btn-primary">Leer</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4 d-flex justify-content-center">
-            <div class="card" style="width: 18rem;">
-                <img src="https://i.ibb.co/z7Gsw75/hgvgx.jpg"    class="card-img-top" alt="...">
+        <div class="col-xl-4 p-2">
+            <div class="card mx-auto d-block" style="width: 18rem;">
+                <br>
+                <img src="https://i.ibb.co/z7Gsw75/hgvgx.jpg"    class="mx-auto d-block" width="215">
                 <div class="card-body">
 
-                    <h5 class="card-title">Lineas Poligonales</h5>
-
-                    <a href=" {{ url('/poligonales') }}" style=" background: #FF7800" class="btn btn-primary">Leer</a>
-                </div>
+                    <h5 class="text-center">Lineas Poligonales</h5>
+<div class="text-center">
+                    <a href=" {{ url('/poligonales') }}" style=" background: #FF7E5A" class="btn btn-primary">Leer</a>
+</div>
+</div>
             </div>
         </div>
     </div>

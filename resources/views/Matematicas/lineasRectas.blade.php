@@ -85,19 +85,13 @@
 <!-- iamgen -->
 <div class="container-fluid">
     <div class="row" id="fondo">
-        <div class="col-md-12" style="background: #D8E2F3" id="fondo" >
-            <img src="https://i.ibb.co/8sx4w39/rectas-removebg-preview.png" alt="rectas-removebg-preview"  class=" mx-auto d-block"/>
+        <div class="col-xl-12 p-2" style="background: #D8E2F3" id="fondo" >
+            <img src="https://i.ibb.co/8sx4w39/rectas-removebg-preview.png" width="300"
+                  class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
-<!-- separador -->
-<div class="container-fluid">
-    <div id="separadorInferior2">
-        <div class="content ">
 
-        </div>
-    </div>
-</div>
 <!-- titulo de las categorias-->
 <div style="color: #D8E2F3;">
     <h1>Lineas rectas  paralelas</h1>
@@ -107,9 +101,12 @@
 <div class="container-fluid">
     <div class="row"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-md-6 p-3" >
+        <div class="col-xl-6 p-3" >
             <div class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/DL2c4D1/horizontal-line-removebg-preview.png" alt="horizontal-line-removebg-preview" class="card mx-auto d-block"   height="150" width="200">
+                <br>
+                <img src="https://i.ibb.co/DL2c4D1/horizontal-line-removebg-preview.png"
+                    class="card mx-auto d-block"
+                      width="200">
                 <div class="card-body">
                     <h1>Horizontal:</h1>
                     <h5 class="card-title" align="center">Es aquella cuya trayectoria representa el sentido del horizonte tal cual lo percibimos. Se desplaza de derecha a izquierda y viceversa, <br>siendo además perpendicular (en ángulo de 90º) a la línea vertical.
@@ -121,12 +118,14 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-md-6 p-3">
+        <div class="col-xl-6 p-3">
             <div class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/cQPRP8y/vertical-line-removebg-preview.png" alt="vertical-line-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
+                <br>
+                <img src="https://i.ibb.co/cQPRP8y/vertical-line-removebg-preview.png"
+                     class="card mx-auto d-block"    width="200">
                 <div class="card-body">
                     <h1> Vertical:</h1>
-                    <h5 class="card-title" align="center">es perpendicular a la horizontal que es a su vez paralela al horizonte terrestre. Simplemente una vertical es de arriba abajo <br>o a la inversa y horizontal es de derecha a izquierda o a la inversa.
+                    <h5 class="card-title" align="center">Es perpendicular a la horizontal que es a su vez paralela al horizonte terrestre. Simplemente una vertical es de arriba abajo <br>o a la inversa y horizontal es de derecha a izquierda o a la inversa.
                         <br>
                     </h5>
                 </div>
@@ -147,6 +146,7 @@
             <div class="row" style="background: #FFCDA0">
                 <div class="col-md-6 pb-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
+                        <br>
                         <img src="https://i.ibb.co/C2VjpCX/perpendicular1-removebg-preview.png" alt="perpendicular1-removebg-preview" class="card mx-auto d-block"  height="150" width="200">
                         <div class="card-body">
                             <h2>Perpendicular:</h2>
@@ -159,6 +159,7 @@
                 <!-- tarjeta4 -->
                 <div class="col-md-6 pb-3">
                     <div class="card mx-auto d-block" style="width: 18rem;">
+                        <br>
                         <img src="https://i.ibb.co/6m0Q24B/Perpendiculares-removebg-preview.png" alt="Perpendiculares-removebg-preview"   class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">
                             <h2>Perpendicular:</h2>
@@ -171,15 +172,16 @@
                 <!-- tarjeta5 -->
                 <div  class="container-fluid">
                     <div class="row">
-                        <div class="col-md-12 bg-info mb-5">
+                        <div class="col-xl-12 bg-info p-2">
                             <h1 style="text-align: center">Líneas rectas Secantes: </h1>
                         </div>
                     </div>
                 </div>
                 <div  class="container-fluid">
                     <div class="row" style="background: #FFCDA0">
-                        <div class="col-md-6 pb-3">
+                        <div class="col-xl-6 p-3">
                             <div class="card mx-auto d-block" style="width: 18rem;">
+                                <br>
                                 <img src="https://i.ibb.co/VqBFMH8/secante2-removebg-preview.png" alt="secante2-removebg-preview" class="card mx-auto d-block"  height="150" width="200">
                                 <div class="card-body">
                                     <h1>Secante:</h1>
@@ -190,8 +192,9 @@
                             </div>
                         </div>
                         <!-- tarjeta6 -->
-                        <div class="col-md-6 pb-3">
+                        <div class="col-xl-6 p-3">
                             <div class="card mx-auto d-block" style="width: 18rem;">
+                                <br>
                                 <img src="https://i.ibb.co/DrLnSs3/secante1-removebg-preview.png" alt="secante1-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                                 <div class="card-body">
                                     <h1>Secante:</h1>
@@ -206,6 +209,7 @@
             </div>
         </div>
     </div>
+    <br>
     <!-- separador -->
     <div id="separadorInferior2">
         <div class="content ">

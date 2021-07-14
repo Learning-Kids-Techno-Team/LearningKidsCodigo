@@ -42,15 +42,6 @@
         }
 
 
-  #banderin{
-
-      background: url( "https://i.ibb.co/zRMkYXd/contando-removebg-preview.png"  );
-      margin-top: auto;
-
-
-      height: 233px;
-
-  }
   #separadorInferior2 .content{
 
       width: 100%;
@@ -79,7 +70,7 @@
 <!-- carrousel-->
 <div class="row">
     <!-- contenedor-->
-    <div class="col-md-12">
+    <div class="col-xl-12 p-2">
         <div class="carousel slide" id="carousel-896190">
             <ol class="carousel-indicators">
                 <li data-slide-to="0" data-target="#carousel-896190" class="active">
@@ -91,25 +82,28 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100"   src="https://i.ibb.co/khGYmKG/gusano1.jpg" height="500" >
+                    <img class="d-block w-100"   src="https://i.ibb.co/khGYmKG/gusano1.jpg" height="400" >
                     <div class="carousel-caption">
 
                     </div>
                 </div>
                 <div class="carousel-item ">
-                    <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://i.ibb.co/C1bQcTG/unnamed.png" height="500"  >
+                    <img class="d-block w-100"  src="https://i.ibb.co/C1bQcTG/unnamed.png" height="400"  >
                     <div class="carousel-caption">
 
 
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" alt="Carousel Bootstrap Third"  src="https://i.ibb.co/WtDPKf2/kids.jpg" height="500">
+                    <img class="d-block w-100"  src="https://i.ibb.co/WtDPKf2/kids.jpg" height="400">
                     <div class="carousel-caption">
 
                     </div>
                 </div>
-            </div> <a class="carousel-control-prev" href="#carousel-896190" data-slide="prev"><span class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span></a> <a class="carousel-control-next" href="#carousel-896190" data-slide="next"><span class="carousel-control-next-icon"></span> <span class="sr-only">Next</span></a>
+            </div> <a class="carousel-control-prev" href="#carousel-896190" data-slide="prev"><span
+                    class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span></a>
+            <a class="carousel-control-next" href="#carousel-896190" data-slide="next"><span
+                    class="carousel-control-next-icon"></span> <span class="sr-only">Next</span></a>
         </div>
     </div>
 </div>
@@ -121,7 +115,7 @@
         <div class="col-md-4">
             <img class="mx-auto d-block"  src="https://i.ibb.co/pWct8ST/dos-removebg-preview.png"  width="350">
         </div>
-        <div class="col-md-8 ">
+        <div class="col-xl-8 p-2">
             <h3>Matemáticas</h3>
             <p><strong>
 
@@ -147,8 +141,8 @@
         <h1>Jugando con las Matemáticas</h1>
     </div>
     <div class="container-fluid" style="background: moccasin">
-        <div class="row  pb-5">
-            <div class="col-md-12">
+        <div class="row ">
+            <div class="col-xl-12 p-2">
                 <a href=" {{ url('/figura') }}">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/s2k0frX/Iconos-removebg-preview.png" class="rounded-circle mx-auto d-block bg-info color2" width="150"><h3>Figuras Geométrica</h3>
                 </a>
@@ -156,13 +150,13 @@
         </div>
     </div>
     <div class="container-fluid" style=" background: moccasin">
-        <div class="row pb-5">
-            <div class="col-md-6">
+        <div class="row ">
+            <div class="col-xl-6 p-2">
                 <a href=" {{ url('/numerosNaturales') }}">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/bdRWHpK/numero-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Números Naturales</h3>
                 </a>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6 p-2">
                 <a href=" {{ url('/NumerosOrdinales') }}">
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/k59g6vt/grado-removebg-preview.png"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Números Ordinales</h3>
                 </a>
@@ -171,34 +165,38 @@
     </div>
     <div class="container-fluid"style="background: moccasin">
         <div class="row">
-            <div class="col-md-4 pb-5">
+            <div class="col-xl-4 p-2">
                 <a href=" {{ url('/restas') }}">
-                <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/YbJVtYV/resta-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Restas</h3>
+                <img alt="Vista previa de la imagen de Bootstrap"
+                     src="https://i.ibb.co/YbJVtYV/resta-removebg-preview.png"
+                     class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Restas</h3>
                 </a>
             </div>
-            <div class="col-md-4">
-                <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/F38tjLG/dibujos4-removebg-preview.png"   class="mx-auto d-block" width="450" >
+            <div class="col-xl-4 p-2">
+                <img alt="Vista previa de la imagen de Bootstrap"
+                     src="https://i.ibb.co/F38tjLG/dibujos4-removebg-preview.png"
+                     class="mx-auto d-block" width="400" >
             </div>
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <a href=" {{ url('/sumas') }}">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://arbolabc.nyc3.cdn.digitaloceanspaces.com/New-Math-Area-Icons/Juegos_de_sumas.jpg"  class="rounded-circle mx-auto d-block bg-info"width="150"> <h3>Sumas</h3>
                 </a>
         </div>
     </div>
     <div class="container-fluid" style="background: moccasin">
-        <div class="row pb-5">
-            <div class="col-md-3">
+        <div class="row ">
+            <div class="col-xl-3 p-2">
                 <a href=" {{ url('/relacionObjetos') }}">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/Gsn8yNC/relacion-removebg-preview.png"   class="rounded-circle  mx-auto d-block bg-info" width="150"><h3>Relación Objetos</h3>
                 </a>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
 
             </div>
-            <div class="col-md-3 pb-5">
+            <div class="col-xl-3 p-2">
 
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
                 <a href=" {{ url('/lineas') }}">
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/0BkzSGt/coleccion-removebg-preview.png"  class="rounded-circle  mx-auto d-block  bg-info" width="150"><h3>Las líneas</h3>
                 </a>
@@ -207,14 +205,14 @@
     </div>
     <div class="container-fluid" style="background: moccasin">
         <div class="row ">
-            <div class="col-md-4  ">
+            <div class="col-xl-4 p-2 ">
                 <a href=" {{ url('/simbolos') }}">
                 <img alt="Vista previa de la imagen de Bootstrap" src="https://i.ibb.co/zG6gz8B/sfn-removebg-preview.png"   class="rounded-circle mx-auto d-block bg-info"width="150"><h3>Menor que <br>y <br> mayor que </h3>
                 </a>
             </div>
-            <div class="col-md-4 pb-5">
+            <div class="col-xl-4 p-2">
             </div>
-            <div class="col-md-4" align="right">
+            <div class="col-xl-4 p-2" align="right">
                 <a href=" {{ url('/moneda') }}">
                 <img alt="Vista previa de la imagen de Bootstrap"  src="https://i.ibb.co/MngXsLY/coins-removebg-preview.png"     class="rounded-circle mx-auto d-block bg-info"width="150"><h3>La moneda</h3>
                 </a>
@@ -224,20 +222,22 @@
 
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-3">
+                <div class="col-xl-3 p-2">
 
                 </div>
-                <div class="col-md-3">
+                <div class="col-xl-3 p-2">
                     <a  href=" {{ url('/longitud') }}">
                     <img alt="Vista previa de la imagen de Bootstrap"   src="https://i.ibb.co/8KYJhD6/metro-removebg-preview.png"  class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Longitud</h3>
                     </a>
                 </div>
-                <div class="col-md-3">
+                <div class="col-xl-3 p-2">
                     <a href=" {{ url('/pantallaA') }}">
-                    <img alt="Vista previa de la imagen de Bootstrap"   src="https://i.ibb.co/KymRv4b/80386333-ilustraci-n-vectorial-de-ni-o-de-la-escuela-con-un-libro-con-l-piz-gigante-removebg-preview.png"    class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Actividades</h3>
+                    <img alt="Vista previa de la imagen de Bootstrap"
+                         src="https://i.ibb.co/KymRv4b/80386333-ilustraci-n-vectorial-de-ni-o-de-la-escuela-con-un-libro-con-l-piz-gigante-removebg-preview.png"
+                         class="rounded-circle mx-auto d-block bg-info" width="150"><h3>Actividades</h3>
                     </a>
                 </div>
-                <div class="col-md-3">
+                <div class="col-xl-3 p-2">
 
                 </div>
             </div>
@@ -246,16 +246,7 @@
 
 
 
-<br>
-    <br>
-    <br>
-    <br>
-    <div class="container-fluid " id="banderin" >
-        <div class="row " >
-            <div class="col-md-12">
 
-            </div>
-        </div>
 
     </div>
     <div id="separadorInferior2">

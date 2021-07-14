@@ -126,25 +126,27 @@
 
 <div class="container-fluid mt-5"  >
     <div class="row">
-        <div class="col-md-12"  >
+        <div class="col-xl-12 p-2"  >
             <div class="row ml-5 mr-5" id="borde">
-                <div class="col-md-4 bg-primary " >
-
-                    <img class="mt-5"  src="https://i.ibb.co/VvRTRg6/Captura-de-pantalla-343-removebg-preview-1.png"   height="290">
+                <div class="col-xl-4 p-2 bg-info " >
+                    <br>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/VvRTRg6/Captura-de-pantalla-343-removebg-preview-1.png"
+                         height="200"
+                    >
                 </div>
-
-                <div class="col-xl-8" style=" background:  #d5f5fa;"  >
-
-                    <h3 class="mt-5" style="text-align: center; color:blue;" >Medidas de longitud antigua </h3>
-                    <p class="" id="pa">
-                        <strong >En la antigüedad no tenían unidades de medida como tenemos hoy día, pero surge
+                <div class="col-xl-8 p-2" style=" background: #d5f5fa;"  >
+                    <br>
+                    <h3 class="text-center" style="text-align: center">Longitud</h3>
+                    <p class="text-justify" >
+                        <br>
+                        <strong>
+                            En la antigüedad no tenían unidades de medida como tenemos hoy día, pero surge
                             la necesidad de comenzar a medir ciertas distancias y cantidades.<br>
                             Surge la necesidad de comenzar a medir las distancias de las presas que iban a cazar.<br>
                             Cuanto necesitaban esperar para poder recoger lo sembrado.<br>
 
                             Más tarde surgen las actividades comerciales y con ello la necesidad de cuantificar los productos
                             que iban a intercambiar. <br>De esta forma comenzaron a utilizar como primeras unidades de medida su propio cuerpo.
-
                         </strong>
                     </p>
                 </div>
@@ -154,25 +156,20 @@
 </div>
 
 
-<div class="container-fluid" id="titulo" >
-    <div class="row pt-5" >
-        <div class="col-md-12">
-            <h1 >Mido con las partes del cuerpo</h1>
-
-        </div>
-    </div>
-</div>
 
 
+<br>
+            <h1 class="text-center">Mido con las partes del cuerpo</h1>
 
 
-<div class="container-fluid justify-content-center  pl-5" >
-    <div class="row m-5 pl-5" >
-        <div class="col-md-6 pb-3 pl-5">
-            <div class="card" style="width: 25rem;">
-                <img   src="https://i.ibb.co/RyGGXQQ/pn1.jpg"   class=" mx-auto d-block" width="385" height="300" >
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img   src="https://i.ibb.co/RyGGXQQ/pn1.jpg"   class=" mx-auto d-block" width="305"
+                       >
                 <div class="card-body">
-                    <h5 class="card-title">Jeme</h5>
+                    <h5 class="text-center">Jeme</h5>
                     <p><strong><br>Medida de longitud equivalente a la distancia que media entre
                             la extremidad del dedo pulgar y la del dedo índice, separando todo lo posible uno del otro.</strong></p>
                 </div>
@@ -180,12 +177,14 @@
         </div>
 
 
-        <div class="col-md-4 justify-content-center pl-5">
-            <div class="card" style="width: 25rem;">
-                <img  src="https://i.ibb.co/6mDHNDf/pulgada.jpg"  width="385" height="300">
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/6mDHNDf/pulgada.jpg"  width="305"
+                    >
                 <div class="card-body">
-                    <h5 class="card-title">Pulgada</h5>
-
+                    <br>
+                    <h5 class="text-center">Pulgada</h5>
+<br>
                     <p><strong> Una pulgada es una medida de longitud.
                             Pulgada equivale a 2.54 cm.
                             Unidad de longitud que en un principio correspondía a la medida promedio de la primera falange del pulgar de un hombre adulto. .</strong></p>
@@ -196,14 +195,16 @@
 
     </div>
 </div>
+<br><br>
 
-<div class="container-fluid justify-content-center  pl-5" >
-    <div class="row m-5 pl-5" >
-        <div class="col-md-6 pb-3 pl-5">
-            <div class="card" style="width: 25rem;">
-                <img src="https://i.ibb.co/8s6qGYz/64.png"  class=" mx-auto d-block" width="380" height="300" >
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img src="https://i.ibb.co/8s6qGYz/64.png"  class=" mx-auto d-block" width="300"
+                      >
                 <div class="card-body">
-                    <h5 class="card-title">Cuarta</h5>
+                    <h5 class="text-center">Cuarta</h5>
                     <p><strong>Medida de longitud que equivale a unos 21 cm, que es aproximadamente
                             la distancia que hay desde el extremo del pulgar de una mano abierta y
                             extendida hasta la yema del dedo.</strong></p>
@@ -212,14 +213,16 @@
         </div>
 
 
-        <div class="col-md-4 justify-content-center pl-5">
-            <div class="card" style="width: 25rem;">
-                <img  src="https://i.ibb.co/fqGpHkG/mano.jpg"   width="384" height="300">
+        <div class="col-xl-6 p-2 ">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block"  src="https://i.ibb.co/fqGpHkG/mano.jpg"   width="300"
+                     >
                 <div class="card-body">
-                    <h5 class="card-title">Mano</h5>
-
+                    <h5 class="text-center">Mano</h5>
+<br>
                     <p><strong> Medida llamada palmus, que es el ancho de la palma de la mano, sin contar el pulgar,
                             que equivale a cuatro digítos, es decir, 7,3925 centímetros.</strong></p>
+                    <br>
                 </div>
             </div>
         </div>
@@ -227,24 +230,27 @@
 
     </div>
 </div>
-<div class="container-fluid justify-content-center  pl-5" >
-    <div class="row m-5 pl-5" >
-        <div class="col-md-6 pb-3 pl-5">
-            <div class="card" style="width: 25rem;">
-                <img src="https://i.ibb.co/k8pfpcg/86.png"   class=" mx-auto d-block" width="380" height="300" >
+<br><br>
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img src="https://i.ibb.co/k8pfpcg/86.png"   class=" mx-auto d-block" width="300" height="200"  >
                 <div class="card-body">
-                    <h5 class="card-title">Brazada</h5>
+                    <br>
+                    <h5 class="text-center">Brazada</h5>
+                    <br>
                     <p><strong>Se llama braza porque equivale a la longitud de un par de brazos extendidos, aproximadamente dos metros, o 6 pies.</strong></p>
                 </div>
             </div>
         </div>
 
 
-        <div class="col-md-4 justify-content-center  pl-5">
-            <div class="card" style="width: 25rem;">
-                <img src="https://i.ibb.co/WgZ9H7Y/v4.jpg"   width="385" height="300">
+        <div class="col-xl-6 p-2 ">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/WgZ9H7Y/v4.jpg"   width="303">
                 <div class="card-body">
-                    <h5 class="card-title">Paso</h5>
+                    <h5 class="text-center">Paso</h5>
 
                     <p><strong>El paso es una medida de intervalo.
                             El paso se cree que era de seis pies o dos varas aunque no se puede asegurar.
@@ -257,14 +263,14 @@
     </div>
 </div>
 
-
-<div class="container-fluid justify-content-center  pl-5" >
-    <div class="row m-5 pl-5" >
-        <div class="col-md-6 pb-3 pl-5">
-            <div class="card" style="width: 25rem;">
-                <img src="https://i.ibb.co/m52wBF2/cd.png"   class=" mx-auto d-block" width="380" height="300" >
+<br><br>
+<div class="container-fluid  " >
+    <div class="row " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img src="https://i.ibb.co/m52wBF2/cd.png" class=" mx-auto d-block" width="300"  >
                 <div class="card-body">
-                    <h5 class="card-title">Pie</h5>
+                    <h5 class="text-center">Pie</h5>
                     <p><strong><br>El pie es una unidad de longitud,<br> basada en el pie humano,<br> ya utilizada por las civilizaciones antiguas.
                         <br> <br></strong></p>
                 </div>
@@ -272,11 +278,11 @@
         </div>
 
 
-        <div class="col-md-4 justify-content-center  pl-5">
-            <div class="card" style="width: 25rem;">
-                <img src="https://i.ibb.co/K7hkw9S/co.jpg"  width="385" height="300">
+        <div class="col-xl-6 p-2 ">
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                <img src="https://i.ibb.co/K7hkw9S/co.jpg"  width="303" height="208" >
                 <div class="card-body">
-                    <h5 class="card-title">Codo</h5>
+                    <h5 class="text-center">Codo</h5>
 
                     <p><strong>El codo fue una unidad de longitud empleada en muchas culturas por su origen antropométrico.
                             En casi todas ellas era la distancia que mediaba entre el codo y el final de la mano abierta o a puño cerrado.

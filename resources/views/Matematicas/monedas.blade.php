@@ -118,7 +118,8 @@
 <div class="container-fluid" id="dif">
     <div class="row" >
         <div class="col-md-12" id="fondo">
-            <img src="https://i.ibb.co/cx08HrZ/ka-removebg-preview.png" class=" mx-auto d-block"/>
+            <img src="https://i.ibb.co/cx08HrZ/ka-removebg-preview.png" class=" mx-auto d-block"
+            width="400"/>
         </div>
     </div>
 </div>
@@ -128,7 +129,9 @@
 <div id="separadorDePagina" class="container-fluid">
     <div class="row">
         <div class="mx-auto d-block">
-            <img src="https://i.ibb.co/pJcjtXf/unnamed-3-removebg-preview.png" width="340" height="250" class="mx-auto d-block"/>
+            <img src="https://i.ibb.co/pJcjtXf/unnamed-3-removebg-preview.png"
+                 width="300"
+                 class="mx-auto d-block"/>
             <h2 class="text-center"><em>
                     ¿Qué es la moneda?
                 </em></h2>
@@ -149,23 +152,31 @@
 
 <!-- contenedor de las tarjetas -->
 <div class="container-fluid " style="background: #FFEECC"><h2 align="center"><em><br>¡Tipos de Moneda!</em></h2>
-    <div class="row m-5" >
-        <div class="col-xl-6">
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img id="im" class="mx-auto d-block" src="https://i.ibb.co/GWbjNL2/monedas-honduras-removebg-preview.png"  width="445" height="250">
+    <div class="row " >
+        <div class="col-xl-6 p-2">
+            <div class="card mx-auto d-block" style="width: 25rem;">
+                <br>
+                <img id="im" class="mx-auto d-block" src="https://i.ibb.co/GWbjNL2/monedas-honduras-removebg-preview.png"
+                     width="300">
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Monedas!</h5>
+                    <div class="text-center">
                     <a href=" {{ url('/monedas') }}" class="btn">Leer</a>
+                    </div>
                 </div>"
             </div>
         </div>
-        <div class="col-xl-6">
+        <div class="col-xl-6 p-2">
             <h2 ><em><br></em></h2>
-            <div class="card mx-auto d-block" style="width: 30rem;">
-                <img id="im" class="mx-auto d-block" src="https://i.ibb.co/HP6hNh0/unnamed-2.jpg"  width="440" height="250">
+            <div class="card mx-auto d-block" style="width: 25rem;">
+                <br>
+                <img id="im" class="mx-auto d-block" src="https://i.ibb.co/HP6hNh0/unnamed-2.jpg"
+                     width="300" >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Billetes!</h5>
+                    <div class="text-center">
                     <a href=" {{ url('/billetes') }}" class="btn">Leer</a>
+                    </div>
                 </div>
             </div>
         </div>

@@ -107,7 +107,7 @@
 <div class="container-fluid" >
     <div class="row " >
         <div class="col-xl-6 p-2">
-            <div class="card mx-auto d-block" style="width: 28rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/M5cMXCJ/ee97-removebg-preview.png"
                      width="200" >
@@ -122,7 +122,7 @@
             </div>
         </div>
         <div class="col-xl-6 p-2">
-            <div class="card mx-auto d-block" style="width: 28rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/5Tk8x4b/i81-removebg-preview.png"
                      width="180" >
@@ -142,7 +142,7 @@
         <div class="col-xl-6 p-2">
             <h2 class="text-center" ><br>¿Cuál es más grande?</h2>
             <br>
-            <div class="card mx-auto d-block" style="width: 28rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/sWhrw3Q/eading-removebg-preview.png"
                      width="200" >
@@ -154,7 +154,7 @@
         <div class="col-xl-6 p-2">
             <h2 class="text-center"><br>¡Repite en voz alta!</h2>
             <br>
-            <div class="card mx-auto d-block" style="width: 28rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/bRz7Xd4/unnamed-removebg-preview-1.png"
                      width="215" >
@@ -171,7 +171,7 @@
         <div class="col-xl-6 p-2">
             <h2 class="text-center"><br>¿Cuál es más pequeño?</h2>
             <br>
-            <div class="card mx-auto d-block" style="width: 28rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/ckbWp1f/hjk-removebg-preview.png"
                      width="300" >
                 <div class="card-body">
@@ -183,7 +183,7 @@
         <div class="col-xl-6 p-2">
             <h2 class="text-center"><br>¡Repite en voz alta!</h2>
             <br>
-            <div class="card mx-auto d-block" style="width: 28rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/fDZGn53/zzz-removebg-preview.png"
                      width="264" >
                 <div class="card-body">
@@ -199,7 +199,7 @@
         <div class="col-xl-6 p-2">
             <h2 class="text-center"><br>¡Tan grande (pequeño) como...!</h2>
             <br>
-            <div class="card mx-auto d-block" style="width: 28rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/FKRWbfR/mjk-removebg-preview.png"
                      width="300" >
                 <div class="card-body">
@@ -210,7 +210,7 @@
         <div class="col-xl-6 p-2">
             <h2  class="text-center"><br>¡Igual que...!></h2>
             <br>
-            <div class="card mx-auto d-block" style="width: 28rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/D7s9qtT/houses-removebg-preview.png"
                      width="210" >
