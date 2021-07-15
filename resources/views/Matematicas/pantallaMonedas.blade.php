@@ -177,7 +177,7 @@
     <div class="row" >
         <div class="col-md-12 ">
 
-            <img class="mx-auto db-block" src="https://i.ibb.co/qCbZLQ9/vector-children-buying-from-a-cashier-removebg-preview.png" width="440" >
+            <img class="mx-auto db-block" src="https://i.ibb.co/qCbZLQ9/vector-children-buying-from-a-cashier-removebg-preview.png" width="400" >
             </div>
         </div>
     </div>
@@ -333,8 +333,8 @@
     </div>
 </div>
 
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div  class="row m-5" >
+<div class="container-fluid " >
+    <div  class="row " >
         <div class="col-xl-4 pb-3">
 
             <!-- tarjeta 1 -->
@@ -376,13 +376,13 @@
 
 
 
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div  class="row m-5" >
+<div class="container-fluid " >
+    <div  class="row" >
         <div class="col-xl-4 pb-3">
 
             <!-- tarjeta 1 -->
             <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/Qj5w2V0/cc.png"  class="card-img-top" alt="...">
+                <img src="https://i.ibb.co/3NS5Wzd/Captura-de-pantalla-413.png"  height="175" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo4"></h6>
                     <button class="btn btn-danger" onclick="resu4()"<br>Resultado</button>

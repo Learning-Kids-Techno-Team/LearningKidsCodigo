@@ -85,7 +85,7 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-xl-12" style="background: #D8E2F3" id="fondo" >
-            <img src="https://i.ibb.co/RP5KYWw/triangulos-removebg-preview.png" class=" mx-auto d-block" width="450"/>
+            <img src="https://i.ibb.co/RP5KYWw/triangulos-removebg-preview.png" class=" mx-auto d-block" width="430"/>
         </div>
     </div>
 </div>
@@ -106,7 +106,7 @@
 <div class="container-fluid ">
     <div class="row pt-5"  style="background: #FFCDA0" >
         <!-- tarjeta1 -->
-        <div class="col-xl-4 p-4" >
+        <div class="col-xl-4 pb-4" >
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/M6jKgcd/equilatero-2-removebg-preview.png" alt="equilatero-2-removebg-preview"  class="card mx-auto d-block"  height="150" width="200">
                 <div class="card-body">
@@ -121,7 +121,7 @@
             </div>
         </div>
         <!-- tarjeta2 -->
-        <div class="col-xl-4 p-4">
+        <div class="col-xl-4 pb-4">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/RHhXPWv/Tri-ngulo-escaleno-removebg-preview.png" alt="Tri-ngulo-escaleno-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -136,7 +136,7 @@
             </div>
         </div>
         <!-- tarjeta3 -->
-        <div class="col-xl-4 p-4">
+        <div class="col-xl-4 pb-4">
             <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/5RgsJ2z/isoceles3-removebg-preview.png" alt="isoceles3-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                 <div class="card-body">
@@ -150,7 +150,7 @@
         </div>
 
         <!-- tarjeta5 -->
-        <div  class="container-fluid">
+        <div  class="container-fluid ">
 
                 <div class="col-xl-12" style="color: #FF7800; background: #D8E2F3">
                     <h1 align="center">Tipos de Triángulo según sus ángulos: </h1><br>
@@ -158,9 +158,9 @@
             </div>
 
         <!-- tarjeta5 -->
-        <div  class="container-fluid center-block pl-5 d-flex justify-content-center">
+        <div  class="container-fluid pt-5">
             <div class="row" style="background: #FFCDA0">
-                <div class="col-xl-3 p-4">
+                <div class="col-xl-3 pb-4">
                     <div class="card mx-auto d-block " style="width: 18rem;">
                         <img  src="https://i.ibb.co/6cSzjkS/Escaleno2-removebg-preview.png" alt="Escaleno2-removebg-preview" class="card mx-auto d-block"  height="150" width="200">
                         <div class="card-body">
@@ -173,7 +173,7 @@
                     </div>
                 </div>
                 <!-- tarjeta6 -->
-                <div class="col-xl-3 p-4">
+                <div class="col-xl-3 pb-4">
                     <div class="card mx-auto d-block " style="width: 18rem;">
                         <img src="https://i.ibb.co/k8fQdW8/triangulo-obtusangulo-removebg-preview.png" alt="triangulo-obtusangulo-removebg-preview"  class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">
@@ -186,7 +186,7 @@
                     </div>
                 </div>
                 <!-- tarjeta7 -->
-                <div class="col-xl-3 p-4">
+                <div class="col-xl-3 pb-4">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/52Q6sxX/Tri-ngulo-acut-ngulo-removebg-preview.png" alt="Tri-ngulo-acut-ngulo-removebg-preview" class="card mx-auto d-block"  height="150" width="200">
                         <div class="card-body">
@@ -198,7 +198,7 @@
                     </div>
                 </div>
                 <!-- tarjeta8 -->
-                <div class="col-xl-3 p-4">
+                <div class="col-xl-3 pb-4">
                     <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/ph13d1k/equilatero-1-removebg-preview.png"  class="card mx-auto d-block"   height="150" width="200">
                         <div class="card-body">

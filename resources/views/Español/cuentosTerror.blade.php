@@ -137,7 +137,7 @@
 <!-- contenedor de las tarjetas -->
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/X4WXTB6/fantasma.jpg" class="card-img-top" alt="..." height="300">
@@ -180,7 +180,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-xl-6  p-5">
+        <div class="col-xl-6  pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/5RcYXzc/dientes.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">
@@ -238,10 +238,10 @@
 </div>
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
-                <img src="https://i.ibb.co/zxMbXrr/payaso.png" class="card-img-top" alt="..." height="270">
+                <img src="https://i.ibb.co/zxMbXrr/payaso.png" class="card-img-top"  width="420">
                 <div class="card-body">
                     <h5 class="card-title">La Estatua del Payaso</h5>
                     <p class="card-text">María Luisa llegó a la casa del doctor Reyes y su esposa a eso de las 7 de la noche.
@@ -264,13 +264,15 @@
 
                         —¡Despierta a los niños y salgan inmediatamente de la casa! NO TENEMOS NINGUNA ESTATUA DE UN PAYASO.</p> <br>
                     <br>
+                    <br>
+                    <br>
 
                     <audio  id="player" src="AudiosEspañol/cuentos/La estatua del payaso.mp3" controls >
                     </audio>
                 </div>
             </div>
         </div>
-                <div class="col-xl-6 p-5 ">
+                <div class="col-xl-6 pb-3 ">
                     <div class="card mx-auto d-block" style="width: 26rem;">
                         <img  src="https://i.ibb.co/KbRq6hD/Senor-salcedo-thumb.png" class="card-img-top" height="276">
                         <div class="card-body">
@@ -314,7 +316,7 @@
 <!-- contenedor 2 -->
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/jvRLPfc/Casa.png" class="card-img-top" alt="...">
@@ -355,7 +357,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-xl-6  p-5 ">
+        <div class="col-xl-6  pb-3 ">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/g4bWLNK/Dedo-peludo-thumb.png"  class="card-img-top" alt="...">
                 <div class="card-body">

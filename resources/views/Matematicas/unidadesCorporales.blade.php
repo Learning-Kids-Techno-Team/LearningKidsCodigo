@@ -164,7 +164,7 @@
 
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img   src="https://i.ibb.co/RyGGXQQ/pn1.jpg"   class=" mx-auto d-block" width="305"
                        >
@@ -177,7 +177,7 @@
         </div>
 
 
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/6mDHNDf/pulgada.jpg"  width="305"
                     >
@@ -199,7 +199,7 @@
 
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img src="https://i.ibb.co/8s6qGYz/64.png"  class=" mx-auto d-block" width="300"
                       >
@@ -213,7 +213,7 @@
         </div>
 
 
-        <div class="col-xl-6 p-2 ">
+        <div class="col-xl-6 pb-2 ">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/fqGpHkG/mano.jpg"   width="300"
                      >
@@ -233,7 +233,7 @@
 <br><br>
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img src="https://i.ibb.co/k8pfpcg/86.png"   class=" mx-auto d-block" width="300" height="200"  >
                 <div class="card-body">
@@ -246,7 +246,7 @@
         </div>
 
 
-        <div class="col-xl-6 p-2 ">
+        <div class="col-xl-6 pb-2 ">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/WgZ9H7Y/v4.jpg"   width="303">
                 <div class="card-body">
@@ -266,7 +266,7 @@
 <br><br>
 <div class="container-fluid  " >
     <div class="row " >
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img src="https://i.ibb.co/m52wBF2/cd.png" class=" mx-auto d-block" width="300"  >
                 <div class="card-body">
@@ -278,7 +278,7 @@
         </div>
 
 
-        <div class="col-xl-6 p-2 ">
+        <div class="col-xl-6 pb-2 ">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img src="https://i.ibb.co/K7hkw9S/co.jpg"  width="303" height="208" >
                 <div class="card-body">

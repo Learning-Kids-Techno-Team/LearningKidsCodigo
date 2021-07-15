@@ -85,7 +85,7 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-xl-12" style="background: #f8cfc6" id="fondo" >
-            <img   src="https://i.ibb.co/sv6dsyj/maxresdefault-removebg-preview.png" width="450" class=" mx-auto d-block"/>
+            <img   src="https://i.ibb.co/sv6dsyj/maxresdefault-removebg-preview.png" width="430" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>

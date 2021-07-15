@@ -114,7 +114,7 @@
 <!-- contenedor de las tarjetas -->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/D56YkRQ/s.jpg"  class="card-img-top" alt="..." height="300">
@@ -191,7 +191,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 p-5">
+        <div class="col-md-6 pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/bB9Ty3s/la-liebre-y-la-tortuga.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
@@ -233,7 +233,7 @@
 <!-- contenedor 2 -->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-6 p-5">
+        <div class="col-md-6 pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/9tzrSMV/Tio.png"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
@@ -268,7 +268,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 p-5">
+        <div class="col-md-6 pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/zrMngyv/leon.jpg"   class="card-img-top" alt="..." height="300">
                 <div class="card-body">
@@ -300,7 +300,7 @@
 </div>
 <div class="container-fluid">
     <div class="row">
-        <div class="col-md-6 p-5">
+        <div class="col-md-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/L5BnznM/rata.jpg"   class="card-img-top" alt="..." height="290">
@@ -385,7 +385,7 @@
 
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-md-6 p-5">
+        <div class="col-md-6 pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/HFL3tTT/enano.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">

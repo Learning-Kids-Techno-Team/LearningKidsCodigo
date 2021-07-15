@@ -87,7 +87,7 @@
 <div class="container-fluid">
     <div class="row">
         <div class="col-xl-12" style="background: #D8E2F3" id="fondo" >
-            <img src="https://i.ibb.co/pdq2Dh9/cuadri-removebg-preview.png" width="450" height="200" class=" mx-auto d-block"/>
+            <img src="https://i.ibb.co/pdq2Dh9/cuadri-removebg-preview.png" width="430" height="200" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>

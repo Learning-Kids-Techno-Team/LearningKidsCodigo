@@ -109,9 +109,9 @@
 </div>
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid " >
+<div class="container-fluid pt-5" >
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/9cH6ncj/cachorro-regalo.jpg"   class="card-img-top" alt="..." height="300">
@@ -141,7 +141,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/C5rCxjR/63-navidad.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
@@ -183,7 +183,7 @@
 <!-- contenedor 2 -->
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
             <img src="https://i.ibb.co/Hh1kXMv/10.jpg"   class="card-img-top" alt="..." height="300">
@@ -211,7 +211,7 @@
         </div>
     </div>
     <!-- tarjeta 2 -->
-    <div class="col-xl-6 p-5 ">
+    <div class="col-xl-6 pb-3 ">
         <div class="card mx-auto d-block" style="width: 26rem;">
             <img   src="https://i.ibb.co/7SrFbzb/raton.png"  class="card-img-top" alt="..." height="300">
             <div class="card-body">
@@ -255,7 +255,7 @@
 </div>
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img   src="https://i.ibb.co/rshrLyW/reno.jpg"   class="card-img-top" alt="..." height="323">
@@ -290,7 +290,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/G0YZZ9g/aranas.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">

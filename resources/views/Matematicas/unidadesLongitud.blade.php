@@ -126,10 +126,10 @@
 
         <div class="container-fluid mt-5"  >
             <div class="row">
-                <div class="col-xl-12 p-2"  >
+                <div class="col-xl-12 pb-2"  >
                     <div class="row ml-5 mr-5" id="borde">
                         <div class="col-xl-4 p-2 bg-success " >
-                            <img  src="https://i.ibb.co/6mQGrhT/el-gabinete-de-madera-con-los-juguetes-mide-el-crecimiento-del-ni-o-72601700-removebg-preview-1.png"  height="400">
+                            <img class="mx-auto d-block" src="https://i.ibb.co/6mQGrhT/el-gabinete-de-madera-con-los-juguetes-mide-el-crecimiento-del-ni-o-72601700-removebg-preview-1.png"  height="350">
                         </div>
                         <div class="col-xl-8 p-2" style=" background: #DCFECB;"  >
 <br>
@@ -166,7 +166,7 @@
 
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img  src="https://i.ibb.co/XDKRWj0/metroo.jpg"    class=" mx-auto d-block"
                       width="300" >
@@ -181,7 +181,7 @@
         </div>
 
 
-        <div class="col-xl-6  p-2">
+        <div class="col-xl-6  pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/Fm71cSm/ilustracion-man.jpg"
                      width="300">
@@ -200,7 +200,7 @@
 
 <div class="container-fluid"  >
     <div class="row " >
-        <div class="col-xl-12 p-2">
+        <div class="col-xl-12 pb-2">
             <br>
             <h1 class="text-center">Longitud de peso/masa</h1>
 
@@ -210,7 +210,7 @@
 </div>
 <div class="container-fluid" >
     <div class="row " >
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img src="https://i.ibb.co/yn0HR78/ma.jpg"   class=" mx-auto d-block" width="300"  >
                 <div class="card-body">
@@ -223,7 +223,7 @@
         </div>
 
 
-        <div class="col-xl-6 p-2 ">
+        <div class="col-xl-6 pb-2 ">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/sgshyB4/k.jpg"   width="300" >
                 <div class="card-body">
@@ -247,7 +247,7 @@
 
 <div class="container-fluid" >
     <div class="row " >
-        <div class="col-xl-12 p-2">
+        <div class="col-xl-12 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img   src="https://i.ibb.co/4SB2wNf/cal.jpg"   class=" mx-auto d-block" width="300"
                         >

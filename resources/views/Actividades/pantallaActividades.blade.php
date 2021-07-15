@@ -81,7 +81,7 @@
 <div class="container-fluid">
     <div class="row pb-5">
         <div class="col-md-12" style="background: #FEB472" id="fondo" >
-            <img   src="https://i.ibb.co/zZHbhMn/happy-children-playing-in-the-park-vector-removebg-preview.png"   width="600" class=" mx-auto d-block"/>
+            <img   src="https://i.ibb.co/zZHbhMn/happy-children-playing-in-the-park-vector-removebg-preview.png"   width="420" class=" mx-auto d-block"/>
         </div>
     </div>
 </div>
@@ -97,10 +97,10 @@
 
 
 <div class="container-fluid">
-    <div class="row pt-5  "  style="background: #FEB472">
+    <div class="row "  style="background: #FEB472">
         <!-- tarjeta 1 -->
-        <div class="col-md-4 pb-5 d-flex justify-content-center" >
-            <div class="card"  style="width: 18rem;" >
+        <div class="col-md-4 pb-3" >
+            <div class="card mx-auto d-block"  style="width: 18rem;" >
 
                 <img src="https://i.pinimg.com/736x/97/f1/27/97f127dd93502ff7dc23c88abfe9ff88.jpg" class="card mx-auto d-block" height="150" width="220">
                 <div class="card-body">
@@ -112,8 +112,8 @@
 
 
         <!-- tarjeta2 -->
-        <div class="col-md-4 pb-5 d-flex justify-content-center">
-            <div class="card" style="width: 18rem;">
+        <div class="col-md-4 pb-3">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://static.vecteezy.com/system/resources/previews/000/298/916/non_2x/young-children-playing-with-an-abacus-vector.jpg" class="card mx-auto d-block" height="150" width="220">
                 <div class="card-body">
                     <h5 class="card-title" align="center">Actividad Restas</h5>
@@ -122,8 +122,8 @@
             </div>
         </div>
         <!-- tarjeta3 -->
-        <div class="col-md-4 pb-5 d-flex justify-content-center">
-            <div class="card" style="width: 18rem;">
+        <div class="col-md-4 pb-3 ">
+            <div class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://image.freepik.com/vector-gratis/ninos-aprendiendo-matematicas-abaco_1639-6893.jpg" class="card mx-auto d-block" height="160" width="220">
                 <div class="card-body">
                     <h5 class="card-title" align="center">Actividad Sumas</h5>
@@ -136,10 +136,10 @@
 
 
         <div class="container-fluid">
-            <div class="row pb-5  "  style="background: #FEB472">
+            <div class="row "  style="background: #FEB472">
                 <!-- tarjeta 1 -->
-                <div class="col-md-4 pb-5 d-flex justify-content-center" >
-                    <div class="card"  style="width: 18rem;" >
+                <div class="col-md-4 pb-3" >
+                    <div class="card mx-auto d-block"  style="width: 18rem;" >
 
                         <img  src="https://i.ibb.co/K5z45Vs/juguetes.jpg"  class="card mx-auto d-block" height="150" width="220">
                         <div class="card-body">
@@ -151,8 +151,8 @@
 
 
                 <!-- tarjeta2 -->
-                <div class="col-md-4 pb-5 d-flex justify-content-center">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-4 pb-3 ">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/q9C0DFT/figura.jpg" class="card mx-auto d-block" height="150" width="220">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Figuras Geométricas</h5>
@@ -161,8 +161,8 @@
                     </div>
                 </div>
                 <!-- tarjeta3 -->
-                <div class="col-md-4 pb-5 d-flex justify-content-center">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-4 pb-3 ">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img  src="https://i.ibb.co/Qkc6Q54/Numeros-Ordinales.png" class="card mx-auto d-block" height="160" width="220">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad números Ordinales</h5>
@@ -175,10 +175,10 @@
 
 
         <div class="container-fluid">
-            <div class="row pb-5  "  style="background: #FEB472">
+            <div class="row  "  style="background: #FEB472">
                 <!-- tarjeta 1 -->
-                <div class="col-md-4 pb-5 d-flex justify-content-center" >
-                    <div class="card"  style="width: 18rem;" >
+                <div class="col-md-4 pb-3" >
+                    <div class="card mx-auto d-block"  style="width: 18rem;" >
 
 
                         <img  src="https://i.ibb.co/XxtgFXt/natural.jpg"  class="card mx-auto d-block" height="150" width="220">
@@ -191,8 +191,8 @@
 
 
                 <!-- tarjeta2 -->
-                <div class="col-md-4 pb-5 d-flex justify-content-center">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-4 pb-3">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img src="https://i.ibb.co/SKmNjxQ/1594a.jpg"  class="card mx-auto d-block" height="150" width="220">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Símbolos de igualdad</h5>
@@ -201,8 +201,8 @@
                     </div>
                 </div>
                 <!-- tarjeta3 -->
-                <div class="col-md-4 pb-5 d-flex justify-content-center">
-                    <div class="card" style="width: 18rem;">
+                <div class="col-md-4 pb-3">
+                    <div class="card mx-auto d-block" style="width: 18rem;">
                         <img  src="https://i.ibb.co/DpVby1r/mmm.png"  class="card mx-auto d-block" height="160" width="220">
                         <div class="card-body">
                             <h5 class="card-title" align="center">Actividad Longitud</h5>

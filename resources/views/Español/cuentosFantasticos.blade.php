@@ -113,7 +113,7 @@
 <!-- contenedor de las tarjetas -->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3 ">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/pzh3rRG/mago.jpg" class="card-img-top" alt="...">
@@ -156,9 +156,9 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
-                <img  src="https://i.ibb.co/wLJJLX0/bruja.jpg" class="card-img-top " alt="..." height="300" >
+                <img  src="https://i.ibb.co/wLJJLX0/bruja.jpg" class="card-img-top " alt="..." height="305" >
                 <div class="card-body">
                     <h5 class="card-title">El Traje de la bruja Petra</h5>
                     <p class="card-text">
@@ -211,9 +211,9 @@
         <div class="container-fluid">
             <div class="row">
 
-                <div class="col-xl-6 p-5">
+                <div class="col-xl-6 pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
-                <img  src="https://i.ibb.co/r4CMrX3/mariposas.jpg"  class="card-img-top" alt="..." >
+                <img  src="https://i.ibb.co/r4CMrX3/mariposas.jpg"  class="card-img-top" width="310" alt="..." >
                 <div class="card-body">
                     <h5 class="card-title">La Mariposa Presumida</h5>
                     <p class="card-text">Había una vez una mariposa muy presumida que se pasaba el día exhibiendo de su gran belleza.<br>
@@ -259,7 +259,7 @@
         </div>
 
                 <!-- tarjeta 4 -->
-                <div class="col-xl-6 p-5">
+                <div class="col-xl-6 pb-3">
                 <div class="card mx-auto d-block" style="width: 26rem;">
                     <img  src="https://i.ibb.co/L1ZsX4z/cordero.jpg"  class="card-img-top" alt="..." height="300">
                     <div class="card-body">
@@ -328,7 +328,7 @@
     <div class="row" >
 
         <!-- tarjeta 5-->
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img  src="https://i.ibb.co/4fBg0BT/rana.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
@@ -379,7 +379,7 @@
             </div>
         </div>
         <!-- tarjetas 6 -->
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/gw2C8ZY/gallina.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">

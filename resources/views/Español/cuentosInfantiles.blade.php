@@ -116,7 +116,7 @@
 <!-- contenedor de las tarjetas -->
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block"style="width: 26rem;">
                 <img  src="https://i.ibb.co/F8kT0c2/osos.jpg" class="card-img-top" alt="..." height="300">
@@ -184,7 +184,7 @@
 
         <!-- tarjeta 2 -->
 
-        <div class="col-xl-6 p-5 ">
+        <div class="col-xl-6 pb-3 ">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/zrjqkS3/Caperucita.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">
@@ -257,7 +257,7 @@
 <!-- tarjetas3 -->
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
             <img  src="https://i.ibb.co/sbc7xVb/patito-feo.jpg" class="card-img-top" alt="..." width="280">
@@ -305,7 +305,7 @@
 </div>
 
         <!-- tarjeta4 -->
-        <div class="col-xl-6  p-5">
+        <div class="col-xl-6  pb-3">
         <div class="card mx-auto d-block" style="width: 26rem;">
             <img src="https://i.ibb.co/wwzjzvT/gigante.jpg"  class="card-img-top" alt="..." height="330">
             <div class="card-body">
@@ -371,7 +371,7 @@
 <!-- tarjeta 5 -->
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/4P4dnDN/bella.jpg"  class="card-img-top" alt="..." height="300">
@@ -432,7 +432,7 @@
 
         <!-- tarjeta 6 -->
 
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/WF5wrgD/cenicienta.jpg" class="card-img-top" alt="..." height="300">
                 <div class="card-body">

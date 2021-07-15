@@ -130,11 +130,11 @@
 
         }
         function resu3(){
-            document.getElementById("demo3").innerHTML="<h4><strong> 110 Lempiras</h4>"
+            document.getElementById("demo3").innerHTML="<h4><strong> 12 Lempiras</h4>"
 
         }
         function resu4(){
-            document.getElementById("demo4").innerHTML="<h4> <strong> 30 Lempiras</h4>"
+            document.getElementById("demo4").innerHTML="<h4> <strong> 110 Lempiras</h4>"
 
         }
         function resu5(){
@@ -142,7 +142,7 @@
 
         }
         function resu6(){
-            document.getElementById("demo6").innerHTML="<h4><strong> 12 Lempiras</h4>"
+            document.getElementById("demo6").innerHTML="<h4><strong> 30 Lempiras</h4>"
 
         }
 
@@ -183,7 +183,7 @@
     <div class="row" >
         <div class="col-md-12 ">
 
-            <img class="mx-auto db-block" src="https://i.ibb.co/djRhXZq/ninos-comprando-bebidas-tienda-1308-6800-removebg-preview.png"  >
+            <img class="mx-auto db-block" src="https://i.ibb.co/djRhXZq/ninos-comprando-bebidas-tienda-1308-6800-removebg-preview.png" width="400"  >
         </div>
     </div>
 </div>
@@ -201,22 +201,23 @@
 
 
 
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid" >
+    <div class="row " >
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <h2>1 Lempira</h2>
 
-                <img  src="https://i.ibb.co/wrL9ynM/billete-1-lempira-honduras-D-NQ-NP-740341-MLM27600813056-062018-F-removebg-preview.png"    height="400" >
+                <img  src="https://i.ibb.co/wrL9ynM/billete-1-lempira-honduras-D-NQ-NP-740341-MLM27600813056-062018-F-removebg-preview.png"    height="350" >
                 <h5><em>En su parte de enfrente lleva la cara de El Cacique lempira, Y su reverso una foto de Copán ruinas</em></h5>
             </div>
         </div>
         <div class="col-xl-6 pb-3">
 
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <h2>2 Lempiras</h2>
-                <img src="https://i.ibb.co/5BnKBKL/15641288216117-removebg-preview.png"     height="400">
+                <img src="https://i.ibb.co/5BnKBKL/15641288216117-removebg-preview.png"     height="348">
                 <h5><em>En su parte de enfrente lleva la cara de Marco Aurelio soto, Y su reverso una foto de Isla de Amapala.</em></h5>
+
             </div>
         </div>
     </div>
@@ -225,21 +226,21 @@
 
 
 
-<div class="container-fluid  d-flex justify-content-center pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid " >
+    <div class="row " >
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <h2>5 lempiras</h2>
-                <img   src="https://i.ibb.co/cFdD7dP/coleccion-billetes-honduras-pick-numero-85-5-lempira-removebg-preview.png"      height="400" >
+                <img  class="mx-auto d-block" src="https://i.ibb.co/cFdD7dP/coleccion-billetes-honduras-pick-numero-85-5-lempira-removebg-preview.png"      height="410" >
                 <h5><em>En su parte de enfrente lleva la cara de El General Francisco Morazán, Y su reverso Representa la Batalla de la trinidad.
 
                     </em></h5>
             </div>
         </div>
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <h2>10 lempiras</h2>
-                <img  src="https://i.ibb.co/pZYZ022/www-mynumi-net-BKHN10-L89-FFB1251-30-removebg-preview.png"    height="400">
+                <img  src="https://i.ibb.co/pZYZ022/www-mynumi-net-BKHN10-L89-FFB1251-30-removebg-preview.png"    height="410">
                 <h5><em>En su parte de enfrente lleva la cara de José Trinidad Cabañas, Y su reverso una foto Ciudad Universitaria UNAH. </em></h5>
             </div>
         </div>
@@ -249,21 +250,22 @@
 
 
 
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid " >
+    <div class="row " >
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <h2>20 lempiras</h2>
-                <img   src="https://i.ibb.co/N3pYM22/20-lempiras-own.jpg"       height="400" >
-                <h5><em><br>En su parte de enfrente lleva la cara de Dionisio de Herrera, Y su reverso una foto de La Casa Presidencial.
+                <img   src="https://i.ibb.co/N3pYM22/20-lempiras-own.jpg"       height="348" >
+
+                <h5><em><br><br>En su parte de enfrente lleva la cara de Dionisio de Herrera, Y su reverso una foto de La Casa Presidencial.
 
                     </em></h5>
             </div>
         </div>
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <h2>50 lempiras</h2>
-                <img   src="https://i.ibb.co/sPCrfVh/precioso-de-billetes-honduras-pick-numero-88-50-lempira-removebg-preview.png"    height="400">
+                <img   class="mx-auto d-block" src="https://i.ibb.co/sPCrfVh/precioso-de-billetes-honduras-pick-numero-88-50-lempira-removebg-preview.png"    height="400">
                 <h5><em>En su parte de enfrente lleva la cara de Juan Manuel Gálvez, Y su reverso una foto del Banco Central de Honduras.</em></h5>
             </div>
         </div>
@@ -271,20 +273,21 @@
 </div>
 
 
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid " >
+    <div class="row " >
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <h2>100 lempiras</h2>
-                <img   src="https://i.ibb.co/V99LNph/billete-de-banco-coleccion-honduras-pk-n-102-100-lempiras.jpg"      height="400" >
-                <h5><em>En su parte de enfrente lleva la cara de José Cecilio del Valle, Y su reverso una foto de la casa en donde nació sabio del Valle.</em></h5>
+                <img   src="https://i.ibb.co/V99LNph/billete-de-banco-coleccion-honduras-pk-n-102-100-lempiras.jpg"      height="340" >
+
+                <h5><em><br>En su parte de enfrente lleva la cara de José Cecilio del Valle, Y su reverso una foto de la casa en donde nació sabio del Valle.</em></h5>
 
             </div>
         </div>
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <h2>500 lempiras</h2>
-                <img   src="https://i.ibb.co/qYJBrCR/500-lempiras-own.jpg"    height="400">
+                <img   src="https://i.ibb.co/qYJBrCR/500-lempiras-own.jpg"    height="340">
                 <h5><em><br>En su parte de enfrente lleva la cara de Ramón Rosa, Y su reverso una foto de las Minas de San Juancito.</em></h5>
             </div>
         </div>
@@ -306,37 +309,18 @@
 
 
 
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid " >
+    <div class="row" >
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img  src="https://i.ibb.co/nM9fw6b/Captura-de-pantalla-424.png"   height="300" >
-                <h5><em></em></h5>
-            </div>
-        </div>
-        <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img src="https://i.ibb.co/nshPHNf/Captura-de-pantalla-425.png"     height="300">
-                <h5><em></em></h5>
-            </div>
-        </div>
-    </div>
-</div>
-
-
-
-
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div class="row m-5" >
-        <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img   src="https://i.ibb.co/ftrTTwk/Captura-de-pantalla-426.png"      height="300" >
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/nM9fw6b/Captura-de-pantalla-424.png"   height="300" >
 
             </div>
         </div>
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img  src="https://i.ibb.co/tQWWy4W/Captura-de-pantalla-428.png"     height="300">
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/nshPHNf/Captura-de-pantalla-425.png"     height="280">
+                <br>
             </div>
         </div>
     </div>
@@ -345,19 +329,38 @@
 
 
 
-
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div class="row m-5" >
+<div class="container-fluid" >
+    <div class="row" >
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img   src="https://i.ibb.co/Jtr0wcz/Captura-de-pantalla-429.png"        height="300" >
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <img  class="mx-auto d-block" src="https://i.ibb.co/ftrTTwk/Captura-de-pantalla-426.png"      height="300" >
+
+            </div>
+        </div>
+        <div class="col-xl-6 pb-3">
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/tQWWy4W/Captura-de-pantalla-428.png"     height="300">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="container-fluid " >
+    <div class="row " >
+        <div class="col-xl-6 pb-3">
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <img  class="mx-auto d-block" src="https://i.ibb.co/Jtr0wcz/Captura-de-pantalla-429.png"        height="300" >
 
 
             </div>
         </div>
         <div class="col-xl-6 pb-3">
-            <div class="card" style="width: 30rem;">
-                <img  src="https://i.ibb.co/30syPWc/Captura-de-pantalla-427.png"     height="300">
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <img class="mx-auto d-block" src="https://i.ibb.co/30syPWc/Captura-de-pantalla-427.png"     height="300">
             </div>
         </div>
     </div>
@@ -378,12 +381,12 @@
 
 
 
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div  class="row m-5" >
+<div class="container-fluid" >
+    <div  class="row " >
         <div class="col-xl-4 pb-3">
 
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
+            <div id="tar1" class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/fHpQcnX/Captura-de-pantalla-436.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo1"></h6>
@@ -395,7 +398,7 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-4 pb-3">
-            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
+            <div id="tar2" class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/Ws7pgbd/Captura-de-pantalla-437.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo2"></h6>
@@ -407,8 +410,8 @@
         </div>
         <!-- tarjetas3 -->
         <div class="col-xl-4 pb-3">
-            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/XbkS0Yw/1a.png" class="card-img-top" alt="...">
+            <div id="tar3" class="card mx-auto d-block" style="width: 26rem;">
+                <img src="https://i.ibb.co/LQ4487n/Captura-de-pantalla-441.png" class="card-img-top" height="230" >
                 <div class="card-body">
                     <h6 id="demo3"></h6>
                     <button  class="btn btn-danger" onclick="resu3()">Resultado</button>
@@ -424,13 +427,13 @@
 
 
 
-<div class="container-fluid   d-flex justify-content-center pl-5" >
-    <div  class="row m-5" >
+<div class="container-fluid " >
+    <div  class="row" >
         <div class="col-xl-4 pb-3">
 
             <!-- tarjeta 1 -->
-            <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/Bsh7GQ2/bo4.png"   class="card-img-top" alt="...">
+            <div id="tar1" class="card mx-auto d-block" style="width: 26rem;">
+                <img <img src="https://i.ibb.co/1fs53wg/Captura-de-pantalla-438.png"    class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo4"></h6>
                     <button class="btn btn-danger" onclick="resu4()">Resultado</button>
@@ -441,8 +444,8 @@
         </div>
         <!-- tarjeta 2 -->
         <div class="col-xl-4 pb-3">
-            <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/wgntyc3/Captura-de-pantalla-440.png"    class="card-img-top" alt="...">
+            <div id="tar2" class="card mx-auto d-block" style="width: 26rem;">
+                <img src="https://i.ibb.co/wgntyc3/Captura-de-pantalla-440.png"   height="249" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo5"></h6>
                     <button class="btn btn-danger" onclick="resu5()">Resultado</button>
@@ -453,8 +456,8 @@
         </div>
         <!-- tarjetas3 -->
         <div class="col-xl-4 pb-3">
-            <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/KsZHYD5/by6.png" class="card-img-top" alt="...">
+            <div id="tar3" class="card mx-auto d-block" style="width: 26rem;">
+                <img src="https://i.ibb.co/6FQ3wSM/Captura-de-pantalla-439.png" height="248" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo6"></h6>
 

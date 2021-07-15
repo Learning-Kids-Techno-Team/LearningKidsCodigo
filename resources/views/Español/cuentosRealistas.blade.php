@@ -125,10 +125,10 @@
 <!-- contenedor de las tarjetas -->
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
-                <img  src="https://i.ibb.co/JyTH8yz/familia.jpg" class="card-img-top" alt="...">
+                <img  src="https://i.ibb.co/JyTH8yz/familia.jpg" width="300" class="card-img-top">
                 <div class="card-body">
                     <h5 class="card-title">Familias Felices</h5>
                     <p class="card-text"><br>Todas las familias felices se parecen unas a otras;
@@ -154,11 +154,14 @@
                         iba de aquí para allá, sin detenerse a contemplarlo, se daba cuenta de que ninguna verdad
                         es cierta hasta que alguien no la escribe. Entonces supo que él no tenía que leer, sino escribir. <br><br><br>
                         <br>Dos años más tarde publicaba su primera novela y la prologaba con esa introducción de Lev Tolstói
-                        en memoria de su madre.</p>
+                        en memoria de su madre.
+                    </p>
                         <br>
                         <br>
                     <br>
                     <br>
+                    <br>
+
 
                     <audio  id="player" src="AudiosEspañol/cuentos/Familias felices.mp3" controls >
                     </audio>
@@ -166,9 +169,9 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-xl-6  p-5">
+        <div class="col-xl-6  pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
-                <img src="https://i.ibb.co/sVCT6mp/periodista.jpg" class="card-img-top" alt="..." height="250">
+                <img src="https://i.ibb.co/sVCT6mp/periodista.jpg" class="card-img-top" alt="..." height="244">
                 <div class="card-body">
                     <h5 class="card-title">La Periodista</h5>
                     <p class="card-text">Siempre había soñado con convertirme en periodista. Ya de muy pequeña manifesté mi interés por esta profesión. Con tan sólo cuatro años cogía el mando de la tele y, simulando que había frente a mí una cámara, contaba las noticias: cosas que me iba inventando y que no tenían ninguna rigurosidad científica, como era de esperarse.
@@ -181,8 +184,9 @@
 
                         Entonces, lo dejé todo y me encerré en mi misma; harta del mundo, de que las noticias fueran manipuladas con tanta facilidad y de que la función de los periodistas no tuviera nada que ver con ese sueño infantil y fantástico. Cuando creces, la magia de la infancia se esfuma por la claraboya de tu conciencia y te das cuenta de que nada -absolutamente NADA- es tan maravilloso o placentero como creías de niña.
 
-                        El pozo era tan profundo que no podía ver; sentía que nunca saldría con vida de aquel malestar que me iba consumiendo más y mas: primero, había acabado con todas mis relaciones y más tarde, me había sepultado bajo tierra, como un topo pero con la extrañeza de quien ansía la luz. Y entonces llegó: un paquete a mi nombre que contenía algo blando en su interior. Al abrirlo lo encontré: ese librito que me había llenado de energías en la infancia estaba ahí radiante, recordándome mis razones, mis principios. Miré el remitente: mi tío Palmiro acababa de enseñarme nuevamente el camino.</p>
+                        El pozo era tan profundo que no podía ver; sentía que nunca saldría con vida de aquel malestar que me iba consumiendo más y mas: primero, había acabado con todas mis relaciones y más tarde, me había sepultado bajo tierra, como un topo pero con la extrañeza de quien ansía la luz. Y entonces llegó: un paquete a mi nombre que contenía algo blando en su interior. Al abrirlo lo encontré: ese librito que me había llenado de energías en la infancia estaba ahí radiante, recordándome mis razones, mis principios. Miré el remitente: mi tío Palmiro acababa de enseñarme nuevamente el camino.</p>     <br>
                     <audio  id="player" src="AudiosEspañol/cuentos/La periodista.mp3" controls >
+
                     </audio>
                 </div>
             </div>
@@ -191,7 +195,7 @@
 </div>
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
               <img src="https://i.ibb.co/ykfJr9W/ninos-dibujos-animados-jugando-parque-ciudad-43633-6341.jpg" class="card-img-top" alt="...">
@@ -216,14 +220,15 @@
 
 </p>
 
+
                     <audio  id="player" src="AudiosEspañol/cuentos/Juan y la ciudad.mp3" controls >
                     </audio>
                 </div>
             </div>
         </div>
-                <div class="col-xl-6 p-5 ">
+                <div class="col-xl-6 pb-3 ">
                     <div class="card mx-auto d-block" style="width: 26rem;">
-                        <img src="https://i.ibb.co/xSC9VTz/juego.jpg"  class="card-img-top" alt="..." height="300">
+                        <img src="https://i.ibb.co/xSC9VTz/juego.jpg"  class="card-img-top" alt="..." height="310">
                         <div class="card-body">
                             <h5 class="card-title">El Gran Partido</h5>
                             <p class="card-text">Había una vez una pandilla de chicos aficionados al fútbol,
@@ -248,7 +253,7 @@
                                <br> Al escuchar estas palabras, los chicos descubrieron lo tontos que habían sido por dejarse
                                 llevar por el orgullo y lo aburrido que estaba resultando su gran partido.<br>
                                 <br>Mirándose unos a los otros y sin mediar palabra, comenzaron a poner de nuevo todo
-                                sobre el campo, jugando el mejor partido de sus vidas.</p> <br> <br>
+                                sobre el campo, jugando el mejor partido de sus vidas.</p> <br>
 
 
                             <audio  id="player" src="AudiosEspañol/cuentos/El gran partido.mp3" controls >
@@ -265,7 +270,7 @@
 <!-- contenedor 2 -->
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-5">
+        <div class="col-xl-6 pb-3">
             <!-- tarjeta 1 -->
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/hR6QNGh/portada.png" class="card-img-top" alt="...">
@@ -289,7 +294,7 @@
 
 
         <!-- tarjetas3 -->
-        <div class="col-xl-6  p-5">
+        <div class="col-xl-6  pb-3">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <img src="https://i.ibb.co/0rSQFtN/valle-de-mariposas.jpg"  class="card-img-top" alt="..." height="300">
                 <div class="card-body">

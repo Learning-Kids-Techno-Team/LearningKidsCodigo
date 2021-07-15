@@ -260,13 +260,13 @@
 
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img src="https://i.ibb.co/j3LqGWj/suma8.png" width="308" >
 
             </div>
         </div>
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img src="https://i.ibb.co/HNMfnnn/suma9.png" height="256" width="307">
             </div>
@@ -279,13 +279,13 @@
 
 <div class="container-fluid  " >
     <div class="row" >
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block"  style="width: 20rem;">
                 <img src="https://i.ibb.co/SnDV1MY/suma10.png" alt="suma10"  width="307" height="250">
 
             </div>
         </div>
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img src="https://i.ibb.co/98PKt6G/suma11.png" alt="suma11" width="307" height="250">
             </div>
@@ -298,14 +298,14 @@
 
 <div class="container-fluid  " >
     <div class="row " >
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/51q7frF/suma12.png"
                      alt="suma12"  width="307" height="250"  >
 
             </div>
         </div>
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-2">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/v3znyG5/tortugas2.png" alt="tortugas2"
                      width="307" height="250">
@@ -328,7 +328,7 @@
 
 <div class="container-fluid  " >
     <div  class="row " >
-        <div class="col-xl-4 p-2">
+        <div class="col-xl-4 pb-2">
 
             <!-- tarjeta 1 -->
             <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
@@ -343,7 +343,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-xl-4 p-2">
+        <div class="col-xl-4 pb-2">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/gSm7CT4/sm.png" class="mx-auto d-block" width="274" height="250">
                 <div class="card-body">
@@ -356,7 +356,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-xl-4 p-2">
+        <div class="col-xl-4 pb-2">
             <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/zNTqSMk/3.png"  class="mx-auto d-block" width="274" height="250">
                 <div class="card-body">
@@ -376,7 +376,7 @@
 
 <div class="container-fluid  " >
     <div  class="row " >
-        <div class="col-xl-4 p-2">
+        <div class="col-xl-4 pb-2">
 
             <!-- tarjeta 1 -->
             <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
@@ -390,7 +390,7 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-xl-4 p-2">
+        <div class="col-xl-4 pb-2">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/wQcvwLN/5.png" class="mx-auto d-block"  width="274" height="250">
                 <div class="card-body">
@@ -403,7 +403,7 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-xl-4 p-2">
+        <div class="col-xl-4 pb-2">
             <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
                 <img src="https://i.ibb.co/Y3yFBfz/ya.png"  class="mx-auto d-block" width="274" height="250">
                 <div class="card-body">
