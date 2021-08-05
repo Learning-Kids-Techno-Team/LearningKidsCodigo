@@ -112,7 +112,7 @@
                     </div>
 
                     <div class="col-xl-5  mt-5 " style=" background: #91D5FF"  >
-                        <h4 style="color: #3B5686">Tecnología</h4>
+                        <h4 class="mt-5" style="color: #3B5686">Tecnología</h4>
                         <h3 class="mt-5" style="text-align: center">Barra de tareas windows</h3>
                         <p class="" id="pa"> <em>  En informática, se denomina barra de tareas a la barra que sirve para encontrar y controlar aplicaciones de diversos sistemas operativos, entre ellos Microsoft Windows, Linux y Mac OS X. En Microsoft Windows la barra de tareas es generada por el escritorio y este a su vez por el proceso explorer.exe.
                             </em><br>
