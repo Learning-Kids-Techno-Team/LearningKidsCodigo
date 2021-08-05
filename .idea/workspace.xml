@@ -25,27 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="">
+    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 15 Sindy Galindo">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/pantallaActividades.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/pantallaActividades.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentoNavidad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentoNavidad.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosAventuras.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosAventuras.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosFantasticos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosFantasticos.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosInfantiles.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosInfantiles.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosParaDormir.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosParaDormir.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosPoliciales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosPoliciales.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosRealistas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosRealistas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Español/cuentosTerror.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/numeroNaturales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/numeroNaturales.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaBilletes.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaBilletes.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaFigurasGeometricas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaFigurasGeometricas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaMonedas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaMonedas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaRestas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaRestas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaSumas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaSumas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaTipoDeCuadrilatero.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaTipoDeCuadrilatero.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaTiposDeTriangulos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaTiposDeTriangulos.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/unidadesCorporales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/unidadesCorporales.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/unidadesLongitud.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/unidadesLongitud.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/lugarCiudad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/lugarCiudad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,20 +230,6 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-    </task>
-    <task id="LOCAL-00030" summary="Sprint 7 Hector Lopez">
-      <created>1613779923643</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1613779923643</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Sprint 7 Hector Lopez">
-      <created>1613781785257</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1613781785257</updated>
     </task>
     <task id="LOCAL-00032" summary="Sprint 7 Hector Lopez">
       <created>1613781967339</created>
@@ -583,14 +553,28 @@
       <option name="project" value="LOCAL" />
       <updated>1626222725279</updated>
     </task>
-    <task id="LOCAL-00078" summary="Sprint 15 Hector Lopez">
-      <created>1626244193987</created>
+    <task id="LOCAL-00078" summary="Sprint 15 Daniela Mazzoni">
+      <created>1626233705256</created>
       <option name="number" value="00078" />
       <option name="presentableId" value="LOCAL-00078" />
       <option name="project" value="LOCAL" />
-      <updated>1626244193987</updated>
+      <updated>1626233705256</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="Sprint 15 Sindy Galindo">
+      <created>1626250047780</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1626250047780</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Sprint 15 Sindy Galindo">
+      <created>1626254214396</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1626254214396</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -609,6 +593,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer Sprint Techno Team" />
     <MESSAGE value="Sprint1 Sindy" />
     <MESSAGE value="Sprint1 Daniela" />
     <MESSAGE value="Sprint2 Daniela" />
@@ -631,20 +616,8 @@
     <MESSAGE value="Sprint 11 Luz Bonilla" />
     <MESSAGE value="Sprint 13 Luz Bonilla" />
     <MESSAGE value="Sprint 13 Daniela Mazzoni" />
-    <MESSAGE value="Sprint 15 Sindy Galindo" />
     <MESSAGE value="Sprint 15 Daniela Mazzoni" />
-    <MESSAGE value="Sprint 15 Hector Lopez" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Hector Lopez" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php</url>
-          <line>147</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Sprint 15 Sindy Galindo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Sindy Galindo" />
   </component>
 </project>

@@ -132,7 +132,7 @@
                 <div class="card ml-0" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Supermercado <br> Supermarket</em></h2>
-                    <audio  id="player" src="AudioIngles/lugares/superem.mp3" controls >
+                    <audio  id="player" src="AudioIngles/lugares/superme.mp3" controls >
                     </audio>
 
                 </div>
@@ -184,7 +184,7 @@
                 <div class="card ml-3" style="width: 20rem; ">
 
                     <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Cementerio <br> Cemetery </em></h2>
-                    <audio  id="player" src="AudioIngles/lugares/cem.mp3" controls >
+                    <audio  id="player" src="AudioIngles/lugares/ceme.mp3" controls >
                     </audio>
                 </div>
             </div>
@@ -301,7 +301,7 @@
 
                 <div class="card ml-0" style="width: 20rem; ">
 
-                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Panaderia <br> Bakery </em></h2>
+                    <h2 class="container-fluid d-flex justify-content-center"  id="color"><em>Panadería <br> Bakery </em></h2>
                     <audio  id="player" src="AudioIngles/lugares/pana.mp3" controls >
                     </audio>
                 </div>
