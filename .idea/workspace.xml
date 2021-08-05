@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 15 Luz Bonilla">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadFigurasGeometricas.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadFigurasGeometricas.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadFrutasVerduras.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadFrutasVerduras.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadPartesCasa.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadPartesCasa.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadesEmocion.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/ActividadesIngles/actividadesEmocion.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/numeroNaturales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/numeroNaturales.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,14 +222,7 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-      <workItem from="1628189181050" duration="1038000" />
-    </task>
-    <task id="LOCAL-00032" summary="Sprint 7 Hector Lopez">
-      <created>1613781967339</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1613781967339</updated>
+      <workItem from="1628189181050" duration="3476000" />
     </task>
     <task id="LOCAL-00033" summary="Sprint 7 Hector Lopez">
       <created>1613783086696</created>
@@ -571,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626236373017</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Sprint 15 Luz Bonilla">
+      <created>1628190275364</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1628190275365</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,7 +586,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Primer Sprint Techno Team" />
     <MESSAGE value="Sprint1 Sindy" />
     <MESSAGE value="Sprint1 Daniela" />
     <MESSAGE value="Sprint2 Daniela" />
@@ -615,17 +610,22 @@
     <MESSAGE value="Sprint 13 Daniela Mazzoni" />
     <MESSAGE value="Sprint 15 Sindy Galindo" />
     <MESSAGE value="Sprint 15 Daniela Mazzoni" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Daniela Mazzoni" />
+    <MESSAGE value="Sprint 15 Luz Bonilla" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Luz Bonilla" />
   </component>
   <component name="WindowStateProjectService">
     <state x="129" y="54" key="MergeDialog" timestamp="1626363900928">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="54" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1626363900928" />
-    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628189197339">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1628190349120">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1628189197339" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1628190349120" />
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628190245377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1628190245377" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -85,7 +85,7 @@
 <!-- contenedor del gif-->
 <div class="container-fluid" >
     <div class="row ">
-        <div class="col-xl-4 p-2" >
+        <div class="col-xl-4" >
             <img class="mx-auto d-block"  src="https://i.ibb.co/BnBsrtz/arbol-removebg-preview.png"
                 width="300">
         </div>
@@ -113,7 +113,7 @@
 <!-- contenedor de la estrella-->
 <div class="container-fluid  "  >
     <div class="row " >
-        <div class="col-xl-12 p-2">
+        <div class="col-xl-12 pb-5 ">
         <h1 class="text-center" >Aprendamos Cantando</h1>
 
             </div>
@@ -121,7 +121,7 @@
 </div>
 <div class="container-fluid" >
     <div class="row " >
-        <div class="col-xl-12 p-2">
+        <div class="col-xl-12 pb-5">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1wSQtHW0mBUC3g71LIxz8bUD8yq541dJQ/preview"
                         width="400" height="200"></iframe>
@@ -132,9 +132,9 @@
         </div>
     </div>
 </div>
-<div class="container-fluid"  >
+<div class="container-fluid pb-3"  >
     <div class="row" >
-        <div class="col-xl-12 p-2">
+        <div class="col-xl-12 pb-3">
             <h1 class="text-center" >Aprendamos Contando</h1>
 
         </div>
@@ -143,7 +143,7 @@
 
 <div class="container-fluid" >
     <div class="row" >
-        <div class="col-xl-6 pb-2">
+        <div class="col-xl-6 pb-5">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/mX2NvWz/nido.jpg"  width="300">
                 <div class="card-body" id="im">
@@ -158,7 +158,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 pb-2">
+        <div class="col-xl-6 pb-5">
             <div class="card mx-auto d-block" style="width: 20rem;">
                <img class="mx-auto d-block" src="https://i.ibb.co/V221ZVc/nido1.jpg"
                     width="310">
@@ -180,9 +180,9 @@
     </div>
     </div>
 <br>
-<div class="container-fluid" >
+<div class="container-fluid " >
     <div class="row">
-        <div class="col-xl-6 pb-2">
+        <div class="col-xl-6 pb-5">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/LN7N2p3/dos-p-jaros-azules-con-la-ramificaci-n-de-rbol-22763086.jpg"
                      width="300" >
@@ -198,7 +198,7 @@
             </div>
         </div>
 
-        <div class="col-xl-6 pb-2">
+        <div class="col-xl-6 pb-5">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/Bgtd57k/mama-pajaro-sus-dos-bebes-nido-29190-4080.jpg"
                      width="300" >
@@ -220,7 +220,7 @@
 <br>
 <div class="container-fluid" >
     <div class="row">
-        <div class="col-xl-6 pb-2">
+        <div class="col-xl-6 pb-5">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/m4p7NPc/depositphotos-11060922-stock-illustration-bird-family.jpg"
                      width="300" >
@@ -235,7 +235,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 pb-2">
+        <div class="col-xl-6 pb-5">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/HV1Vf18/conjunto-dibujos-animados-coleccion-aves-azules-29190-1865.jpg"
                       width="300"  >
@@ -259,7 +259,7 @@
 
 <div class="container-fluid" >
     <div class="row" >
-        <div class="col-xl-6 pb-2">
+        <div class="col-xl-6 pb-5">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/Pwm4c0N/pajaros-azules-rama-sobre-fondo-blanco-1639-14720.jpg"
                       width="300" >
@@ -274,7 +274,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 pb-2">
+        <div class="col-xl-6 pb-5">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/q9w6QtD/sie.jpg"  width="305" >
                 <div class="card-body">
@@ -296,26 +296,25 @@
 <br>
 <div class="container-fluid" >
     <div class="row" >
-        <div class="col-xl-6 pb-2">
+        <div class="col-xl-6 pb-5">
             <div class="card mx-auto d-block" style="width: 20rem;">
-                <img src="https://i.ibb.co/z42YCm9/aves-cielo-1639-5633.jpg"  width="300" >
+                <img src="https://i.ibb.co/z42YCm9/aves-cielo-1639-5633.jpg"  width="307" >
                 <div class="card-body" id="im">
                     <br><br><br>
-                    <h5 class="text-center">Número Ocho </h5>
+                    <h5 class="card-title">Número Ocho </h5>
                     <br>
                     <p class="text-center"><strong>
                             Símbolo: 8   <br>   Escritura: Ocho
 
                         </strong></p>
-
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 pb-2">
+        <div class="col-xl-6 pb-5">
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/72Cqgqq/nuevv.jpg"  width="300" >
                 <div class="card-body">
-                    <h5 class="text-center">Número Nueve</h5>
+                    <h5 class="card-title">Número Nueve</h5>
 
                     <p class="text-center"><strong>
                             Símbolo: 9 <br> Escritura: Nueve
@@ -334,7 +333,7 @@
 
 <div class="container-fluid " id="banderin" >
     <div class="row " >
-        <div class="col-xl-12 p-2">
+        <div class="col-xl-12">
             <img class="mx-auto d-block" src="https://i.ibb.co/D7L6jV4/tren-removebg-preview.png"
                  height="100" >
         </div>
