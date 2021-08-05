@@ -79,7 +79,7 @@
         <div class="row">
             <div class="col-m-12" style="background: #16A085;">
                 <div >
-                    <h1 style="text-align: center">Actividad Dispositivos hardware</h1>
+                    <h1 style="text-align: center">¡Actividad Dispositivos hardware!</h1>
                 </div>
 
                 <div>

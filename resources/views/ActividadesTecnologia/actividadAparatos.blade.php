@@ -22,7 +22,7 @@
 
         body{
 
-            background: #FDFD96;
+            background:#16A085;
 
         }
 
@@ -73,9 +73,9 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-m-12" style="background: #FDFD96;">
+            <div class="col-m-12" style="background: #16A085;">
                 <div >
-                    <h1 style="text-align: center">¡Actividad apratos electronicos</h1>
+                    <h1 style="text-align: center">¡Actividad apratos electronicos!</h1>
                 </div>
 
                 <div>

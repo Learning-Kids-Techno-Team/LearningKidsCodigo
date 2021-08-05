@@ -22,7 +22,7 @@
 
         body{
 
-            background:  #b3e8ca;
+            background:#16A085;
 
         }
 
@@ -39,6 +39,10 @@
             text-decoration-color: #3B5686;
             text-align: center;
         }
+        h1 {
+            font-family: Brush Script MT;
+            size: 80px;
+        }
 
 
 
@@ -54,9 +58,9 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-m-12 bg-info" >
+            <div class="col-m-12 " style="background: #16A085;" >
                 <div >
-                    <h1 class="text-center">Actividad Partes del Teclado</h1>
+                    <h1 class="text-center">¡Actividad Partes del Teclado!</h1>
                 </div>
 
 
