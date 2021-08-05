@@ -100,7 +100,7 @@
             <img src="https://i.ibb.co/Fw4jCJ5/longuitud-removebg-preview.png"
                  width="300" class="mx-auto d-block "/>
         </div>
-        <div class="col-xl-8 p-2">
+        <div class="col-xl-8 pb-5">
             <h2 class="text-center" >
                 ¿Qué es la longitud?
             </h2>
@@ -121,12 +121,12 @@
 <!-- tarjetas de tipos de figuras geometricas -->
 <div class="container-fluid  " style="background: #f8cfc6 ">
     <div class="row">
-        <div class="col-xl-12 p-2">
+        <div class="col-xl-12 pb-5">
             <h3>La longitud</h3>
         </div>
     </div>
     <div class="row ">
-        <div class="col-xl-6 p-2  ">
+        <div class="col-xl-6 pb-5 ">
             <div class="card mx-auto d-block" style="width: 18rem; background: #d5f5fa">
                 <img src="https://i.ibb.co/dkV8L43/largo-corto.jpg"  width="285"
                      s>
@@ -139,7 +139,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-xl-6 p-2 ">
+        <div class="col-xl-6 pb-5">
             <div class="card mx-auto d-block" style="width: 18rem; background: #d5f5fa">
                 <img src="https://i.ibb.co/g6JY8p6/medidas.jpg"  width="285"
                     >
