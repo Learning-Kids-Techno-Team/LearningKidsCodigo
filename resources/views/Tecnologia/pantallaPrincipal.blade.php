@@ -153,14 +153,16 @@
                 <p>
 
                     <strong><br>
-                        La Tecnología es la combinación de conocimientos y saberes científicos (ciencia) y habilidades (técnica) que aplicados de forma ordenada permiten al ser humano satisfacer sus necesidades o resolver sus problemas.
+                        La Tecnología es la combinación de conocimientos y saberes científicos (ciencia) y habilidades (técnica) que aplicados de forma ordenada permiten al ser humano satisfacer sus necesidades o resolver sus problemas.<br><br>
+                        La Tecnología se define como el conjunto de conocimientos y técnicas que, aplicados de forma lógica y ordenada, permiten al ser humano modificar su entorno material o virtual para satisfacer sus necesidades, esto es, un proceso combinado de pensamiento y acción con la finalidad de crear soluciones útiles.<br>
+                        <br>La tecnología es una respuesta al deseo del hombre de transformar el medio y mejorar su calidad de vida.
                     </strong>
             </div>
         </div>
 
         <!-- titulo de las categorias-->
         <div style="color: #0a6ebd;">
-            <h1 style="text-align: center">Categorias de la clase de tecnología</h1>
+            <h1 style="text-align: center">Categorías de la clase de tecnología</h1>
             <br><br><br>
         </div>
 
