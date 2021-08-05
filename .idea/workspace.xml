@@ -236,14 +236,7 @@
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
       <workItem from="1626363305461" duration="1827000" />
-      <workItem from="1628188346040" duration="1720000" />
-    </task>
-    <task id="LOCAL-00031" summary="Sprint 7 Hector Lopez">
-      <created>1613781785257</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1613781785257</updated>
+      <workItem from="1628188346040" duration="2883000" />
     </task>
     <task id="LOCAL-00032" summary="Sprint 7 Hector Lopez">
       <created>1613781967339</created>
@@ -581,7 +574,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626333204922</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Sprint 17 Hector Lopez">
+      <created>1628190542333</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1628190542334</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -600,7 +600,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Sprint1 Sindy" />
     <MESSAGE value="Sprint1 Daniela" />
     <MESSAGE value="Sprint2 Daniela" />
     <MESSAGE value="Sindy Sprint2" />
@@ -625,7 +624,8 @@
     <MESSAGE value="Sprint 15 Sindy Galindo" />
     <MESSAGE value="Sprint 15 Daniela Mazzoni" />
     <MESSAGE value="Sprint 15 Hector Lopez" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Hector Lopez" />
+    <MESSAGE value="Sprint 17 Hector Lopez" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 17 Hector Lopez" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
