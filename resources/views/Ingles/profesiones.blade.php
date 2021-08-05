@@ -118,7 +118,7 @@
                         <br><br>Un oficio es una actividad laboral que generalmente está vinculada con procesos manuales o artesanales que no requieren estudios formales.
                     </strong></p>
             </div>
-            <div class="col-xl-5 p-4">
+            <div class="col-xl-5 pb-4">
             <img class=" mx-auto d-block" src="https://i.ibb.co/GPCrnNy/1-removebg-preview.png"  width="450" />
             </div>
         </div>
@@ -128,7 +128,7 @@
 
             <div class="container-fluid" >
                 <br><br>
-                <div  class="container-fluid pb-5">
+                <div  class="container-fluid pb-4">
                     <div class="row">
                         <div class="col-xl-12" id="bor" style="background: #FFE4B5">
                             <h1 style="text-align: center">Profesiones/
@@ -142,7 +142,7 @@
         <div class="container-fluid">
          <div class="row" >
         <div class="col-xl-4 pb-4">
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/3p3Bds5/abogado2.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Abogado <br> Lawyer</em></h2>
@@ -153,7 +153,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/QYycnzK/astronautas.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Astronauta <br> Astronaut</em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/Austronauta.mp3" controls >
@@ -162,7 +162,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/GkTNJ1B/dentista2.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Dentista<br> Dentist</em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/dentista.mp3" controls >
@@ -177,7 +177,7 @@
         <div class="container-fluid">
     <div class="row" >
         <div class="col-xl-4 pb-4" >
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/RDR6w5n/piloto2.jpg"    width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Piloto <br> Pilot </em></h2>
@@ -188,7 +188,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/V9YtZt8/enfermera.png"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Enfermera <br> Nurse </em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/Enfermera.mp3" controls >
@@ -197,7 +197,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/3y3bJp4/maestras1.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Maestra<br> Teacher</em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/Maestra.mp3" controls >
@@ -211,7 +211,7 @@
         <div class="container-fluid">
     <div class="row" >
         <div class="col-xl-4 pb-4" >
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/2vqJfzM/doctor.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Doctor <br> Doctor  </em></h2>
@@ -223,7 +223,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/HV1TC0c/artista.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Artista <br> Artist</em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/artista.mp3" controls >
@@ -232,7 +232,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"    src="https://i.ibb.co/ggSZzBH/policia.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Policía<br> Police</em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/policia.mp3" controls >
@@ -245,7 +245,7 @@
         <div class="container-fluid">
     <div class="row" >
         <div class="col-xl-4 pb-4" >
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/xC9TtkH/detective.jpg"    width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Detective <br> Detective  </em></h2>
@@ -256,7 +256,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"    src="https://i.ibb.co/3RqCYXD/arquitecto1.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Arquitecto <br> Architect</em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/arquitecto.mp3" controls >
@@ -265,7 +265,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/d6GqpND/ciemtificos.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Científico<br>  Scientist</em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/cientifico.mp3" controls >
@@ -276,23 +276,20 @@
         </div>
     </div>
 
-        <div class="container-fluid" >
-            <br><br>
-         <div  class="container-fluid pb-5">
-            <div class="row ">
-            <div class="col-xl-12" id="bor" style="background: #FFE4B5"><br><br>
+
+         <div  class="container-fluid pb-4">
+
+            <div class="col-xl-12" id="bor" style="background: #FFE4B5">
                 <h1 style="text-align: center">Ocupaciones/
                     activities </h1>
              </div>
             </div>
-        </div>
-    </div>
 
     <!-- contenedor-->
         <div class="container-fluid ">
     <div class="row" >
         <div class="col-xl-4 pb-4" >
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class=" mx-auto d-block"   src="https://i.ibb.co/Y01ySqT/e06f24ab5255adda2b13f9f0c8288a3e.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Carpintero <br> Carpenter</em></h2>
@@ -304,7 +301,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/gmwMXcZ/taxista.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Taxista <br>  Taxi driver</em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/taxista.mp3" controls >
@@ -313,7 +310,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/vLrcjVw/bombero2.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Bombero<br>  Firefighter</em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/bombero.mp3" controls >
@@ -328,7 +325,7 @@
         <div class="container-fluid">
     <div class="row" >
         <div class="col-xl-4 pb-4" >
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/D9hKC1D/mecanico.jpg"     width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Mecánico <br> Mechanic </em></h2>
@@ -340,7 +337,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/vDBvQwF/granjero.jpg"    width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Granjero <br> Farmer </em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/granjero.mp3" controls >
@@ -349,7 +346,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/KFqvTft/barbero.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Barbero<br>  Barber</em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/barbero.mp3" controls >
@@ -363,7 +360,7 @@
         <div class="container-fluid">
     <div class="row" >
         <div class="col-xl-4 pb-4" >
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/K6WRgv5/peluuero.jpg"  width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Peluquera <br>  Hairdresser  </em></h2>
@@ -375,7 +372,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"    src="https://i.ibb.co/cCzjn9Q/limpieza.jpg"   width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Limpiadora<br> Cleaner</em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/limpiadora.mp3" controls >
@@ -384,7 +381,7 @@
         </div>
         <div class="col-xl-4 pb-4">
             <h2 ><em><br><br></em></h2>
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/pdt3xkZ/pintor1.jpg"    width="300" height="220">
                 <h2 class="mx-auto d-block" id="color"><em>Pintor<br> Painter</em></h2>
                 <audio  id="player" src="AudioIngles/profesiones/pintor.mp3" controls >
