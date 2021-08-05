@@ -74,7 +74,7 @@
                         <img class="mt-5 mx-auto d-block"
 
                              src="https://i.ibb.co/7kFQK40/los-artilugios-electr-nicos-vector-dispositivos-de-las-multimedias-la-electr-nica-pc-tecnolog-a-icon.png"
-                             width="350"  >
+                             width="280"  >
                     </div>
                     <div class="col-xl-5   " style=" background: #98dfb6"  >
                         <br>
@@ -98,9 +98,9 @@
 
 
 
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
+    <div class="row " >
+        <div class="col-md-4 pb-3" >
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class=" mx-auto d-block"   src="https://i.ibb.co/PmMjPt5/png-transparent-template-information-mobile-phone-cartoon-material-business-holding-a-mobile-phone-g.png"   width="300" height="220">
                 <h3 class="mx-auto d-block"><em>Teléfono móvil</em></h3>
@@ -110,10 +110,10 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 pb-3">
 
 
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class="mx-auto d-block"   src="https://image.freepik.com/vector-gratis/ordenador-portatil_53876-43921.jpg" width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Portátil y ordenador de mesa </em></h3>
@@ -121,9 +121,9 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 pb-3">
 
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/WfBjt8p/gratis-png-camara-de-dibujos-animados-fotografia-camara-de-dibujos-animados-removebg-preview.png"  width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Cámara inalámbrica</em></h3>
                 <p style="text-align: justify">Muy empleada tanto en tareas de vigilancia y seguridad como de videoportero para saber quién está llamando. Una cámara inalámbrica es accesible tanto desde un PC, una tablet o un smartphone de manera remota.
@@ -138,9 +138,9 @@
 
 
 
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
+    <div class="row " >
+        <div class="col-md-4 pb-3" >
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/NY8Yvzx/tecnologias-inteligentes-robot-aspirador-piso-blanco-ilustracion-174496-151-removebg-preview.png"    width="300" height="220">
                 <h3 class="mx-auto d-block"><em>Robot aspirador de limpieza </em></h3>
@@ -150,9 +150,9 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 pb-3">
 
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/pRv5h3T/consejos-trucos-comprar-robot-cocina-0-removebg-preview.png"   width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Robot de cocina </em></h3>
                 <p style="text-align: justify">El Internet de las cosas también llega a la cocina. Desde una tablet o el smartphone se puede tanto programar y realizar una comida como saber si falta algún ingrediente que añadir.<br><br><br>
@@ -160,9 +160,9 @@
                 <br><br><br><br><br>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 pb-3">
 
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/dQXzTPd/51-Rj-Kw-Lo1-L-AC-SY355-removebg-preview.png"  width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Enchufes en hogar inteligente</em></h3>
                 <p style="text-align: justify">Quizá uno de los objetos inteligentes más llamativos dentro de la domótica para quienes aún no están puestos en los dispositivos preparados para la Internet de las cosas. Estos aparatos permiten controlar a distancia o programar el uso de los enchufes para adaptarlos a nuestras necesidades. Desde apagar una tele en 15 minutos, o un ventilador o calefactor que deseemos mantener encendido durante un tiempo más.
@@ -175,9 +175,9 @@
 
 
 
- <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
+ <div class="row " >
+        <div class="col-md-4 pb-3 " >
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class=" mx-auto d-block" src="https://i.ibb.co/dfw9bwB/png-clipart-ipad-flat-design-cartoon-business-tablet-pc-cartoon-character-electronics-removebg-previ.png"    width="300" height="220">
                 <h3 class="mx-auto d-block"><em>Tablet </em></h3>
@@ -187,9 +187,9 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 pb-3">
 
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://us.123rf.com/450wm/vvadyabb/vvadyabb1705/vvadyabb170500005/78563222-manos-planas-escribiendo-en-el-teclado-blanco-con-el-rat%C3%B3n-y-el-vector-de-fondo-en-colores-pastel.jpg?ver=6"   width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Teclado inalambrico</em></h3>
                 <p style="text-align: justify">Un teclado inalámbrico funciona exactamente de la misma manera que un mouse inalámbrico; conecta un receptor en uno de los puertos USB de su computadora. Luego, el receptor envía una señal a su teclado a batería.
@@ -197,9 +197,9 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 pb-3">
 
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/wg4K2zQ/icono-conexion-inalambrica-internet-wifi-router-48369-2505-removebg-preview.png"  width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Router</em></h3>
                 <p style="text-align: justify">Un router es un dispositivo de hardware que permite la interconexión de ordenadores en red. El router o enrutador es un dispositivo que opera en capa tres de nivel de 3. Así, permite que varias redes u ordenadores se conecten entre sí y, por ejemplo, compartan una misma conexión de Internet.
@@ -216,9 +216,9 @@
 
 
 
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
+    <div class="row " >
+        <div class="col-md-4 pb-3" >
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class=" mx-auto d-block"  src="https://images.philips.com/is/image/PhilipsConsumer/FM64FD65B_97-IMS-es_PA?$jpglarge$&wid=960"    width="300" height="220">
                 <h3 class="mx-auto d-block"><em>USB</em></h3>
@@ -227,9 +227,9 @@
                 <br><br><br>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 pb-3">
 
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://image.freepik.com/vector-gratis/tv-plasma-noticias-mujer_24877-17142.jpg"   width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>T.V</em></h3>
                 <p style="text-align: justify">Básicamente, un Smart TV es un televisor con un sistema operativo que permite hacer uso de diferentes aplicaciones y conectarse a Internet.
@@ -237,9 +237,9 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 pb-3">
 
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/pro_59061918_3-500x500.jpg"  width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Auriculares bluetooth</em></h3>
                 <p style="text-align: justify">Los auriculares inalámbricos son auriculares que se conectan a un dispositivo, por ejemplo un smartphone, un altavoz estéreo, un televisor, una consola de videojuegos, un ordenador u otro dispositivo electrónico, sin utilizar cables. Los auriculares inalámbricos transmiten la señal de audio por señales de radio o de infrarrojos (IR) dependiendo del dispositivo.
@@ -255,9 +255,9 @@
 
 
 
-    <div class="row m-5" >
-        <div class="col-md-4" >
-            <div class="card" style="width: 20rem;">
+    <div class="row " >
+        <div class="col-md-4 pb-3" >
+            <div class="card mx-auto d-block" style="width: 20rem;">
 
                 <img class=" mx-auto d-block"  src="https://roselin.es/pub/media/catalog/product/cache/26fad7f0116a4604dd5965b833befd85/8/5/85.050.007.1_noapp__1.jpg"    width="300" height="220">
                 <h3 class="mx-auto d-block"><em>Smartwatch</em></h3>
@@ -267,9 +267,9 @@
 
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 pb-3">
 
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block"   src="https://www.get-digital.es/web/getdigital/gfx/products/__generated__resized/1100x1100/SoundLocator-main.jpg"   width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Localizador de llaves</em></h3>
                 <p style="text-align: justify">Uno de los dispositivos tecnológicos de la era digital que solo se valoran cuando se necesitan. Aunque en su caso no es uno de los objetos inteligentes que más destaque, nos puede salvar de más de un apuro. Resulta tan simple como parece, este aparato permite localizar con nuestro smartphone donde se encuentra el localizador – generalmente, llaves o cartera – mediante tecnología Bluetooth, GPS o WiFi.
@@ -279,9 +279,9 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 pb-3">
 
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <img class="mx-auto d-block" src="https://i.blogs.es/b767f5/switch-xbox-one-ps4.jpg.optimal/1366_2000.jpeg"  width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Consola de videojuegos</em></h3>
                 <p style="text-align: justify">consola de videojuegos o videoconsola, que es el dispositivo que ejecuta juegos electrónicos contenidos en discos compactos, cartuchos, tarjetas de memoria u otros formatos.

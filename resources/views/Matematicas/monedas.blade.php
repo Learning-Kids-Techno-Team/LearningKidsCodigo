@@ -167,11 +167,11 @@
             </div>
         </div>
         <div class="col-xl-6 p-2">
-            <h2 ><em><br></em></h2>
+            <h2 ><em></em></h2>
             <div class="card mx-auto d-block" style="width: 25rem;">
                 <br>
                 <img id="im" class="mx-auto d-block" src="https://i.ibb.co/HP6hNh0/unnamed-2.jpg"
-                     width="300" >
+                     width="230" >
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Billetes!</h5>
                     <div class="text-center">
