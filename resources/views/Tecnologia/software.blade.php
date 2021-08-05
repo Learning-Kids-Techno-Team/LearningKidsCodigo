@@ -390,6 +390,7 @@
                 <img class="mx-auto d-block" src="https://i.ibb.co/4NNnXN8/microsoft-word.jpg"   width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Microsoft Word</em></h3>
 
+
             </div>
         </div>
 

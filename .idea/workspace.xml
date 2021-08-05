@@ -21,8 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 15 Luz Bonilla">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/pantallaLongitud.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/pantallaLongitud.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/unidadesCorporales.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/unidadesCorporales.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -619,14 +617,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="129" y="54" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1626363900928" />
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1628192862325">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1628201701356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1628192862325" />
-    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628190245377">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1628201701356" />
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628203529431">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1628190245377" />
+    <state x="500" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1628203529431" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -635,6 +633,11 @@
           <url>file://$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php</url>
           <line>147</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/Tecnologia/teclado.blade.php</url>
+          <line>169</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
