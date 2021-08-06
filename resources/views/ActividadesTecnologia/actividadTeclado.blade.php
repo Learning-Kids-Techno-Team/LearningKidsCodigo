@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <!-- Seguimiento -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-JWFFJETEMQ"></script>
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
@@ -22,7 +23,7 @@
 
         body{
 
-            background:  #b3e8ca;
+            background:#16A085;
 
         }
 
@@ -39,6 +40,10 @@
             text-decoration-color: #3B5686;
             text-align: center;
         }
+        h1 {
+            font-family: Brush Script MT;
+            size: 80px;
+        }
 
 
 
@@ -52,11 +57,16 @@
 
 @section('content')
 
+    <script style="justify-content: center">
+        swal("Hola, ¡Bienvenido(a)  a las actividades!","En la pantalla se mostrará un mensaje que dice:\n¿Deseas continuar por donde dejaste el juego?\ntendrás dos opciones SI(YES) Y NO(NO).Si tu respuesta es SI(YES) la actividad se reiniciará y si eliges la opción NO(NO) Continuará donde lo dejaste.",
+            "info");
+
+    </script>
     <div class="container-fluid">
         <div class="row">
-            <div class="col-m-12 bg-info" >
+            <div class="col-m-12 " style="background: #16A085;" >
                 <div >
-                    <h1 class="text-center">Actividad Partes del Teclado</h1>
+                    <h1 class="text-center">¡Actividad Partes del Teclado!</h1>
                 </div>
 
 

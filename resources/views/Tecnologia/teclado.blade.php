@@ -41,7 +41,7 @@
         #a {
             border: turquoise 50px solid;
             border-image-source: url("https://i.ibb.co/d4SwJPg/mar-removebg-preview.png");
-            border-image-slice: 160;
+            border-image-slice: 100;
             border-image-repeat: round;
 
             padding: 10px;
@@ -57,6 +57,9 @@
             border-top-right-radius: 10px;
 
         }
+        h4{
+            text-align: center;
+        }
 
 
 
@@ -67,13 +70,13 @@
     <!-- contenedor-->
     <div class="container-fluid "  id="c">
         <div class="container-fluid p-5">
-            <div class="col-md-12 " >
+            <div class="col-xl-12 " >
                 <div class="row ml-2 "  >
 
-                    <div class="col-md-7  " style="background: #ffed4a">
+                    <div class="col-xl-7  " style="background: #ffed4a">
                         <img class="mt-5 mx-auto d-block"
                              src="https://i.ibb.co/tZGg9kD/6f3f87bfbbda3fcfd0637d96b54c9504.png"
-                             width="500"  >
+                             width="300"  >
                     </div>
                     <div class="col-xl-5   " style=" background: #ffed4a"  >
                         <br>
@@ -95,20 +98,20 @@
    <div class="container-fluid " >
     <div class="row m-3">
 
-        <div class="col-md-6" >
+        <div class="col-xl-6" >
             <h1 class="text-center"> ¿Sabías qué?</h1>
             <p class="text-center" ><strong>
 
                     <br><br>
-                    Un teclado Tiene entre 101 y 108 teclas aproximadamente y
+                    Un teclado tiene entre 101 y 108 teclas aproximadamente y
                     esta dividido en 4 bloques, como veremos más adelante.
                 </strong></p>
         </div>
 
-        <div class="col-md-6 mb-5" >
+        <div class="col-xl-6 mb-5" >
             <br>
             <img class="mx-auto d-block" src="https://i.ibb.co/YRnsswL/qw-removebg-preview.png"
-                 width="300">
+                 width="200">
 
 
 
@@ -123,7 +126,7 @@
     <h1 class="text-center "  style="background: #D8E2F3" >Tipos de Teclado</h1>
     <div  class="container-fluid">
         <div class="row">
-            <div class="col-md-12 bg-info mt-1">
+            <div class="col-xl-12 bg-info mt-1">
                 <h1 style="text-align: center"></h1>
             </div>
         </div>
@@ -132,7 +135,7 @@
         <div class="row">
             <div class="col-12 mt-3 mb-1 " >
                 <div class="row " >
-            <div class="col-xl-3 col-sm-6 col-12">
+            <div class="col-xl-3 col-sm-6 col-12 mb-5">
                 <br><br>
                 <div class="card" style="background:khaki; border: teal double 8px">
                     <div class="card-content">
@@ -143,7 +146,7 @@
                             </div>
                             <div class="media d-flex">
                                 <div class="align-self-center">
-                                    <img src="https://i.ibb.co/wJFbg0N/haq-removebg-preview.png"
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/wJFbg0N/haq-removebg-preview.png"
                                          width="230">
 
                                     <p class="text-center"> <strong><br>Es un teclado que como su propia palabra dice está diseñado para
@@ -165,7 +168,7 @@
                             </div>
                             <div class="media d-flex">
                                 <div class="align-self-center">
-                                    <img src="https://i.ibb.co/TkjXQ9N/js-removebg-preview.png"  width="250"
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/TkjXQ9N/js-removebg-preview.png"  width="250"
                                          height="200">
                                     <br><br>
                                     <p class="text-center"><strong>Diseñados con teclas especiales que dan
@@ -178,7 +181,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-sm-6 col-12">
+            <div class="col-xl-3 col-sm-6 col-12 mb-5">
                 <br><br>
                 <div class="card"  style="background:khaki; border: teal double 8px">
                     <div class="card-content">
@@ -190,7 +193,7 @@
                             <div class="media d-flex">
                                 <div class="align-self-center">
                                     <br>
-                                    <img src="https://i.ibb.co/ygXR0QH/ja-removebg-preview.png" width="260">
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/ygXR0QH/ja-removebg-preview.png" width="260">
                                     <p class="text-center"><strong> Son aquellos que en lugar de conectar el teclado al ordenador mediante
                                             cables, se conectan con una pequeña antena y transmite la información por
                                             medio de ondas electromagnéticas por el aire. </strong></p>
@@ -201,7 +204,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-3 col-sm-6 col-12">
+            <div class="col-xl-3 col-sm-6 col-12 mb-5">
                 <div class="card"  style="background:khaki; border: teal double 8px">
                     <div class="card-content">
                         <div class="card-body">
@@ -211,7 +214,7 @@
                             </div>
                             <div class="media d-flex">
                                 <div class="align-self-center">
-                                    <img src="https://i.ibb.co/wgTWqzG/ka-removebg-preview.png"
+                                    <img class="mx-auto d-block" src="https://i.ibb.co/wgTWqzG/ka-removebg-preview.png"
                                          width="250" >
                                     <br> <br><br>
                                     <p class="text-center"><strong>Están fabricados con goma siliconada o plástico.
@@ -232,7 +235,7 @@
 
             <div  class="container-fluid">
                 <div class="row">
-                    <div class="col-md-12 bg-info mt-1">
+                    <div class="col-xl-12 bg-info mt-1">
                         <h1 style="text-align: center"></h1>
                     </div>
                 </div>
@@ -244,15 +247,15 @@
     <div class="container-fluid " >
         <div class="row m-3">
 
-            <div class="col-md-6" >
+            <div class="col-xl-6" >
 <br><br><br>
                 <h1 class="text-center">Partes del teclado</h1>
 
             </div>
 
-            <div class="col-md-6 mb-5" >
+            <div class="col-xl-6 mb-5" >
                 <br><br>
-                <img  src="https://i.ibb.co/F3NTqr3/21-removebg-preview.png" width="200">
+                <img class="mx-auto d-block" src="https://i.ibb.co/F3NTqr3/21-removebg-preview.png" width="350">
 
 
 
@@ -262,12 +265,12 @@
     </div>
 
     <!-- contendor imagen  -->
-    <div  class="container-fluid mt-5">
+    <div  class="container-fluid ">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-xl-12 mx-auto d-block">
                 <img class=" mx-auto d-block" style="border: #9561e2 solid 8px"
                      src="https://jsequeiros.com/archivos/computacion/teclado/conocimiento-del-teclado.png"
-                     width="750" />
+                     width="550" />
             </div>
 
         </div>
@@ -281,9 +284,10 @@
             </div>
         </div>
 
-       <div class="container-fluid mt-5">
+       <div class="container-fluid
+">
         <div class="row">
-            <div class="col-xl-6 col-md-12"  >
+            <div class="col-xl-6 col-xl-12"  >
 
                 <div class="card overflow-hidden" style="background:     #f5f5f5 ; border: greenyellow dashed 8px">
                     <div class="card-content">
@@ -306,7 +310,7 @@
                 </div>
             </div>
 
-            <div class="col-xl-6 col-md-12">
+            <div class="col-xl-6 col-xl-12">
                 <br><br>
                 <div class="card" style="background:     #f5f5f5 ; border: greenyellow dashed 8px">
                     <div class="card-content">
@@ -338,7 +342,7 @@
 
     <div class="container-fluid mt-5">
         <div class="row">
-            <div class="col-xl-6 col-md-12"  >
+            <div class="col-xl-6 col-xl-12"  >
                 <div class="card overflow-hidden" style="background:     #f5f5f5 ; border: greenyellow dashed 8px">
                     <div class="card-content">
                         <div class="card-body cleartfix">
@@ -361,7 +365,7 @@
                 </div>
             </div>
 
-            <div class="col-xl-6 col-md-12">
+            <div class="col-xl-6 col-xl-12">
                 <br><br>
                 <div class="card" style="background:     #f5f5f5 ; border: greenyellow dashed 8px">
                     <div class="card-content">
@@ -376,7 +380,7 @@
                                          width="205">
 
                                     <p class="text-center"> <strong>
-                                            En Windows la tecla Pausa no tiene ningún uso como interruptora de procesos.
+                                            En Windows la tecla pausa no tiene ningún uso como interruptora de procesos.
 
                                         </strong></p>
                                 </div>
@@ -392,15 +396,15 @@
 
 
     <div class="row">
-        <div class="col-12 mt-3 mb-1">
-            <h1 class="text-center">Bloque alfanumérico </h1>
+        <div class="col-12 mt-3 mb-1 ">
+            <h1 class="text-center mt-5">Bloque alfanumérico </h1>
 
         </div>
     </div>
 
     <div class="container-fluid mt-5">
         <div class="row">
-            <div class=" col-md-12"  >
+            <div class=" col-xl-12 "  >
                 <div class="card overflow-hidden"style="background:lightgray; border: greenyellow solid 8px">
                     <div class="card-content">
                         <div class="card-body cleartfix">
@@ -429,14 +433,14 @@
 
     <div class="row">
         <div class="col-12 mt-3 mb-1">
-            <h1 class="text-center">Bloque especial </h1>
+            <h1 class="text-center mt-5">Bloque especial </h1>
 
         </div>
     </div>
 
     <div class="container-fluid mt-5">
         <div class="row">
-            <div class=" col-md-12"  >
+            <div class=" col-xl-12"  >
                 <div class="card overflow-hidden" style="background:lightgray; border: greenyellow solid 8px">
                     <div class="card-content">
                         <div class="card-body cleartfix">
@@ -467,7 +471,7 @@
 
     <div class="row">
         <div class="col-12 mt-3 mb-1">
-            <h1 class="text-center">Bloque Numerico </h1>
+            <h1 class="text-center mt-5">Bloque Numérico </h1>
 
         </div>
     </div>
@@ -475,7 +479,7 @@
 
     <div class="container-fluid mt-5">
         <div class="row">
-            <div class=" col-md-12"  >
+            <div class=" col-xl-12"  >
                 <div class="card overflow-hidden" style="background:lightgray; border: greenyellow solid 8px">
                     <div class="card-content">
                         <div class="card-body cleartfix">
@@ -511,19 +515,17 @@
 
 
     <div class="container-fluid " >
-        <div class="row m-3">
+        <div class="row">
 
-            <div class="col-md-6 mb-5" >
+            <div class="col-xl-6 mb-5" >
                 <br><br>
                 <img class="mx-auto d-block  "  src="https://i.ibb.co/JdZjZzP/dd.jpg"
-                     width="330">
-
-
+                     width="300">
 
             </div>
             <div class="col-md-6" >
 <br><br>
-                <h1 class="text-left">Atajos del teclado</h1>
+                <h1 class="text-center">Atajos del teclado</h1>
 
             </div>
 
@@ -532,11 +534,11 @@
         </div>
     </div>
 
-    <div class="row m-5 d-flex justify-content-center" >
+    <div class="row" >
 
-        <div class="col-md-4">
+        <div class="col-xl-4 pb-3 ">
 
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
 
                 <img class="mx-auto d-block" src="https://i.ibb.co/Gv9WJKm/co1.jpg"    width="150" height="150">
@@ -546,10 +548,9 @@
             </div>
         </div>
 
-        <div class="col-md-4">
-            <br><br>
+        <div class="col-xl-4 pb-3 ">
 
-            <div class="card" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/h8YXxWL/ctrlv.jpg"    width="150" height="150">
                 <br>
@@ -557,11 +558,10 @@
 
             </div>
         </div>
-        <div class="col-md-4">
-            <br><br><br><br>
+        <div class="col-xl-4 pb-3">
 
-            <div class="card" style="width: 20rem;">
-                <br>
+            <div class="card mx-auto d-block" style="width: 20rem;">
+                 <br>
                 <img class="mx-auto d-block"  src="https://i.ibb.co/fv9hgQG/asz.jpg"  width="150" height="150">
                 <br>
                 <h4>Deshacer el último cambio</h4>
@@ -572,10 +572,10 @@
     </div>
     </div>
 
-    <div class="row m-5 d-flex justify-content-center" >
-        <div class="col-md-4">
-            <br><br><br><br><br>
-            <div class="card" style="width: 20rem;">
+    <div class="row" >
+        <div class="col-xl-4 pb-3">
+
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
 
                 <img class="mx-auto d-block" src="https://i.ibb.co/crxD7sP/fs.jpg"    width="150" height="150">
@@ -584,9 +584,9 @@
 
             </div>
         </div>
-        <div class="col-md-4">
-<br><br><br>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 pb-3 ">
+
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/VpcbyX6/cs.png"    width="150" height="150">
                 <br>
@@ -594,9 +594,9 @@
 
             </div>
         </div>
-        <div class="col-md-4">
-<br>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-4 pb-3 ">
+
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img class="mx-auto d-block"  src="https://i.ibb.co/VjsNdS0/aa.jpg"  width="150" height="150">
                 <br>
@@ -609,15 +609,15 @@
     </div>
 
 
-    <div class="container-fluid  d-flex justify-content-center">
+    <div class="container-fluid ">
         <div class="row ">
-        <div class="col-md-12">
-            <br>
-            <div class="card" style="width: 20rem;">
+        <div class="col-xl-12 pb-3 ">
+
+            <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img class="mx-auto d-block"   src="https://i.ibb.co/W3DsLL2/Ctrp.png"   width="150" height="150">
 
-                <h3 class="text-center">Nos abre una vista previa de la impresión del documento.</h3>
+                <h4 class="text-center">Nos abre una vista previa de la impresión del documento.</h4>
 
             </div>
         </div>

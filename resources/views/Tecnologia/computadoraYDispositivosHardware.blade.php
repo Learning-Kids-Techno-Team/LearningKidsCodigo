@@ -55,24 +55,25 @@
 
 
         h1{
-            font-family: Brush Script MT;
+            font-family: bold, Georgia;
             size: 80px;
-            color: #d6e9f9;
+
 
         }
         h3{
-            font-style:italic;
+            font-family:bold, Georgia;
 
 
         }
         h4{
             text-decoration-color: #16A085;
             text-align: center;
+            font-family:bold, Georgia;
         }
         h2{
             text-align: center;
-            color: #16A085;
-            font-family: bold;
+
+            font-family:bold, Georgia;
         }
         #bor{
             border: #16A085 5px dashed;
@@ -84,7 +85,7 @@
         }
 
         h5{
-            font-family: bold;
+            font-family:bold, Georgia;
             padding-top: 20px;
             text-align: center;
         }
@@ -105,19 +106,19 @@
     <!-- contenedor-->
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12" style="background:#16A085">
+            <div class="col-xl-12" style="background:#16A085">
                 <div class="row ml-5 mr-5">
                     <div class="col-md-7  mt-5" style="background: #CCDDCC">
                         <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/j3NBsVS/compu-removebg-preview.png"     width="500"  >
                     </div>
 
                     <div class="col-xl-5  mt-5 " style=" background: #ABEBC6"  >
-                        <h4 style="color: #3B5686">Tecnología</h4>
-                        <h3 class="mt-5" style="text-align: center">Computadora y sus dispositivos hardware</h3>
-                        <p class="" id="pa"> <em>  El hardware (equipo) es la parte fisica de la computadora que componen el ordenador, posibilitando el funcionamiento y complementando el software. .
-                            </em><br>
+                        <br><br><h4>Tecnología</h4>
+                        <h3 class="mt-5" style="text-align: center"><br>Computadora y sus dispositivos hardware</h3>
+                        <p class="" id="pa">  <br>El hardware (equipo) es la parte fisica de la computadora que componen el ordenador, posibilitando el funcionamiento y complementando el software.<br><br>
+                            El hardware, equipo o soporte físico​ en informática se refiere a las partes físicas, tangibles, de un sistema informático, sus componentes eléctricos, electrónicos, electromecánicos y mecánicos.​
+                            <br>
 
-                            </em>
                         </p>
                     </div>
                 </div>
@@ -129,7 +130,7 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-7 mt-5">
+            <div class="col-xl-7 mt-5">
                 <h2>
                     ¿Por qué es importante aprender el nombre de los dispositivos hardware?
                 </h2>
@@ -142,7 +143,7 @@
             </div>
 
 
-            <div class="col-md-5">
+            <div class="col-xl-5">
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/9qbrkWc/compu2-removebg-preview.png" width="450" />
             </div>
         </div>
@@ -152,16 +153,16 @@
 
     <div  class="container-fluid">
         <div class="row">
-            <div class="col-md-12  mb-5" style="background: #16A085">
+            <div class="col-xl-12  mb-5" style="background: #16A085">
                 <h1 style="text-align: center">Dispositivos Hardware </h1>
             </div>
         </div>
     </div>
 
 
-    <div class="container-fluid mb-5">
+    <div class="container-fluid ">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Monitor
 
@@ -172,7 +173,7 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/SfYtRp1/monitor-removebg-preview.png"  width="300" >
             </div>
         </div>
@@ -182,7 +183,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Teclado
 
@@ -193,7 +194,7 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/FHQ3fRK/teclado-removebg-preview.png"    width="300" >
             </div>
         </div>
@@ -202,7 +203,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Mouse
 
@@ -213,7 +214,7 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/6ZRPqxr/mouse-removebg-preview.png"    width="300" >
             </div>
         </div>
@@ -222,7 +223,7 @@
 
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Impresora
 
@@ -232,14 +233,14 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/qFq6v2W/impresora-removebg-preview.png"     width="300" >
             </div>
         </div>
     </div>
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     Disquete
 
@@ -249,14 +250,14 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/MRKGTB4/disquete-removebg-preview.png"     width="200" >
             </div>
         </div>
     </div>
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                      Memoria USB
 
@@ -266,14 +267,14 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/RDrjs9K/usb-removebg-preview.png"     width="150" >
             </div>
         </div>
     </div>
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     CD-ROM
 
@@ -282,14 +283,14 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/0D02DFK/cd-removebg-preview.png"    width="300" >
             </div>
         </div>
     </div>
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     DVD
 
@@ -298,14 +299,14 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/mTxC1JH/dvd-removebg-preview.png"   width="300" >
             </div>
         </div>
     </div>
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     SD
 
@@ -314,14 +315,14 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/cksgpVk/sd-removebg-preview.png"     width="300" >
             </div>
         </div>
     </div>
     <div class="container-fluid mb-5">
         <div class="row">
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <h2>
                     CPU
 
@@ -332,7 +333,7 @@
 
                 </p>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6">
                 <img class="mx-auto d-block" src="https://i.ibb.co/1ztr7ry/cpu-removebg-preview.png"      width="300" >
             </div>
         </div>
