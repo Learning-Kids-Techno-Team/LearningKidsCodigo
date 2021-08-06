@@ -113,7 +113,7 @@
         <div class="row" >
             <div class="col-xl-7 pb-5"><br><br>
                 <h2>
-                    Profesiones y oficios en ingles y español / <br>Professions and trades in English and Spanish
+                    Profesiones y oficios en inglés y español / <br>Professions and trades in English and Spanish
                 </h2>
                 <p>
                     <strong><br>El concepto de profesión se refiere al empleo o trabajo que alguien ejerce y por el que recibe una retribución económica.

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -25,9 +28,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 17 Sindy Galindo">
+    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 15 Daniela Mazzoni">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/lugarCiudad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/lugarCiudad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/familiaMiembros.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/familiaMiembros.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,6 +232,34 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
+    </task>
+    <task id="LOCAL-00032" summary="Sprint 7 Hector Lopez">
+      <created>1613781967339</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1613781967339</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Sprint 7 Hector Lopez">
+      <created>1613783086696</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1613783086696</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Sprint 7 Daniela Mazzoni">
+      <created>1613865948130</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1613865948130</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Sprint 7 Daniela Mazzoni">
+      <created>1613866595269</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1613866595269</updated>
     </task>
     <task id="LOCAL-00036" summary="Sprint 7 Daniela Mazzoni">
       <created>1614024138008</created>
@@ -530,49 +562,21 @@
       <option name="project" value="LOCAL" />
       <updated>1626233705256</updated>
     </task>
-    <task id="LOCAL-00079" summary="Sprint 15 Sindy Galindo">
-      <created>1626250047780</created>
+    <task id="LOCAL-00079" summary="Sprint 15 Daniela Mazzoni">
+      <created>1626235744509</created>
       <option name="number" value="00079" />
       <option name="presentableId" value="LOCAL-00079" />
       <option name="project" value="LOCAL" />
-      <updated>1626250047780</updated>
+      <updated>1626235744509</updated>
     </task>
-    <task id="LOCAL-00080" summary="Sprint 15 Sindy Galindo">
-      <created>1626254214396</created>
+    <task id="LOCAL-00080" summary="Sprint 15 Daniela Mazzoni">
+      <created>1626236373017</created>
       <option name="number" value="00080" />
       <option name="presentableId" value="LOCAL-00080" />
       <option name="project" value="LOCAL" />
-      <updated>1626254214396</updated>
+      <updated>1626236373017</updated>
     </task>
-    <task id="LOCAL-00081" summary="Sprint 17 Sindy Galindo">
-      <created>1628141905334</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1628141905337</updated>
-    </task>
-    <task id="LOCAL-00082" summary="Sprint 17 Sindy Galindo">
-      <created>1628222983422</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1628222983422</updated>
-    </task>
-    <task id="LOCAL-00083" summary="Sprint 17 Sindy Galindo">
-      <created>1628224952392</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1628224952392</updated>
-    </task>
-    <task id="LOCAL-00084" summary="Sprint 17 Sindy Galindo">
-      <created>1628227171957</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1628227171957</updated>
-    </task>
-    <option name="localTasksCounter" value="85" />
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -591,6 +595,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primer Sprint Techno Team" />
     <MESSAGE value="Sprint1 Sindy" />
     <MESSAGE value="Sprint1 Daniela" />
     <MESSAGE value="Sprint2 Daniela" />
@@ -613,9 +618,19 @@
     <MESSAGE value="Sprint 11 Luz Bonilla" />
     <MESSAGE value="Sprint 13 Luz Bonilla" />
     <MESSAGE value="Sprint 13 Daniela Mazzoni" />
-    <MESSAGE value="Sprint 15 Daniela Mazzoni" />
     <MESSAGE value="Sprint 15 Sindy Galindo" />
-    <MESSAGE value="Sprint 17 Sindy Galindo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sprint 17 Sindy Galindo" />
+    <MESSAGE value="Sprint 15 Daniela Mazzoni" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sprint 15 Daniela Mazzoni" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php</url>
+          <line>149</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

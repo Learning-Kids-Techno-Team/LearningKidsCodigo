@@ -117,10 +117,12 @@
     <!-- contenedor text-->
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12" style="background: #fff6af ">
+            <div class="col-xl-12" style="background: #fff6af ">
                 <div class="row ml-5 mr-5">
                     <div class="col-md-7  mt-5" style="background: #DCFECB">
-                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/rvjchTH/afami-removebg-preview-2.png">
+                        <br><br><br><br>
+                        <img class=" mx-auto d-block" src="https://i.ibb.co/rvjchTH/afami-removebg-preview-2.png"
+                        width="300">
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                         <h4  class="mt-5" style="color: #3B5686"><em>Inglés</em></h4>
@@ -144,28 +146,39 @@
 
 
     <!-- contenedor miembros familia-->
-    <div class="container-fluid mt-5"><h2 class="mt-5"><strong><em>¡Miembros de la familia en inglés!</em></strong></h2><br>
-            <div class="row m-3">
-                <div class="col-md-4">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/R0styB9/muj-removebg-preview.png" width="350" height="250">
-                <h2 class="mt-5">
-                    Madre: <strong>mother</strong>
-                </h2>
-                    <audio  id="player" src="AudioIngles/miembro/madre.mp3" controls >
-                    </audio>
+    <div class="container-fluid">
+        <br>
+        <h2 ><strong><em>¡Miembros de la familia en inglés!</em></strong></h2><br>
+            <div class="row ">
+                <div class="col-xl-4 p-2">
+                    <br>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/R0styB9/muj-removebg-preview.png" width="350"
+                        >
+                    <h2 class="text-center">
+                        Madre: <strong>mother</strong>
+                        <audio  id="player" src="AudioIngles/miembro/madre.mp3" controls >
+                        </audio>
+
+                    </h2>
+
+
             </div>
-                <div class="col-md-4">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/k14MGmK/papa-removebg-preview.png" width="350" height="250">
-                    <h2 class="mt-5">
+                <div class="col-xl-4 p-2">
+                    <br>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/k14MGmK/papa-removebg-preview.png" width="350"
+                       >
+                    <h2 class="text-center">
                         Padre: <strong>father</strong>
                         <audio  id="player" src="AudioIngles/miembro/padre.mp3" controls >
                         </audio>
                     </h2>
 
                 </div>
-                <div class="col-md-4">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/Sv31ckh/tni-a3-removebg-preview.png" width="350" height="250">
-                    <h2 class="mt-5">
+                <div class="col-xl-4 p-2">
+                    <br>
+                    <img class="mx-auto d-block" src="https://i.ibb.co/Sv31ckh/tni-a3-removebg-preview.png" width="350"
+                         >
+                    <h2 class="text-center">
                         Hija: <strong>daughter</strong>
                         <audio  id="player" src="AudioIngles/miembro/hija.mp3" controls >
                         </audio>
@@ -176,101 +189,145 @@
     </div>
 
     <!-- contenedor miembros familia-->
-    <div class="container-fluid mt-5">
-        <div class="row m-3">
-            <div class="col-md-4">
-                <img class="mx-auto d-block" src="https://i.ibb.co/gtt8fdr/ni-2-removebg-preview.png" width="350" height="250">
-                <h2 class="mt-5">
-                   Hijo: <strong>son</strong>
+    <div class="container-fluid">
+        <br>
+
+        <div class="row ">
+            <div class="col-xl-4 p-2">
+                <img class="mx-auto d-block" src="https://i.ibb.co/gtt8fdr/ni-2-removebg-preview.png" width="350"
+                >
+                <div class="text-center">
+                <h2 class="text-center">
+                    Hijo: <strong>son</strong>
+
                 </h2>
+
                 <audio  id="player" src="AudioIngles/miembro/hijo.mp3" controls >
                 </audio>
+                </div>
             </div>
-            <div class="col-md-4">
-                <img class="mx-auto d-block" src="https://i.ibb.co/S6b3kwX/bebe-removebg-preview.png" width="230" height="170">
-                <h2 class="mt-5">
+
+            <div class="col-xl-4 p-2">
+
+                <img class="mx-auto d-block" src="https://i.ibb.co/S6b3kwX/bebe-removebg-preview.png" width="280">
+
+                <div class="text-center">
+
+                <h2 class="text-center">
                     Bebé: <strong>baby</strong>
                 </h2>
                 <audio  id="player" src="AudioIngles/miembro/bebe.mp3" controls >
                 </audio>
+
+                </div>
             </div>
-            <div class="col-md-4">
-                <img class="mx-auto d-block" src="https://i.ibb.co/rZrw3jM/abu-removebg-preview.png" width="300" height="250">
-                <h2 class="mt-5">
+
+            <div class="col-xl-4 p-2">
+                <img class="mx-auto d-block" src="https://i.ibb.co/rZrw3jM/abu-removebg-preview.png" width="220"
+                    >
+                <div class="text-center">
+                <h2 class="text-center">
                     Abuela: <strong>grandmother</strong>
                 </h2>
                 <audio  id="player" src="AudioIngles/miembro/abuela.mp3" controls >
                 </audio>
+                </div>
             </div>
         </div>
     </div>
 
     <!-- contenedor miembros familia-->
-    <div class="container-fluid mt-5">
-        <div class="row m-3">
-            <div class="col-md-4">
-                <img class="mx-auto d-block" src="https://i.ibb.co/vdZF9s0/felizni-a-removebg-preview.png" width="300" height="220">
-                <h2 class="mt-5">
+    <div class="container-fluid ">
+        <div class="row ">
+            <div class="col-xl-4 p-2">
+                <br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/vdZF9s0/felizni-a-removebg-preview.png" width="300"
+                     >
+                <div class="text-center">
+                <h2 class="text-center">
                     Nieta: <strong>granddaughter</strong>
                 </h2>
                 <audio  id="player" src="AudioIngles/miembro/nieta.mp3" controls >
                 </audio>
+                </div>
             </div>
-            <div class="col-md-4">
-                <img class="mx-auto d-block" src="https://i.ibb.co/hmZ1LB1/abue-removebg-preview.png"  width="350" height="250">
-                <h2 class="mt-5" >
+            <div class="col-xl-4 p-2">
+                <br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/hmZ1LB1/abue-removebg-preview.png"  width="305"
+                     >
+                <div class="text-center">
+                <h2 class="text-center" >
                     Abuelo: <strong>grandfather</strong>
+                    <audio  id="player" src="AudioIngles/miembro/abuelo.mp3" controls >
+                    </audio>
                 </h2>
-                <audio  id="player" src="AudioIngles/miembro/abuelo.mp3" controls >
-                </audio>
+
+                </div>
             </div>
-            <div class="col-md-4">
-                <img class="mx-auto d-block" src="https://i.ibb.co/x8rLVB7/ni-ofeliz-removebg-preview.png" width="300" height="220">
-                <h2 class="mt-5">
+            <div class="col-xl-4 p-2">
+                <br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/x8rLVB7/ni-ofeliz-removebg-preview.png" width="300"
+                     >
+                <div class="text-center">
+                <h2 class="text-center">
                     Nieto: <strong>grandson</strong>
                 </h2>
                 <audio  id="player" src="AudioIngles/miembro/nieto.mp3" controls >
                 </audio>
+                </div>
             </div>
         </div>
     </div>
 
 
     <!-- contenedor miembros familia-->
-    <div class="container-fluid mt-5">
-        <div class="row m-3">
-            <div class="col-md-4">
-                <img class="mx-auto d-block" src="https://i.ibb.co/GCgzYk8/mother-removebg-preview.png" width="350" height="250">
-                <h2 class="mt-5">
+    <div class="container-fluid ">
+        <div class="row ">
+            <div class="col-xl-4 p-2">
+                <img class="mx-auto d-block" src="https://i.ibb.co/GCgzYk8/mother-removebg-preview.png" width="350"
+                    >
+                <div class="text-center">
+                <h2 class="text-center">
                     Tia: <strong>aunt</strong>
                 </h2>
                 <audio  id="player" src="AudioIngles/miembro/tia.mp3" controls >
                 </audio>
+                </div>
             </div>
-            <div class="col-md-4">
-                <img class="mx-auto d-block" src="https://i.ibb.co/LgZzHyN/tio-removebg-preview.png" width="350" height="250">
-                <h2 class="mt-5">
+            <div class="col-xl-4 p-2">
+                <br><br><br><br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/LgZzHyN/tio-removebg-preview.png" width="350"
+                     >
+                <div class="text-center">
+                <h2 class="text-center">
                     Tio: <strong>uncle</strong>
                 </h2>
                 <audio  id="player" src="AudioIngles/miembro/tio.mp3" controls >
                 </audio>
+                </div>
             </div>
-            <div class="col-md-4">
-                <img class="mx-auto d-block" src="https://i.ibb.co/hfJfc7x/prii-removebg-preview.png" width="350" height="250">
-                <h2 class="mt-5">
+            <div class="col-xl-4 p-2" >
+                <img class="mx-auto d-block" src="https://i.ibb.co/hfJfc7x/prii-removebg-preview.png" width="349"
+                     >
+                <div class="text-center">
+                <h2 class="text-center">
                     Primo/a: <strong>cousin</strong>
                 </h2>
                 <audio  id="player" src="AudioIngles/miembro/primo.mp3" controls >
                 </audio>
+                </div>
             </div>
         </div>
     </div>
 
 
     <!-- contenedor tree-->
-    <div class="container-fluid mt-5 "><h2 class="mt-5"><strong><em>¡El parentesco en inglés!</em></strong></h2>
+    <div class="container-fluid  ">
+        <br><br>
+        <h2 class="text-center"><strong><em>¡El parentesco en inglés!</em></strong></h2>
+        <br>
             <div class="row m-3">
-                <div class="col-md-12" style="background: #DCFECB">
+                <div class="col-xl-12 p-2" style="background: #DCFECB">
                     <p style="text-align: center">
                         <br>El árbol genealógico <strong><em>family tree:</em></strong>
                         <br>es como se distribuye cada miembro familiar dentro del marco de la familia y se define el parentesco.
@@ -279,17 +336,20 @@
                     </p>
                 </div>
 
-                <div class="col-md-12 mb-5" style="background: #DCFECB ">
-                    <img class="mx-auto d-block" src="https://i.ibb.co/Y0C4n73/image001.jpg" >
+                <div class="col-xl-12 mb-5" style="background: #DCFECB ">
+                    <img class="mx-auto d-block" src="https://i.ibb.co/Y0C4n73/image001.jpg"
+                    width="350">
+                    <br>
                 </div>
              </div>
     </div>
 
 
     <!-- contenedor vocabulario-->
-    <div class="container-fluid mt-5 "><h2 class="mt-5"><strong><em>¡Vocabulario de parentesco en inglés!</em></strong></h2>
+    <div class="container-fluid  ">
+        <h2 class="text-center"><strong><em>¡Vocabulario de parentesco en inglés!</em></strong></h2>
         <div class="row m-3">
-            <div class="col-md-6" style="background: #DCFECB"><strong>
+            <div class="col-xl-6 p-2" style="background: #DCFECB"><strong>
                 <ul id="lt">
                     <li>Parents: padres</li>
                     <li>Children: niños</li>
@@ -308,27 +368,32 @@
                 </ul></strong>
             </div>
 
-            <div class="col-md-6 mb-5">
-                <img class="rounded-circle mx-auto d-block bg-info mt-5" src="https://i.ibb.co/2ctGX3w/app-removebg-preview.png" width="400" height="300">
+            <div class="col-xl-6 p-2">
+                <br><br><br>
+                <img class="rounded-circle mx-auto d-block bg-info mt-5" src="https://i.ibb.co/2ctGX3w/app-removebg-preview.png"
+                     width="350" >
+                <br>
                 <h2><em>Audio pronunciación en inglés</em></h2><br>
+                <div class="text-center">
                 <audio  id="player" src="AudioIngles/miembro/vocabulario.mp3" controls >
                 </audio>
+                </div>
             </div>
         </div>
     </div>
 
 
     <!-- Video -->
-    <div  class="container-fluid mt-5">
+    <div  class="container-fluid ">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-xl-12 p-2">
                 <h2 style="text-align: center"><strong><em>
                     Y ahora vamos a ver un video para aprender la correcta pronunciación de cada uno
                     <br>de los miembros de la familia en inglés con esta divertida canción. ¡Vamos a cantar!
                     <br></em></strong>
                 </h2>
                 <iframe id="bord" class="mx-auto d-block" src="https://drive.google.com/file/d/1WvuKz2iEvOk5uS637kswIGsE6U8uOKHq/preview"
-                        width="670" height="390"></iframe>
+                        width="350" ></iframe>
             </div>
 
         </div>
