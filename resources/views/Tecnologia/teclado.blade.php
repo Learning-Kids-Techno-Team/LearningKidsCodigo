@@ -265,12 +265,12 @@
     </div>
 
     <!-- contendor imagen  -->
-    <div  class="container-fluid mt-5">
+    <div  class="container-fluid ">
         <div class="row">
-            <div class="col-xl-12">
+            <div class="col-xl-12 mx-auto d-block">
                 <img class=" mx-auto d-block" style="border: #9561e2 solid 8px"
                      src="https://jsequeiros.com/archivos/computacion/teclado/conocimiento-del-teclado.png"
-                     width="400" />
+                     width="550" />
             </div>
 
         </div>
@@ -284,9 +284,10 @@
             </div>
         </div>
 
-       <div class="container-fluid mt-5">
+       <div class="container-fluid
+">
         <div class="row">
-            <div class="col-xl-6 col-md-12"  >
+            <div class="col-xl-6 col-xl-12"  >
 
                 <div class="card overflow-hidden" style="background:     #f5f5f5 ; border: greenyellow dashed 8px">
                     <div class="card-content">
@@ -309,7 +310,7 @@
                 </div>
             </div>
 
-            <div class="col-xl-6 col-md-12">
+            <div class="col-xl-6 col-xl-12">
                 <br><br>
                 <div class="card" style="background:     #f5f5f5 ; border: greenyellow dashed 8px">
                     <div class="card-content">
@@ -341,7 +342,7 @@
 
     <div class="container-fluid mt-5">
         <div class="row">
-            <div class="col-xl-6 col-md-12"  >
+            <div class="col-xl-6 col-xl-12"  >
                 <div class="card overflow-hidden" style="background:     #f5f5f5 ; border: greenyellow dashed 8px">
                     <div class="card-content">
                         <div class="card-body cleartfix">
@@ -364,7 +365,7 @@
                 </div>
             </div>
 
-            <div class="col-xl-6 col-md-12">
+            <div class="col-xl-6 col-xl-12">
                 <br><br>
                 <div class="card" style="background:     #f5f5f5 ; border: greenyellow dashed 8px">
                     <div class="card-content">
