@@ -86,13 +86,13 @@
     <!-- contenedor-->
     <div class="container-fluid mt-5"  >
         <div class="row">
-            <div class="col-md-12"  >
+            <div class="col-xl-12">
                 <div class="row ml-5 mr-5" id="borde" >
-                    <div class="col-md-4  " style="background: #FDFD96" >
-                        <img class="mt-4 pl-3 "    src="https://i.ibb.co/yVLFJgj/ciudad.png"  width="450"  >
+                    <div class="col-xl-5  " style="background: #FDFD96" >
+                        <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/yVLFJgj/ciudad.png"  width="320"  >
                         <br><br>
                     </div>
-                    <div class="col-sm-8 " style=" background: #FDFD96;" >
+                    <div class="col-xl-7 " style=" background: #FDFD96;" >
 
 
                         <h3 class="mt-5" style="text-align: center; ">Lugares en la Ciudad</h3>
@@ -106,15 +106,15 @@
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
-
 
     <div class="container-fluid  center-block pl-5" >
         <br><br>
         <div class="container-fluid d-flex justify-content-center  " >
             <div class="row p-5 ">
-                <div class="col-md-12  " id="bor" style="background: lightgreen ">
+                <div class="col-xl-12  " id="bor" style="background: lightgreen ">
 
                     <h3>Edificios y Lugares en la Ciudad en Inglés Y Español – Buildings and Places in the city
                     </h3>
@@ -126,7 +126,7 @@
     <!-- contenedores-->
     <div class="container-fluid" id="color">
         <div class="row ">
-            <div class="col-md-4 pl-5"><br>
+            <div class="col-xl-4 pl-5"><br>
                 <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/Cnnfnp3/supe.jpg" width="310" height="200"/><br>
 
                 <div class="card ml-0" style="width: 20rem; ">
@@ -139,7 +139,7 @@
             </div>
 
 
-            <div class="col-md-4 pl-5"><br><br><br><br><br>
+            <div class="col-xl-4 pl-5"><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/Tq2y1Lf/escue.jpg"   width="310" height="200"/><br>
 
                 <div class="card ml-3" style="width: 20rem; ">
@@ -149,7 +149,7 @@
                     </audio>
                 </div>
             </div>
-            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br><br>
+            <div class="col-xl-4  pl-5 "><br><br><br><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/r4t428V/mer.jpg"  width="300" height="200"/><br>
                 <div class="card ml-4  " style="width: 20rem; ">
 
@@ -166,7 +166,7 @@
     <!-- contenedores-->
     <div class="container-fluid" id="color">
         <div class="row ">
-            <div class="col-md-4 pl-5"><br>
+            <div class="col-xl-4 pl-5"><br>
                 <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/y52s5c7/igle.jpg"  width="310" height="200"/><br>
 
                 <div class="card ml-0" style="width: 20rem; ">
@@ -178,7 +178,7 @@
             </div>
 
 
-            <div class="col-md-4 pl-5"><br><br><br><br><br>
+            <div class="col-xl-4 pl-5"><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/xFpDGT6/ceme.jpg"  width="310" height="200"/><br>
 
                 <div class="card ml-3" style="width: 20rem; ">
@@ -188,7 +188,7 @@
                     </audio>
                 </div>
             </div>
-            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+            <div class="col-xl-4  pl-5 "><br><br><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/ftFDDK4/monu.jpg"   width="300" height="200"/><br>
                 <div class="card ml-4  " style="width: 20rem; ">
 
@@ -204,7 +204,7 @@
     <!-- contenedores-->
     <div class="container-fluid" id="color">
         <div class="row ">
-            <div class="col-md-4 pl-5"><br>
+            <div class="col-xl-4 pl-5"><br>
                 <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px"  src="https://i.ibb.co/LZc9Sdk/an.jpg"   width="310" height="200"/><br>
 
                 <div class="card ml-0" style="width: 20rem; ">
@@ -216,7 +216,7 @@
             </div>
 
 
-            <div class="col-md-4 pl-5"><br><br><br><br><br>
+            <div class="col-xl-4 pl-5"><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/bFwG5KW/parq.jpg"   width="310" height="200"/><br>
 
                 <div class="card ml-3" style="width: 20rem; ">
@@ -226,7 +226,7 @@
                     </audio>
                 </div>
             </div>
-            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+            <div class="col-xl-4  pl-5 "><br><br><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"  src="https://i.ibb.co/0Bc6w7x/pris.jpg"   width="300" height="200"/><br>
                 <div class="card ml-4  " style="width: 20rem; ">
 
@@ -243,7 +243,7 @@
     <!-- contenedores-->
     <div class="container-fluid" id="color">
         <div class="row ">
-            <div class="col-md-4 pl-5"><br>
+            <div class="col-xl-4 pl-5"><br>
                 <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/f2wkxGD/isometric-view-of-a-small-town-square.jpg"  width="310" height="200"/><br>
 
                 <div class="card ml-0" style="width: 20rem; ">
@@ -255,7 +255,7 @@
             </div>
 
 
-            <div class="col-md-4 pl-5"><br><br><br><br><br>
+            <div class="col-xl-4 pl-5"><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"  src="https://i.ibb.co/Rcnd3V9/esta.jpg"  width="310" height="200"/><br>
 
                 <div class="card ml-3" style="width: 20rem; ">
@@ -265,7 +265,7 @@
                     </audio>
                 </div>
             </div>
-            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+            <div class="col-xl-4  pl-5 "><br><br><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"  src="https://i.ibb.co/tLtsj2j/resi.jpg"    width="300" height="200"/><br>
                 <div class="card ml-4  " style="width: 20rem; ">
 
@@ -284,7 +284,7 @@
         <br><br>
         <div class="container-fluid d-flex justify-content-center  " >
             <div class="row p-5 ">
-                <div class="col-md-12  " id="bor" style="background: lightgreen ">
+                <div class="col-xl-12  " id="bor" style="background: lightgreen ">
 
                     <h3>Servicios en la Ciudad en Inglés Y Español–Services in the city
                     </h3>
@@ -296,7 +296,7 @@
     <!-- contenedores-->
     <div class="container-fluid" id="color">
         <div class="row ">
-            <div class="col-md-4 pl-5"><br>
+            <div class="col-xl-4 pl-5"><br>
                 <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/MnNM8zg/pan.jpg"   width="310" height="200"/><br>
 
                 <div class="card ml-0" style="width: 20rem; ">
@@ -308,7 +308,7 @@
             </div>
 
 
-            <div class="col-md-4 pl-5"><br><br><br><br><br>
+            <div class="col-xl-4 pl-5"><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/yYXbzGB/ban1.jpg" width="310" height="200"/><br>
 
                 <div class="card ml-3" style="width: 20rem; ">
@@ -318,7 +318,7 @@
                     </audio>
                 </div>
             </div>
-            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+            <div class="col-xl-4  pl-5 "><br><br><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"   src="https://i.ibb.co/FHSsPzQ/cine.jpg"     width="300" height="200"/><br>
                 <div class="card ml-4  " style="width: 20rem; ">
 
@@ -334,7 +334,7 @@
     <!-- contenedores-->
     <div class="container-fluid" id="color">
         <div class="row ">
-            <div class="col-md-4 pl-5"><br>
+            <div class="col-xl-4 pl-5"><br>
                 <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/wB2PcMt/hotel.jpg"    width="310" height="200"/><br>
 
                 <div class="card ml-0" style="width: 20rem; ">
@@ -346,7 +346,7 @@
             </div>
 
 
-            <div class="col-md-4 pl-5"><br><br><br><br><br>
+            <div class="col-xl-4 pl-5"><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/fQgtTgR/hos.jpg" width="310" height="200"/><br>
 
                 <div class="card ml-3" style="width: 20rem; ">
@@ -356,7 +356,7 @@
                     </audio>
                 </div>
             </div>
-            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+            <div class="col-xl-4  pl-5 "><br><br><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"   src="https://i.ibb.co/M86MW5r/far.jpg"   width="300" height="200"/><br>
                 <div class="card ml-4  " style="width: 20rem; ">
 
@@ -373,7 +373,7 @@
     <!-- contenedores-->
     <div class="container-fluid" id="color">
         <div class="row ">
-            <div class="col-md-4 pl-5"><br>
+            <div class="col-xl-4 pl-5"><br>
                 <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/qMLhRY8/res.jpg"   width="310" height="200"/><br>
 
                 <div class="card ml-0" style="width: 20rem; ">
@@ -385,7 +385,7 @@
             </div>
 
 
-            <div class="col-md-4 pl-5"><br><br><br><br><br>
+            <div class="col-xl-4 pl-5"><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/hDKG7wp/ti.jpg" width="310" height="200"/><br>
 
                 <div class="card ml-3" style="width: 20rem; ">
@@ -395,7 +395,7 @@
                     </audio>
                 </div>
             </div>
-            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+            <div class="col-xl-4  pl-5 "><br><br><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"   src="https://i.ibb.co/VH0NWwN/Children-playing-in-the-circus-illustration.jpg"  width="300" height="200"/><br>
                 <div class="card ml-4  " style="width: 20rem; ">
 
@@ -411,7 +411,7 @@
         <br><br>
         <div class="container-fluid d-flex justify-content-center  " >
             <div class="row p-5 ">
-                <div class="col-md-12  " id="bor" style="background: lightgreen ">
+                <div class="col-xl-12  " id="bor" style="background: lightgreen ">
 
                     <h3>Otros – Others
                     </h3>
@@ -424,7 +424,7 @@
     <!-- contenedores-->
     <div class="container-fluid" id="color">
         <div class="row ">
-            <div class="col-md-4 pl-1"><br>
+            <div class="col-xl-4 pl-1"><br>
                 <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/Lp1tkLK/bas.jpg"    width="310" height="200"/><br>
 
                 <div class="card ml-0" style="width: 20rem; ">
@@ -436,7 +436,7 @@
             </div>
 
 
-            <div class="col-md-4 pl-5"><br><br><br><br><br>
+            <div class="col-xl-4 pl-5"><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/Tr38pRR/age.jpg" width="310" height="200"/><br>
 
                 <div class="card ml-3" style="width: 20rem; ">
@@ -446,7 +446,7 @@
                     </audio>
                 </div>
             </div>
-            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+            <div class="col-xl-4  pl-5 "><br><br><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"   src="https://i.ibb.co/yfK8r7g/cabin.jpg"  width="300" height="200"/><br>
                 <div class="card ml-4  " style="width: 20rem; ">
 
@@ -461,7 +461,7 @@
     <!-- contenedores-->
     <div class="container-fluid" id="color">
         <div class="row ">
-            <div class="col-md-4 pl-5"><br>
+            <div class="col-xl-4 pl-5"><br>
                 <img class="rounded-circle d-flex justify-content-center bg-warning  "  style="border: teal double 12px" src="https://i.ibb.co/G0WJfSH/turi.jpg"    width="310" height="200"/><br>
 
                 <div class="card ml-0" style="width: 20rem; ">
@@ -473,7 +473,7 @@
             </div>
 
 
-            <div class="col-md-4 pl-5"><br><br><br><br><br>
+            <div class="col-xl-4 pl-5"><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px" src="https://i.ibb.co/C5QKn4X/arb.jpg"  width="310" height="200"/><br>
 
                 <div class="card ml-3" style="width: 20rem; ">
@@ -483,7 +483,7 @@
                     </audio>
                 </div>
             </div>
-            <div class="col-md-4  pl-5 "><br><br><br><br><br><br><br>
+            <div class="col-xl-4  pl-5 "><br><br><br><br><br><br><br>
                 <img class="rounded-circle mx-auto d-block bg-warning" style="border: teal double 12px"    src="https://i.ibb.co/tcMjfDF/Cartoon-Illustration-of-Discharged-Smart-Phone-or-Mobile-and-Retro-Phones-Laughing.jpg"   width="300" height="200"/><br>
                 <div class="card ml-4  " style="width: 20rem; ">
 
@@ -498,7 +498,7 @@
 
     <div class="container-fluid ">
         <div class="row pt-5" >
-            <div class="col-md-12" id="separadorInferior">
+            <div class="col-xl-12" id="separadorInferior">
 
                 <img  src="https://i.ibb.co/12npptf/ic1-removebg-preview.png" height="120">
 
