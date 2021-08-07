@@ -56,11 +56,7 @@
             background: aquamarine;
         }
 
-        h1{
-            font-family: Brush Script MT;
-            size: 80px;
 
-        }
 
         #lt{
             color: #123c24 ;
@@ -91,11 +87,7 @@
         .navbar{
             background: aquamarine;
         }
-        h5{
-            font-family: bold;
-            padding-top: 20px;
-            text-align: center;
-        }
+
 
         #bord{
             background:#DCFECB;
@@ -139,8 +131,10 @@
         <div class="row">
             <div class="col-md-12" style="background: coral">
                 <div class="row ml-5 mr-5">
-                    <div class="col-md-7  mt-5" style="background:#fff6af ">
-                        <img class="mx-auto d-block" src="https://i.ibb.co/6gs7h4D/cc-removebg-preview.png">
+                    <div class="col-xl-7  mt-5" style="background:#fff6af ">
+                        <br><br><br><br>
+                        <img class="mx-auto d-block" src="https://i.ibb.co/6gs7h4D/cc-removebg-preview.png"
+                        width="350">
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow">
                         <h4  class="mt-5" style="color: #3B5686"><em>Inglés</em></h4>
@@ -165,53 +159,61 @@
     </div>
 
     <!-- contenedor tree-->
-    <div class="container-fluid mt-5 ">
+    <div class="container-fluid  ">
         <div class="row m-3">
-            <div class="col-md-12" style="background: coral">
-                <h2 class="mt-5"><strong><em>¡Nombre de frutas en inglés y español!</em></strong></h2><br>
+            <div class="col-xl-12 p-2" style="background: coral">
+
+                <br>
+                <h2 class="text-center"><strong><em>¡Nombre de frutas en inglés y español!</em></strong></h2><br>
             </div>
         </div>
     </div>
     <!-- contenedor de las tarjetas -->
-    <div class="container-fluid mt-5">
+    <div class="container-fluid ">
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
 
                 <!-- tarjeta 1 -->
                 <div id="tar1" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/hf0mq73/uva1-removebg-preview.png" width="280" height="200" >
                     <div class="card-body" >
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Uvas: <strong>Grapes</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/uva.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 2 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4 p-2 ">
                 <div id="tar2" class="card" >
                     <img class="mx-auto d-block"  src="https://i.ibb.co/sbTdsn5/cerez-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Cereza: <strong>Cherry</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/cerez.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjetas3 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/2qzZKGJ/arand-removebg-preview.png" width="230" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Arándano: <strong>Blueberry</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/aranda.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -220,45 +222,51 @@
     </div>
 
     <!-- contenedor 2 -->
-    <div class="container-fluid mt-5" >
+    <div class="container-fluid " >
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
 
                 <!-- tarjeta 4 -->
                 <div id="tar1" class="card" >
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/y8PbhSS/lemon-removebg-preview.png" width="300" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Lima: <strong>Lime</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/lima.mp3" controls >
                         </audio>
                     </div>
+                    </div>
                 </div>
             </div>
             <!-- tarjeta 5 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4 p-2 ">
                 <div id="tar2" class="card" >
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/gZXj37n/limo1-removebg-preview.png" width="300" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Limón: <strong>Lemon</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/limon.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 6 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/1X4Gf7r/banana-removebg-preview.png" width="200" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Plátano: <strong>Banana</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/banan.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -268,27 +276,30 @@
 
 
     <!-- contenedor3 -->
-    <div class="container-fluid mt-5" >
+    <div class="container-fluid " >
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <!-- tarjeta 7-->
                 <div id="tar1" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/rdhVjzg/manzana-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Manzana: <strong>Apple</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/manza.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 8 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4 p-2 ">
                 <div id="tar2" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/L5mh44b/sandia1-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Sandia: <strong>Watermelon</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/sandi.mp3" controls >
@@ -296,16 +307,22 @@
                     </div>
                 </div>
             </div>
+            </div>
             <!-- tarjeta 9 -->
-            <div class="col-md-4">
+
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
-                    <img class="mx-auto d-block" id="im" src="https://i.ibb.co/GTCKJgK/melon-removebg-preview.png" width="250" height="200">
+                    <img class="mx-auto d-block" id="im" src="https://i.ibb.co/GTCKJgK/melon-removebg-preview.png"
+                         width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Melocotón: <strong>Peach</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/melon.mp3" controls >
                         </audio>
+
+                    </div>
                     </div>
                 </div>
             </div>
@@ -314,45 +331,51 @@
     </div>
 
     <!-- contenedor de las tarjetas -->
-    <div class="container-fluid mt-5">
+    <div class="container-fluid ">
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
 
                 <!-- tarjeta 1 -->
                 <div id="tar1" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/q56xP07/pi-a-removebg-preview.png" width="250" height="200" >
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Piña: <strong>Pineapple</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/piña.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 2 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4 p-2 ">
                 <div id="tar2" class="card" >
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/p2skX8Y/fre1-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Fresa: <strong>Strawberry</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/fresa.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjetas3 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/NyfnM8h/naran-removebg-preview.png" width="230" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                            Naranja: <strong>Orange</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/naranj.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -361,45 +384,51 @@
     </div>
 
     <!-- contenedor 2 -->
-    <div class="container-fluid mt-5" >
+    <div class="container-fluid " >
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
 
                 <!-- tarjeta 4 -->
                 <div id="tar1" class="card" >
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/KWmzSKD/coco-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                            Coco: <strong>Coconut</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/coco.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 5 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4  p-2">
                 <div id="tar2" class="card" >
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/1zx7tG0/per1-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Pera: <strong>Pear</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/pera.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 6 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/Vg9z4zy/aguacat-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Aguacate: <strong>Avocado</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/aguaca.mp3" controls >
                         </audio>
+                    </div>
                     </div>
                 </div>
             </div>
@@ -409,44 +438,51 @@
 
 
     <!-- contenedor3 -->
-    <div class="container-fluid mt-5" >
-        <div  class="row m-5" >
-            <div class="col-md-4">
+    <div class="container-fluid " >
+        <div  class="row  m-5" >
+            <div class="col-xl-4 p-2">
                 <!-- tarjeta 7-->
                 <div id="tar1" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/G2SfrZY/pom1-removebg-preview.png" width="250" height="200">
+
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Pomelo: <strong>Grapefruit</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/pomel.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 8 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4  p-2">
                 <div id="tar2" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/1fQg4RV/kiw1-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Kiwi: <strong>Kiwi</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/kiw.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 9 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/QKykXVr/man-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Mango: <strong>Mango</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/mang.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -455,45 +491,53 @@
     </div>
 
     <!-- contenedor de las tarjetas -->
-    <div class="container-fluid mt-5">
+    <div class="container-fluid ">
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
 
                 <!-- tarjeta 1 -->
                 <div id="tar1" class="card">
-                    <img class="mx-auto d-block" id="im" src="https://i.ibb.co/Zzpv1Gc/higo-removebg-preview.png" width="300" height="200" >
+                    <img class="mx-auto d-block" id="im" src="https://i.ibb.co/Zzpv1Gc/higo-removebg-preview.png"
+                         width="300" height="200" >
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Higo: <strong>Fig</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/higo.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 2 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4  p-2">
                 <div id="tar2" class="card" >
-                    <img class="mx-auto d-block" id="im" src="https://i.ibb.co/PGzk1FK/ciruela-removebg-preview.png" width="300" height="200" >
+                    <img class="mx-auto d-block" id="im" src="https://i.ibb.co/PGzk1FK/ciruela-removebg-preview.png" width="300"
+                         height="200" >
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Ciruela: <strong>Plum</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/ciruel.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjetas3 -->
-            <div class="col-md-4 pb-5">
+            <div class="col-xl-4  p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/DQyPrVJ/mandarina-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Mandarina: <strong>Tangerine</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/mandar.mp3" controls >
                         </audio>
+                        </div>
 
                     </div>
                 </div>
@@ -503,45 +547,51 @@
     </div>
 
 
-    <div class="container-fluid mt-5">
+    <div class="container-fluid ">
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
 
                 <!-- tarjeta 1 -->
                 <div id="tar1" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/LxMQHzG/maracu-removebg-preview.png" width="200" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Maracuyá: <strong>Passion fruit</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/maracu.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 2 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4 p-2">
                 <div id="tar2" class="card" >
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/d4vwL9m/granada-removebg-preview.png" width="280" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                              Granada: <strong>Pomegranate</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/granad.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjetas3 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" id="im" src="https://i.ibb.co/J2WxQMh/fram-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Frambuesa: <strong>Raspberry</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/framb.mp3" controls >
                         </audio>
+                    </div>
                     </div>
                 </div>
             </div>
