@@ -117,8 +117,9 @@
     <!-- imagen -->
     <div class="container-fluid" id="dif">
         <div class="row" >
-            <div class="col-md-12" id="fondo">
-                <img  class=" mx-auto d-block" src="https://i.ibb.co/sHB3gbC/ab-removebg-preview.png">
+            <div class="col-xl-12 p-2" id="fondo">
+                <img  class=" mx-auto d-block" src="https://i.ibb.co/sHB3gbC/ab-removebg-preview.png"
+                width="400">
             </div>
         </div>
     </div>
@@ -128,7 +129,7 @@
     <div id="separadorDePagina" class="container-fluid">
         <div class="row">
             <div class="mx-auto d-block">
-                <img  width="330" height="240" class="mx-auto d-block" src="https://i.ibb.co/xYDY0yQ/lpo-removebg-preview.png">
+                <img  width="200"  class="mx-auto d-block" src="https://i.ibb.co/xYDY0yQ/lpo-removebg-preview.png">
                 <h2 class="text-center"><em>Frutas y Verduras en Inglés
                     </em></h2>
 
@@ -148,24 +149,32 @@
 
 
     <!-- contenedor de las tarjetas -->
-    <div class="container-fluid  center-block pl-5 d-flex justify-content-center" style="background: #FFEECC"><h2 align="center"><em><br>  </em></h2>
-        <div class="row m-5" >
-            <div class="col-md-6">
-                <div class="card" style="width: 30rem;">
-                    <img id="im" class="mx-auto d-block" src="https://i.ibb.co/Fm5X0qY/frtt-removebg-preview.png" width="445" height="250">
+    <div class="container-fluid  " style="background: #FFEECC"><h2 align="center"><em><br>  </em></h2>
+        <div class="row " >
+            <div class="col-xl-6 p-2">
+                <div class="card mx-auto d-block" style="width: 25rem;">
+                    <br>
+                    <img id="im" class="mx-auto d-block" src="https://i.ibb.co/Fm5X0qY/frtt-removebg-preview.png"
+                         width="300">
                     <div class="card-body">
                         <h5 class="card-title" align="center">¡Fruits - Frutas!</h5>
+                        <div class="text-center">
                         <a href=" {{ url('/frutas') }}" class="btn">Leer</a>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6 p-2">
                 <h2 ><em><br></em></h2>
-                <div class="card" style="width: 30rem;">
-                    <img id="im" class="mx-auto d-block" src="https://i.ibb.co/PhSprzv/vegg-removebg-preview.png" width="445" height="250">
+                <div class="card mx-auto d-block" style="width: 25rem;">
+                    <br>
+                    <img id="im" class="mx-auto d-block" src="https://i.ibb.co/PhSprzv/vegg-removebg-preview.png"
+                         width="300" >
                     <div class="card-body">
-                        <h5 class="card-title" align="center">¡Vegetables - Vegetales! (verduras)</h5>
+                        <h5 class="card-title text-center" >¡Vegetables - Vegetales! (verduras)</h5>
+                        <div class="text-center">
                         <a href=" {{ url('/verduras') }}" class="btn">Leer</a>
+                        </div>
                     </div>
                 </div>
             </div>
