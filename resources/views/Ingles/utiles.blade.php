@@ -47,31 +47,13 @@
             background: aquamarine;
         }
 
-       h1{
-           color: #0b3251;
-           font-family: "Roboto", "Helvetica", "Arial", sans-serif;
-       }
-
-
-
-
-        h4{
-            text-decoration-color: #3B5686;
-            text-align: center;
-        }
 
         h2{
             text-align: center;
-            color: #0b3251;
-            font-family: bold;
-            background-image: url("https://i.ibb.co/FVpRGSC/text-background-plate-5a3bff7ca8e220-5994791815138814686918-removebg-preview.png");
+
         }
 
-        h3{
-            text-align: center;
-            color: #123c24 ;
-            font-family: bold;
-        }
+
 
         #bor{
             border: oldlace 5px dashed;
@@ -85,11 +67,7 @@
         .navbar{
             background: aquamarine;
         }
-        h5{
-            font-family: bold;
-            padding-top: 20px;
-            text-align: center;
-        }
+
 
         #bord{
             background:#DCFECB;
@@ -114,13 +92,17 @@
             <div class="col-md-12" style="background: #fff6af">
                 <div class="row ml-5 mr-5">
                     <div class="col-xl-5  mt-5 " style=" background: #DCFECB" >
-                        <h3  class="mt-5" style="color: #3B5686"><em>Inglés</em></h3>
-                        <h1 class="mt-5" style="text-align: center">Útiles escolares en inglés<br><em>(School supplies in English)</em></h1>
+                        <br>
+                        <h3  class="text-center"><em>Inglés</em></h3>
+                        <h1 class="text-center" style="text-align: center">Útiles escolares en inglés<br><em>(School supplies in English)</em></h1>
                         <p class="" id="pa">
                         </p>
                     </div>
-                    <div class="col-md-7  mt-5" style="background: #DCFECB">
-                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/jJ1XbLK/school-supplies-vector-set-removebg-preview.png">
+                    <div class="col-xl-7  mt-5" style="background: #DCFECB">
+                        <br>
+                        <img class="mx-auto d-block"
+                             src="https://i.ibb.co/jJ1XbLK/school-supplies-vector-set-removebg-preview.png"
+                        width="350">
                     </div>
                 </div>
             </div>
@@ -130,7 +112,7 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12">
+            <div class="col-xl-12 p-2">
                 <br><br><br>
                 <h5>
                     Enseñar los útiles escolares en inglés  puede ser beneficioso para los jóvenes estudiantes. De esta manera, manejaras con facilidad los nombres de los materiales de clase, lo que a su vez te ayudará a sentirse más seguros de ti mismos y con más control de la situación.
@@ -138,41 +120,52 @@
                     Igualmente, al aprender los útiles de clase en inglés te ayudará con su proceso de aprendizaje en el colegio, de modo que te sentiras  más cómodos realizando las tareas que les asigne la maestra o maestro, y también te sentiras más calmado al interactuar con el resto de la clase. <br>
 
                    </h5>
-                <h1 style="text-align: center">!Comencemos!</h1>
                 <br><br><br>
+                <h1 style="text-align: center">!Comencemos!</h1>
+                <br><br>
             </div>
         </div>
     </div>
 
 
     <div class="container-fluid">
-        <div class="row mb-5">
-            <div class="col-md-3">
-                <img class="mx-auto d-block"   src="https://i.ibb.co/CtZcH14/png-clipart-compass-compas-compass-cartoon-removebg-preview.png" width="150" />
+        <div class="row">
+            <div class="col-xl-3 p-2">
+                <img class="mx-auto d-block"
+                     src="https://i.ibb.co/CtZcH14/png-clipart-compass-compas-compass-cartoon-removebg-preview.png"
+                     width="150" />
+                <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/1.mp3" controls >
                 </audio>
-                <h2>Compás: compass</h2>
+                <h2 class="text-center "  >Compás:
+                    compass</h2>
+                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/HdGZLbV/kisspng-stopwatch-cartoon-clip-art-protactor-5b320e4fac4a96-0558369415300071197057-removebg-preview.png"    width="365"/>
+                <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/2.mp3" controls >
                 </audio>
                 <h2>Transportador: protractor</h2>
+                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
                 <br>
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/N9MCfBy/49509-3-removebg-preview.png"   width="165" />
+                <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/3.mp3" controls >
                 </audio>
                 <h2>Marcador: marker</h2>
-
+                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/ZfSD9rz/66-662806-papel-hojas-madera-escribir-plantilla-patrn-paper-hd-removebg-preview.png"    width="250" />
+               <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/4.mp3" controls >
                 </audio>
                 <h2>Papel: paper</h2>
+               </div>
             </div>
         </div>
     </div>
@@ -180,70 +173,84 @@
 
 
     <div class="container-fluid">
-        <div class="row mb-5">
-            <div class="col-md-3">
+        <div class="row ">
+            <div class="col-xl-3 p-2">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/h7hjcDc/image-processing20200511-32371-69nvlc-removebg-preview.png"  width="140" />
+                <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/5.mp3" controls >
                 </audio>
                 <h2>Carpeta: folder</h2>
+                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/1R2NdCZ/image-processing20200511-25230-703d5g-removebg-preview.png"    width="145"/>
+               <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/6.mp3" controls >
                 </audio>
                 <h2>Mapa: map</h2>
+               </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
 
                 <img  class="mx-auto d-block" src="https://i.ibb.co/JdbbXC9/grapadora-oficina-plana-color-azul-72147494939-removebg-preview.png"   width="148" />
+                <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/7.mp3" controls >
                 </audio>
                 <h2>Grapadora: stapler</h2>
-
+                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
                 <br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/HthcZ2w/aplicar-pegamento-removebg-preview.png"   width="180"/>
+            <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/8.mp3" controls >
                 </audio>
                 <h2>Pegamento: glue</h2>
             </div>
+            </div>
         </div>
     </div>
 
 
 
     <div class="container-fluid">
-        <div class="row mb-5">
-            <div class="col-md-3">
+        <div class="row ">
+            <div class="col-xl-3 p-2">
 
                 <img class="mx-auto d-block"   src="https://i.ibb.co/rfYfqfC/estuche-infantil-colegio-9970866-removebg-preview.png"  width="155" />
+               <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/9.mp3" controls >
                 </audio>
                 <h2>Estuche: pencil case</h2>
             </div>
-            <div class="col-md-3">
+            </div>
+            <div class="col-xl-3 p-2">
                 <br>
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/wyzMTBf/Paperclip-01-xndr-removebg-preview.png"  width="155"/>
+            <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/10.mp3" controls >
                 </audio>
                 <h2>Sujetapapeles/clip: clip</h2>
             </div>
-            <div class="col-md-3">
+            </div>
+            <div class="col-xl-3 p-2">
 
                 <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/3MYjdLn/depositphotos-11908678-stock-illustration-eraser-removebg-preview.png" width="153" />
+                <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/11.mp3" controls >
                 </audio>
                 <h2>Borrador/goma de borrar: eraser/rubber</h2>
-
+                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/3r6cPJ6/pngtree-brown-computer-desk-cartoon-table-cabinet-illustration-table-illustration-png-image-449705-r.png"   width="140" />
+               <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/12.mp3" controls >
                 </audio>
                 <h2>Escritorio: desk</h2>
             </div>
+            </div>
         </div>
     </div>
 
@@ -251,69 +258,84 @@
 
 
     <div class="container-fluid">
-        <div class="row mb-5">
-            <div class="col-md-3">
+        <div class="row ">
+            <div class="col-xl-3 p-2">
 
                 <img class="mx-auto d-block"   src="https://i.ibb.co/VjyVt5z/png-clipart-carteira-escolar-chair-furniture-table-desk-chair-angle-office-removebg-preview.png"  width="150" />
+                <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/13.mp3" controls >
                 </audio>
                 <h2>Silla: chair</h2>
+                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
                 <br><br><br>
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/R9zXH2h/10e9aac158c97c8e420f32c500b61b35-removebg-preview.png"    width="160"/>
+              <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/14.mp3" controls >
                 </audio>
                 <h2>Tijeras: scissors</h2>
             </div>
-            <div class="col-md-3">
+            </div>
+            <div class="col-xl-3 p-2">
                 <br><br><br><br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/1QTKTk5/istockphoto-942881434-170667a-removebg-preview.png"   width="145" />
+            <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/15.mp3" controls >
                 </audio>
                 <h2>Regla: ruler</h2>
-
             </div>
-            <div class="col-md-3">
+            </div>
+            <div class="col-xl-3 p-2">
                 <br><br><br><br>
                 <img  class="mx-auto d-block"  src="https://i.ibb.co/M7Cq1Fr/png-transparent-harold-and-the-purple-crayon-crayola-crayola-s-pencil-text-color-removebg-preview.png"  width="140" />
+                <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/16.mp3" controls >
                 </audio>
                 <h2>Crayones: crayons</h2>
+                </div>
             </div>
         </div>
     </div>
 
 
     <div class="container-fluid">
-        <div class="row mb-5">
-            <div class="col-md-3">
+        <div class="row ">
+            <div class="col-xl-3 p-2">
                 <img class="mx-auto d-block"   src="https://i.ibb.co/sv0MHWw/3125-removebg-preview.png"  width="150" />
+                <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/17.mp3" controls >
                 </audio>
                 <h2>Lápiz: pencil</h2>
+                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
                 <br><br>
                 <img  class="mx-auto d-block"   src="https://i.ibb.co/j8xjxQz/png-transparent-cartoon-book-closed-book-perfect-comic-book-yellow-material-rectangle-removebg-previ.png"    width="180"/>
+               <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/18.mp3" controls >
                 </audio>
                 <h2>libro: book</h2>
+               </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
                 <br>
 
                 <img  class="mx-auto d-block" src="https://i.ibb.co/Qv1WT6M/dibujos-animados-mochila-escolar-24640-54592-removebg-preview.png"   width="140" />
+                <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/19.mp3" controls >
                 </audio>
                 <h2>Mochila: backpack</h2>
-
+                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
                 <img  class="mx-auto d-block" src="https://i.ibb.co/FW0dxnj/istockphoto-1085027454-170667a-removebg-preview.png"    width="165" />
+                <div class="text-center">
                 <audio  id="player" src="AudioIngles/utiles/20.mp3" controls >
                 </audio>
                 <h2>Computadora: computer</h2>
+            </div>
+
             </div>
         </div>
     </div>
