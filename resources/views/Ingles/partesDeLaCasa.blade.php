@@ -37,7 +37,7 @@
 
         p{
             text-align: justify;
-            font-family: bold, Georgia;
+
 
         }
 
@@ -53,7 +53,7 @@
 
 
         h1{
-            font-family: Brush Script MT;
+
             size: 80px;
             color: #d6e9f9;
 
@@ -64,13 +64,11 @@
 
         }
         h4{
-            text-decoration-color: #3B5686;
+
             text-align: center;
         }
         h2{
             text-align: center;
-            color: #3B5686;
-            font-family: bold;
         }
         #bor{
             border: oldlace 5px dashed;
@@ -82,7 +80,7 @@
         }
 
         h5{
-            font-family: bold;
+
             padding-top: 20px;
             text-align: center;
         }
@@ -106,10 +104,10 @@
     <!-- contenedor-->
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12" style="background:#009aae">
+            <div class="col-xl-12" style="background:#009aae">
                 <div class="row ml-5 mr-5">
-                    <div class="col-md-7  mt-5" style="background: #CCDDCC">
-                        <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/CVnn1pF/casa.jpg"     width=650"  >
+                    <div class="col-xl-7  mt-5" style="background: #CCDDCC">
+                        <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/CVnn1pF/casa.jpg"  width="350"  >
                     </div>
 
                     <div class="col-xl-5  mt-5 " style=" background: #d6e9f9"  >
@@ -131,7 +129,7 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-7 mt-5">
+            <div class="col-xl-7 p-2">
                 <h2>
                     ¿Por qué es importante aprender las partes de la casa?
                 </h2>
@@ -144,7 +142,7 @@
             </div>
 
 
-            <div class="col-md-5">
+            <div class="col-xl-5 p-2">
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/X2qcqvV/casa3.jpg"   width="400" />
             </div>
         </div>
@@ -155,7 +153,7 @@
 
     <div  class="container-fluid">
         <div class="row">
-            <div class="col-md-12  mb-5" style="background: #009aae">
+            <div class="col-xl-12  p-2" style="background: #009aae">
                 <h1 style="text-align: center">Las partes de la casa en inglés  (The parts of the house)</h1>
             </div>
         </div>
@@ -164,33 +162,48 @@
 
     <!-- animales domesticos-->
     <div class="container-fluid">
-        <div class="row mb-5">
-            <div class="col-md-3">
-                <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/wd3b4KN/dormitorio-Principal.jpg"  width="280" />
+        <div class="row ">
+            <div class="col-xl-3">
+                <br>
+                <img class="mx-auto d-block" src="https://i.ibb.co/wd3b4KN/dormitorio-Principal.jpg"  width="280" />
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/dormitorioPrincipal.mp3" controls >
                 </audio>
                 <h2>Dormitorio principal:
                     Master bedroom
                 </h2>
+                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
+                <br>
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/7JMZn67/dormitorio.jpg"   width="260"/>
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/dormitorio.mp3" controls >
                 </audio>
                 <h2>Dormitorio: Bedroom</h2>
+                </div>
             </div>
-            <div class="col-md-3">
-
+            <div class="col-xl-3 p-2">
+<br>
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"   src="https://i.ibb.co/r61tSWp/banio.jpg"   width="300" />
+              <div class="text-center">
+                  <br>
                 <audio  id="player" src="AudioIngles/casa/baño.mp3" controls >
                 </audio>
                 <h2>Cuarto de baño: Bathroom</h2>
+              </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
+                <br>
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/qrth15K/sala.png"  width="278" />
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/sala.mp3" controls >
                 </audio>
                 <h2>Sala: Living room</h2>
+                </div>
             </div>
         </div>
     </div>
@@ -199,75 +212,122 @@
 
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-3">
-                <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/G3vF3Kn/comedor.jpg" width="300" />
+            <div class="col-xl-3 p-2">
+                <br>
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/G3vF3Kn/comedor.jpg"
+                      width="250" />
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/comedor.mp3" controls >
                 </audio>
                 <h2>Comedor: Dinning room</h2>
             </div>
-            <div class="col-md-3">
-                <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/k4HFRSM/Kitchen-interior-witn-furniture-cartoon-vector-illustration-Home-cooking-room-with-wooden-dining-tab.jpg"  width="300"/>
+            </div>
+            <div class="col-xl-3 p-2" >
+              <br>
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview"
+                      src="https://i.ibb.co/k4HFRSM/Kitchen-interior-witn-furniture-cartoon-vector-illustration-Home-cooking-room-with-wooden-dining-tab.jpg"
+                      width="250"/>
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/cocina.mp3" controls >
                 </audio>
                 <h2>Cocina: Kitchen room</h2>
+                </div>
             </div>
-            <div class="col-md-3">
-                <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/m5qYYrd/jardin.jpg" width="300" />
+            <div class="col-xl-3 p-2">
+                <br>
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview"
+                      src="https://i.ibb.co/m5qYYrd/jardin.jpg" width="250" />
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/jardin.mp3" controls >
                 </audio>
                 <h2>Jardin: Garden</h2>
+                </div>
             </div>
-            <div class="col-md-3">
-                <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/vctZnZZ/cochera.jpg"   width="355" />
+            <div class="col-xl-3 p-2">
+                <br>
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/vctZnZZ/cochera.jpg"
+                      width="300" />
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/cochera.mp3" controls >
                 </audio>
                 <h2>Cochera: Garage</h2>
+                </div>
             </div>
         </div>
     </div>
 
-    <div class="container-fluid d-flex justify-content-center">
+    <div class="container-fluid ">
         <div class="row">
-            <div class="col-md-3">
-                <img class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/PjxXsnT/ventana2.jpg"   width="250"/>
+            <div class="col-xl-3 p-2">
+                <br>
+                <img class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/PjxXsnT/ventana2.jpg"
+                     width="250"/>
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/ventana.mp3" controls >
                 </audio>
                 <h2>Ventana: Window</h2>
+                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
+                <br>
                 <img class="mx-auto d-block" alt="Bootstrap Image Preview" src="https://i.ibb.co/s1kDMDz/puerta-Principal.jpg"  width="250" />
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/puertaPrincipal.mp3" controls >
                 </audio>
                 <h2>Puerta principal: Front door</h2>
+                </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-xl-3 p-2">
+                <br>
                 <img  class="mx-auto d-block" alt="Bootstrap Image Preview"   src="https://i.ibb.co/zHzWqWL/techo3-removebg-preview.png"   width="250" />
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/techo.mp3" controls >
                 </audio>
                 <h2>Techo: Roof</h2>
+                </div>
             </div>
-            <div class="col-md-3">
-                <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/nz7kghC/piso.jpg"    width="355" />
+            <div class="col-xl-3">
+                <br><br><br><br>
+                <img  class="mx-auto d-block" alt="Bootstrap Image Preview"  src="https://i.ibb.co/nz7kghC/piso.jpg"
+                      width="283" />
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/piso.mp3" controls >
                 </audio>
                 <h2>Piso: Floor</h2>
+                </div>
             </div>
         </div>
     </div>
 
     <div class="container-fluid">
-        <div class="row mb-5">
-            <div class="col-md-6">
+        <div class="row ">
+            <div class="col-xl-6 p-2">
+                <br>
                 <img class="mx-auto d-block" src="https://i.ibb.co/nCLk7Yy/pared.jpg"   width="300" />
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/pared.mp3" controls >
                 </audio>
                 <h2>Pared: Wall</h2>
+                </div>
             </div>
-            <div class="col-md-6">
+            <div class="col-xl-6 p-2">
+                <br>
                 <img  class="mx-auto d-block" src="https://i.ibb.co/HxSxZdF/escalera.jpg"    width="300"/>
+                <div class="text-center">
+                    <br>
                 <audio  id="player" src="AudioIngles/casa/escaleras.mp3" controls >
                 </audio>
                 <h2>escaleras: Stairs</h2>
+                </div>
             </div>
         </div>
     </div>
