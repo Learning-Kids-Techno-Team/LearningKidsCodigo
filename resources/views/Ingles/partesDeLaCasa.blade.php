@@ -107,12 +107,15 @@
             <div class="col-xl-12" style="background:#009aae">
                 <div class="row ml-5 mr-5">
                     <div class="col-xl-7  mt-5" style="background: #CCDDCC">
-                        <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/CVnn1pF/casa.jpg"  width="350"  >
+                        <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/CVnn1pF/casa.jpg"  width="330"  >
+                        <br><br>
+
                     </div>
 
                     <div class="col-xl-5  mt-5 " style=" background: #d6e9f9"  >
-                        <h4 style="color: #3B5686">Inglés</h4>
-                        <h3 class="mt-5" style="text-align: center">Partes de la casa</h3>
+                        <br>
+                        <h4 class="text-center">Inglés</h4>
+                        <h3  style="text-align: center">Partes de la casa</h3>
                         <p class="" id="pa">
                             <em>Es importante para nuestros niños comenzar a aprender desde casa a una temprana edad, y uno de los temas que con mayor facilidad se puede aprender en el hogar son las partes de la casa en inglés y en español, ya que desde el momento de su nacimiento comienzan a conocer el sitio donde habitan.
                             </em><br>
