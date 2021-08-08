@@ -56,11 +56,7 @@
             background: aquamarine;
         }
 
-        h1{
-            font-family: Brush Script MT;
-            size: 80px;
 
-        }
 
         #lt{
             color: #123c24 ;
@@ -69,16 +65,6 @@
         }
 
 
-        h4{
-            text-decoration-color: #3B5686;
-            text-align: center;
-        }
-
-        h2{
-            text-align: center;
-            color: #123c24 ;
-            font-family: bold;
-        }
         #bor{
             border: oldlace 5px dashed;
             border-bottom-right-radius: 50px;
@@ -91,11 +77,7 @@
         .navbar{
             background: aquamarine;
         }
-        h5{
-            font-family: bold;
-            padding-top: 20px;
-            text-align: center;
-        }
+
 
         #bord{
             background:#DCFECB;
@@ -135,14 +117,17 @@
     <!-- contenedor text-->
     <div class="container-fluid">
         <div class="row">
-            <div class="col-md-12" style="background: coral ">
+            <div class="col-xl-12" style="background: coral ">
                 <div class="row ml-5 mr-5">
                     <div class="col-md-7  mt-5" style="background: #fff6af">
-                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/qxH6MXZ/acc-removebg-preview-1.png">
+                        <br><bR><br><br>
+                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/qxH6MXZ/acc-removebg-preview-1.png"
+                        width="340">
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
-                        <h4  class="mt-5" style="color: #3B5686"><em>Inglés</em></h4>
-                        <h3 class="mt-5" style="text-align: center">Vegetales <em>(Vegetables)</em></h3>
+                        <br>
+                        <h4  class="text-center"><em>Inglés</em></h4>
+                        <h3 class="text-center" style="text-align: center">Vegetales <em>(Vegetables)</em></h3>
                         <p class="" id="pa">
                             <br>Los vegetales, o también llamados verduras, son coloridos y deliciosos, y vienen de muchas formas,
                             colores y con distintas texturas. Los vegetales son una excelente fuente de vitaminas y nutrientes, tanto
@@ -164,53 +149,60 @@
     </div>
 
     <!-- contenedor tree-->
-    <div class="container-fluid mt-5 ">
+    <div class="container-fluid ">
         <div class="row m-3">
-            <div class="col-md-12" style="background: coral">
-                <h2 class="mt-5"><strong><em>¡Nombre de Vegetales en inglés y español!</em></strong></h2><br>
+            <div class="col-xl-12" style="background: coral">
+                <br>
+                <h2 class="text-center"><strong><em>¡Nombre de Vegetales en inglés y español!</em></strong></h2><br>
             </div>
         </div>
     </div>
 
     <!-- contenedor de las tarjetas -->
-    <div class="container-fluid mt-5">
+    <div class="container-fluid ">
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <!-- tarjeta 1 -->
                 <div id="tar1" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/QfQ22j7/zanaho-removebg-preview.png" width="280" height="200" >
                     <div class="card-body" >
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Zanahoria: <strong>Carrot</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/zanah.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 2 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4 p-2 ">
                 <div id="tar2" class="card" >
                     <img class="mx-auto d-block" src="https://i.ibb.co/7YHpwXd/brocoli-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Brócoli: <strong>Broccoli</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/brocol.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjetas3 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/T8PqVJv/esparra-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Espárragos:<strong>Asparagus</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/esparrag.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -221,42 +213,48 @@
     <!-- contenedor 2 -->
     <div class="container-fluid mt-5" >
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <!-- tarjeta 4 -->
                 <div id="tar1" class="card" >
                     <img class="mx-auto d-block" src="https://i.ibb.co/ZVkWPfB/coliflor-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Coliflor: <strong>Cauliflower</strong>
                         </h2>
-                        <audio  id="player" src="AudioIngles/frut-ver/colf.mp3" controls >
+                        <audio  id="player" src="AudioIngles/frut-ver/colif.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 5 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4 p-2 ">
                 <div id="tar2" class="card" >
                     <img class="mx-auto d-block" src="https://i.ibb.co/wzWmW3n/maiz-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Maíz: <strong>Corn</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/maiz.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 6 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/rmjdx28/pepp-removebg-preview.png" width="230" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Pepino: <strong>Cucumber</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/pepin.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -267,42 +265,48 @@
     <!-- contenedor3 -->
     <div class="container-fluid mt-5" >
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2" >
                 <!-- tarjeta 7-->
                 <div id="tar1" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/0CZh3VP/bereng-removebg-preview.png" width="230" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Berenjena: <strong>Eggplant</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/bereng.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 8 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4  p-2">
                 <div id="tar2" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/VwgvWyn/frijo-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Frijol / haba: <strong>Bean</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/frij.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 9 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/kMsjzwg/cebolla-removebg-preview.png" width="200" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Cebolla: <strong>Onion</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/ceboll.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -312,42 +316,48 @@
     <!-- contenedor de las tarjetas -->
     <div class="container-fluid mt-5">
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <!-- tarjeta 1 -->
                 <div id="tar1" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/nf83FqX/projo-removebg-preview.png" width="220" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Pimiento rojo: <strong>Red pepper</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/projo.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 2 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4 p-2">
                 <div id="tar2" class="card" >
                     <img class="mx-auto d-block" src="https://i.ibb.co/fX31RXj/cham-removebg-preview.png" width="220" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Champiñones: <strong>Mushrooms</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/champi.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjetas3 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/PFT2L1d/pimiever-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Pimiento verde: <strong>Green pepper</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/pverd.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -358,42 +368,48 @@
     <!-- contenedor 2 -->
     <div class="container-fluid mt-5" >
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <!-- tarjeta 4 -->
                 <div id="tar1" class="card" >
                     <img class="mx-auto d-block" src="https://i.ibb.co/B4yT5qS/papa-removebg-preview-1.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Patata / papa:  <strong>Potato</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/papa.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 5 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4 p-2">
                 <div id="tar2" class="card" >
                     <img class="mx-auto d-block"  src="https://i.ibb.co/4K4JfQt/calabaz-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Calabaza: <strong>Pumpkin</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/calab.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 6 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2" >
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/rv2p19Z/lechug-removebg-preview.png" width="240" height="200" >
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Lechuga: <strong>Lettuce</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/lechu.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -404,42 +420,48 @@
     <!-- contenedor3 -->
     <div class="container-fluid mt-5" >
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <!-- tarjeta 7-->
                 <div id="tar1" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/LSgmwQr/tomat-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Tomate: <strong>Tomato</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/tomat.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 8 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4 p-2 ">
                 <div id="tar2" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/zZg40kt/remolac-removebg-preview.png" width="220" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Remolacha: <strong>Beetroot</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/remol.mp3" controls >
                         </audio>
                     </div>
+                    </div>
                 </div>
             </div>
             <!-- tarjeta 9 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/2h1736H/guisantes-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Guisantes: <strong>Peas</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/letej.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -449,42 +471,48 @@
     <!-- contenedor de las tarjetas -->
     <div class="container-fluid mt-5">
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <!-- tarjeta 1 -->
                 <div id="tar1" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/RCKCsk1/raba-removebg-preview.png" width="250" height="200" >
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Rábano: <strong>Radish</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/raban.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 2 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4 p-2">
                 <div id="tar2" class="card" >
                     <img class="mx-auto d-block" src="https://i.ibb.co/0XQpY3w/puerr-removebg-preview.png" width="250" height="200" >
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Puerro:  <strong>Leek</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/puerr.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjetas3 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/FKmqxp7/repollo-removebg-preview.png" width="220" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Repollo: <strong>Cabbage</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/repoll.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -494,43 +522,49 @@
     <!-- contenedor de las tarjetas -->
     <div class="container-fluid mt-5">
         <div  class="row m-5" >
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
 
                 <!-- tarjeta 1 -->
                 <div id="tar1" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/0DcHmV1/apio-1-removebg-preview.png" width="220" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Apio: <strong>Celery</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/apio.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta 2 -->
-            <div class="col-md-4 ">
+            <div class="col-xl-4 p-2">
                 <div id="tar2" class="card" >
                     <img class="mx-auto d-block" src="https://i.ibb.co/ct7QBwB/chile-removebg-preview.png" width="220" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Chile / ají: <strong>Chili</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/chile.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
             <!-- tarjetas3 -->
-            <div class="col-md-4">
+            <div class="col-xl-4 p-2">
                 <div id="tar3" class="card">
                     <img class="mx-auto d-block" src="https://i.ibb.co/J5RdpMF/ajo-removebg-preview.png" width="250" height="200">
                     <div class="card-body">
-                        <h2 class="mt-5">
+                        <div class="text-center">
+                        <h2 class="text-center">
                             Ajo:  <strong>Garlic</strong>
                         </h2>
                         <audio  id="player" src="AudioIngles/frut-ver/ajo.mp3" controls >
                         </audio>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -538,39 +572,48 @@
         </div>
     </div>
     <!-- contenedor -->
-    <div class="container-fluid mt-5"><h2 class="mt-5"><strong><em>¡Plantas condimentos en inglés!</em></strong></h2><br>
+    <div class="container-fluid mt-5">
+        <h2 class="text-center"><strong><em>¡Plantas condimentos en inglés!</em></strong></h2><br>
         <div class="card" id="tar2">
             <div class="row m-3">
-                <div class="col-md-3">
-                    <h2 class="mt-5">
+                <div class="col-xl-3 p-2">
+                    <div class="text-center">
+                    <h2 class="text-center">
                         Azafrán: <strong>Saffron</strong>
                     </h2>
                     <audio  id="player" src="AudioIngles/frut-ver/azafr.mp3" controls >
                     </audio>
+                    </div>
                     <img class="mx-auto d-block" src="https://i.ibb.co/zXW6WSC/azafran-removebg-preview.png" width="200" height="220">
                 </div>
-                <div class="col-md-3">
-                    <h2 class="mt-5">
+                <div class="col-xl-3 p-2">
+                    <div class="text-center">
+                        <h2 class="text-center">
                         Orégano: <strong>Oregano</strong>
                     </h2>
                     <audio  id="player" src="AudioIngles/frut-ver/oregan.mp3" controls >
                     </audio>
+                    </div>
                     <img class="mx-auto d-block" src="https://i.ibb.co/m95b4H0/oregano-removebg-preview.png" width="200" height="220">
                 </div>
-                <div class="col-md-3">
-                    <h2 class="mt-5">
+                <div class="col-xl-3 p-2">
+                    <div class="text-center">
+                        <h2 class="text-center">
                         Canela: <strong>Cinnamon</strong>
                     </h2>
                     <audio  id="player" src="AudioIngles/frut-ver/canel.mp3" controls >
                     </audio>
+                    </div>
                     <img class="mx-auto d-block" src="https://i.ibb.co/Bj7ZND7/canela-removebg-preview.png" width="200" height="220">
                 </div>
-                <div class="col-md-3">
-                    <h2 class="mt-5">
+                <div class="col-xl-3 p-2">
+                    <div class="text-center">
+                        <h2 class="text-center">
                         Romero: <strong>Rosemary</strong>
                     </h2>
                     <audio  id="player" src="AudioIngles/frut-ver/romer.mp3" controls >
                     </audio>
+                    </div>
                     <img class="mx-auto d-block" src="https://i.ibb.co/FbTGHK6/romero-removebg-preview.png" width="200" height="220">
                 </div>
             </div>
@@ -581,28 +624,34 @@
     <div class="container-fluid mt-5 pb-5">
         <div class="card" id="tar3">
             <div class="row m-3">
-                <div class="col-md-4">
-                    <h2 class="mt-5">
+                <div class="col-xl-4 p-2">
+                    <div class="text-center">
+                        <h2 class="text-center">
                         Albahaca:  <strong>Basil</strong>
                     </h2>
                     <audio  id="player" src="AudioIngles/frut-ver/albac.mp3" controls >
                     </audio>
+                    </div>
                     <img class="mx-auto d-block" src="https://i.ibb.co/XZmq3sk/albaca-removebg-preview.png" width="200" height="220">
                 </div>
-                <div class="col-md-4">
-                    <h2 class="mt-5">
+                <div class="col-xl-4 p-2">
+                    <div class="text-center">
+                        <h2 class="text-center">
                         Cilantro: <strong>Coriander</strong>
                     </h2>
                     <audio  id="player" src="AudioIngles/frut-ver/cilant.mp3" controls >
                     </audio>
+                    </div>
                     <img class="mx-auto d-block" src="https://i.ibb.co/kgV0QLf/cilantro-removebg-preview.png" width="200" height="220">
                 </div>
-                <div class="col-md-4">
-                    <h2 class="mt-5">
+                <div class="col-xl-4 p-2">
+                    <div class="text-center">
+                        <h2 class="text-center">
                         Perejil: <strong>Parsley</strong>
                     </h2>
                     <audio  id="player" src="AudioIngles/frut-ver/perejil.mp3" controls >
                     </audio>
+                    </div>
                     <img class="mx-auto d-block" src="https://i.ibb.co/Cv0hQHk/perejil-removebg-preview.png" width="200" height="220">
                 </div>
             </div>
