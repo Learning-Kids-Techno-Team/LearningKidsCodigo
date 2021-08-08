@@ -94,9 +94,10 @@
 @section('content')
     <!-- iamgen -->
     <div class="container-fluid">
-        <div class="row pb-5">
-            <div class="col-md-12" style="background:  #dcfecb" id="fondo" >
-                <img src="https://i.ibb.co/m84zYZM/bb369e79d17758d92afb978dbbf866d8-removebg-preview.png"   width="600" class=" mx-auto d-block"/>
+        <div class="row ">
+            <div class="col-md-12 p-2"  style="background:  #dcfecb" id="fondo" >
+                <img src="https://i.ibb.co/m84zYZM/bb369e79d17758d92afb978dbbf866d8-removebg-preview.png"
+                     width="400" class=" mx-auto d-block"/>
 
             </div>
         </div>
@@ -105,7 +106,7 @@
 
     <div  class="container-fluid ">
         <div class="row " style="background: aquamarine" >
-            <div class="col-md-12  mb-5" style="background:  #dcfecb">
+            <div class="col-xl-12  p-2" style="background:  #dcfecb">
                 <h1 style="text-align: center">Actividades</h1>
             </div>
         </div>
@@ -113,38 +114,48 @@
 
 
     <div class="container-fluid">
-        <div class="row pt-5  "  style="background: #dcfecb">
+        <div class="row   "  style="background: #dcfecb">
             <!-- tarjeta 1 -->
             <div class="col-md-4 pb-5 d-flex justify-content-center" >
                 <div class="card"  style="width: 18rem;" >
-
+<br>
                     <img src="https://i.ibb.co/93kyTr0/ninos-pequenos-reloj-29937-4342-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                     <div class="card-body">
                         <h5 class="card-title" align="center">Actividad del tiempo</h5>
+                        <div class="text-center">
                         <a href=" {{ url('/actividadMeses') }}" class="btn">Ver</a>
+                    </div>
                     </div>
                 </div>
             </div>
 
 
             <!-- tarjeta2 -->
-            <div class="col-md-4 pb-5 d-flex justify-content-center">
+            <div class="col-xl-4 pb-5 d-flex justify-content-center">
                 <div class="card" style="width: 18rem;">
-                    <img src="https://i.ytimg.com/vi/ynLYpd2sMsc/maxresdefault.jpg" class="card mx-auto d-block" height="180" width="200">
+                    <br>
+                    <img src="https://i.ytimg.com/vi/ynLYpd2sMsc/maxresdefault.jpg"
+                         class="card mx-auto d-block" height="180" width="200">
                     <div class="card-body">
+
                         <h5 class="card-title"  align="center">Actividad lugares de la ciudad</h5>
+                        <div class="text-center">
                         <a href=" {{ url('/actividadLugar') }}" class="btn">Ver</a>
+                    </div>
                     </div>
                 </div>
             </div>
             <!-- tarjeta3 -->
             <div class="col-md-4 pb-5 d-flex justify-content-center">
                 <div class="card" style="width: 18rem;">
-                    <img img src="https://i.ibb.co/BspywvW/personajes-dibujos-animados-diferentes-profesiones-29937-4353-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
+                    <br>
+                    <img  src="https://i.ibb.co/BspywvW/personajes-dibujos-animados-diferentes-profesiones-29937-4353-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
                     <div class="card-body">
                         <h5 class="card-title" align="center">Actividad de las profesiones</h5>
+                        <div class="text-center">
                         <a href=" {{ url('/actividadProfesiones') }}" class="btn">Ver</a>
                     </div>
+                </div>
                 </div>
             </div>
 
@@ -154,11 +165,13 @@
                     <!-- tarjeta 1 -->
                     <div class="col-md-4 pb-5 d-flex justify-content-center" >
                         <div class="card"  style="width: 18rem;" >
-
+<br>
                             <img src="https://i.ibb.co/yQmVT1H/conjunto-coleccion-animales-dibujos-animados-29190-2951-removebg-preview-1.png" class="card mx-auto d-block" height="180" width="220">
                             <div class="card-body">
                                 <h5 class="card-title" align="center">Actividad los animales</h5>
+                                <div class="text-center">
                                 <a href=" {{ url('/actividadanimales') }}" class="btn">Ver</a>
+                            </div>
                             </div>
                         </div>
                     </div>
@@ -166,20 +179,30 @@
                     <!-- tarjeta2 -->
                     <div class="col-md-4 pb-5 d-flex justify-content-center">
                         <div class="card" style="width: 18rem;">
+                            <br>
                             <img src="https://i.ibb.co/TvzdRnT/depositphotos-7406445-stock-illustration-cartoon-vehicles-removebg-preview.png"   class="card mx-auto d-block" height="180" width="200">
                             <div class="card-body">
                                 <h5 class="card-title" align="center">Actividad medios de transporte</h5>
+                                <div class="card-body">
+                                    <div class="text-center">
                                 <a href=" {{ url('/actividadTransportes') }}" class="btn">Ver</a>
+                            </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                     <!-- tarjeta3 -->
                     <div class="col-md-4 pb-5 d-flex justify-content-center">
                         <div class="card" style="width: 18rem;">
+                            <br>
                             <img src="https://i.ibb.co/2nPTVQ7/716p-Et88i-L-AC-SY450-removebg-preview.png"   class="card mx-auto d-block" height="180" width="200">
                             <div class="card-body">
                                 <h5 class="card-title" align="center">Actividad abecedario</h5>
+                                <div class="card-body">
+                                    <div class="text-center">
                                 <a href=" {{ url('/actividadAbecedario') }}" class="btn">Ver</a>
+                            </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -189,11 +212,13 @@
                             <!-- tarjeta 1 -->
                             <div class="col-md-4 pb-5 d-flex justify-content-center" >
                                 <div class="card"  style="width: 18rem;" >
-
+<br>
                                     <img src="https://i.ibb.co/7gtRW7S/gran-coleccion-lapices-colores-estilo-dibujos-animados-ilustracion-sobre-fondo-blanco-257455-978-rem.png"   class="card mx-auto d-block" height="180" width="220">
                                     <div class="card-body">
                                         <h5 class="card-title" align="center">Actividad los colores</h5>
+                                        <div class="text-center">
                                         <a href=" {{ url('/actividadColores') }}" class="btn">Ver</a>
+                                    </div>
                                     </div>
                                 </div>
                             </div>
@@ -201,10 +226,13 @@
                             <!-- tarjeta2 -->
                             <div class="col-md-4 pb-5 d-flex justify-content-center">
                                 <div class="card" style="width: 18rem;">
+                                    <br>
                                     <img src="https://i.ibb.co/khf5MMG/mascot-illustration-featuring-numbers-1-260nw-413888401-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
                                     <div class="card-body">
                                         <h5 class="card-title" align="center">Actividad los numeros</h5>
+                                        <div class="text-center">
                                         <a href=" {{ url('/actividadnumeros') }}" class="btn">Ver</a>
+                                    </div>
                                     </div>
                                 </div>
                             </div>
@@ -212,10 +240,13 @@
                             <!-- tarjeta3-->
                             <div class="col-md-4 pb-5 d-flex justify-content-center">
                                 <div class="card" style="width: 18rem;">
+                                    <br>
                                     <img  class="card mx-auto d-block" src="https://i.ibb.co/hFn3G31/jop.jpg" height="180" width="200">
                                     <div class="card-body">
                                         <h5 class="card-title" align="center">Actividad miembros de la familia</h5>
+                                        <div class="text-center">
                                         <a href=" {{ url('/actividadMiembros') }}" class="btn">Ver</a>
+                                    </div>
                                     </div>
                                 </div>
                             </div>
@@ -227,11 +258,13 @@
                                     <!-- tarjeta 1 -->
                                     <div class="col-md-4 pb-5 d-flex justify-content-center" >
                                         <div class="card"  style="width: 18rem;" >
-
+<br>
                                             <img  class="card mx-auto d-block" src="https://i.ibb.co/M12q3jL/abcd.jpg" height="180" width="200">
                                             <div class="card-body">
                                                 <h5 class="card-title" align="center">Actividad partes del cuerpo</h5>
+                                                <div class="text-center">
                                                 <a href=" {{ url('/actividadParte') }}" class="btn">Ver</a>
+                                            </div>
                                             </div>
                                         </div>
                                     </div>
@@ -240,21 +273,27 @@
                                     <!-- tarjeta2 -->
                                     <div class="col-md-4 pb-5 d-flex justify-content-center">
                                         <div class="card" style="width: 18rem;">
+                                            <br>
                                             <img  class="card mx-auto d-block" src="https://i.ibb.co/zmjH3zL/ab.jpg" height="180" width="200">
                                             <div class="card-body">
                                                 <h5 class="card-title"  align="center">Actividad prendas de vestir</h5>
+                                                <div class="text-center">
                                                 <a href=" {{ url('/actividadPrendas') }}" class="btn">Ver</a>
+                                            </div>
                                             </div>
                                         </div>
                                     </div>
                                     <!-- tarjeta3 -->
                                     <div class="col-md-4 pb-5 d-flex justify-content-center">
                                         <div class="card" style="width: 18rem;">
+                                            <br>
                                             <img   class="card mx-auto d-block" src="https://i.ibb.co/TRppNHH/abc.jpg" height="180" width="200">
                                             <div class="card-body">
                                                 <h5 class="card-title" align="center">Actividad utiles escolares</h5>
+                                                <div class="text-center">
                                                 <a href=" {{ url('/actividadUtiles') }}" class="btn">Ver</a>
                                             </div>
+                                        </div>
                                         </div>
                                     </div>
 
@@ -264,11 +303,13 @@
                                             <!-- tarjeta 1 -->
                                             <div class="col-md-4 pb-5 d-flex justify-content-center" >
                                                 <div class="card"  style="width: 18rem;" >
-
+<br>
                                                     <img  class="card mx-auto d-block" src="https://i.ibb.co/12tCjbn/este-removebg-preview.png" alt="este-removebg-preview" height="180" width="200">
                                                     <div class="card-body">
                                                         <h5 class="card-title" align="center">Actividad Frutas y Verduras</h5>
+                                                        <div class="text-center">
                                                         <a href=" {{ url('/actividadFrutas') }}" class="btn">Ver</a>
+                                                    </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -277,20 +318,26 @@
                                             <!-- tarjeta2 -->
                                             <div class="col-md-4 pb-5 d-flex justify-content-center">
                                                 <div class="card" style="width: 18rem;">
+                                                    <br>
                                                     <img  class="card mx-auto d-block" src="https://i.ibb.co/y086rKk/unnamed-removebg-preview-5.png" height="180" width="200">
                                                     <div class="card-body">
                                                         <h5 class="card-title"  align="center">Actividad Emociones</h5>
+                                                        <div class="text-center">
                                                         <a href=" {{ url('/actividadesEmocion') }}" class="btn">Ver</a>
                                                     </div>
+                                                </div>
                                                 </div>
                                             </div>
                                             <!-- tarjeta3 -->
                                             <div class="col-md-4 pb-5 d-flex justify-content-center">
                                                 <div class="card" style="width: 18rem;">
+                                                    <br>
                                                     <img   class="card mx-auto d-block" src="https://i.ibb.co/pyyyvMQ/cas-removebg-preview.png" height="180" width="200">
                                                     <div class="card-body">
                                                         <h5 class="card-title" align="center">Actividad Partes de la Casa</h5>
+                                                        <div class="text-center">
                                                         <a href=" {{ url('/actividadPartesCasa') }}" class="btn">Ver</a>
+                                                    </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -300,11 +347,13 @@
                                                     <!-- tarjeta 1 -->
                                                     <div class="col-md-4" >
                                                         <div class="card"  style="width: 18rem;" >
-
+<br>
                                                             <img  class="card mx-auto d-block" src="https://i.ibb.co/vJkm4Gj/fig-removebg-preview.png" height="180" width="200">
                                                             <div class="card-body">
                                                                 <h5 class="card-title" align="center">Actividad Figuras Geométricas</h5>
+                                                                <div class="text-center">
                                                                 <a href=" {{ url('/actividadFi') }}" class="btn">Ver</a>
+                                                            </div>
                                                             </div>
                                                         </div>
                                                     </div>
