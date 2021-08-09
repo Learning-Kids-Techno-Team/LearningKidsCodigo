@@ -98,9 +98,9 @@
 
 
 
-    <div class="row " >
-        <div class="col-md-4 pb-3" >
-            <div class="card mx-auto d-block" style="width: 20rem;">
+    <div class="row mt-5" >
+        <div class="col-md-4 pb-3 " >
+            <div class="card mx-auto d-block" style="width: 20rem; height: 580px">
 
                 <img class=" mx-auto d-block"   src="https://i.ibb.co/PmMjPt5/png-transparent-template-information-mobile-phone-cartoon-material-business-holding-a-mobile-phone-g.png"   width="300" height="220">
                 <h3 class="mx-auto d-block"><em>Teléfono móvil</em></h3>
@@ -113,7 +113,7 @@
         <div class="col-md-4 pb-3">
 
 
-            <div class="card mx-auto d-block" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem; height: 580px">
 
                 <img class="mx-auto d-block"   src="https://image.freepik.com/vector-gratis/ordenador-portatil_53876-43921.jpg" width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Portátil y ordenador de mesa </em></h3>
@@ -123,7 +123,7 @@
         </div>
         <div class="col-md-4 pb-3">
 
-            <div class="card mx-auto d-block" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem; height: 580px">
                 <img class="mx-auto d-block" src="https://i.ibb.co/WfBjt8p/gratis-png-camara-de-dibujos-animados-fotografia-camara-de-dibujos-animados-removebg-preview.png"  width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Cámara inalámbrica</em></h3>
                 <p style="text-align: justify">Muy empleada tanto en tareas de vigilancia y seguridad como de videoportero para saber quién está llamando. Una cámara inalámbrica es accesible tanto desde un PC, una tablet o un smartphone de manera remota.
@@ -140,7 +140,7 @@
 
     <div class="row " >
         <div class="col-md-4 pb-3" >
-            <div class="card mx-auto d-block" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem; height: 580px">
 
                 <img class=" mx-auto d-block"  src="https://i.ibb.co/NY8Yvzx/tecnologias-inteligentes-robot-aspirador-piso-blanco-ilustracion-174496-151-removebg-preview.png"    width="300" height="220">
                 <h3 class="mx-auto d-block"><em>Robot aspirador de limpieza </em></h3>
@@ -152,7 +152,7 @@
         </div>
         <div class="col-md-4 pb-3">
 
-            <div class="card mx-auto d-block" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem; height: 580px">
                 <img class="mx-auto d-block"  src="https://i.ibb.co/pRv5h3T/consejos-trucos-comprar-robot-cocina-0-removebg-preview.png"   width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Robot de cocina </em></h3>
                 <p style="text-align: justify">El Internet de las cosas también llega a la cocina. Desde una tablet o el smartphone se puede tanto programar y realizar una comida como saber si falta algún ingrediente que añadir.<br><br><br>
@@ -162,7 +162,7 @@
         </div>
         <div class="col-md-4 pb-3">
 
-            <div class="card mx-auto d-block" style="width: 20rem;">
+            <div class="card mx-auto d-block" style="width: 20rem; height: 580px">
                 <img class="mx-auto d-block" src="https://i.ibb.co/dQXzTPd/51-Rj-Kw-Lo1-L-AC-SY355-removebg-preview.png"  width="300" height="220">
                 <h3 class="mx-auto d-block" id="color"><em>Enchufes en hogar inteligente</em></h3>
                 <p style="text-align: justify">Quizá uno de los objetos inteligentes más llamativos dentro de la domótica para quienes aún no están puestos en los dispositivos preparados para la Internet de las cosas. Estos aparatos permiten controlar a distancia o programar el uso de los enchufes para adaptarlos a nuestras necesidades. Desde apagar una tele en 15 minutos, o un ventilador o calefactor que deseemos mantener encendido durante un tiempo más.
