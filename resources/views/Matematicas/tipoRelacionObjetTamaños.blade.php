@@ -208,7 +208,7 @@
             </div>
         </div>
         <div class="col-xl-6 p-2">
-            <h2  class="text-center"><br>¡Igual que...!></h2>
+            <h2  class="text-center"><br>¡Igual que...!</h2>
             <br>
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>

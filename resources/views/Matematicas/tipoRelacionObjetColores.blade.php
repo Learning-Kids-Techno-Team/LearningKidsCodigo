@@ -298,13 +298,13 @@
 <div class="container-fluid  " ><h2 class="text-center"><br>¡Digo en voz alta los colores de cada objeto!</h2>
     <div class="row ">
         <div class="col-xl-3 p-3">
-            <br>
+
             <img class="mx-auto d-block" src="https://i.ibb.co/rQKvYxV/075-removebg-preview.png" width="180" >
         </div>
         <div class="col-xl-3 p-3">
-            <br><br><br><br>
+
             <img class="mx-auto d-block" src="https://i.ibb.co/V3BHWwp/720-removebg-preview.png"
-                 width="200" >
+                 width="200" height="180" >
         </div>
         <div class="col-xl-3 p-3">
             <img class="mx-auto d-block" src="https://i.ibb.co/kXdqWMN/nkj-removebg-preview.png"
@@ -312,7 +312,7 @@
         </div>
 
         <div class="col-xl-3 p-3">
-            <br>
+
             <img class="mx-auto d-block" src="https://i.ibb.co/VjHcqwJ/nub.jpg" width="200">
         </div>
 
