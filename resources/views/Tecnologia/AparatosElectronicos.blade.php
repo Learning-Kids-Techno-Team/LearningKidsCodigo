@@ -96,8 +96,9 @@
 
 
 
-
+    <div class="container-fluid " >
     <div class="row mt-5" >
+
         <div class="col-xl-4 pb-3 " >
             <div class="card mx-auto d-block" style="width: 20rem; height: 580px">
 
@@ -110,9 +111,8 @@
 
             </div>
         </div>
+
         <div class="col-xl-4 pb-3">
-
-
             <div class="card mx-auto d-block" style="width: 20rem; height: 580px">
 
                 <img class="mx-auto d-block"   src="https://image.freepik.com/vector-gratis/ordenador-portatil_53876-43921.jpg"
@@ -122,6 +122,7 @@
                 </p>
             </div>
         </div>
+
         <div class="col-xl-4 pb-3">
 
             <div class="card mx-auto d-block" style="width: 20rem; height: 580px">
@@ -137,7 +138,7 @@
     </div>
     </div>
 
-
+    <div class="container-fluid " >
     <div class="row " >
         <div class="col-xl-4 pb-3" >
             <div class="card mx-auto d-block" style="width: 20rem; height: 580px">
@@ -178,8 +179,9 @@
     </div>
 
 
-
+    <div class="container-fluid " >
  <div class="row " >
+
         <div class="col-xl-4 pb-3 " >
             <div class="card mx-auto d-block" style="width: 20rem;">
 
@@ -192,6 +194,7 @@
 
             </div>
         </div>
+
         <div class="col-xl-4 pb-3">
 
             <div class="card mx-auto d-block" style="width: 20rem;">
@@ -203,6 +206,7 @@
                 </p>
             </div>
         </div>
+
         <div class="col-xl-4 pb-3">
 
             <div class="card mx-auto d-block" style="width: 20rem;">
@@ -222,7 +226,7 @@
 
 
 
-
+    <div class="container-fluid " >
     <div class="row " >
         <div class="col-xl-4 pb-3" >
             <div class="card mx-auto d-block" style="width: 20rem;">
@@ -261,7 +265,7 @@
 
 
 
-
+    <div class="container-fluid " >
     <div class="row " >
         <div class="col-xl-4 pb-3" >
             <div class="card mx-auto d-block" style="width: 20rem;">
@@ -274,6 +278,7 @@
 
             </div>
         </div>
+
         <div class="col-xl-4 pb-3">
 
             <div class="card mx-auto d-block" style="width: 20rem;">
@@ -281,11 +286,10 @@
                 <h3 class="mx-auto d-block" id="color"><em>Localizador de llaves</em></h3>
                 <p style="text-align: justify">Uno de los dispositivos tecnológicos de la era digital que solo se valoran cuando se necesitan. Aunque en su caso no es uno de los objetos inteligentes que más destaque, nos puede salvar de más de un apuro. Resulta tan simple como parece, este aparato permite localizar con nuestro smartphone donde se encuentra el localizador – generalmente, llaves o cartera – mediante tecnología Bluetooth, GPS o WiFi.
 
-
-
                 </p>
             </div>
         </div>
+
         <div class="col-xl-4 pb-3">
 
             <div class="card mx-auto d-block" style="width: 20rem;">

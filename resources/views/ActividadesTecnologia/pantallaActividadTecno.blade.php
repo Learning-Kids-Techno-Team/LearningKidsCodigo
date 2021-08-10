@@ -102,7 +102,7 @@
 <!-- navbar -->
 @section('content')
     <!-- iamgen -->
-    <div class="container-fluid">
+    <div class="container-fluid ">
         <div class="row pb-5">
             <div class="col-md-12" style="background:  lightyellow" id="fondo" >
                 <img  src="https://i.ibb.co/1bTrwfM/acttec-removebg-preview.png" width="600" class=" mx-auto d-block"/>
@@ -121,10 +121,10 @@
 
 
     <div class="container-fluid">
-        <div class="row pt-5  "  style="background: lightyellow">
+        <div class="row pt-5"  style="background: lightyellow">
             <!-- tarjeta 1 -->
-            <div class="col-md-4 pb-5 d-flex justify-content-center" >
-                <div class="card"  style="width: 18rem;" >
+            <div class="col-md-4 pb-5 " >
+                <div class="card mx-auto d-block"  style="width: 18rem;" >
 
                     <img src="https://i.ibb.co/xFPk4kq/ct-removebg-preview.png" class="card mx-auto d-block" height="180" width="200">
                     <div class="card-body">
@@ -136,8 +136,8 @@
 
 
             <!-- tarjeta2 -->
-            <div class="col-md-4 pb-5 d-flex justify-content-center">
-                <div class="card" style="width: 18rem;">
+            <div class="col-md-4 pb-5">
+                <div class="card mx-auto d-block" style="width: 18rem;">
                     <img  src="https://i.ibb.co/Qd0dhbs/compu1.gif" class="card mx-auto d-block" height="170" width="210">
                     <div class="card-body">
                         <h5 class="card-title"  align="center">Actividad<br> Computadora y su dispositivos hardware</h5>
@@ -146,8 +146,8 @@
                 </div>
             </div>
             <!-- tarjeta3 -->
-            <div class="col-md-4 pb-5 d-flex justify-content-center">
-                <div class="card" style="width: 18rem;">
+            <div class="col-md-4 pb-5">
+                <div class="card mx-auto d-block" style="width: 18rem;">
                     <img src="https://i.ibb.co/JR3SSPH/sofw.png" class="card mx-auto d-block" height="180" width="200">
                     <div class="card-body">
                         <h5 class="card-title" align="center">Actividad<br> Computadora y sus dispositivos software</h5>
@@ -158,10 +158,10 @@
 
 
             <div class="container-fluid">
-                <div class="row pt-5  "  style="background: lightyellow ">
+                <div class="row"  style="background: lightyellow ">
                     <!-- tarjeta 1 -->
-                    <div class="col-md-4 pb-5 d-flex justify-content-center" >
-                        <div class="card"  style="width: 18rem;" >
+                    <div class="col-md-4 pb-5" >
+                        <div class="card mx-auto d-block"  style="width: 18rem;" >
 
                             <img src="https://i.ibb.co/t2TZJf5/unnamed-3-removebg-preview-1.png" class="card mx-auto d-block" height="180" width="200">
                             <div class="card-body">
@@ -172,8 +172,8 @@
                     </div>
 
                     <!-- tarjeta2 -->
-                    <div class="col-md-4 pb-5 d-flex justify-content-center">
-                        <div class="card" style="width: 18rem;">
+                    <div class="col-md-4 pb-5">
+                        <div class="card mx-auto d-block" style="width: 18rem;">
                             <img src="https://i.ibb.co/xF9st8C/wi.jpg" class="card mx-auto d-block" height="180" width="200">
                             <div class="card-body">
                                 <h5 class="card-title" align="center">Actividad Ventana de windows</h5>
@@ -182,8 +182,8 @@
                         </div>
                     </div>
                     <!-- tarjeta3 -->
-                    <div class="col-md-4 pb-5 d-flex justify-content-center">
-                        <div class="card" style="width: 18rem;">
+                    <div class="col-md-4 pb-5">
+                        <div class="card mx-auto d-block" style="width: 18rem;">
                             <img src="https://i.ibb.co/8YtV29Y/act3-removebg-preview.png"  class="card mx-auto d-block" height="180" width="200">
                             <div class="card-body">
                                 <h5 class="card-title" align="center">Actividad<br> Funciones del mouse </h5>
@@ -195,10 +195,10 @@
                 </div>
             </div>
             <div class="container-fluid">
-                <div class="row pt-5  "  style="background: lightyellow">
+                <div class="row"  style="background: lightyellow">
                     <!-- tarjeta 1 -->
-                    <div class="col-md-6 pb-5 d-flex justify-content-center" >
-                        <div class="card"  style="width: 18rem;" >
+                    <div class="col-md-6 pb-5" >
+                        <div class="card mx-auto d-block"  style="width: 18rem;" >
 
                             <img src="https://i.ibb.co/cQJzgmw/Barra-de-tareas.jpg" class="card mx-auto d-block" height="180" width="200">
                             <div class="card-body">
@@ -209,8 +209,8 @@
                     </div>
 
                     <!-- tarjeta2 -->
-                    <div class="col-md-6 pb-5 d-flex justify-content-center">
-                        <div class="card" style="width: 18rem;">
+                    <div class="col-md-6 pb-5 ">
+                        <div class="card mx-auto d-block"  style="width: 18rem;">
                             <img  src="https://i.ibb.co/gRQRpLP/activ-removebg-preview-1.png"  class="card mx-auto d-block" height="180" width="200">
                             <div class="card-body">
                                 <h5 class="card-title" align="center">Actividad Aparatos electrónicos </h5>
