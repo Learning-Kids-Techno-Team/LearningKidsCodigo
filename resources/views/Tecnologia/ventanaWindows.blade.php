@@ -127,7 +127,7 @@
                     <div class="col-md-7  " style="background: #fff6af ">
 
                         <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/jMmVMF5/com-removebg-preview.png"
-                             width="500">
+                             width="380">
                     </div>
                     <div class="col-xl-5" style=" background:#fff6af"  >
                         <br>
@@ -158,7 +158,7 @@
     <div class="container-fluid">
         <div class="row m-3">
             <div class="col-md-12 pb-5">
-                    <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/Gx5ZBdM/otr.png">
+                    <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/Gx5ZBdM/otr.png" width="430">
                 </div>
             <div class="col-md-12 pb-5">
                 <h2>El escritorio de Windows</h2>
@@ -179,7 +179,7 @@
                 </p>
                 </div>
                 <div class="col-md-6 pb-5">
-                    <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/9vjDxm2/iconos-escritorio.png" width="500">
+                    <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/9vjDxm2/iconos-escritorio.png" width="400">
                 </div>
                 <p>
                     A su vez, de manera predeterminada (ya que podemos moverla a cualquier lado de la pantalla), en la parte inferior
@@ -231,7 +231,7 @@
 
 
             <div class="col-md-12 pb-5">
-                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/2PHtHSS/explw.png">
+                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/2PHtHSS/explw.png" width="430">
             </div>
             <p >A continuación explicamos las distintas áreas que componen esta ventana:</p>
             <ol>
@@ -258,7 +258,7 @@
             </ol>
 
             <div class="col-md-6 pb-5">
-                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/rwHCCkN/carpet.jpg" width="550">
+                <img id="bord" class="mx-auto d-block" src="https://i.ibb.co/rwHCCkN/carpet.jpg" width="400">
             </div>
             <div class="col-md-6 pb-5">
                 <h2>El entorno:</h2>

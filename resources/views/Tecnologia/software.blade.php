@@ -70,7 +70,7 @@
 
                         <img class="mt-5 mx-auto d-block"
                              src="https://i.ibb.co/3sXtyq0/aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-removebg-preview.png"
-                             width="465"  >
+                             width="380"  >
                     </div>
                     <div class="col-xl-5 " style=" background: #98dfb6"  >
                         <br>
@@ -115,7 +115,7 @@
 
             </div>
             <div class="col-xl-6 pb-5">
-                <img alt="Bootstrap Image Preview" src="https://i.ibb.co/LQbTDKG/best-operative-system-eve-removebg-preview.png" width="520"/>
+                <img alt="Bootstrap Image Preview" src="https://i.ibb.co/LQbTDKG/best-operative-system-eve-removebg-preview.png" width="420"/>
 
             </div>
         </div>

@@ -14,7 +14,7 @@
 
             width: 100%;
             height: 100px;
-            margin-left: 0px;
+
             border-top-left-radius: 50%;
             border-top-right-radius:50%;
             background:  #C5FFA0;
@@ -74,7 +74,7 @@
                         <img class="mt-5 mx-auto d-block"
 
                              src="https://i.ibb.co/7kFQK40/los-artilugios-electr-nicos-vector-dispositivos-de-las-multimedias-la-electr-nica-pc-tecnolog-a-icon.png"
-                             width="280"  >
+                             width="300"  >
                     </div>
                     <div class="col-xl-5   " style=" background: #98dfb6"  >
                         <br>
@@ -102,7 +102,7 @@
         <div class="col-md-4 pb-3 " >
             <div class="card mx-auto d-block" style="width: 20rem; height: 580px">
 
-                <img class=" mx-auto d-block"   src="https://i.ibb.co/PmMjPt5/png-transparent-template-information-mobile-phone-cartoon-material-business-holding-a-mobile-phone-g.png"   width="300" height="220">
+                <img class=" mx-auto d-block"   src="https://i.ibb.co/PmMjPt5/png-transparent-template-information-mobile-phone-cartoon-material-business-holding-a-mobile-phone-g.png"   width="250" height="220">
                 <h3 class="mx-auto d-block"><em>Teléfono móvil</em></h3>
                 <p style="text-align: justify">Fáciles de llevar a cualquier lado, y con la posibilidad tanto de usar datos propios como aprovechar la conexión WiFi. Además de permitir estar siempre localizable, los smartphones son uno de los dispositivos electrónicos más utilizados como plataformas de juegos gracias al gran número de apps disponibles.
                 </p>

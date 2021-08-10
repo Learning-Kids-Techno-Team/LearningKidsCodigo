@@ -83,10 +83,11 @@
 <!-- contenedor del concept-->
 <div class="container-fluid " >
     <div class="row" >
-        <div class="col-xl-12" >
-            <div class="row"  >
-                <div class="col-xl-6" >
-                    <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/Xx7yjLV/ae-removebg-preview.png"   width="445" height="380" >
+        <div class="col-md-12" >
+            <div class="row ml-5 mr-5"  >
+                <div class="col-md-6" >
+
+                    <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/Xx7yjLV/ae-removebg-preview.png"   width="380" height="380" >
                 </div>
                 <div class="col-xl-6  mt-5" style=" background:  #C5FFA0" id="borde">
 

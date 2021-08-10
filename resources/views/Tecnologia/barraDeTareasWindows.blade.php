@@ -108,7 +108,7 @@
             <div class="col-md-12" style="background:#206B99">
                 <div class="row ml-5 mr-5">
                     <div class="col-md-7  mt-5" style="background: #CCDDCC">
-                        <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/hdGhBhk/11-removebg-preview.png"    width="500"  >
+                        <img class="mt-5 mx-auto d-block"  src="https://i.ibb.co/hdGhBhk/11-removebg-preview.png"    width="380"  >
                     </div>
 
                     <div class="col-xl-5  mt-5 " style=" background: #91D5FF"  >
