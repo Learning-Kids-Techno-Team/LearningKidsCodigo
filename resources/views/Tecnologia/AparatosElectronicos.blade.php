@@ -136,8 +136,6 @@
     </div>
 
 
-
-
     <div class="row " >
         <div class="col-md-4 pb-3" >
             <div class="card mx-auto d-block" style="width: 20rem; height: 580px">
