@@ -164,10 +164,10 @@
     <!-- Separador-->
     <div id="separadorDePagina" class="container-fluid bg-warning" >
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-xl-4">
                 <img alt="Bootstrap Image Preview"  src="https://i.ibb.co/BsZbtb6/tigatelu151000413-removebg-preview.png"  height="300" class="mx-auto d-block pt-1 pb-3"/>
             </div>
-            <div class="col-md-4">
+            <div class="col-xl-4">
                 <p style="text-align: center"><strong><br>
                     Es una forma divertida y gratuita para que tus hijos aprendan,
                     refuercen y/o desarrollen hábilidades sobre cuatro materias básicas
@@ -181,7 +181,7 @@
                     </strong></p><br>
 
             </div>
-            <div class="col-md-4">
+            <div class="col-xl-4">
                 <img alt="Bootstrap Image Preview"  src="https://i.ibb.co/Xbj7nKj/tigatelu151000415-removebg-preview.png" height="300" class="mx-auto d-block pt-1 pb-4"/>
             </div>
         </div>

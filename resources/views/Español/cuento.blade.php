@@ -128,7 +128,7 @@
                         Introducción: Parte principal donde se presenta los personajes y sus propositos.<br>
                         Nudo: Se presenta el conflicto o el problema de la historia; aquí suceden los hechos
                         mas importantes.<br>
-                        Desenlace:Es la parte donde da la solución al problema y donde finaliza la narración.
+                        Desenlace: Es la parte donde da la solución al problema y donde finaliza la narración.
                     </em></strong> </p>
         </div>
     </div>

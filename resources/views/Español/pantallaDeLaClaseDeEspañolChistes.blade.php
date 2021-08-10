@@ -115,7 +115,7 @@
 <div class="container-fluid">
 <div class="row"  style="background: #bce0ee" >
     <!-- tarjeta1 -->
-    <div class="col-xl-3 pb-4 pt-5 ">
+    <div class="col-xl-3 pb-4">
         <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/0n1bJXt/doc3.jpg" alt="doc3" class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
@@ -133,7 +133,7 @@
         </div>
     </div>
     <!-- tarjeta2 -->
-    <div class="col-xl-3 pb-4 pt-5">
+    <div class="col-xl-3 pb-4">
         <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/h8Q1q6D/doc5.jpg" alt="doc5"  class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
@@ -149,7 +149,7 @@
         </div>
     </div>
     <!-- tarjeta3 -->
-    <div class="col-xl-3 pb-4 pt-5">
+    <div class="col-xl-3 pb-4">
         <div class="card mx-auto d-block" style="width: 18rem;">
             <img   src="https://i.ibb.co/Np55gL8/doc6.jpg" alt="doc6"  class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">
@@ -162,7 +162,7 @@
         </div>
     </div>
     <!-- tarjeta4 -->
-    <div class="col-xl-3 pb-4 pt-5">
+    <div class="col-xl-3 pb-4">
         <div class="card mx-auto d-block" style="width: 18rem;">
             <img src="https://i.ibb.co/VDNrYGk/doc4-removebg-preview.png"  class="card mx-auto d-block"   height="150" width="200">
             <div class="card-body">

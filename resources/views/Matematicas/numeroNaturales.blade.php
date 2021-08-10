@@ -132,9 +132,9 @@
         </div>
     </div>
 </div>
-<div class="container-fluid pb-3"  >
+<div class="container-fluid"  >
     <div class="row" >
-        <div class="col-xl-12 pb-3">
+        <div class="col-xl-12 pb-5">
             <h1 class="text-center" >Aprendamos Contando</h1>
 
         </div>
@@ -179,7 +179,7 @@
 
     </div>
     </div>
-<br>
+
 <div class="container-fluid " >
     <div class="row">
         <div class="col-xl-6 pb-5">
@@ -217,7 +217,7 @@
         </div>
     </div>
 </div>
-<br>
+
 <div class="container-fluid" >
     <div class="row">
         <div class="col-xl-6 pb-5">
@@ -255,7 +255,7 @@
         </div>
     </div>
 </div>
-<br>
+
 
 <div class="container-fluid" >
     <div class="row" >
@@ -293,7 +293,7 @@
         </div>
     </div>
 </div>
-<br>
+
 <div class="container-fluid" >
     <div class="row" >
         <div class="col-xl-6 pb-5">

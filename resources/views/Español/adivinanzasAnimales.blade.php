@@ -143,7 +143,7 @@
 @section('content')
 
 <!-- contenedor-->
-<div class="container-fluid" >
+<div class="container-fluid " >
     <div class="row ">
         <div class="col-md-4"><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/s5yCnjB/99528630-removebg-preview-1.png" width="250" />
@@ -161,7 +161,7 @@
 
 
 <!-- contenedor de las tarjetas -->
-<div class="container-fluid  " >
+<div class="container-fluid d-flex justify-content-center " >
     <div  class="row " >
         <div class="col-xl-4 p-5">
 
@@ -213,7 +213,7 @@
 </div>
 
 <!-- contenedor 2 -->
-<div class="container-fluid   " >
+<div class="container-fluid  d-flex justify-content-center " >
     <div class="row " >
         <div class="col-xl-4 p-5">
             <!-- tarjeta 1 -->
@@ -262,7 +262,7 @@
 </div>
 
 <!-- contenedor3 -->
-<div class="container-fluid " >
+<div class="container-fluid d-flex justify-content-center" >
     <div class="row" >
         <div class="col-xl-4 p-5">
             <!-- tarjeta 7 -->
