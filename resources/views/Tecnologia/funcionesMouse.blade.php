@@ -71,8 +71,8 @@
         .card {
             background: mediumspringgreen;
 
-            height: 398px;
-            width: 450px;
+            height: 280px;
+            width: 280px;
             margin: 0 auto;
             box-shadow: 0px 15px 50px 10px rgba(100, 45, 200, 100);
             margin-top: 5%;
@@ -82,8 +82,8 @@
 
         .left {
 
-            height: 395px;
-            width: 330px;
+            height: 250px;
+            width: 250px;
             display: flex;
             align-items: center;
             background-color: #FDFD96;
