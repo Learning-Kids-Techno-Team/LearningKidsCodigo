@@ -27,11 +27,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 17 Sindy Galindo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Ciencias Sociales/aereos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ciencias Sociales/aereos.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Tecnologia/AparatosElectronicos.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Tecnologia/AparatosElectronicos.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Tecnologia/barraDeTareasWindows.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Tecnologia/barraDeTareasWindows.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Tecnologia/software.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Tecnologia/software.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/Tecnologia/ventanaWindows.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Tecnologia/ventanaWindows.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Actividades/figuraActividad.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Actividades/figuraActividad.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetColores.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetColores.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetTamaños.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Matematicas/tipoRelacionObjetTamaños.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +230,6 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-      <workItem from="1628632841015" duration="2260000" />
     </task>
     <task id="LOCAL-00037" summary="Sprint 8 Daniela Mazzoni">
       <created>1615065354104</created>
