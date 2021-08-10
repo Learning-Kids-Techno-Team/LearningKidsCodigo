@@ -88,33 +88,42 @@
 
 
 <!-- contenedor images otoño, primaver-->
-<div class="container-fluid pb-5" id="color"><h2 style="text-align: center"><em><br>¡Encuentra diferencias entre las ilustraciones!</em></h2>
-    <h3><em>¡Repito en voz alta cual de las ilustraciones se
+<div class="container-fluid pb-5" id="color">
+    <div class="row">
+        <div class="col-xl-12">
+    <h2 style="text-align: center"><em><br>¡Encuentra diferencias entre las ilustraciones!</em></h2>
+    <h3 style="text-align: center"><em>¡Repito en voz alta cual de las ilustraciones se
             parece a estos días!</em></h3>
+</div>
+</div>
+</div>
 
+    <div class="container-fluid " id="color">
         <div class="row">
-            <div class="col-xl-6 mx-auto d-block pb-5">
+            <div class="col-xl-6 pb-5">
                 <h5  align="center">Otoño</h5>
                 <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/g4bRyJP/ninos.jpg"  width="400" height="300"/>
             </div>
-            <div class="col-mx-6 mx-auto d-block pb-5">
+            <div class="col-xl-6 pb-5">
                 <h5  align="center">Primavera</h5>
                 <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/MZVPjtW/este.jpg"  width="400" height="300"/>
             </div>
+
         </div>
 </div>
 
 <!-- contenedor images verano, invierno-->
 <div class="container-fluid " id="color">
         <div class="row ">
-            <div class="col-xl-6 mx-auto d-block">
+            <div class="col-xl-6 pb-5">
                 <h5  align="center">Verano</h5>
                 <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/F41J6c4/vera.jpg" width="400" height="300"/>
             </div>
-            <div class="col-xl-6 mx-auto d-block">
+            <div class="col-xl-6 pb-5">
                 <h5  align="center">Invierno</h5>
                 <img id="bor" class="rounded-circle mx-auto d-block" src="https://i.ibb.co/Z2j5fNd/ind.jpg" width="400" height="300"/>
             </div>
+
         </div>
 </div>
 
@@ -130,6 +139,7 @@
                         de una comunidad o región. Se producen cambios en las condiciones del clima que el hombre
                         no puede evitar.</em></h2>
             </div>
+
         </div>
     </div>
 </div>
