@@ -54,7 +54,7 @@
         h1{
 
             size: 80px;
-
+            font-style: italic;
 
         }
 
@@ -87,6 +87,10 @@
             text-align: center;
         }
 
+        h4{
+            font-style: italic;
+
+        }
 
 
     </style>
@@ -114,10 +118,10 @@
                     <img src="https://i.ibb.co/nDrDKVj/compu1-removebg-preview.png"  width="350" height="250"/>
                 </div>
                 <div class="col-md-8">
-                    <h3 class="text-center" id="color"><em><strong>Una computadora</strong> es una máquina electrónica usada para procesar la información
+                    <h3 class="text-center" id="color"><strong>Una computadora</strong> es una máquina electrónica usada para procesar la información
                             y podemos hacer un trabajo más amplio con las computadoras que apenas cálcular números e imprimir datos.
                             <br>Podemos: Navegar en internet, dibujar cuadros, escribimos notas, informes, e incluso <strong>nos comunicamos con otros
-                            usuarios de computadoras alrededor del mundo.</strong></em></h3>
+                            usuarios de computadoras alrededor del mundo.</strong></h3>
                 </div>
             </div>
         </div>
