@@ -91,7 +91,7 @@
 
 
 <!-- carrousel-->
-<div class="row">
+
     <!-- contenedor-->
     <div class="col-md-12">
         <div class="carousel slide" id="carousel-896190">
@@ -136,7 +136,6 @@
                 </div> <a class="carousel-control-prev" href="#carousel-896190" data-slide="prev"><span class="carousel-control-prev-icon"></span> <span class="sr-only">Previous</span></a> <a class="carousel-control-next" href="#carousel-896190" data-slide="next"><span class="carousel-control-next-icon"></span> <span class="sr-only">Next</span></a>
             </div>
         </div>
-    </div>
 
 
     <div class="container-fluid">
