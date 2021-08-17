@@ -34,16 +34,11 @@
 
         }
 
-        #pa{
-            text-align: justify;
-
-
-        }
 
 
         p{
             text-align: justify;
-            font-family: bold, Georgia;
+
 
         }
 
@@ -57,20 +52,20 @@
         }
 
         h1{
-            font-family: Brush Script MT;
+
             size: 80px;
 
         }
 
         #lt{
             color: #123c24 ;
-            font-family: bold;
+            font-style: italic;
             font-size: 30px;
         }
 
 
         h3{
-            font-family: bold;
+            font-style: italic;
             text-decoration-color: #18381a;
             text-align: center;
         }
@@ -78,7 +73,7 @@
         h2{
             text-align: center;
             color: #2a9055 ;
-            font-family: bold;
+            font-style: italic;
         }
 
 
@@ -86,7 +81,7 @@
             background: #C5FFA0;
         }
         h5{
-            font-family: bold;
+            font-style: italic;
             padding-top: 20px;
             text-align: center;
         }
