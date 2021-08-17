@@ -74,7 +74,7 @@
 <div class="container-fluid" id="color">
     <div class="row ">
         <div class="col-xl-4 p-3" >
-            <img class="mx-auto d-block" src="https://i.ibb.co/GnFWc8T/jhk-removebg-preview.png" width="250" />
+            <img class="mx-auto d-block" src="https://i.ibb.co/GnFWc8T/jhk-removebg-preview.png" width="300" />
 
         </div>
         <div class="col-xl-8 p-3">
@@ -92,12 +92,12 @@
     <div class="row">
         <div class="col-xl-6 p-3">
             <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1AT7B8YuaggSVKFIpg5gpiMOaTFHSDgUc/preview"
-                    width="350" ></iframe>
+                    width="450" height="300"></iframe>
             <h5 align="center"></h5>
         </div>
         <div class="col-xl-6 p-3">
             <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1GZPJQk2A3bjUbkI7u_LeCwth_SwbSCb7/preview"
-                    width="350" ></iframe>
+                    width="450" height="300" ></iframe>
             <h5 align="center"></h5>
         </div>
     </div>

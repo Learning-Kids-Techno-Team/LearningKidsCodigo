@@ -51,7 +51,7 @@
         }
 
         h1{
-            font-family: Brush Script MT;
+
             size: 80px;
 
         }
@@ -80,7 +80,7 @@
 
     </script>
 
-    <div class="container-fluid">
+    <div class="container-fluid d-flex justify-content-center">
         <div class="row">
             <div class="col-m-12" style="background: #16A085;">
                 <div >

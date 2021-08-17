@@ -84,7 +84,7 @@
             color: red;
         }
         h1{
-            font-family: Brush Script MT;
+
             size: 80px;
 
         }
@@ -117,9 +117,9 @@
 
 
     </script>
-<div class="container-fluid">
+<div class="container-fluid d-flex justify-content-center">
     <div class="row">
-        <div class="col-m-12">
+        <div class="col-m-12" >
             <div>
                 <h1 style="text-align: center">Actividad de Seres Vivos y no vivos </h1>
             </div>

@@ -75,7 +75,7 @@
 <div class="container-fluid" >
     <div class="row ">
         <div class="col-xl-4 p-2">
-            <img class="mx-auto d-block" src="https://i.ibb.co/SrpcJKJ/dib-removebg-preview-1.png" width="350" />
+            <img class="mx-auto d-block" src="https://i.ibb.co/SrpcJKJ/dib-removebg-preview-1.png" width="400" />
 
         </div>
         <div class="col-xl-8 p-2">
@@ -95,7 +95,7 @@
     <div class="row">
         <div class="col-xl-12 p-2" >
             <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1XQ_JQEh0f-LLLNQE6bkvR7YjHTj3tGad/preview"
-                    width="400" ></iframe>
+                    width="450" height="300" ></iframe>
             <h5 align="center"></h5>
         </div>
     </div>

@@ -107,7 +107,7 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item  active ">
-                        <img class="d-block w-100" src="https://uybdantealighierisf.org.ar/wp-content/uploads/2018/02/Ingles.jpg">
+                        <img class="d-block w-100" src="https://uybdantealighierisf.org.ar/wp-content/uploads/2018/02/Ingles.jpg"  height="550">
                         <div class="carousel-caption">
                             <h4 class=" mx-auto d-block">
 
@@ -118,7 +118,7 @@
                         </div>
                     </div>
                     <div class="carousel-item  ">
-                        <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://www.guiadelnino.com/var/guiadelnino.com/storage/images/educacion/aprender-a-leer-y-escribir/como-usar-las-letras-de-lija/7611279-4-esl-ES/como-usar-las-letras-de-lija_w1140.png" alt="carr" height="650">
+                        <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://www.guiadelnino.com/var/guiadelnino.com/storage/images/educacion/aprender-a-leer-y-escribir/como-usar-las-letras-de-lija/7611279-4-esl-ES/como-usar-las-letras-de-lija_w1140.png"  height="550">
                         <div class="carousel-caption">
                             <h4 class=" mx-auto d-block">
                             </h4>
@@ -128,7 +128,7 @@
                         </div>
                     </div>
                     <div class="carousel-item  ">
-                        <img class="d-block w-100" alt="Carousel Bootstrap Third" src="https://www.vedoque.com/blog/wp-content/uploads/2019/05/numeros-2Banimados.jpg">
+                        <img class="d-block w-100" alt="Carousel Bootstrap Third" src="https://www.vedoque.com/blog/wp-content/uploads/2019/05/numeros-2Banimados.jpg"  height="550">
                         <div class="carousel-caption">
                             <h4 class=" mx-auto d-block">
                             </h4>

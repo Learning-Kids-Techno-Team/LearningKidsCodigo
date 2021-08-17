@@ -102,7 +102,7 @@
     <div class="row ">
         <div class="col-xl-4 p-2">
             <img class="mx-auto d-block" src="https://i.ibb.co/XxhwJqD/Sin-t-tulo-removebg-preview.png"
-                 width="380"/>
+                 width="400"/>
         </div>
         <div class="col-xl-8 p-2">
             <h2><em><br></em></h2>
@@ -120,9 +120,9 @@
                     <br><em>¡Observo las ilustraciones!</em><br>
                 </h3>
             <img id="tar2" src="https://i.ibb.co/mSmZ4s0/20201015-222211.jpg" class=" mx-auto d-block"
-            width="400"/><br><br>
+            width="450"/><br><br>
             <img id="tar2" src="https://i.ibb.co/k3vN9Q2/20201015-222244.jpg" class=" mx-auto d-block"
-            width="400"/>
+            width="450"/>
         </div>
     </div>
 </div>
@@ -132,7 +132,7 @@
     <div class="row">
         <div class="col-xl-12 p-2">
             <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1vsgPjbFiy8z2aLMwl-cQYH-Joo-T0qu4/preview"
-                    width="400" ></iframe>
+                    width="450" height="300"></iframe>
             <h5 align="center"></h5>
         </div>
     </div>
@@ -162,7 +162,7 @@
         <h3 align="center">
             <br><em>¡¡Adivina quienes ganaron el PRIMERO, SEGUNDO, TERCERO y CUARTO lugar de la carrera!!</em><br><br>
         </h3>
-             <img id="tar2" src="https://i.ibb.co/drP8tfB/wild.jpg" width="400" class=" mx-auto d-block" />
+             <img id="tar2" src="https://i.ibb.co/drP8tfB/wild.jpg" width="450" height="250" class=" mx-auto d-block" />
         </div>
     </div>
 </div>

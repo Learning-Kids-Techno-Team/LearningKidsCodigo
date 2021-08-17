@@ -81,7 +81,7 @@
     <div class="row ">
         <div class="col-xl-4 p-2">
             <img class="mx-auto d-block" src="https://i.ibb.co/gz1sCPM/gu-removebg-preview.png"
-                 width="350" />
+                 width="400" />
 
         </div>
         <div class="col-xl-8 p-2">
@@ -115,7 +115,7 @@
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/kmJsKCR/gictor.jpg"
-                     width="200">
+                     width="300">
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Día!</h5>
                 </div>
@@ -126,7 +126,7 @@
             <div class="card mx-auto d-block" style="width: 20rem;">
                 <br>
                 <img id="tar3" class="mx-auto d-block" src="https://i.ibb.co/R0xPzDT/feliz.jpg"
-                     width="200">
+                     width="300">
                 <div class="card-body">
                     <h5 class="card-title" align="center">¡Noche!</h5>
                 </div>
@@ -140,7 +140,7 @@
         <div class="col-xl-12 p-2">
             <iframe id="tar2" class="mx-auto d-block"
                     src="https://drive.google.com/file/d/1B9A4Rhj97fkbaLbP9QnpMOp2vn3oHLf-/preview"
-                    width="350" ></iframe>
+                    width="450" height="300" ></iframe>
             <h5 align="center"></h5>
         </div>
     </div>
@@ -227,7 +227,7 @@
     <div class="row">
         <div class="col-xl-12 p-2">
             <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1U4eAkx77iCq_UOy6-StJp_JV_Rii7CTn/preview"
-                    width="300" ></iframe>
+                    width="450" height="300"></iframe>
             <h5 align="center"></h5>
         </div>
     </div>

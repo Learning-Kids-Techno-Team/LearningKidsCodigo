@@ -61,6 +61,8 @@
 
 <!-- carrousel-->
 
+
+
     <!-- contenedor-->
     <div class="col-md-12">
         <div class="carousel slide" id="carousel-896190">
@@ -74,7 +76,7 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100"   src="https://i.ibb.co/nRNrmXD/maxresdefault.jpg" height="600" >
+                    <img class="d-block w-100"   src="https://i.ibb.co/nRNrmXD/maxresdefault.jpg" height="550" >
                     <div class="carousel-caption">
                         <h4 class=" mx-auto d-block">
 
@@ -85,7 +87,7 @@
                     </div>
                 </div>
                 <div class="carousel-item ">
-                    <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://i.ibb.co/nz9ZDwX/dia-internacional-nino.jpg"  border="0">
+                    <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://i.ibb.co/nz9ZDwX/dia-internacional-nino.jpg" height="550">
                     <div class="carousel-caption">
                         <h4>
 
@@ -96,7 +98,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" alt="Carousel Bootstrap Third" src="https://i.ibb.co/GkT9yw9/vector-happy-children-playing-in-park.jpg"  height="600">
+                    <img class="d-block w-100" alt="Carousel Bootstrap Third" src="https://i.ibb.co/GkT9yw9/vector-happy-children-playing-in-park.jpg"  height="550">
                     <div class="carousel-caption">
                         <h4>
 

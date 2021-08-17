@@ -82,20 +82,20 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100"   src="https://i.ibb.co/khGYmKG/gusano1.jpg" height="400">
+                    <img class="d-block w-100"   src="https://i.ibb.co/khGYmKG/gusano1.jpg" height="500">
                     <div class="carousel-caption">
 
                     </div>
                 </div>
                 <div class="carousel-item ">
-                    <img class="d-block w-100"  src="https://i.ibb.co/C1bQcTG/unnamed.png" height="400" >
+                    <img class="d-block w-100"  src="https://i.ibb.co/C1bQcTG/unnamed.png" height="500" >
                     <div class="carousel-caption">
 
 
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100"  src="https://i.ibb.co/WtDPKf2/kids.jpg" height="400">
+                    <img class="d-block w-100"  src="https://i.ibb.co/WtDPKf2/kids.jpg" height="500">
                     <div class="carousel-caption">
 
                     </div>

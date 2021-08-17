@@ -83,7 +83,7 @@
             color: red;
         }
         h1{
-            font-family: Brush Script MT;
+
             size: 80px;
 
         }
@@ -112,61 +112,11 @@
 
 
 </script>
+@section('content')
 
-<div>
-    <nav class="navbar navbar-light navbar-expand-md shadow-sm " id="navbar">
-        <div class="container">
-
-            <a  class="navbar-brand"> <!-- href=" http://learningkidscodigo.test"-->
-
-                <img src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" width="110">
-                <!-- Laravel-->
-
-            </a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <!-- Left Side Of Navbar -->
-                <ul class="navbar-nav mr-auto">
-                </ul>
-                <!-- Right Side Of Navbar -->
-                <ul class="navbar-nav ml-auto">
-
-                    <!-- lista  de clases -->
-                    <li class="nav-item"><a class="nav-link active" aria-current="page" href="http://learningkidscodigo.test/home">Inicio</a></li>
-                    <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeEspañol">Español</a></li>
-                    <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaClaseMat">Matemáticas</a></li>
-                    <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeCienciasNaturales">Ciencias Naturales</a></li>
-                    <li class="nav-item"><a class="nav-link" href="http://learningkidscodigo.test/pantallaPrincipalDeLaClaseDeCienciasSociales">Ciencias Sociales</a></li>
-
-
-                    <!-- Authentication Links -->
-                    <li class="nav-item dropdown">
-                        <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
-                            Hector
-                        </a>
-
-                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="http://learningkidscodigo.test/logout"
-                               onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();">
-                                Cerrar sesión
-                            </a>
-
-                            <form id="logout-form" action="http://learningkidscodigo.test/logout" method="POST" class="d-none">
-                                <input type="hidden" name="_token" value="nlVhxPpqZgbtPFK9lQnEQOsmbDyj6drizGKoIEHe">                                </form>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </div>
-    </nav>
-
-    <div class="container-fluid">
+    <div class="container-fluid d-flex justify-content-center">
         <div class="row">
-            <div class="col-m-12" style="background: #dcfecb;">
+            <div class="col-m-12" >
                 <div >
                     <h1 style="text-align: center">Actividad Ciclo del agua</h1>
                 </div>
@@ -195,6 +145,6 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 </body>
 </html>
+@endsection
 
-</div>
 

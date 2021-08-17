@@ -78,19 +78,19 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block w-100" src="https://static.vecteezy.com/system/resources/previews/000/931/916/non_2x/cartoon-kids-with-a-frame-with-copy-space-vector.jpg" height="450">
+                    <img class="d-block w-100" src="https://static.vecteezy.com/system/resources/previews/000/931/916/non_2x/cartoon-kids-with-a-frame-with-copy-space-vector.jpg" height="550">
                     <div class="carousel-caption">
 
                     </div>
                 </div>
                 <div class="carousel-item ">
-                    <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://i.ibb.co/rv9B8tG/carr.jpg" height="450">
+                    <img class="d-block w-100" alt="Carousel Bootstrap Second" src="https://i.ibb.co/rv9B8tG/carr.jpg" height="550">
                     <div class="carousel-caption">
 
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block w-100" alt="Carousel Bootstrap Third" src="https://static.vecteezy.com/system/resources/previews/000/913/537/non_2x/little-students-playing-with-pencil-vector.jpg" height="450">
+                    <img class="d-block w-100" alt="Carousel Bootstrap Third" src="https://static.vecteezy.com/system/resources/previews/000/913/537/non_2x/little-students-playing-with-pencil-vector.jpg" height="550">
                     <div class="carousel-caption">
 
                     </div>

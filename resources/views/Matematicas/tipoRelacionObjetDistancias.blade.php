@@ -103,7 +103,7 @@
         <div class="col-xl-12" >
             <iframe id="tar2" class="mx-auto d-block"
                     src="https://drive.google.com/file/d/155ywlDNbd1g8unxIdqcDK9A0fUlA1znF/preview"
-                    width="400" ></iframe>
+                    width="450" height="300"></iframe>
             <h5 align="center"></h5>
         </div>
     </div>

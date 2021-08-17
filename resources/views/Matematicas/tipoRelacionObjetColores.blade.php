@@ -78,7 +78,7 @@
     <div class="row ">
         <div class="col-xl-4 p-3"><br><br>
             <img class="mx-auto d-block" src="https://i.ibb.co/GThF95x/kidstor-removebg-preview.png"
-                 width="300" />
+                 width="400" />
 
         </div>
         <div class="col-xl-8 p-3">
@@ -129,12 +129,12 @@
     <div class="row">
         <div class="col-xl-6 p-2">
             <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/1b6U7I7Y9SOEoXdrP02Grq5-OgH5Z2hji/preview"
-                    width="400"></iframe>
+                    width="450" height="300"></iframe>
             <h5 align="center"></h5>
         </div>
         <div class="col-xl-6 p-2">
             <iframe id="tar2" class="mx-auto d-block" src="https://drive.google.com/file/d/18MQBus63SOtENtkwnVOWpw-7aNHsQdVU/preview"
-                    width="400"></iframe>
+                    width="450" height="300"></iframe>
             <h5 align="center"></h5>
         </div>
     </div>

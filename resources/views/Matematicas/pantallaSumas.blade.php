@@ -142,7 +142,7 @@
 <!-- contenedor-->
 <div class="container-fluid">
     <div class="row">
-        <div class="col-xl-12 bg-info p-2">
+        <div class="col-xl-12 bg-info pb-4">
             <div class="row ml-5 mr-5 ">
                 <div class="col-md-7  mt-5 mx-auto d-block" style="background: MediumAquamarine">
                     <img class="mx-auto d-block" src="https://i.ibb.co/RTYhFcB/81-Vpg-Dox-AIL-removebg-preview.png"
@@ -165,10 +165,10 @@
 <br>
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-12 p-2">
+        <div class="col-xl-12 pb-4">
             <div class="card mx-auto d-block" style="width: 26rem;">
                 <iframe class="mx-auto d-block" src="https://drive.google.com/file/d/1vo9tPE33X-cjm7Ru4v5stR9OuVAThZXv/preview"
-                        width="400"></iframe>
+                        width="400" height="200"></iframe>
                 <div class="card-body" id="im">
                     <h5 class="card-title"> Explicación de la Suma </h5>
                 </div>
@@ -180,7 +180,7 @@
 <br>
 <div  class="container-fluid">
     <div class="row">
-        <div class="col-xl-12 bg-danger p-2">
+        <div class="col-xl-12 bg-danger pb-4">
             <h1 style="text-align: center">Partes de la suma</h1>
         </div>
     </div>
@@ -201,12 +201,12 @@
     <h3 class="text-justify">Sumando</h3>
     <div class="row">
 
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-4">
             <p id="pa" >El sumando es la parte inicial de la suma, Corresponde al primer número a sumar.
 
                 </p>
         </div>
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-4">
 
             <img class="mx-auto d-block" src="https://i.ibb.co/xzS80Jd/sumando6-removebg-preview.png"
                    width="300">
@@ -220,10 +220,10 @@
     <h3 class="mt-3">Sumando</h3>
     <div class="row">
 
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-4">
             <p id="pa" >Es aquel segundo ó varios número que serán adicionados o sumados  durante una operación de suma.</p>
         </div>
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-4">
             <img  class="mx-auto d-block" src="https://i.ibb.co/jLYbrwX/suma7-removebg-preview.png"
                  width="300">
         </div>
@@ -236,10 +236,10 @@
     <h3 class="mt-3">Suma o total</h3>
     <div class="row">
 
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-4">
             <p id="pa" >Es el resultado obtenido luego de sumar o adicionar. </p>
         </div>
-        <div class="col-xl-6 p-2">
+        <div class="col-xl-6 pb-4">
             <img class="mx-auto d-block" src="https://i.ibb.co/nLwkr3T/total-removebg-preview.png"
                  width="300">
         </div>
@@ -260,15 +260,15 @@
 
 <div class="container-fluid " >
     <div class="row " >
-        <div class="col-xl-6 pb-2">
-            <div class="card mx-auto d-block" style="width: 20rem;">
-                <img src="https://i.ibb.co/j3LqGWj/suma8.png" width="308" >
+        <div class="col-xl-6 pb-4">
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <img src="https://i.ibb.co/j3LqGWj/suma8.png" width="400"  height="400">
 
             </div>
         </div>
-        <div class="col-xl-6 pb-2">
-            <div class="card mx-auto d-block" style="width: 20rem;">
-                <img src="https://i.ibb.co/HNMfnnn/suma9.png" height="256" width="307">
+        <div class="col-xl-6 pb-4">
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <img src="https://i.ibb.co/HNMfnnn/suma9.png" width="400"  height="400">
             </div>
         </div>
     </div>
@@ -279,15 +279,15 @@
 
 <div class="container-fluid  " >
     <div class="row" >
-        <div class="col-xl-6 pb-2">
-            <div class="card mx-auto d-block"  style="width: 20rem;">
-                <img src="https://i.ibb.co/SnDV1MY/suma10.png" alt="suma10"  width="307" height="250">
+        <div class="col-xl-6 pb-4">
+            <div class="card mx-auto d-block"  style="width: 26rem;">
+                <img src="https://i.ibb.co/SnDV1MY/suma10.png" alt="suma10"  width="400"  height="400">
 
             </div>
         </div>
-        <div class="col-xl-6 pb-2">
-            <div class="card mx-auto d-block" style="width: 20rem;">
-                <img src="https://i.ibb.co/98PKt6G/suma11.png" alt="suma11" width="307" height="250">
+        <div class="col-xl-6 pb-4">
+            <div class="card mx-auto d-block" style="width: 26rem;">
+                <img src="https://i.ibb.co/98PKt6G/suma11.png" alt="suma11" width="400"  height="400">
             </div>
         </div>
     </div>
@@ -298,17 +298,17 @@
 
 <div class="container-fluid  " >
     <div class="row " >
-        <div class="col-xl-6 pb-2">
-            <div class="card mx-auto d-block" style="width: 20rem;">
+        <div class="col-xl-6 pb-4">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/51q7frF/suma12.png"
-                     alt="suma12"  width="307" height="250"  >
+                     alt="suma12"    width="400"  height="400">
 
             </div>
         </div>
-        <div class="col-xl-6 pb-2">
-            <div class="card mx-auto d-block" style="width: 20rem;">
+        <div class="col-xl-6 pb-4">
+            <div class="card mx-auto d-block" style="width: 26rem;">
                 <img class="mx-auto d-block" src="https://i.ibb.co/v3znyG5/tortugas2.png" alt="tortugas2"
-                     width="307" height="250">
+                     width="400"  height="400" >
             </div>
         </div>
     </div>
@@ -328,12 +328,11 @@
 
 <div class="container-fluid  " >
     <div  class="row " >
-        <div class="col-xl-4 pb-2">
+        <div class="col-xl-4 pb-4">
 
             <!-- tarjeta 1 -->
             <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/mSR6mRt/ul.png"  class="mx-auto d-block" width="274"
-                 height="250">
+                <img src="https://i.ibb.co/mSR6mRt/ul.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo1"></h6>
                 <div class="text-center">
@@ -343,9 +342,9 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-xl-4 pb-2">
+        <div class="col-xl-4 pb-4">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/gSm7CT4/sm.png" class="mx-auto d-block" width="274" height="250">
+                <img src="https://i.ibb.co/gSm7CT4/sm.png"  class="card-img-top" alt="..." >
                 <div class="card-body">
                     <h6 id="demo2"></h6>
                     <div class="text-center">
@@ -356,9 +355,9 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-xl-4 pb-2">
+        <div class="col-xl-4 pb-4">
             <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/zNTqSMk/3.png"  class="mx-auto d-block" width="274" height="250">
+                <img src="https://i.ibb.co/zNTqSMk/3.png"   class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo3"></h6>
                 <div class="text-center">
@@ -376,11 +375,11 @@
 
 <div class="container-fluid  " >
     <div  class="row " >
-        <div class="col-xl-4 pb-2">
+        <div class="col-xl-4 pb-4">
 
             <!-- tarjeta 1 -->
             <div id="tar1" class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/kxjxtFL/4.png" class="mx-auto d-block" width="274" height="250" >
+                <img src="https://i.ibb.co/kxjxtFL/4.png"  class="card-img-top" alt="..." >
                 <div class="card-body">
                     <h6 id="demo4"></h6>
                     <button class="btn btn-danger" onclick="resu4()">Resultado</button>
@@ -390,9 +389,9 @@
             </div>
         </div>
         <!-- tarjeta 2 -->
-        <div class="col-xl-4 pb-2">
+        <div class="col-xl-4 pb-4">
             <div id="tar2" class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/wQcvwLN/5.png" class="mx-auto d-block"  width="274" height="250">
+                <img src="https://i.ibb.co/wQcvwLN/5.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo5"></h6>
                     <div class="text-center">
@@ -403,9 +402,9 @@
             </div>
         </div>
         <!-- tarjetas3 -->
-        <div class="col-xl-4 pb-2">
+        <div class="col-xl-4 pb-4">
             <div id="tar3" class="card mx-auto d-block" style="width: 18rem;">
-                <img src="https://i.ibb.co/Y3yFBfz/ya.png"  class="mx-auto d-block" width="274" height="250">
+                <img src="https://i.ibb.co/Y3yFBfz/ya.png"  class="card-img-top" alt="...">
                 <div class="card-body">
                     <h6 id="demo6"></h6>
                     <div class="text-center">
