@@ -463,7 +463,7 @@
                             <br>de los meses en inglés con esta divertida canción. ¡Vamos a cantar!
                             <br>
                         </h2>
-                        <iframe id="bord" class="mx-auto d-block" src="https://drive.google.com/file/d/1eNnfhsj1j-rBD_f-58H7vJofyTb4Ao5h/preview" width="670" height="390"></iframe>
+                        <iframe id="bord" class="mx-auto d-block" src="https://drive.google.com/file/d/1eNnfhsj1j-rBD_f-58H7vJofyTb4Ao5h/preview" width="400" height="300"></iframe>
                     </div>
 
                 </div>

@@ -323,7 +323,7 @@
                     <br>de los días en inglés con esta divertida canción. ¡Vamos a cantar!
                     <br>
                 </h2>
-                <iframe id="bord" class="mx-auto d-block" src="https://drive.google.com/file/d/1YIGCenZnFDLYhgCUH8OiHyw2Y1NKDNEd/preview" width="670" height="390"></iframe>
+                <iframe id="bord" class="mx-auto d-block" src="https://drive.google.com/file/d/1YIGCenZnFDLYhgCUH8OiHyw2Y1NKDNEd/preview" width="400" height="300"></iframe>
             </div>
 
         </div>
