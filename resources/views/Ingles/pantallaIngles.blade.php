@@ -150,7 +150,7 @@
 
     <!-- titulo de las categorias-->
     <div style="color: #0a6ebd;">
-        <h1 style="text-align: center">Categorías de la clase de Ingles</h1>
+        <h1 style="text-align: center">Categorías de la clase de Inglés</h1>
     </div>
 
 
