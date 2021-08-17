@@ -31,7 +31,7 @@
         }
          h4{
              text-align: center;
-             font-family: bold;
+             font-style: italic;
          }
 
          h1{
@@ -70,16 +70,6 @@
             background: aquamarine;
 
         }
-
-
-
-
-
-
-
-
-
-
 
 
 
