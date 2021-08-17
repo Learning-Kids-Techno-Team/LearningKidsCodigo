@@ -43,7 +43,7 @@
 
         p{
             text-align: justify;
-            font-family: bold, Georgia;
+
 
         }
 
@@ -57,7 +57,7 @@
         }
 
         h1{
-            font-family: Brush Script MT;
+            font-style:italic;
             size: 80px;
 
         }
@@ -88,7 +88,7 @@
             background: aquamarine;
         }
         h5{
-            font-family: bold;
+            font-style:italic;
             padding-top: 20px;
             text-align: center;
         }
