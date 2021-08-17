@@ -116,7 +116,7 @@
             <div class="col-md-12" style="background: #d7f3e3">
                 <div class="row ml-5 mr-5">
                     <div class="col-md-7  mt-5" style="background: #FDFD96">
-                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/9yzGBk8/est-removebg-preview.png" width="450">
+                        <img class="mt-5 mx-auto d-block" src="https://i.ibb.co/9yzGBk8/est-removebg-preview.png" width="400">
                     </div>
                     <div class="col-xl-5  mt-5 " style=" background: lightyellow"  >
                         <h4  class="mt-5" style="color: #3B5686">Inglés</h4>
