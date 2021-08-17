@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,16 +16,15 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </select>
+    <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 17 Sindy Galindo" />
+    <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 17 Luz Bonilla">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2020_22_52__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/diasSemana.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/diasSemana.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Ingles/meses.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Ingles/meses.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,14 +43,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -236,12 +224,153 @@
       <workItem from="1619473664671" duration="292000" />
       <workItem from="1623375695266" duration="6514000" />
       <workItem from="1625767340468" duration="4161000" />
-      <workItem from="1628380424890" duration="2605000" />
-      <workItem from="1628383529205" duration="11569000" />
-      <workItem from="1628655157627" duration="308000" />
-      <workItem from="1629172234794" duration="7263000" />
-      <workItem from="1629226556943" duration="680000" />
-      <workItem from="1629236827168" duration="661000" />
+    </task>
+    <task id="LOCAL-00036" summary="Sprint 7 Daniela Mazzoni">
+      <created>1614024138008</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1614024138008</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Sprint 8 Daniela Mazzoni">
+      <created>1615065354104</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1615065354104</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Sprint 8 Daniela Mazzoni">
+      <created>1615076935015</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1615076935026</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Sprint 8 Daniela Mazzoni">
+      <created>1615230256452</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1615230256452</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Sprint 9 Daniela Mazzoni">
+      <created>1616369708170</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1616369708170</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Sprint 9 Daniela Mazzoni">
+      <created>1616369759874</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1616369759874</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Sprint 9 Daniela Mazzoni">
+      <created>1616369855669</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1616369855669</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Sprint 9 Daniela Mazzoni">
+      <created>1616377294588</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1616377294588</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Sprint 9 Hector Lopez">
+      <created>1616459086644</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1616459086644</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Sprint 9 Hector Lopez">
+      <created>1616462271459</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1616462271459</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Sprint 9 Hector Lopez">
+      <created>1616463170168</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1616463170168</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Sprint 10 Hector Lopez">
+      <created>1618190124068</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1618190124068</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Sprint 10 Hector Lopez">
+      <created>1618190531022</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1618190531022</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Sprint 10 Hector Lopez">
+      <created>1618195174976</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1618195174976</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Sprint 10 Hector Lopez">
+      <created>1618197443723</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1618197443725</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Sprint 10 Hector Lopez">
+      <created>1618197793251</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1618197793252</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Sprint 10 Hector Lopez">
+      <created>1618198095141</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1618198095141</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Sprint 10 Hector Lopez">
+      <created>1618198403708</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1618198403708</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Sprint 10 Hector Lopez">
+      <created>1618280022569</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1618280022570</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Sprint 10 Hector Lopez">
+      <created>1618280343662</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1618280343662</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Sprint 10 Hector Lopez">
+      <created>1618280846937</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1618280846937</updated>
     </task>
     <task id="LOCAL-00057" summary="Sprint 11 Luz Bonilla">
       <created>1618973254076</created>
@@ -397,196 +526,49 @@
       <option name="project" value="LOCAL" />
       <updated>1626233705256</updated>
     </task>
-    <task id="LOCAL-00079" summary="Sprint 15 Daniela Mazzoni">
-      <created>1626235744509</created>
+    <task id="LOCAL-00079" summary="Sprint 15 Sindy Galindo">
+      <created>1626250047780</created>
       <option name="number" value="00079" />
       <option name="presentableId" value="LOCAL-00079" />
       <option name="project" value="LOCAL" />
-      <updated>1626235744509</updated>
+      <updated>1626250047780</updated>
     </task>
-    <task id="LOCAL-00080" summary="Sprint 15 Daniela Mazzoni">
-      <created>1626236373017</created>
+    <task id="LOCAL-00080" summary="Sprint 15 Sindy Galindo">
+      <created>1626254214396</created>
       <option name="number" value="00080" />
       <option name="presentableId" value="LOCAL-00080" />
       <option name="project" value="LOCAL" />
-      <updated>1626236373017</updated>
+      <updated>1626254214396</updated>
     </task>
-    <task id="LOCAL-00081" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628288094855</created>
+    <task id="LOCAL-00081" summary="Sprint 17 Sindy Galindo">
+      <created>1628141905334</created>
       <option name="number" value="00081" />
       <option name="presentableId" value="LOCAL-00081" />
       <option name="project" value="LOCAL" />
-      <updated>1628288094856</updated>
+      <updated>1628141905337</updated>
     </task>
-    <task id="LOCAL-00082" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628291263591</created>
+    <task id="LOCAL-00082" summary="Sprint 17 Sindy Galindo">
+      <created>1628222983422</created>
       <option name="number" value="00082" />
       <option name="presentableId" value="LOCAL-00082" />
       <option name="project" value="LOCAL" />
-      <updated>1628291263591</updated>
+      <updated>1628222983422</updated>
     </task>
-    <task id="LOCAL-00083" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628293523450</created>
+    <task id="LOCAL-00083" summary="Sprint 17 Sindy Galindo">
+      <created>1628224952392</created>
       <option name="number" value="00083" />
       <option name="presentableId" value="LOCAL-00083" />
       <option name="project" value="LOCAL" />
-      <updated>1628293523450</updated>
+      <updated>1628224952392</updated>
     </task>
-    <task id="LOCAL-00084" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628299851419</created>
+    <task id="LOCAL-00084" summary="Sprint 17 Sindy Galindo">
+      <created>1628227171957</created>
       <option name="number" value="00084" />
       <option name="presentableId" value="LOCAL-00084" />
       <option name="project" value="LOCAL" />
-      <updated>1628299851419</updated>
+      <updated>1628227171957</updated>
     </task>
-    <task id="LOCAL-00085" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628300637372</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1628300637372</updated>
-    </task>
-    <task id="LOCAL-00086" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628302959625</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1628302959625</updated>
-    </task>
-    <task id="LOCAL-00087" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628384027253</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1628384027254</updated>
-    </task>
-    <task id="LOCAL-00088" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628390410816</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1628390410816</updated>
-    </task>
-    <task id="LOCAL-00089" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628391512176</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1628391512176</updated>
-    </task>
-    <task id="LOCAL-00090" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628391788249</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1628391788249</updated>
-    </task>
-    <task id="LOCAL-00091" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628393031465</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1628393031465</updated>
-    </task>
-    <task id="LOCAL-00092" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628394421438</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1628394421438</updated>
-    </task>
-    <task id="LOCAL-00093" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628394487177</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1628394487177</updated>
-    </task>
-    <task id="LOCAL-00094" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628394719659</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1628394719659</updated>
-    </task>
-    <task id="LOCAL-00095" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628394769744</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1628394769746</updated>
-    </task>
-    <task id="LOCAL-00096" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628394830649</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1628394830650</updated>
-    </task>
-    <task id="LOCAL-00097" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628394866749</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1628394866750</updated>
-    </task>
-    <task id="LOCAL-00098" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628394902548</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1628394902548</updated>
-    </task>
-    <task id="LOCAL-00099" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628394963964</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1628394963964</updated>
-    </task>
-    <task id="LOCAL-00100" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628395005956</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1628395005956</updated>
-    </task>
-    <task id="LOCAL-00101" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628395039077</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1628395039077</updated>
-    </task>
-    <task id="LOCAL-00102" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628395094070</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1628395094070</updated>
-    </task>
-    <task id="LOCAL-00103" summary="Sprint 16 Daniela Mazzoni">
-      <created>1628395128069</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1628395128069</updated>
-    </task>
-    <task id="LOCAL-00104" summary="Sprint 17 Sindy Galindo">
-      <created>1629226600798</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1629226600798</updated>
-    </task>
-    <task id="LOCAL-00105" summary="Sprint 17 Sindy Galindo">
-      <created>1629237388701</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1629237388701</updated>
-    </task>
-    <option name="localTasksCounter" value="106" />
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,6 +587,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Sprint1 Sindy" />
     <MESSAGE value="Sprint1 Daniela" />
     <MESSAGE value="Sprint2 Daniela" />
     <MESSAGE value="Sindy Sprint2" />
@@ -626,21 +609,9 @@
     <MESSAGE value="Sprint 11 Luz Bonilla" />
     <MESSAGE value="Sprint 13 Luz Bonilla" />
     <MESSAGE value="Sprint 13 Daniela Mazzoni" />
-    <MESSAGE value="Sprint 15 Sindy Galindo" />
     <MESSAGE value="Sprint 15 Daniela Mazzoni" />
-    <MESSAGE value="Sprint 16 Daniela Mazzoni" />
+    <MESSAGE value="Sprint 15 Sindy Galindo" />
     <MESSAGE value="Sprint 17 Sindy Galindo" />
     <option name="LAST_COMMIT_MESSAGE" value="Sprint 17 Sindy Galindo" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/resources/views/Ingles/profesiones.blade.php</url>
-          <line>149</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
