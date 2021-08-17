@@ -73,7 +73,7 @@
         h2{
             text-align: center;
             color: #3B5686;
-            font-family: bold;
+            font-style:italic;
         }
         #bor{
             border: oldlace 5px dashed;
