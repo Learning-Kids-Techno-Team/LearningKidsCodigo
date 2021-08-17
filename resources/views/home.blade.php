@@ -111,8 +111,7 @@
 
 <!--mensaje -->
 
-    <div class="row justify-content-center" style="background: #0b75c9; color: white">
-        <div class="col-xl-20"  >
+        <div class="col-xl-20"  style="background: #0b75c9; color: white; text-align: center">
             <div >
                 <div>
                     @if (session('status'))
@@ -124,14 +123,13 @@
                 </div>
             </div>
         </div>
-    </div>
 
     <!-- CARROUSEL-->
     <div class="carousel slide" id="mainSlider" data-ride="carousel">
 
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="https://i.ibb.co/GVMghJM/cartoon-children-playing-around-books-vector.jpg"  class="d-block w-100">
+                <img src="https://i.ibb.co/GVMghJM/cartoon-children-playing-around-books-vector.jpg"  class="d-block w-100" >
 
             </div>
 
