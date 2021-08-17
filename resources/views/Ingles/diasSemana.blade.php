@@ -69,6 +69,7 @@
         h4{
             text-decoration-color: #3B5686;
             text-align: center;
+            font-style:italic;
         }
         h2{
             text-align: center;
