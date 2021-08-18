@@ -29,7 +29,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c6fba0-7e38-45ed-85e2-7a4e1ea131ca" name="Default Changelist" comment="Sprint 17 Sindy Galindo">
-      <change beforePath="$PROJECT_DIR$/resources/views/Tecnologia/partesDeLaCompu.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Tecnologia/partesDeLaCompu.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/presentacion.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/presentacion.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,13 +248,6 @@
       <workItem from="1629172234794" duration="7263000" />
       <workItem from="1629226556943" duration="680000" />
       <workItem from="1629236827168" duration="661000" />
-    </task>
-    <task id="LOCAL-00059" summary="Sprint 11 Luz Bonilla">
-      <created>1619230967520</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1619230967520</updated>
     </task>
     <task id="LOCAL-00060" summary="Sprint 13 Luz Bonilla">
       <created>1625021313889</created>
@@ -588,7 +585,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629240364312</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="Sprint 17 Sindy Galindo">
+      <created>1629241126469</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1629241126469</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

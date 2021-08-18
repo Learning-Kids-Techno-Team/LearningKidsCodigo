@@ -473,7 +473,7 @@ Route::get('/',function (){
     return view('welcome');
 });
 
-Route::get('/presentacion',function (){
+Route::get('/acerca',function (){
     return view('presentacion');
 });
 

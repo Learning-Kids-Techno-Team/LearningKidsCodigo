@@ -1,3 +1,5 @@
+@extends('layouts.app')
+
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/html">
 <head>
@@ -22,38 +24,102 @@
 
     <style>
 
+
+
         body{
-            background: rgb(255,255,255);
-            background: url("https://i.ibb.co/xm0J45z/banderin-guirnalda28-1024x250-removebg-preview.png"), linear-gradient(0deg, rgba(255,255,255,1)0%,rgba(99,196,255,1)57%);
-            background-repeat: repeat-x;
-            background-size:50%;
-            margin-top: -20px;
+            background: url("https://i.ibb.co/xD7Xfy5/fon1.jpg");
+
+            background-repeat: no-repeat;
+            background-size: cover;
+
 
         }
+
+        h1{
+            text-align: center;
+            font-style:italic;
+           color: #3f1048;
+        }
+
+
+        h2{
+           text-align: center;
+            font-style:italic;
+            color: #3f1048;
+        }
+
+
+        p{
+            text-align: justify;
+            color: #3f1048;
+
+        }
+
 
         #color{
             color: black;
         }
 
-        .dropdown {
-
-            color: #1d2124;
-            font-size: 16px;
-            border: none;
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            border: #FDFD96 15px dotted;
+        .navbar{
+            background: #D4F0F0;
         }
 
-        .dropdown a:hover {background-color: #FDFD96 ;}
+        :root {
+
+            --heading-height: 100em;
+        }
 
 
-        .dropdown:hover .dropdown {display: block;}
-
-        li.dropdown:hover > ul.dropdown {
+        header::before {
+            content: "";
             display: block;
+            position: absolute;
+            left: 0;
+            bottom: 13em;
+            width: 100%;
+            height: calc(var(--heading-height) + 10em);
+            z-index: -1;
+            transform: skewY(-4.5deg);
+            background:
+                linear-gradient(rgb(0, 255, 127), rgba(0, 250, 154,0.7)),
+                no-repeat center, linear-gradient(#4e4376, #2b5876) ;
+            background-size: 150px auto;
+            border-bottom: 10px solid #AFDDD5;
         }
+
+
+        .card {
+            background: #CFEAE4;
+
+            height: 280px;
+            width: 280px;
+            margin: 0 auto;
+            box-shadow: 0px 15px 50px 10px rgba(100, 45, 200, 100);
+            margin-top: 5%;
+
+
+        }
+
+        .left {
+
+            height: 250px;
+            width: 250px;
+            display: flex;
+            align-items: center;
+            background-color: #AFDDD5;
+            border-radius: 0% 50% 50% 0%;
+
+            position: absolute;
+
+            z-index: 5;
+        }
+
+        .left img {
+            margin-left: -88px;
+            margin-top: 60px;
+        }
+
+
 
 
     </style>
@@ -61,46 +127,82 @@
 
 </head>
 <body >
+<!-- navbar-->
+@section('content')
 
-<!-- contenedor-->
-<div class="container-fluid" id="color">
-    <div class="row">
-        <div class="col-md-12"><br><br><br>
-            <img class="mx-auto d-block" src="https://i.ibb.co/ssT01Hv/1b45fd32-691c-4a6d-84e4-aa2b5e2c6833-200x200.png" width="200">
-        </div>
-
-    </div>
-</div>
-
-<!-- contenedor-->
-<div class="container-fluid" id="color">
-    <div class="row">
-        <div class="col-md-12">
-            <img class="mx-auto d-block" src="https://i.ibb.co/wN6FfnK/f65aec7c21fee225623fcbf8194a0508-removebg-preview.png"  ><br><br><br><br><br><br>
-        </div>
-    </div>
-</div>
-
-<!-- contenedor-->
-<div class="container-fluid d-flex justify-content-center" >
-    <div class="row" >
-        <div class="col-md-12" >
-<div  style="width: 40rem;">
-        <div class="dropdown">
-            <a class="btn btn-outline-light dropdown-toggle" type="button" id="dropdownMenu2"
-               data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                <h1 class="text-center" id="color"><strong>¡BIENVENIDO(A) A LEARNING KIDS!
-                    </strong></h1> <img src="https://i.ibb.co/SdyDYQS/icon.png">
-            </a>
-            <div class="dropdown-menu" aria-labelledby="dropdownMenu2">
-                <a  href="{{ url('/home') }}" class="dropdown-item" type="button">INGRESAR</a>
-
+    <!-- contenedor-->
+    <div class="container-fluid" >
+        <div class="row">
+            <div class="col-xl-12 pb-5">
+                <h1><br><br>Desarrolladores</h1>
             </div>
         </div>
     </div>
+
+
+    <!-- contenedor-->
+
+    <div class="container-fluid p-5">
+        <div class="row ml-2 ">
+            <div class="col-xl-6">
+                <h1 class="text-center">Daniela Zelaya</h1>
+                <div class="card">
+                    <div class="left">
+
+                        <img src="https://i.ibb.co/gb1mBXr/Apple-removebg-preview.png"
+                             width="400">
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-6 ">
+                <h1 class="text-center">Héctor López</h1>
+                <div class="card">
+                    <div class="left">
+                        <img src=""
+                             width="400">
+                    </div>
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+<!-- contenedor-->
+
+<div class="container-fluid p-5">
+    <div class="row ml-2 ">
+        <div class="col-xl-6">
+            <h1 class="text-center">Luz Bonilla</h1>
+            <div class="card">
+                <div class="left">
+
+                    <img src=""
+                        width="400">
+
+                </div>
+            </div>
+        </div>
+
+        <div class="col-xl-6 ">
+            <h1 class="text-center">Sindy Galindo</h1>
+            <div class="card">
+                <div class="left">
+                    <img src=""
+                        width="400">
+                </div>
+            </div>
+
+        </div>
+
+    </div>
 </div>
-</div>
-</div>
+
+
+
+<!-- contenedor-->
 
 
 
@@ -108,9 +210,9 @@
 <div class="container-fluid" id="color" >
     <div class="row" >
         <div class="col-md-12">
-            <h2 class="text-center"><em><br><br><br><br><br><br>¡Acerca de la página!</em></h2><br>
-            <p class="justify-content-center"><em><strong>Es una forma divertida y gratuita para que los niños aprendan, refuercen y/o desarrollen hábilidades
-                        sobre cuatro materias básicas (español, matemática, ciencias naturales y ciencias sociales). Todo el contenido
+            <h2><em><br><br><br><br><br><br>¡Acerca de la página!</em></h2><br>
+            <p ><em><strong>Es una forma divertida y gratuita para que los niños aprendan, refuercen y/o desarrollen hábilidades
+                        sobre seis materias básicas (español, matemática, ciencias naturales y ciencias sociales). Todo el contenido
                         acerca de educación básica preescolar recopilado en una sola plataforma con el objetivo de lograr una mayor facilitación
                         de enseñanza y aprendizaje para los niños. Este espacio es una herramienta útil para reforzar el conocimiento
                         no solo de nuestros pequeños sino tambien permite una mayor didáctica si eres educador o maestro; por ello que la
@@ -141,4 +243,5 @@
 
 </body>
 </html>
+@endsection
 

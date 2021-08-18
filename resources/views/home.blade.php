@@ -111,18 +111,6 @@
 
 <!--mensaje -->
 
-        <div class="col-xl-20"  style="background: #0b75c9; color: white; text-align: center">
-            <div >
-                <div>
-                    @if (session('status'))
-                        <div class="alert alert-success" role="alert">
-                            {{ session('status') }}
-                        </div>
-                    @endif
-                    {{ __('¡Has ingresado a Learning Kids!') }}
-                </div>
-            </div>
-        </div>
 
     <!-- CARROUSEL-->
     <div class="carousel slide" id="mainSlider" data-ride="carousel">
