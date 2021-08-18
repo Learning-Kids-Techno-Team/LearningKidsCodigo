@@ -83,7 +83,7 @@
             background:
                 linear-gradient(rgb(0, 255, 127), rgba(0, 250, 154,0.7)),
                 no-repeat center, linear-gradient(#4e4376, #2b5876) ;
-            background-size: 150px auto;
+            background-size: 250px auto;
             border-bottom: 10px solid #AFDDD5;
         }
 
@@ -91,8 +91,8 @@
         .card {
             background: #CFEAE4;
 
-            height: 280px;
-            width: 280px;
+            height: 450px;
+            width: 450px;
             margin: 0 auto;
             box-shadow: 0px 15px 50px 10px rgba(100, 45, 200, 100);
             margin-top: 5%;
@@ -102,8 +102,8 @@
 
         .left {
 
-            height: 250px;
-            width: 250px;
+            height: 300px;
+            width: 300px;
             display: flex;
             align-items: center;
             background-color: #AFDDD5;
@@ -115,8 +115,8 @@
         }
 
         .left img {
-            margin-left: -88px;
-            margin-top: 60px;
+            margin-left: -68px;
+            margin-top: 50px;
         }
 
 
@@ -134,7 +134,7 @@
     <div class="container-fluid" >
         <div class="row">
             <div class="col-xl-12 pb-5">
-                <h1><br><br>Desarrolladores</h1>
+                <h1><br><br>Desarrolladores:</h1>
             </div>
         </div>
     </div>
@@ -142,26 +142,26 @@
 
     <!-- contenedor-->
 
-    <div class="container-fluid p-5">
+    <div class="container-fluid p-4">
         <div class="row ml-2 ">
             <div class="col-xl-6">
-                <h1 class="text-center">Daniela Zelaya</h1>
+                <h1 class="text-center"><br>Daniela Zelaya</h1><br>
                 <div class="card">
                     <div class="left">
+                        <img src="https://i.ibb.co/MZSw8g4/DaniM.jpg"
 
-                        <img src="https://i.ibb.co/gb1mBXr/Apple-removebg-preview.png"
-                             width="400">
+                             width="400" height="400">
 
                     </div>
                 </div>
             </div>
 
             <div class="col-xl-6 ">
-                <h1 class="text-center">Héctor López</h1>
+                <h1 class="text-center"><br>Héctor López</h1><br>
                 <div class="card">
                     <div class="left">
-                        <img src=""
-                             width="400">
+                        <img src="https://i.ibb.co/CvmzTXw/HL.jpg"
+                             width="400" height="400">
                     </div>
                 </div>
 
@@ -175,23 +175,23 @@
 <div class="container-fluid p-5">
     <div class="row ml-2 ">
         <div class="col-xl-6">
-            <h1 class="text-center">Luz Bonilla</h1>
+            <h1 class="text-center"><br>Luz Bonilla</h1><br>
             <div class="card">
                 <div class="left">
 
-                    <img src=""
-                        width="400">
+                    <img src="https://i.ibb.co/m9jdhBS/Alee.jpg"
+                        width="400" height="400">
 
                 </div>
             </div>
         </div>
 
         <div class="col-xl-6 ">
-            <h1 class="text-center">Sindy Galindo</h1>
+            <h1 class="text-center"><br>Sindy Galindo</h1><br>
             <div class="card">
                 <div class="left">
-                    <img src=""
-                        width="400">
+                    <img src="https://i.ibb.co/Y2pd9Fc/pameG.jpg"
+                        width="400" height="400">
                 </div>
             </div>
 
